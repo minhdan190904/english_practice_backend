@@ -3,7 +3,6 @@ package com.minhdan.english_practice_backend.service;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.auth.oauth2.GoogleCredentials;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.core.io.Resource;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClient;
@@ -17,12 +16,19 @@ public class AiService {
 
     private final RestClient restClient;
     private final GoogleCredentials credentials;
-    private final String projectId = "gen-lang-client-0619494454";
-    private final String location = "us-central1";
+    private final String projectId;
+    private final String location;
 
-    public AiService(@Value("classpath:gcp-service-account.json") Resource gcpResource) throws Exception {
+    public AiService(
+            @Value("${gcp.config.path}") String gcpConfigPath,
+            @Value("${gcp.project-id}") String projectId,
+            @Value("${gcp.location:us-central1}") String location
+    ) throws Exception {
         this.restClient = RestClient.create();
-        try (InputStream is = gcpResource.getInputStream()) {
+        this.projectId = projectId;
+        this.location = location;
+
+        try (java.io.InputStream is = new java.io.FileInputStream(gcpConfigPath)) {
             this.credentials = GoogleCredentials.fromStream(is)
                     .createScoped(List.of("https://www.googleapis.com/auth/cloud-platform"));
         }
