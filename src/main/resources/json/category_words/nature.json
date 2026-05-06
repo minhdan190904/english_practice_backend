@@ -1,0 +1,3198 @@
+[
+  {
+    "word": "acre",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acr/acre_/acre__gb_1.mp3",
+    "phonetic_text": "/ˈeɪkə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acr/acre_/acre__us_1.mp3",
+    "phonetic_am_text": "/ˈeɪkər/",
+    "senses": [
+      {
+        "definition": "a unit for measuring an area of land; 4 840 square yards or about 4 050 square metres",
+        "examples": [
+          {
+            "cf": "",
+            "x": "3 000 acres of parkland"
+          },
+          {
+            "cf": "",
+            "x": "a three-acre wood"
+          },
+          {
+            "cf": "",
+            "x": "Each house has acres of space around it (= a lot of space)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "level": "B2",
+    "category": "nature",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ali/alien/alien__gb_2.mp3",
+    "phonetic_text": "/ˈeɪliən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/alien/alien__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈeɪliən/",
+    "senses": [
+      {
+        "definition": "strange and frightening; different from what you are used to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an alien environment"
+          },
+          {
+            "cf": "",
+            "x": "Why pick an area that's totally alien to you, with which you have no links at all?"
+          }
+        ]
+      },
+      {
+        "definition": "from another country or society; foreign",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an alien culture"
+          },
+          {
+            "cf": "",
+            "x": "alien influences that threatened their way of life"
+          }
+        ]
+      },
+      {
+        "definition": "not usual or acceptable",
+        "examples": [
+          {
+            "cf": "alien to somebody/something",
+            "x": "The idea is alien to our religion."
+          },
+          {
+            "cf": "",
+            "x": "A referendum is alien to the party’s concept of democracy."
+          },
+          {
+            "cf": "",
+            "x": "Cruelty was quite alien to him."
+          }
+        ]
+      },
+      {
+        "definition": "connected with creatures from another world",
+        "examples": [
+          {
+            "cf": "",
+            "x": "alien beings from outer space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "animal",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ani/anima/animal__gb_1.mp3",
+    "phonetic_text": "/ˈænɪml/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ani/anima/animal__us_1.mp3",
+    "phonetic_am_text": "/ˈænɪml/",
+    "senses": [
+      {
+        "definition": "a creature that is not a bird, a fish, a reptile, an insect or a human",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the animals and birds of South America"
+          },
+          {
+            "cf": "",
+            "x": "wild/farm animals"
+          },
+          {
+            "cf": "",
+            "x": "domestic animals such as dogs and cats"
+          },
+          {
+            "cf": "",
+            "x": "the export of live animals for slaughter"
+          },
+          {
+            "cf": "",
+            "x": "Fish oils are less saturated than animal fats."
+          }
+        ]
+      },
+      {
+        "definition": "any living thing that is not a plant or a human",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This product has not been tested on animals."
+          },
+          {
+            "cf": "",
+            "x": "The workers were treated like animals."
+          },
+          {
+            "cf": "",
+            "x": "In court he was banned from keeping animals."
+          },
+          {
+            "cf": "",
+            "x": "cruelty to animals"
+          },
+          {
+            "cf": "",
+            "x": "animal welfare/cruelty"
+          },
+          {
+            "cf": "",
+            "x": "the animal kingdom"
+          }
+        ]
+      },
+      {
+        "definition": "any living creature, including humans",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Humans are the only animals to have developed speech."
+          }
+        ]
+      },
+      {
+        "definition": "a person who behaves in a cruel or unpleasant way, or who is very dirty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The person who did this is an animal, a brute."
+          }
+        ]
+      },
+      {
+        "definition": "a particular type of person, thing, organization, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's not a political animal."
+          },
+          {
+            "cf": "",
+            "x": "The government that followed the election was a very different animal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "autumn",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autum/autumn__gb_2.mp3",
+    "phonetic_text": "/ˈɔːtəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autum/autumn__us_3.mp3",
+    "phonetic_am_text": "/ˈɔːtəm/",
+    "senses": [
+      {
+        "definition": "the season of the year between summer and winter, when leaves change colour and the weather becomes colder",
+        "examples": [
+          {
+            "cf": "in the autumn of something",
+            "x": "in the autumn of 2024"
+          },
+          {
+            "cf": "",
+            "x": "He is in the autumn of his career."
+          },
+          {
+            "cf": "",
+            "x": "in early/late autumn "
+          },
+          {
+            "cf": "",
+            "x": "the autumn term (= for example at a school or college in Britain)"
+          },
+          {
+            "cf": "",
+            "x": "autumn leaves/colours"
+          },
+          {
+            "cf": "",
+            "x": "It's been a very mild autumn this year."
+          },
+          {
+            "cf": "",
+            "x": "a crisp/chilly/wet/cool autumn"
+          },
+          {
+            "cf": "",
+            "x": "their autumn collection of dresses (= designed to be worn in autumn)"
+          },
+          {
+            "cf": "",
+            "x": "Demand always rises during the autumn and winter months."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "globe",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/glo/globe/globe__gb_3.mp3",
+    "phonetic_text": "/ɡləʊb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/globe/globe__us_1.mp3",
+    "phonetic_am_text": "/ɡləʊb/",
+    "senses": [
+      {
+        "definition": "the world (used especially to emphasize its size)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "tourists from every corner of the globe"
+          }
+        ]
+      },
+      {
+        "definition": "an object like a ball in shape with a map of the world on its surface, usually on a stand so that it can be turned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A dusty old globe stood in the corner of the schoolroom."
+          },
+          {
+            "cf": "",
+            "x": "Find Laos on the globe."
+          },
+          {
+            "cf": "",
+            "x": "On his desk was a globe and several maps."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is like a ball in shape",
+        "examples": []
+      },
+      {
+        "definition": "a light bulb (= the glass part that fits into an electric lamp, etc. to give light when it is switched on)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Halogen globes are being replaced with LEDs, which use 80 per cent less energy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grass/grass_1_gb_1.mp3",
+    "phonetic_text": "/ɡrɑːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grass/grass__us_1.mp3",
+    "phonetic_am_text": "/ɡræs/",
+    "senses": [
+      {
+        "definition": "a common wild plant with narrow green leaves and stems that are eaten by cows, horses, sheep, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a blade of grass"
+          },
+          {
+            "cf": "",
+            "x": "The dry grass caught fire."
+          }
+        ]
+      },
+      {
+        "definition": "any type of grass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "ornamental grasses"
+          }
+        ]
+      },
+      {
+        "definition": "an area of ground covered with grass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to cut/mow the grass"
+          },
+          {
+            "cf": "on the grass",
+            "x": "Don't walk on the grass."
+          },
+          {
+            "cf": "",
+            "x": "Keep off the grass. (= on a sign)"
+          },
+          {
+            "cf": "on grass",
+            "x": "He plays better on grass (= on a grass court, when playing tennis)."
+          }
+        ]
+      },
+      {
+        "definition": "marijuana",
+        "examples": []
+      },
+      {
+        "definition": "a person, usually a criminal, who tells the police about somebody’s criminal activities and plans",
+        "examples": []
+      },
+      {
+        "definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
+        "examples": []
+      },
+      {
+        "definition": "to reject something or treat it as not important; to stop dealing with a problem",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tends to deal with disputes by kicking them into the long grass."
+          }
+        ]
+      },
+      {
+        "definition": "to not delay in getting things done",
+        "examples": []
+      },
+      {
+        "definition": "to force somebody to stop doing their job, especially because they are old",
+        "examples": []
+      },
+      {
+        "definition": "a person who pretends to be your friend but who cannot be trusted",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I came to realize that he's just a snake in the grass."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ground",
+    "level": "A2",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/groun/ground__gb_2.mp3",
+    "phonetic_text": "/ɡraʊnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/groun/ground__us_2.mp3",
+    "phonetic_am_text": "/ɡraʊnd/",
+    "senses": [
+      {
+        "definition": "the solid surface of the earth",
+        "examples": [
+          {
+            "cf": "on the ground",
+            "x": "I found her lying on the ground."
+          },
+          {
+            "cf": "to the ground",
+            "x": "He fell to the ground, crying out in pain."
+          },
+          {
+            "cf": "above (the) ground",
+            "x": "The adult insects live above ground."
+          },
+          {
+            "cf": "",
+            "x": "The helicopter hovered a couple of hundred metres above the ground."
+          },
+          {
+            "cf": "below (the) ground",
+            "x": "The library has four levels below ground and seven above."
+          },
+          {
+            "cf": "",
+            "x": "Most of the monkey's food is found at ground level."
+          }
+        ]
+      },
+      {
+        "definition": "used to describe activities that take place on the ground, not in the air or at sea",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Ground forces were deployed in the area."
+          },
+          {
+            "cf": "",
+            "x": "the deployment of ground troops"
+          },
+          {
+            "cf": "",
+            "x": "a ground and air attack"
+          },
+          {
+            "cf": "on the ground",
+            "x": "He called for more troops on the ground."
+          }
+        ]
+      },
+      {
+        "definition": "an area of open land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The kids were playing on waste ground behind the school."
+          },
+          {
+            "cf": "",
+            "x": "We found a patch of open ground in the middle of the woods."
+          },
+          {
+            "cf": "",
+            "x": "There was a small patch of ground at the side of the cottage."
+          },
+          {
+            "cf": "",
+            "x": "They drove across miles of rough, stony ground."
+          }
+        ]
+      },
+      {
+        "definition": "an area of land that is used for a particular purpose, activity or sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a football/cricket ground"
+          },
+          {
+            "cf": "",
+            "x": "The atmosphere inside the ground was electric."
+          }
+        ]
+      },
+      {
+        "definition": "a large area of land or sea that is used for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "fishing grounds "
+          },
+          {
+            "cf": "",
+            "x": "feeding grounds for birds"
+          }
+        ]
+      },
+      {
+        "definition": "soil on the surface of the earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "fertile ground for planting crops"
+          },
+          {
+            "cf": "",
+            "x": "Prepare the ground before you plant anything."
+          },
+          {
+            "cf": "in/into the ground",
+            "x": "You can sow the seeds directly into the ground."
+          },
+          {
+            "cf": "",
+            "x": "The car got stuck in the muddy ground."
+          }
+        ]
+      },
+      {
+        "definition": "the land or gardens around a large building",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the hospital grounds"
+          },
+          {
+            "cf": "",
+            "x": "We had a guided tour of the house and grounds."
+          },
+          {
+            "cf": "",
+            "x": "The house has extensive grounds."
+          }
+        ]
+      },
+      {
+        "definition": "an area of interest, knowledge or ideas",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He managed to cover a lot of ground in a short talk."
+          },
+          {
+            "cf": "",
+            "x": "We had to go over the same ground (= talk about the same things again) in class the next day."
+          },
+          {
+            "cf": "on… ground",
+            "x": "I thought I was on safe ground (= not likely to offend or upset somebody) talking about music."
+          },
+          {
+            "cf": "",
+            "x": "You're on dangerous ground (= likely to offend or upset somebody) if you criticize his family."
+          },
+          {
+            "cf": "",
+            "x": "Legal scholars say the president is on shaky ground."
+          },
+          {
+            "cf": "",
+            "x": "He felt he was back on familiar ground."
+          },
+          {
+            "cf": "ground for something",
+            "x": "Paris in the 1920s was fertile ground for artistic experimentation."
+          }
+        ]
+      },
+      {
+        "definition": "a good or true reason for saying, doing or believing something",
+        "examples": [
+          {
+            "cf": "ground(s) for something",
+            "x": "You have no grounds for complaint."
+          },
+          {
+            "cf": "ground(s) for doing something",
+            "x": "What were his grounds for wanting a divorce?"
+          },
+          {
+            "cf": "ground(s) to do something",
+            "x": "There are reasonable grounds to believe that a crime has been committed."
+          },
+          {
+            "cf": "on the ground(s) that…",
+            "x": "The case was dismissed on the ground that there was insufficient evidence."
+          },
+          {
+            "cf": "on grounds of something ",
+            "x": "Employers cannot discriminate on grounds of age."
+          },
+          {
+            "cf": "on… grounds",
+            "x": "He retired early on health grounds."
+          },
+          {
+            "cf": "",
+            "x": "She was released on compassionate grounds."
+          },
+          {
+            "cf": "",
+            "x": "What are the grounds of appeal?"
+          },
+          {
+            "cf": "without grounds",
+            "x": "Their caution was not without grounds."
+          }
+        ]
+      },
+      {
+        "definition": "the small pieces of solid matter in a liquid that have fallen to the bottom",
+        "examples": [
+          {
+            "cf": "",
+            "x": "coffee grounds"
+          }
+        ]
+      },
+      {
+        "definition": "a wire that connects an electric circuit with the ground and makes it safe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't forget to connect the ground wire."
+          }
+        ]
+      },
+      {
+        "definition": "a background that a design is painted or printed on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pink roses on a white ground"
+          }
+        ]
+      },
+      {
+        "definition": "to be in a strong position in an argument, etc. because you know the facts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Everyone agreed with me, so I knew I was on firm ground."
+          },
+          {
+            "cf": "",
+            "x": "He is probably on solid ground when he says we need more training."
+          }
+        ]
+      },
+      {
+        "definition": "to start digging for a new building project",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They broke ground for the new highway this month."
+          }
+        ]
+      },
+      {
+        "definition": "to make a new discovery or do something that has not been done before",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her architectural designs have broken new ground."
+          },
+          {
+            "cf": "",
+            "x": "She broke ground by being the first Black woman to win the award."
+          }
+        ]
+      },
+      {
+        "definition": "to make a new discovery or do something that has not been done before",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her architectural designs have broken new ground."
+          }
+        ]
+      },
+      {
+        "definition": "to suddenly cause somebody’s idea or plan to fail by doing something to stop them from continuing with it",
+        "examples": []
+      },
+      {
+        "definition": "to fail to produce the result or the effect that you hope for; to have little success",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His charming smile fell on stony ground with her."
+          },
+          {
+            "cf": "",
+            "x": "The peace initiatives have already fallen on stony ground."
+          }
+        ]
+      },
+      {
+        "definition": "completely, or including everything, starting with the most basic things ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We need to rebuild the system from the ground up."
+          },
+          {
+            "cf": "",
+            "x": "He learned about the business from the ground up."
+          }
+        ]
+      },
+      {
+        "definition": "to become more powerful or successful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Sterling continues to gain ground against the dollar."
+          }
+        ]
+      },
+      {
+        "definition": "to gradually get closer to somebody/something that is moving or making progress in an activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police car was gaining ground on the suspects."
+          },
+          {
+            "cf": "",
+            "x": "They needed to make up ground on their competitors."
+          }
+        ]
+      },
+      {
+        "definition": "to start happening successfully; to make something start happening successfully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Without more money, the movie is unlikely to get off the ground."
+          },
+          {
+            "cf": "",
+            "x": "to get a new company off the ground"
+          },
+          {
+            "cf": "",
+            "x": "His plan is too costly to ever get off the ground."
+          }
+        ]
+      },
+      {
+        "definition": "to allow somebody/something to have an advantage; to lose an advantage for yourself",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They are not prepared to give ground on tax cuts."
+          },
+          {
+            "cf": "",
+            "x": "The Conservatives lost a lot of ground to the Liberal Democrats at the election."
+          }
+        ]
+      },
+      {
+        "definition": "to hide, especially to escape from somebody",
+        "examples": []
+      },
+      {
+        "definition": "to have a sensible and realistic attitude to life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In spite of his overnight stardom he still manages to keep his feet on the ground."
+          }
+        ]
+      },
+      {
+        "definition": "to start doing something and continue very quickly and successfully",
+        "examples": []
+      },
+      {
+        "definition": "to continue with your opinions or intentions when somebody is opposing you and wants you to change",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't let him persuade you—stand your ground."
+          },
+          {
+            "cf": "",
+            "x": "She held her ground in the debate."
+          }
+        ]
+      },
+      {
+        "definition": "to face a situation and refuse to run away",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is not easy to hold your ground in front of someone with a gun."
+          }
+        ]
+      },
+      {
+        "definition": "to make sure that you always find out about the most recent developments in a particular situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The agent had no suitable properties on his books but promised to keep an ear to the ground for us."
+          }
+        ]
+      },
+      {
+        "definition": "in the place where something is happening and among the people who are in the situation, especially a war",
+        "examples": [
+          {
+            "cf": "",
+            "x": "On the ground, there are hopes that the fighting will soon stop."
+          },
+          {
+            "cf": "",
+            "x": "There's a lot of support for the policy on the ground."
+          }
+        ]
+      },
+      {
+        "definition": "in a place that has no connection with either of the people or sides who are meeting and so does not give an advantage to either of them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We decided to meet on neutral ground."
+          }
+        ]
+      },
+      {
+        "definition": "in an area where somebody has a lot of power, knowledge or experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They are fighting the Conservatives on their own ground."
+          },
+          {
+            "cf": "",
+            "x": "When it comes to music I'm on my own ground."
+          }
+        ]
+      },
+      {
+        "definition": "to make it possible or easier for something to be achieved",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The committee will prepare the ground for next month's meeting."
+          },
+          {
+            "cf": "",
+            "x": "Early experiments with rockets prepared the ground for space travel."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody work so hard that they are no longer able to work; to use something so much that it is broken ",
+        "examples": []
+      },
+      {
+        "definition": "to work so hard that you become extremely tired",
+        "examples": []
+      },
+      {
+        "definition": "to change your opinion about a subject, especially during a discussion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Each time he seemed to be losing the argument, he just shifted his ground."
+          }
+        ]
+      },
+      {
+        "definition": "to be very convenient or acceptable for somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This job suits me down to the ground."
+          },
+          {
+            "cf": "",
+            "x": "Country life suits me down to the ground!"
+          }
+        ]
+      },
+      {
+        "definition": "to claim that your side of an argument is morally better than your opponents’ side; to argue in a way that makes your side seem morally better",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I was angry with his blatant attempt to take the moral high ground."
+          }
+        ]
+      },
+      {
+        "definition": "if people or things are thick/thin on the ground, there are a lot/not many of them in a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Customers are thin on the ground at this time of year."
+          },
+          {
+            "cf": "",
+            "x": "Security officers were thick on the ground during the King’s visit."
+          }
+        ]
+      },
+      {
+        "definition": "completely, so that there is nothing left",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hotel burned to the ground."
+          },
+          {
+            "cf": "",
+            "x": "The city was razed to the ground (= completely destroyed)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grow",
+    "level": "A1",
+    "category": "nature",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/grow_/grow__gb_2.mp3",
+    "phonetic_text": "/ɡrəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gro/grow_/grow__us_1.mp3",
+    "phonetic_am_text": "/ɡrəʊ/",
+    "senses": [
+      {
+        "definition": "to increase in size, number, strength or quality",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The sector is growing at a phenomenal rate."
+          },
+          {
+            "cf": "",
+            "x": "The performance improved as their confidence grew."
+          },
+          {
+            "cf": "",
+            "x": "Opposition to the latest proposals is growing steadily."
+          },
+          {
+            "cf": "",
+            "x": "The market is growing rapidly."
+          },
+          {
+            "cf": "",
+            "x": "Sales are growing fast."
+          },
+          {
+            "cf": "",
+            "x": "The business has grown exponentially over the past ten years."
+          },
+          {
+            "cf": "",
+            "x": "Fears are growing for the safety of a teenager who disappeared a week ago."
+          },
+          {
+            "cf": "grow by something",
+            "x": "The economy is growing by roughly 2 per cent a year."
+          },
+          {
+            "cf": "",
+            "x": "The company profits grew by 5 per cent last year."
+          },
+          {
+            "cf": "grow in something",
+            "x": "The family has grown in size recently."
+          },
+          {
+            "cf": "",
+            "x": "This approach is growing in popularity."
+          },
+          {
+            "cf": "",
+            "x": "She is growing in confidence all the time."
+          },
+          {
+            "cf": "grow from something",
+            "x": "Her media empire grew from quite small beginnings."
+          },
+          {
+            "cf": "grow to something",
+            "x": "That number will grow to two billion users in 2025."
+          },
+          {
+            "cf": "grow from something to something",
+            "x": "The city's population has grown from about 50 000 to over a million in 20 years."
+          },
+          {
+            "cf": "+ adj.",
+            "x": "to grow larger/stronger"
+          },
+          {
+            "cf": "",
+            "x": "The company is growing bigger all the time."
+          }
+        ]
+      },
+      {
+        "definition": "to become bigger or taller and develop into an adult",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You've grown since the last time I saw you!"
+          },
+          {
+            "cf": "",
+            "x": "The puppies grow quickly during the first six months."
+          },
+          {
+            "cf": "+ noun",
+            "x": "Nick's grown almost an inch in the last month."
+          },
+          {
+            "cf": "+ adj.",
+            "x": "to grow bigger/taller/older"
+          }
+        ]
+      },
+      {
+        "definition": "to exist and develop in a particular place; to make plants grow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The region is too dry for plants to grow."
+          },
+          {
+            "cf": "",
+            "x": "Tomatoes grow best in direct sunlight."
+          },
+          {
+            "cf": "grow to something",
+            "x": "These roses grow to a height of 6 feet."
+          },
+          {
+            "cf": "grow from something",
+            "x": "This is a tree that grows well from cuttings."
+          },
+          {
+            "cf": "grow something",
+            "x": "The land is used to grow crops."
+          },
+          {
+            "cf": "",
+            "x": "We need to grow our food more efficiently."
+          },
+          {
+            "cf": "",
+            "x": "I didn't know they grew rice in France."
+          },
+          {
+            "cf": "",
+            "x": "The plants were grown in controlled conditions."
+          },
+          {
+            "cf": "grow something from something",
+            "x": "I grew all these flowers from one packet of seeds."
+          }
+        ]
+      },
+      {
+        "definition": "to become longer; to allow something to become longer by not cutting it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've decided to let my hair grow."
+          },
+          {
+            "cf": "grow something",
+            "x": "I've decided to grow my hair."
+          },
+          {
+            "cf": "",
+            "x": "I didn't recognize him—he's grown a beard."
+          }
+        ]
+      },
+      {
+        "definition": "to begin to have a particular quality or feeling over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their dog had grown old and fat."
+          },
+          {
+            "cf": "",
+            "x": "They were growing tired of her unreasonable behaviour."
+          },
+          {
+            "cf": "",
+            "x": "My eyes soon grew accustomed to the darkness."
+          },
+          {
+            "cf": "",
+            "x": "Mark and Jenny were growing closer every day."
+          },
+          {
+            "cf": "",
+            "x": "As time went on he grew more and more impatient."
+          },
+          {
+            "cf": "",
+            "x": "The skies grew dark and it began to rain."
+          },
+          {
+            "cf": "",
+            "x": "Don't worry, you'll grow braver with time."
+          }
+        ]
+      },
+      {
+        "definition": "to gradually begin to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm sure you'll grow to like her in time."
+          },
+          {
+            "cf": "",
+            "x": "He grew to understand her reasons for leaving."
+          }
+        ]
+      },
+      {
+        "definition": "to develop and improve particular qualities or skills",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She continues to grow as an artist."
+          },
+          {
+            "cf": "",
+            "x": "A secure background will help a child to grow emotionally."
+          }
+        ]
+      },
+      {
+        "definition": "to increase the size, quality or number of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We are trying to grow the business."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that when you are away from somebody that you love, you love them even more",
+        "examples": []
+      },
+      {
+        "definition": "something large and successful often begins in a very small way",
+        "examples": []
+      },
+      {
+        "definition": "used to tell somebody not to use something or spend money carelessly because you do not have a lot of it",
+        "examples": []
+      },
+      {
+        "definition": "to not delay in getting things done",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lake",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lak/lake_/lake__gb_1.mp3",
+    "phonetic_text": "/leɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lak/lake_/lake__us_1.mp3",
+    "phonetic_am_text": "/leɪk/",
+    "senses": [
+      {
+        "definition": "a large area of water that is surrounded by land",
+        "examples": [
+          {
+            "cf": "in a lake",
+            "x": "We swam in the lake."
+          },
+          {
+            "cf": "on a lake",
+            "x": "There were a number of boats on the lake."
+          },
+          {
+            "cf": "",
+            "x": "We stayed in a hotel on the edge of Lake Ontario."
+          },
+          {
+            "cf": "",
+            "x": "a wine lake (= a large supply of wine that is not being used)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "land",
+    "level": "A2",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/land_/land__gb_1.mp3",
+    "phonetic_text": "/lænd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/land_/land__us_1.mp3",
+    "phonetic_am_text": "/lænd/",
+    "senses": [
+      {
+        "definition": "the surface of the earth that is not sea",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new project will reclaim the land from the sea."
+          },
+          {
+            "cf": "on land",
+            "x": "It was good to be back on land."
+          },
+          {
+            "cf": "",
+            "x": "Some animals can live both on land and in water."
+          },
+          {
+            "cf": "by land",
+            "x": "We travelled by land, though flying would have been cheaper."
+          },
+          {
+            "cf": "",
+            "x": "It's impossible to reach this beach by land because of the high cliffs."
+          },
+          {
+            "cf": "",
+            "x": "We can organize air transport, land transport and all accommodation for your trip."
+          }
+        ]
+      },
+      {
+        "definition": "an area of ground, especially of a particular type or used for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "agricultural/arable/fertile land"
+          },
+          {
+            "cf": "",
+            "x": "Changes in land use can have significant effects on the local wildlife."
+          },
+          {
+            "cf": "",
+            "x": "a piece/plot of land"
+          },
+          {
+            "cf": "",
+            "x": "They are not permitted to build on the surrounding green belt land (= open land around a city)."
+          },
+          {
+            "cf": "",
+            "x": "The land rose to the east."
+          },
+          {
+            "cf": "",
+            "x": "Some of the country's richest grazing lands are in these valleys."
+          }
+        ]
+      },
+      {
+        "definition": "the area of ground that somebody owns, especially when you think of it as property that can be bought or sold",
+        "examples": [
+          {
+            "cf": "",
+            "x": "public/private land"
+          },
+          {
+            "cf": "",
+            "x": "to own/buy/purchase/sell land"
+          },
+          {
+            "cf": "",
+            "x": "He acquired a parcel of several acres of land."
+          },
+          {
+            "cf": "",
+            "x": "The college owns vast tracts of land."
+          },
+          {
+            "cf": "",
+            "x": "Land values in the area are falling. "
+          },
+          {
+            "cf": "",
+            "x": "During the war their lands were occupied by the enemy."
+          },
+          {
+            "cf": "",
+            "x": "Ancient tribes were forced off their ancestral lands. "
+          },
+          {
+            "cf": "",
+            "x": "The adjoining plot of land belongs to the local council."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to the countryside and the way people live in the country as opposed to in cities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "At the beginning of the 20th century almost a third of the population lived off the land (= grew or produced their own food)."
+          },
+          {
+            "cf": "",
+            "x": "Many people leave the land to find work in towns and cities."
+          },
+          {
+            "cf": "",
+            "x": "Her family had farmed the land for generations."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to a country or region in a way that involves the emotions or the imagination",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She longed to return to her native land."
+          },
+          {
+            "cf": "",
+            "x": "They dreamed of travelling to foreign lands."
+          },
+          {
+            "cf": "",
+            "x": "faraway lands beyond the sea"
+          },
+          {
+            "cf": "",
+            "x": "America is the land of freedom and opportunity."
+          },
+          {
+            "cf": "",
+            "x": "the land of the fairies/elves/giants"
+          }
+        ]
+      },
+      {
+        "definition": "alive; not sleeping; no longer ill",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’m glad to see you’re back in the land of the living. We were worried about you."
+          },
+          {
+            "cf": "",
+            "x": "By lunchtime I’d returned to the land of the living."
+          }
+        ]
+      },
+      {
+        "definition": "sleeping",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Pete and Jo were still in the land of Nod, so I went out for a walk in the morning sunshine."
+          }
+        ]
+      },
+      {
+        "definition": "a place where life is pleasant and easy and people are very happy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He dreamed of emigrating to Canada—the land of milk and honey."
+          }
+        ]
+      },
+      {
+        "definition": "the way the land in an area is formed and what physical characteristics it has",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The castle was hidden by the lie of the land."
+          }
+        ]
+      },
+      {
+        "definition": "the way a situation is now and how it is likely to develop",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Check out the lie of the land before you make a decision."
+          }
+        ]
+      },
+      {
+        "definition": "to have enough money to be able to afford expensive things, food, drink, etc.",
+        "examples": []
+      },
+      {
+        "definition": "to find out about a situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let's wait and see how the land lies before we do anything."
+          }
+        ]
+      },
+      {
+        "definition": "to collect information before deciding what to do",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "landscape",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/lands/landscape__gb_1.mp3",
+    "phonetic_text": "/ˈlændskeɪp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/lands/landscape__us_1.mp3",
+    "phonetic_am_text": "/ˈlændskeɪp/",
+    "senses": [
+      {
+        "definition": "everything you can see when you look across a large area of land, especially in the country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the woods and fields that are typical features of the English landscape"
+          },
+          {
+            "cf": "",
+            "x": "an urban landscape"
+          },
+          {
+            "cf": "",
+            "x": "the bleak/barren/rugged landscape of the area"
+          },
+          {
+            "cf": "",
+            "x": "The mountains dominate the landscape."
+          }
+        ]
+      },
+      {
+        "definition": "a painting of a view of the countryside; this style of painting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an artist famous for his landscapes"
+          },
+          {
+            "cf": "",
+            "x": "She specializes in landscapes."
+          },
+          {
+            "cf": "",
+            "x": "a landscape painter/painting"
+          }
+        ]
+      },
+      {
+        "definition": "the characteristic features of an area of activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We can expect changes in the political landscape."
+          },
+          {
+            "cf": "",
+            "x": "Their songs altered the landscape of popular music."
+          }
+        ]
+      },
+      {
+        "definition": "the way of printing a document in which the top of the page is one of the longer sides",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Select the landscape option when printing the file."
+          }
+        ]
+      },
+      {
+        "definition": "an object, especially an ugly building, that makes a place less beautiful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The power station is a blot on the landscape."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "leaf",
+    "level": "A2",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leaf_/leaf__gb_1.mp3",
+    "phonetic_text": "/liːf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/leaf_/leaf__us_1.mp3",
+    "phonetic_am_text": "/liːf/",
+    "senses": [
+      {
+        "definition": "a flat green part of a plant, growing from a stem or branch or from the root",
+        "examples": [
+          {
+            "cf": "",
+            "x": "lettuce/cabbage/oak leaves"
+          },
+          {
+            "cf": "",
+            "x": "the dead leaves of autumn/the fall"
+          },
+          {
+            "cf": "",
+            "x": "The leaves on the trees were beginning to turn from green to orange."
+          },
+          {
+            "cf": "in leaf",
+            "x": "Few trees are in leaf yet."
+          },
+          {
+            "cf": "",
+            "x": "The trees are just coming into leaf."
+          }
+        ]
+      },
+      {
+        "definition": "having leaves of the type or number mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a four-leaf clover"
+          },
+          {
+            "cf": "",
+            "x": "a broad-leaved plant"
+          }
+        ]
+      },
+      {
+        "definition": "a sheet of paper, especially a page in a book",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She carefully turned the leaves of the precious volume."
+          }
+        ]
+      },
+      {
+        "definition": "metal, especially gold or silver, in the form of very thin sheets",
+        "examples": [
+          {
+            "cf": "",
+            "x": "gold leaf"
+          }
+        ]
+      },
+      {
+        "definition": "a part of a table that can be lifted up, or an extra section that can be added into the table, in order to make the table bigger",
+        "examples": []
+      },
+      {
+        "definition": "to copy somebody’s behaviour and do things in the same way that they do, because they are successful",
+        "examples": []
+      },
+      {
+        "definition": "to change your way of life to become a better, more responsible person",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lio/lion_/lion__gb_2.mp3",
+    "phonetic_text": "/ˈlaɪən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lio/lion_/lion__us_2.mp3",
+    "phonetic_am_text": "/ˈlaɪən/",
+    "senses": [
+      {
+        "definition": "a large, powerful animal of the cat family that hunts in groups and lives in parts of Africa and southern Asia. Lions have yellow-brown fur and the male has a mane (= long, thick hair round its neck).",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The lion shook its mane and roared."
+          },
+          {
+            "cf": "",
+            "x": "a pride of lions (= a group of them)"
+          },
+          {
+            "cf": "",
+            "x": "Over the past two months, 13 lions have been killed by poachers."
+          },
+          {
+            "cf": "",
+            "x": "He had once been chased and almost eaten by a lion."
+          },
+          {
+            "cf": "",
+            "x": "Young Masai men gather for traditional lion hunts."
+          }
+        ]
+      },
+      {
+        "definition": "a difficult situation in which you have to face a person or people who are unfriendly or aggressive towards you",
+        "examples": []
+      },
+      {
+        "definition": "the largest or best part of something when it is divided",
+        "examples": []
+      },
+      {
+        "definition": "to go to see an important or powerful person to tell them that you disagree with them, that you want something, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "marine",
+    "level": "B2",
+    "category": "nature",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marin/marine__gb_1.mp3",
+    "phonetic_text": "/məˈriːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marin/marine__us_1.mp3",
+    "phonetic_am_text": "/məˈriːn/",
+    "senses": [
+      {
+        "definition": "connected with the sea and the creatures and plants that live there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "marine life"
+          },
+          {
+            "cf": "",
+            "x": "a marine biologist (= a scientist who studies life in the sea)"
+          }
+        ]
+      },
+      {
+        "definition": "connected with ships or trade at sea",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "monkey",
+    "level": "A2",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monke/monkey__gb_2.mp3",
+    "phonetic_text": "/ˈmʌŋki/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monke/monkey__us_1.mp3",
+    "phonetic_am_text": "/ˈmʌŋki/",
+    "senses": [
+      {
+        "definition": "an animal with a long tail, that climbs trees and lives in hot countries. There are several types of monkey and they are related to apes and humans.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Like humans, apes and monkeys live in complex social groupings."
+          },
+          {
+            "cf": "",
+            "x": "The disease affects monkeys and humans in similar ways."
+          },
+          {
+            "cf": "",
+            "x": "A troop of monkeys crashed their way through the trees."
+          },
+          {
+            "cf": "",
+            "x": "Scientists visiting the island encountered a troop of wild monkeys."
+          }
+        ]
+      },
+      {
+        "definition": "a child who is active and likes playing tricks on people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Come here, you cheeky little monkey!"
+          }
+        ]
+      },
+      {
+        "definition": "£500",
+        "examples": []
+      },
+      {
+        "definition": "if you say that it is brass monkeys or brass monkey weather, you mean that it is very cold weather",
+        "examples": []
+      },
+      {
+        "definition": "to free yourself of something that causes you worry or difficulty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The team have never beaten Germany and they'll be desperate to get that monkey off their backs."
+          }
+        ]
+      },
+      {
+        "definition": "used to say, in a way that is not very polite, that you do not care about something, or are not at all interested in it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don’t give a monkey’s whether you want to come or not."
+          }
+        ]
+      },
+      {
+        "definition": "to make somebody seem stupid",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "moon",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/moo/moon_/moon_1_gb_2.mp3",
+    "phonetic_text": "/muːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
+    "phonetic_am_text": "/muːn/",
+    "senses": [
+      {
+        "definition": "the round object that moves around the earth once every 27½ days and shines at night by light reflected from the sun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the surface of the moon"
+          },
+          {
+            "cf": "",
+            "x": "the first man to walk on the moon"
+          },
+          {
+            "cf": "",
+            "x": "a moon landing"
+          }
+        ]
+      },
+      {
+        "definition": "the moon as it appears in the sky at a particular time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a crescent moon"
+          },
+          {
+            "cf": "",
+            "x": "There's no moon tonight (= no moon can be seen)."
+          },
+          {
+            "cf": "",
+            "x": "By the light of the moon I could just make out shapes and outlines."
+          }
+        ]
+      },
+      {
+        "definition": "a natural satellite that moves around a planet other than the earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How many moons does Jupiter have?"
+          }
+        ]
+      },
+      {
+        "definition": "to ask for something that is difficult or impossible to get or achieve",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wanting a decent job and a home is hardly asking for the moon."
+          }
+        ]
+      },
+      {
+        "definition": "a very long time ago",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All that happened many moons ago."
+          }
+        ]
+      },
+      {
+        "definition": "very rarely",
+        "examples": []
+      },
+      {
+        "definition": "extremely happy and excited",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They’re over the moon about their trip to Japan."
+          }
+        ]
+      },
+      {
+        "definition": "to make promises that will be impossible to keep",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Politicians promise the earth before an election, but things are different afterwards."
+          }
+        ]
+      },
+      {
+        "definition": "to make promises that will be impossible to keep",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Politicians promise the moon before an election, but things are different afterwards."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mountain",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mount/mountain__gb_1.mp3",
+    "phonetic_text": "/ˈmaʊntən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_5.mp3",
+    "phonetic_am_text": "/ˈmaʊntn/",
+    "senses": [
+      {
+        "definition": "a very high hill, often with rocks near the top",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the mountains of Andalusia"
+          },
+          {
+            "cf": "",
+            "x": "snow-capped mountains"
+          },
+          {
+            "cf": "",
+            "x": "The steep mountains tower all around."
+          },
+          {
+            "cf": "",
+            "x": "to climb a mountain"
+          },
+          {
+            "cf": "in the mountains",
+            "x": "We spent a week walking in the mountains."
+          },
+          {
+            "cf": "",
+            "x": "to enjoy the mountain air/scenery"
+          },
+          {
+            "cf": "",
+            "x": "mountain roads/streams/villages"
+          },
+          {
+            "cf": "",
+            "x": "the world's longest mountain range"
+          },
+          {
+            "cf": "",
+            "x": "There is a range of mountains to the west."
+          },
+          {
+            "cf": "",
+            "x": "high mountain passes"
+          },
+          {
+            "cf": "",
+            "x": "a mountain rescue team"
+          },
+          {
+            "cf": "",
+            "x": "There is still snow on the mountain tops."
+          }
+        ]
+      },
+      {
+        "definition": "a very large amount or number of something; the very large size of something/somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mountain of work"
+          },
+          {
+            "cf": "",
+            "x": "We made mountains of sandwiches."
+          },
+          {
+            "cf": "",
+            "x": "Standing before us was a huge, muscled mountain of a man."
+          }
+        ]
+      },
+      {
+        "definition": "to make an unimportant matter seem important",
+        "examples": []
+      },
+      {
+        "definition": "to make a great effort to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The director moved mountains to remake this classic film."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mud",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mud/mud__/mud__gb_2.mp3",
+    "phonetic_text": "/mʌd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mud/mud__/mud__us_2.mp3",
+    "phonetic_am_text": "/mʌd/",
+    "senses": [
+      {
+        "definition": "wet earth that is soft and sticky",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The car wheels got stuck in the mud."
+          },
+          {
+            "cf": "",
+            "x": "Your boots are covered in mud."
+          },
+          {
+            "cf": "",
+            "x": "Heavy rain caused thick, deep mud on the site."
+          },
+          {
+            "cf": "",
+            "x": "mud bricks/huts (= made of dried mud)"
+          },
+          {
+            "cf": "",
+            "x": "nests made of mud or clay"
+          }
+        ]
+      },
+      {
+        "definition": "not clear at all; not easy to understand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Oh well, that's all as clear as mud, then."
+          }
+        ]
+      },
+      {
+        "definition": "to criticize or say bad things about somebody in public, in a way that is unfair",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The paper has dragged his name through the mud."
+          },
+          {
+            "cf": "",
+            "x": "They feel their agency has been dragged through the mud by the press."
+          },
+          {
+            "cf": "",
+            "x": "Football's good name is being dragged through the dirt."
+          }
+        ]
+      },
+      {
+        "definition": "to criticize somebody or accuse somebody of bad things in order to damage their reputation, especially in politics",
+        "examples": []
+      },
+      {
+        "definition": "people remember and believe the bad things they hear about other people, even if they are later shown to be false",
+        "examples": []
+      },
+      {
+        "definition": "used to say that somebody is not liked or popular because of something they have done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Your name’s mud around here at the moment!"
+          },
+          {
+            "cf": "",
+            "x": "If you tell our secret your name will be mud round here."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "natural",
+    "level": "A2",
+    "category": "nature",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/natural__gb_6.mp3",
+    "phonetic_text": "/ˈnætʃrəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/natural__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈnætʃrəl/",
+    "senses": [
+      {
+        "definition": "existing in nature; not made or caused by humans",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the natural world (= of trees, rivers, animals and birds)"
+          },
+          {
+            "cf": "",
+            "x": "We should respect animals and the natural environment, which is their home."
+          },
+          {
+            "cf": "",
+            "x": "a country’s natural resources (= its coal, oil, forests, etc.)"
+          },
+          {
+            "cf": "",
+            "x": "wildlife in its natural habitat"
+          },
+          {
+            "cf": "",
+            "x": "The natural beauty of flowers inspired Monet's experiments in colour."
+          },
+          {
+            "cf": "",
+            "x": "All the materials used are natural."
+          },
+          {
+            "cf": "",
+            "x": "My hair soon grew back to its natural colour (= after being dyed)."
+          },
+          {
+            "cf": "",
+            "x": "The clothes are available in warm natural colours."
+          }
+        ]
+      },
+      {
+        "definition": "having little or no processing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "natural yogurt (= with no flavour added)"
+          },
+          {
+            "cf": "",
+            "x": "I try to eat a sugar-free, natural food diet."
+          },
+          {
+            "cf": "",
+            "x": "Natural treatments have no unwanted side effects."
+          },
+          {
+            "cf": "",
+            "x": "We made bread with a natural raising agent."
+          }
+        ]
+      },
+      {
+        "definition": "normal; as you would expect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to die of natural causes (= not by violence, but normally, of old age)"
+          },
+          {
+            "cf": "",
+            "x": "Singing for her was as natural as breathing."
+          },
+          {
+            "cf": "",
+            "x": "He thought social inequality was all part of the natural order of things."
+          },
+          {
+            "cf": "",
+            "x": "She was the natural choice for the job."
+          },
+          {
+            "cf": "it is natural (for somebody) to do something",
+            "x": "It's only natural to worry about your children."
+          },
+          {
+            "cf": "",
+            "x": "It's perfectly natural for you to feel annoyed."
+          },
+          {
+            "cf": "it is natural that…",
+            "x": "It's natural that he would want to see his own son."
+          }
+        ]
+      },
+      {
+        "definition": "used to describe behaviour or abilities that are part of the character that a person or an animal was born with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the natural agility of a cat"
+          },
+          {
+            "cf": "",
+            "x": "the natural processes of language learning"
+          },
+          {
+            "cf": "",
+            "x": "She has a natural ability with children."
+          },
+          {
+            "cf": "",
+            "x": "Daniel's natural talent is for engineering."
+          },
+          {
+            "cf": "",
+            "x": "It was my natural instinct to defend myself."
+          },
+          {
+            "cf": "",
+            "x": "When body temperature is beginning to fall there is a natural tendency to fall asleep."
+          }
+        ]
+      },
+      {
+        "definition": "having an ability that you were born with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's a natural leader."
+          },
+          {
+            "cf": "",
+            "x": "She's a natural rebel."
+          }
+        ]
+      },
+      {
+        "definition": "relaxed and not pretending to be somebody/something different",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's difficult to look natural when you're feeling nervous."
+          },
+          {
+            "cf": "",
+            "x": "There's something really natural about her."
+          }
+        ]
+      },
+      {
+        "definition": "related by blood",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His natural mother was unable to care for him so he was raised by an aunt."
+          }
+        ]
+      },
+      {
+        "definition": "born to parents who are not married",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was a natural daughter of King James II."
+          }
+        ]
+      },
+      {
+        "definition": "based on human reason alone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I am a firm believer in human rights and natural law."
+          },
+          {
+            "cf": "",
+            "x": "It goes against natural justice to punish a child for the crimes of its parents."
+          }
+        ]
+      },
+      {
+        "definition": "used after the name of a note to show that the note is neither sharp nor flat. The written symbol is (♮).",
+        "examples": [
+          {
+            "cf": "",
+            "x": "B natural"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "naturally",
+    "level": "B1",
+    "category": "nature",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/naturally__gb_1.mp3",
+    "phonetic_text": "/ˈnætʃrəli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/naturally__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈnætʃrəli/",
+    "senses": [
+      {
+        "definition": "in a way that you would expect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Naturally, I get upset when things go wrong."
+          },
+          {
+            "cf": "",
+            "x": "After a while, we naturally started talking about the children."
+          },
+          {
+            "cf": "",
+            "x": "‘Did you complain about the noise?’ ‘Naturally.’"
+          },
+          {
+            "cf": "",
+            "x": "It was late, so naturally her mother was worried."
+          },
+          {
+            "cf": "",
+            "x": "We heard a loud crash, so naturally we went outside to investigate."
+          }
+        ]
+      },
+      {
+        "definition": "without special help, treatment or action by somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "naturally occurring chemicals"
+          },
+          {
+            "cf": "",
+            "x": "plants that grow naturally in poor soils"
+          },
+          {
+            "cf": "",
+            "x": "The enzyme is naturally present in garlic."
+          }
+        ]
+      },
+      {
+        "definition": "as a normal, logical result of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This leads naturally to my next point."
+          },
+          {
+            "cf": "",
+            "x": "The topic arose naturally in the conversation."
+          }
+        ]
+      },
+      {
+        "definition": "in a way that shows or uses abilities or qualities that a person or an animal is born with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to be naturally artistic"
+          },
+          {
+            "cf": "",
+            "x": "a naturally gifted athlete"
+          },
+          {
+            "cf": "",
+            "x": "Most birds are naturally timid."
+          },
+          {
+            "cf": "",
+            "x": "She was naturally gifted when it came to music."
+          }
+        ]
+      },
+      {
+        "definition": "in a relaxed and normal way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Just act naturally."
+          }
+        ]
+      },
+      {
+        "definition": "if something comes naturally to you, you are able to do it very easily and very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Making money came naturally to him."
+          },
+          {
+            "cf": "",
+            "x": "We were simply doing what came naturally. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nature",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nat/natur/nature__gb_2.mp3",
+    "phonetic_text": "/ˈneɪtʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nat/natur/nature__us_1.mp3",
+    "phonetic_am_text": "/ˈneɪtʃər/",
+    "senses": [
+      {
+        "definition": "all the plants, animals and things that exist in the universe that are not made by people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Take time to appreciate the beauties of nature."
+          },
+          {
+            "cf": "",
+            "x": "man-made substances not found in nature"
+          },
+          {
+            "cf": "",
+            "x": "A lot of nature conservation is about protecting habitats."
+          }
+        ]
+      },
+      {
+        "definition": "the way that things happen in the physical world when it is not controlled by people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The forces of nature are constantly reshaping our world."
+          },
+          {
+            "cf": "",
+            "x": "It is impossible to change the laws of nature."
+          },
+          {
+            "cf": "",
+            "x": "Her illness was Nature's way of telling her to do less."
+          },
+          {
+            "cf": "",
+            "x": "Is genius the result of nature or nurture?"
+          }
+        ]
+      },
+      {
+        "definition": "the usual way that a person or an animal behaves that is part of their character",
+        "examples": [
+          {
+            "cf": "by nature",
+            "x": "She is very sensitive by nature."
+          },
+          {
+            "cf": "it is not in somebody's nature to do something",
+            "x": "It's not in his nature to be unkind."
+          },
+          {
+            "cf": "it is against somebody's nature to do something",
+            "x": "It was against her nature to tell lies."
+          },
+          {
+            "cf": "",
+            "x": "We appealed to his better nature (= his kindness)."
+          }
+        ]
+      },
+      {
+        "definition": "the basic qualities of a thing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the changing nature of society"
+          },
+          {
+            "cf": "",
+            "x": "It's difficult to define the exact nature of the problem."
+          },
+          {
+            "cf": "",
+            "x": "His work explores the nature of the mother-child relationship."
+          },
+          {
+            "cf": "in nature",
+            "x": "My work is very specialized in nature."
+          },
+          {
+            "cf": "by its nature",
+            "x": "The future by its very nature is uncertain."
+          }
+        ]
+      },
+      {
+        "definition": "a type or kind of something",
+        "examples": [
+          {
+            "cf": "of a… nature",
+            "x": "His books were mainly of a scientific nature."
+          },
+          {
+            "cf": "",
+            "x": "Don't worry about things of that nature."
+          }
+        ]
+      },
+      {
+        "definition": "having the type of character or quality mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a good-natured man"
+          }
+        ]
+      },
+      {
+        "definition": "not natural; not moral",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Murder is a crime against nature."
+          }
+        ]
+      },
+      {
+        "definition": "(to return to) a simple kind of life in the country, away from cities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When you’re camping, you can get back to nature."
+          },
+          {
+            "cf": "",
+            "x": "We built our house in the country because we wanted to get back to nature."
+          }
+        ]
+      },
+      {
+        "definition": "the need to go to the toilet",
+        "examples": []
+      },
+      {
+        "definition": "a person with a very strong personality who is full of energy, very determined and difficult for others to resist",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Gerard is a force of nature, continually pursuing his target when everyone else is ready to give up."
+          }
+        ]
+      },
+      {
+        "definition": "the power of the wind, rain, etc., especially when it causes damage or harm",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were fighting a losing battle against the forces of nature."
+          }
+        ]
+      },
+      {
+        "definition": "similar to something; a type of something; in the style of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His speech was in the nature of an apology."
+          }
+        ]
+      },
+      {
+        "definition": "in the way that things usually happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In the nature of things, young people often rebel against their parents."
+          }
+        ]
+      },
+      {
+        "definition": "to allow natural processes to happen, without trying to stop or change them (used especially in the context of illness)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The midwife must judge when to let nature take its course and when to intervene."
+          },
+          {
+            "cf": "",
+            "x": "When the dog responded so badly to the treatment, we decided to let nature take its course."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nest",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nes/nest_/nest__gb_1.mp3",
+    "phonetic_text": "/nest/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nes/nest_/nest__us_1.mp3",
+    "phonetic_am_text": "/nest/",
+    "senses": [
+      {
+        "definition": "a hollow place or structure that a bird makes or chooses for laying its eggs in and sheltering its young",
+        "examples": [
+          {
+            "cf": "",
+            "x": "sparrows building a nest of twigs and dry grass"
+          }
+        ]
+      },
+      {
+        "definition": "a place where insects or other small creatures live and produce their young",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a wasps’ nest"
+          },
+          {
+            "cf": "",
+            "x": "a nest of mice"
+          },
+          {
+            "cf": "",
+            "x": "The snake will attack if disturbed inside its nest."
+          }
+        ]
+      },
+      {
+        "definition": "a secret place which is full of bad people and their activities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a nest of thieves"
+          }
+        ]
+      },
+      {
+        "definition": "the home, thought of as the safe place where parents bring up their children",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to leave the nest (= leave your parents’ home)"
+          }
+        ]
+      },
+      {
+        "definition": "a group or set of similar things that are made to fit inside each other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a nest of tables"
+          }
+        ]
+      },
+      {
+        "definition": "to make yourself richer, especially at somebody else's expense, by spending money on yourself that should be spent on somebody/something else",
+        "examples": []
+      },
+      {
+        "definition": "to become able to fly and leave its nest",
+        "examples": []
+      },
+      {
+        "definition": "to leave home and live somewhere else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her children have flown the nest."
+          }
+        ]
+      },
+      {
+        "definition": "a difficult situation in which a lot of people get very angry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His letter to the papers stirred up a real hornets' nest."
+          }
+        ]
+      },
+      {
+        "definition": "a discovery that seems interesting but is found to have no value",
+        "examples": []
+      },
+      {
+        "definition": "a very complicated situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This area of the law is a veritable mare’s nest."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/park_/park__gb_1.mp3",
+    "phonetic_text": "/pɑːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/park_/park__us_1.mp3",
+    "phonetic_am_text": "/pɑːrk/",
+    "senses": [
+      {
+        "definition": "an area of public land in a town or a city where people go to walk, play and relax",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hyde Park"
+          },
+          {
+            "cf": "in the park",
+            "x": "We went for a walk in the park."
+          },
+          {
+            "cf": "",
+            "x": "A public park will be built around the complex."
+          },
+          {
+            "cf": "",
+            "x": "a park bench"
+          },
+          {
+            "cf": "",
+            "x": "the park entrance/gates"
+          }
+        ]
+      },
+      {
+        "definition": "an area of land used for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a business/science park"
+          },
+          {
+            "cf": "",
+            "x": "a wildlife park"
+          },
+          {
+            "cf": "",
+            "x": "a park ranger"
+          },
+          {
+            "cf": "",
+            "x": "She lives in a trailer park in Tucson, Arizona."
+          }
+        ]
+      },
+      {
+        "definition": "(in the UK) an area of land, usually with fields and trees, attached to a large country house",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cottage is set within the park of a country house."
+          },
+          {
+            "cf": "",
+            "x": "The houses and parks in Georgian Sussex represented leisured society at its peak."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of land for playing sports, especially baseball ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "With a mighty swing he hit the ball right out of the park."
+          }
+        ]
+      },
+      {
+        "definition": "a football (soccer) or rugby field",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the fastest man on the park"
+          }
+        ]
+      },
+      {
+        "definition": "the position of the gears in a car with automatic transmission (= a system that changes the gears by itself so the driver does not have to) in which they are locked so that the engine cannot send any power to the wheels",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She put the car in park, pulled out the key and got out."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is very easy to do or deal with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The role isn't exactly a walk in the park."
+          },
+          {
+            "cf": "",
+            "x": "The next game will be a walk in the park."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "peak",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pea/peak_/peak__gb_2.mp3",
+    "phonetic_text": "/piːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/peak_/peak__us_1.mp3",
+    "phonetic_am_text": "/piːk/",
+    "senses": [
+      {
+        "definition": "the point when somebody/something is best, most successful, strongest, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Traffic reaches its peak between 8 and 9 in the morning."
+          },
+          {
+            "cf": "",
+            "x": "the peaks and troughs of married life"
+          },
+          {
+            "cf": "at the peak of something",
+            "x": "She's at the peak of her career."
+          },
+          {
+            "cf": "",
+            "x": "Membership of the club has fallen from a peak of 600 people in 2022."
+          }
+        ]
+      },
+      {
+        "definition": "the pointed top of a mountain; a mountain with a pointed top",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mountain peak"
+          },
+          {
+            "cf": "",
+            "x": "snow-capped/jagged peaks"
+          },
+          {
+            "cf": "",
+            "x": "The climbers made camp halfway up the peak."
+          },
+          {
+            "cf": "",
+            "x": "We looked up at the rocky peaks towering above us."
+          }
+        ]
+      },
+      {
+        "definition": "any narrow and pointed shape, edge, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Whisk the egg whites into stiff peaks."
+          },
+          {
+            "cf": "",
+            "x": "He combed his hair into a peak."
+          }
+        ]
+      },
+      {
+        "definition": "the stiff front part of a cap that sticks out above your eyes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pet/pet__/pet__gb_4.mp3",
+    "phonetic_text": "/pet/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pet/pet__/pet__us_4.mp3",
+    "phonetic_am_text": "/pet/",
+    "senses": [
+      {
+        "definition": "an animal, a bird, etc. that you have at home for pleasure, rather than one that is kept for work or food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you have any pets?"
+          },
+          {
+            "cf": "",
+            "x": "a pet dog/hamster "
+          },
+          {
+            "cf": "",
+            "x": "a family pet "
+          },
+          {
+            "cf": "",
+            "x": "exotic pets"
+          },
+          {
+            "cf": "",
+            "x": "pet food"
+          },
+          {
+            "cf": "",
+            "x": "Being a responsible pet owner means caring for your pet."
+          },
+          {
+            "cf": "",
+            "x": "a pet shop (= where animals are sold as pets)"
+          },
+          {
+            "cf": "",
+            "x": "Keeping pigs as pets has become extremely popular. "
+          }
+        ]
+      },
+      {
+        "definition": "a person who is given special attention by somebody, especially in a way that seems unfair to other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's the teacher's pet."
+          }
+        ]
+      },
+      {
+        "definition": "used when speaking to somebody to show kind feelings or to be friendly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What's wrong, pet?"
+          },
+          {
+            "cf": "",
+            "x": "Be a pet (= be kind) and post this letter for me."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pig",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pig/pig__/pig__gb_1.mp3",
+    "phonetic_text": "/pɪɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pig/pig__/pig__us_1.mp3",
+    "phonetic_am_text": "/pɪɡ/",
+    "senses": [
+      {
+        "definition": "an animal with pink, black or brown skin, short legs, a broad nose and a short curly tail. Pigs are kept on farms for their meat (called pork) or live in the wild.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pig farmer"
+          },
+          {
+            "cf": "",
+            "x": "Pigs were grunting and squealing in the yard."
+          },
+          {
+            "cf": "",
+            "x": "to breed/rear pigs"
+          }
+        ]
+      },
+      {
+        "definition": "a person who you find unpleasant or offensive; a person who you think is dirty or greedy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Arrogant pig!"
+          },
+          {
+            "cf": "",
+            "x": "Don't be such a pig!"
+          },
+          {
+            "cf": "",
+            "x": "The greedy pig's eaten all the biscuits!"
+          },
+          {
+            "cf": "",
+            "x": "She made a pig of herself with the ice cream (= ate too much)."
+          },
+          {
+            "cf": "",
+            "x": "He's a real male chauvinist pig (= a man who does not think women are equal to men)."
+          },
+          {
+            "cf": "",
+            "x": "We cooked up a load of pasta and all made pigs of ourselves."
+          }
+        ]
+      },
+      {
+        "definition": "an offensive word for a police officer",
+        "examples": []
+      },
+      {
+        "definition": "to do something badly; to make a mess of something",
+        "examples": []
+      },
+      {
+        "definition": "if you buy a pig in a poke, you buy something without seeing it or knowing if it is good enough",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Buying online can mean buying a pig in a poke."
+          }
+        ]
+      },
+      {
+        "definition": "a difficult or unpleasant thing or task",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've had a pig of a day."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you do not believe something will ever happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘With a bit of luck, we'll be finished by the end of the year.’ ‘Yes, and pigs might fly!’"
+          }
+        ]
+      },
+      {
+        "definition": "to make small changes to something, especially its outside appearance, to try and hide the fact that it has problems",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The change of policy doesn't go far enough—it's just putting lipstick on a pig."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "level": "A1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plant/plant__gb_3.mp3",
+    "phonetic_text": "/plɑːnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plant/plant__us_1.mp3",
+    "phonetic_am_text": "/plænt/",
+    "senses": [
+      {
+        "definition": "a living thing that grows in the earth and usually has a stem, leaves and roots, especially one that is smaller than a tree or bush",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All plants need light and water."
+          },
+          {
+            "cf": "",
+            "x": "flowering plants"
+          },
+          {
+            "cf": "",
+            "x": "native/medicinal/wild plants"
+          },
+          {
+            "cf": "",
+            "x": "a tomato/potato plant"
+          },
+          {
+            "cf": "",
+            "x": "It's becoming more popular to grow plants organically."
+          },
+          {
+            "cf": "",
+            "x": "The area is home to many rare plant species."
+          },
+          {
+            "cf": "",
+            "x": "the animal and plant life of the area"
+          }
+        ]
+      },
+      {
+        "definition": "a factory or place where power is produced or an industrial process takes place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a nuclear power plant"
+          },
+          {
+            "cf": "",
+            "x": "a processing/manufacturing plant"
+          },
+          {
+            "cf": "",
+            "x": "Japanese car plants"
+          },
+          {
+            "cf": "",
+            "x": "a water treatment plant"
+          },
+          {
+            "cf": "",
+            "x": "a chemical/steel/coal plant"
+          }
+        ]
+      },
+      {
+        "definition": "the large machines that are used in industrial processes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company has been investing in new plant and equipment."
+          }
+        ]
+      },
+      {
+        "definition": "something that somebody has deliberately placed among another person’s clothes or possessions in order to make them appear guilty of a crime",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He claimed that the drugs found in his house were a plant."
+          }
+        ]
+      },
+      {
+        "definition": "a person who joins a group of criminals or enemies in order to get and secretly report information about their activities",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pond",
+    "level": "B1",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pon/pond_/pond__gb_1.mp3",
+    "phonetic_text": "/pɒnd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pon/pond_/pond__us_1.mp3",
+    "phonetic_am_text": "/pɑːnd/",
+    "senses": [
+      {
+        "definition": "a small area of still water, especially one that is artificial",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a fish pond"
+          }
+        ]
+      },
+      {
+        "definition": "the Atlantic Ocean",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's relatively unknown on this side of the pond."
+          },
+          {
+            "cf": "across the pond",
+            "x": "Critics across the pond have been queuing up to heap praise on the movie."
+          }
+        ]
+      },
+      {
+        "definition": "an important person (in a small community)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "predator",
+    "level": "B2",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preda/predator__gb_1.mp3",
+    "phonetic_text": "/ˈpredətə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preda/predator__us_1.mp3",
+    "phonetic_am_text": "/ˈpredətər/",
+    "senses": [
+      {
+        "definition": "an animal that kills and eats other animals",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some animals have no natural predators."
+          },
+          {
+            "cf": "",
+            "x": "the relationship between predator and prey"
+          }
+        ]
+      },
+      {
+        "definition": "a person or an organization that uses weaker people for their own advantage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to protect domestic industry from foreign predators"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prey",
+    "level": "B2",
+    "category": "nature",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prey_/prey__gb_1.mp3",
+    "phonetic_text": "/preɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/prey_/prey__us_1.mp3",
+    "phonetic_am_text": "/preɪ/",
+    "senses": [
+      {
+        "definition": "an animal, a bird, etc. that is hunted, killed and eaten by another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The lion will often stalk its prey for hours."
+          },
+          {
+            "cf": "",
+            "x": "birds of prey (= birds that kill for food)"
+          }
+        ]
+      },
+      {
+        "definition": "a person who is harmed or tricked by somebody, especially for dishonest purposes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Socially isolated young people are easy prey for extremists."
+          }
+        ]
+      },
+      {
+        "definition": "to be killed and eaten by another animal or bird",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Many small birds and rodents fall prey to the domestic cat."
+          }
+        ]
+      },
+      {
+        "definition": "to be harmed or affected by something bad",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Since the attack, he had fallen prey to irrational fears."
+          },
+          {
+            "cf": "",
+            "x": "She knew she must not fall prey to his charm."
+          },
+          {
+            "cf": "",
+            "x": "The new government has fallen prey to corruption and fraud."
+          }
+        ]
+      }
+    ]
+  }
+]

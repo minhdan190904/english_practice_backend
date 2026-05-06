@@ -1,11 +1,14 @@
 package com.minhdan.english_practice_backend.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.auth.oauth2.GoogleCredentials;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.core.io.Resource;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClient;
 
+import java.io.InputStream;
 import java.util.List;
 import java.util.Map;
 
@@ -13,11 +16,16 @@ import java.util.Map;
 public class AiService {
 
     private final RestClient restClient;
-    private final String apiKey;
+    private final GoogleCredentials credentials;
+    private final String projectId = "gen-lang-client-0619494454";
+    private final String location = "us-central1";
 
-    public AiService(@Value("${gemini.api-key}") String apiKey) {
-        this.apiKey = apiKey;
+    public AiService(@Value("classpath:gcp-service-account.json") Resource gcpResource) throws Exception {
         this.restClient = RestClient.create();
+        try (InputStream is = gcpResource.getInputStream()) {
+            this.credentials = GoogleCredentials.fromStream(is)
+                    .createScoped(List.of("https://www.googleapis.com/auth/cloud-platform"));
+        }
     }
 
     public String generateLesson(String topic, String level, String customText) {
@@ -30,11 +38,14 @@ public class AiService {
 
         Map<String, Object> requestBody = Map.of(
             "contents", List.of(
-                Map.of("parts", List.of(Map.of("text", prompt)))
+                Map.of(
+                    "role", "user",
+                    "parts", List.of(Map.of("text", prompt))
+                )
             ),
             "generationConfig", Map.of(
                 "responseMimeType", "application/json",
-                "responseJsonSchema", Map.of(
+                "responseSchema", Map.of(
                     "type", "object",
                     "properties", Map.of(
                         "title", Map.of("type", "string"),
@@ -58,15 +69,18 @@ public class AiService {
             )
         );
 
-        String response = restClient.post()
-                .uri("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent")
-                .header("x-goog-api-key", apiKey)
-                .contentType(MediaType.APPLICATION_JSON)
-                .body(requestBody)
-                .retrieve()
-                .body(String.class);
-
         try {
+            credentials.refreshIfExpired();
+            String accessToken = credentials.getAccessToken().getTokenValue();
+
+            String response = restClient.post()
+                    .uri("https://" + location + "-aiplatform.googleapis.com/v1/projects/" + projectId + "/locations/" + location + "/publishers/google/models/gemini-2.5-flash-lite:generateContent")
+                    .header("Authorization", "Bearer " + accessToken)
+                    .contentType(MediaType.APPLICATION_JSON)
+                    .body(requestBody)
+                    .retrieve()
+                    .body(String.class);
+
             ObjectMapper mapper = new ObjectMapper();
             Map<String, Object> respMap = mapper.readValue(response, Map.class);
             List<Map<String, Object>> candidates = (List<Map<String, Object>>) respMap.get("candidates");
@@ -74,7 +88,7 @@ public class AiService {
             List<Map<String, Object>> parts = (List<Map<String, Object>>) content.get("parts");
             return (String) parts.get(0).get("text");
         } catch (Exception e) {
-            throw new RuntimeException("Failed to parse Gemini response", e);
+            throw new RuntimeException("Failed to generate lesson via Vertex AI", e);
         }
     }
 }

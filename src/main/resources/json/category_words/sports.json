@@ -1,0 +1,1464 @@
+[
+  {
+    "word": "athlete",
+    "level": "B2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ath/athle/athlete__gb_1.mp3",
+    "phonetic_text": "/ˈæθliːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ath/athle/athlete__us_1.mp3",
+    "phonetic_am_text": "/ˈæθliːt/",
+    "senses": [
+      {
+        "definition": "a person who competes in sports",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Olympic athletes"
+          },
+          {
+            "cf": "",
+            "x": "Depression is thought to be common among elite athletes."
+          },
+          {
+            "cf": "",
+            "x": "a training facility for amateur and professional athletes "
+          },
+          {
+            "cf": "",
+            "x": "Her company is designing part of the Olympic athletes' village."
+          }
+        ]
+      },
+      {
+        "definition": "a person who competes in sports such as running, jumping and throwing ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He played baseball and basketball and excelled as a track athlete."
+          },
+          {
+            "cf": "",
+            "x": "She was hailed as the greatest female athlete in the world."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is good at sports and physical exercise",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She is a natural athlete."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "game",
+    "level": "A1",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gam/game_/game__gb_2.mp3",
+    "phonetic_text": "/ɡeɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gam/game_/game__us_1.mp3",
+    "phonetic_am_text": "/ɡeɪm/",
+    "senses": [
+      {
+        "definition": "an activity that you do to have fun, often one that has rules and that you can win or lose; the equipment for a game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The kids were playing a game with their balloons."
+          },
+          {
+            "cf": "",
+            "x": "The children invented a new game."
+          },
+          {
+            "cf": "",
+            "x": "a video/computer game"
+          },
+          {
+            "cf": "",
+            "x": "I play online games with my friends."
+          },
+          {
+            "cf": "",
+            "x": "a game of chance/skill"
+          },
+          {
+            "cf": "",
+            "x": "Buy your games and software from us."
+          }
+        ]
+      },
+      {
+        "definition": "a sport with rules in which people or teams compete against each other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "ball games, such as football or tennis"
+          },
+          {
+            "cf": "",
+            "x": "How I hated team games at school!"
+          },
+          {
+            "cf": "the game of something",
+            "x": "the game of golf/cricket/basketball"
+          },
+          {
+            "cf": "",
+            "x": "Broadcasters have injected vast amounts of money into the game of football. "
+          }
+        ]
+      },
+      {
+        "definition": "an occasion of playing a game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to win/lose a game"
+          },
+          {
+            "cf": "",
+            "x": "They lost their first home game of the season. "
+          },
+          {
+            "cf": "",
+            "x": "a baseball/basketball game"
+          },
+          {
+            "cf": "",
+            "x": "a football game"
+          },
+          {
+            "cf": "",
+            "x": "We're going to the ball game (= baseball game)."
+          },
+          {
+            "cf": "",
+            "x": "Are you coming to watch the game?"
+          },
+          {
+            "cf": "a game of something",
+            "x": "to play a game of chess"
+          },
+          {
+            "cf": "",
+            "x": "Let's have a game of table tennis."
+          },
+          {
+            "cf": "game against somebody",
+            "x": "Saturday’s League game against Swansea"
+          },
+          {
+            "cf": "game with somebody",
+            "x": "today's game with Manchester United"
+          },
+          {
+            "cf": "",
+            "x": "They're in training for the big game."
+          }
+        ]
+      },
+      {
+        "definition": "the way in which somebody plays a game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Maguire raised his game to collect the £40 000 first prize."
+          },
+          {
+            "cf": "",
+            "x": "Stretching exercises can help you avoid injury and improve your game."
+          }
+        ]
+      },
+      {
+        "definition": "a large organized sports event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's hoping to participate in the next Olympic Games."
+          },
+          {
+            "cf": "",
+            "x": "To stage the Games (= the Olympic Games or a similar event) is an honour."
+          }
+        ]
+      },
+      {
+        "definition": "sport as a lesson or an activity at school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I always hated games at school."
+          }
+        ]
+      },
+      {
+        "definition": "a section of some games, such as tennis, which forms a unit in scoring",
+        "examples": [
+          {
+            "cf": "",
+            "x": "two games all (= both players have won two games)"
+          },
+          {
+            "cf": "",
+            "x": "Zverev won the opening game of the third set."
+          }
+        ]
+      },
+      {
+        "definition": "a type of activity or business",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How long have you been in this game?"
+          },
+          {
+            "cf": "",
+            "x": "the game of politics"
+          },
+          {
+            "cf": "",
+            "x": "I'm new to this game myself."
+          },
+          {
+            "cf": "",
+            "x": "Getting dirty was all part of the game to the kids."
+          }
+        ]
+      },
+      {
+        "definition": "a secret and clever plan; a trick",
+        "examples": [
+          {
+            "cf": "",
+            "x": "So that's his game (= now I know what he has been planning)."
+          }
+        ]
+      },
+      {
+        "definition": "wild animals or birds that people hunt for sport or food",
+        "examples": []
+      },
+      {
+        "definition": "at an advantage/disadvantage because you have done more/less preparation or know more/less than other people, especially those you are competing against ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We'll be able to extract insights out of the data that will enable us to stay ahead of the game."
+          },
+          {
+            "cf": "",
+            "x": "Politicians are behind the game in understanding how fast the world is changing."
+          }
+        ]
+      },
+      {
+        "definition": "to defeat or do better than somebody in an activity which they have chosen or in which they think they are strong",
+        "examples": []
+      },
+      {
+        "definition": "to not be considered to be serious",
+        "examples": [
+          {
+            "cf": "",
+            "x": "For her the whole project was just a game."
+          }
+        ]
+      },
+      {
+        "definition": "to be working as a prostitute",
+        "examples": []
+      },
+      {
+        "definition": "to no longer have a chance of winning a game or succeeding in an activity that you are taking part in",
+        "examples": []
+      },
+      {
+        "definition": "to still/once again have a good chance of winning a game or succeeding in an activity that you are taking part in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The team was still in the game, just one goal down."
+          },
+          {
+            "cf": "",
+            "x": "He’s been fighting to get the struggling company back in the game."
+          }
+        ]
+      },
+      {
+        "definition": "activities that are not serious and that other people may think are bad",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Teaching isn't all fun and games, you know."
+          }
+        ]
+      },
+      {
+        "definition": "said to somebody who has done something wrong, when they are caught and the crime or trick has been discovered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Maggie knew that he had recognized her and the game was up."
+          }
+        ]
+      },
+      {
+        "definition": "used after something has happened that makes it clear that a contest is not yet decided and anyone could still win",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were losing 2–0 with ten minutes to go, and then we scored. It was game on!"
+          }
+        ]
+      },
+      {
+        "definition": "used to say that it is no longer possible for somebody/something to succeed, survive or continue",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Given her recent slump in form, it might be game over already this season."
+          },
+          {
+            "cf": "",
+            "x": "This technology could mean game over for gasoline-powered vehicles."
+          },
+          {
+            "cf": "",
+            "x": "The slightest mistake and it's game over for him."
+          }
+        ]
+      },
+      {
+        "definition": "to tell a secret, especially by accident; to show something that should be kept hidden",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't let him talk to anybody or he'll give the game away."
+          }
+        ]
+      },
+      {
+        "definition": "an activity that is unlikely to be successful or make a profit",
+        "examples": []
+      },
+      {
+        "definition": "the most important aspect of an activity; the most important quality needed for an activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hard work is the name of the game if you want to succeed in business."
+          }
+        ]
+      },
+      {
+        "definition": "the advantages to be gained from doing something are not great enough, considering the effort or cost involved",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If the price goes up again, he may decide that the game’s not worth the candle."
+          }
+        ]
+      },
+      {
+        "definition": "a way of considering an activity, etc. that considers only the number of people doing something, things achieved, etc., not with who or what they are",
+        "examples": [
+          {
+            "cf": "",
+            "x": "MPs were playing the numbers game as the crucial vote drew closer."
+          }
+        ]
+      },
+      {
+        "definition": "performing badly/well, especially when compared with how well you usually perform",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was off his game and missed two early penalties."
+          }
+        ]
+      },
+      {
+        "definition": "the most important thing of a particular type, or the only thing that is available",
+        "examples": []
+      },
+      {
+        "definition": "to play a cruel game with somebody in your power by changing your behaviour very often, so that they become nervous and do not know what to expect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thought the police were playing some elaborate game of cat and mouse and waiting to trap him."
+          },
+          {
+            "cf": "",
+            "x": "Young car thieves enjoy playing cat and mouse with the police."
+          }
+        ]
+      },
+      {
+        "definition": "to do something that helps somebody else’s plans, especially by accident, when you did not intend to help them",
+        "examples": []
+      },
+      {
+        "definition": "to behave in a fair and honest way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You can’t do that—it’s not playing the game!"
+          }
+        ]
+      },
+      {
+        "definition": "to not be honest with somebody, especially in order to gain an advantage over them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't play silly games with me; I know you did it."
+          }
+        ]
+      },
+      {
+        "definition": "the standards of behaviour that most people accept or that actually operate in a particular area of life or business",
+        "examples": []
+      },
+      {
+        "definition": "(to have) a personal interest in an organization or activity, and therefore in its success ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When management and unions sit down at the negotiating table, both sides have skin in the game."
+          },
+          {
+            "cf": "",
+            "x": "The neutral fan with no skin in the game can just sit back and enjoy the spectacle."
+          }
+        ]
+      },
+      {
+        "definition": "to talk in a way that sounds convincing, but may not be sincere",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The senior managers talk a good game about customer relations, but really they don't care about the customer."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody who has played a trick on you that you can do the same thing to them",
+        "examples": []
+      },
+      {
+        "definition": "to improve the level at which you can compete, especially in a sport ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's really upped her game since she joined the tennis club."
+          },
+          {
+            "cf": "",
+            "x": "With these two snazzy new restaurants opening up, the other eating places in the area are going to have to up their game."
+          }
+        ]
+      },
+      {
+        "definition": "used to ask why somebody is behaving as they are",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "level": "A2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/goa/goal_/goal__gb_3.mp3",
+    "phonetic_text": "/ɡəʊl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/goa/goal_/goal__us_1.mp3",
+    "phonetic_am_text": "/ɡəʊl/",
+    "senses": [
+      {
+        "definition": "a frame with a net into which players must kick or hit the ball in order to score a point",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He headed the ball into an open goal (= one that had nobody defending it)."
+          },
+          {
+            "cf": "in goal",
+            "x": "Nicky Roberts was outstanding in goal (= as goalkeeper)."
+          },
+          {
+            "cf": "",
+            "x": "The goalkeeper was injured so a defender had to go in goal."
+          }
+        ]
+      },
+      {
+        "definition": "the act of kicking or hitting the ball into the goal; a point that is scored for this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She scored twenty goals in her first season. "
+          },
+          {
+            "cf": "",
+            "x": "United conceded two goals in the first half."
+          },
+          {
+            "cf": "",
+            "x": "Liverpool won by three goals to one."
+          },
+          {
+            "cf": "",
+            "x": "The winning goal came in the 71st minute. "
+          },
+          {
+            "cf": "",
+            "x": "a penalty goal"
+          }
+        ]
+      },
+      {
+        "definition": "something that you hope to achieve",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to achieve/accomplish/reach a goal "
+          },
+          {
+            "cf": "",
+            "x": "My job is to help businesses meet their goals."
+          },
+          {
+            "cf": "",
+            "x": "You need to set yourself some long-term goals."
+          },
+          {
+            "cf": "",
+            "x": "Their goal was to eradicate malaria."
+          },
+          {
+            "cf": "",
+            "x": "Their primary goal is to make a profit."
+          },
+          {
+            "cf": "",
+            "x": "Our ultimate goal must be the preservation of the environment."
+          },
+          {
+            "cf": "toward/towards a goal",
+            "x": "We are all working towards a common goal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "golf",
+    "level": "A2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gol/golf_/golf__gb_2.mp3",
+    "phonetic_text": "/ɡɒlf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gol/golf_/golf__us_1_rr.mp3",
+    "phonetic_am_text": "/ɡɑːlf/",
+    "senses": [
+      {
+        "definition": "a game played over a large area of ground using sticks with a special shape to hit a small hard ball (a golf ball) into a series of 9 or 18 holes, using as few shots as possible",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I play golf every weekend."
+          },
+          {
+            "cf": "",
+            "x": "He enjoyed a round of golf on a Sunday morning."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kick",
+    "level": "A2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kic/kick_/kick__gb_3.mp3",
+    "phonetic_text": "/kɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kic/kick_/kick__us_1.mp3",
+    "phonetic_am_text": "/kɪk/",
+    "senses": [
+      {
+        "definition": "a movement with the foot or the leg, usually to hit something with the foot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the first kick of the game"
+          },
+          {
+            "cf": "",
+            "x": "He barely got a kick of the ball the whole match."
+          },
+          {
+            "cf": "",
+            "x": "She gave him a kick on the shin."
+          },
+          {
+            "cf": "",
+            "x": "If the door won't open, give it a kick."
+          },
+          {
+            "cf": "",
+            "x": "He aimed a kick at the dog."
+          }
+        ]
+      },
+      {
+        "definition": "a strong feeling of excitement and pleasure",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I get a kick out of driving fast cars."
+          },
+          {
+            "cf": "",
+            "x": "He gets his kicks from hurting other people."
+          },
+          {
+            "cf": "for kicks ",
+            "x": "What do you do for kicks?"
+          }
+        ]
+      },
+      {
+        "definition": "the strong effect that a drug or an alcoholic drink has",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This drink has quite a kick."
+          }
+        ]
+      },
+      {
+        "definition": "a soft shoe that you wear for sports or as informal clothing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The actor wore denim, a simple tee and a nice pair of kicks."
+          }
+        ]
+      },
+      {
+        "definition": "if you think somebody needs a kick in the pants or a kick up the backside you think they need to be strongly encouraged to do something or behave better",
+        "examples": []
+      },
+      {
+        "definition": "something that hurts somebody/something emotionally; a great disappointment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The job losses are a kick in the teeth for the union."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "league",
+    "level": "B1",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leagu/league__gb_1.mp3",
+    "phonetic_text": "/liːɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/leagu/league__us_1.mp3",
+    "phonetic_am_text": "/liːɡ/",
+    "senses": [
+      {
+        "definition": "a group of sports teams who all play each other to earn points and find which team is best",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Castleford have led the league for most of the season."
+          },
+          {
+            "cf": "",
+            "x": "We must do better if we are to win the league again this season."
+          },
+          {
+            "cf": "",
+            "x": "a league match/game"
+          },
+          {
+            "cf": "",
+            "x": "They missed an opportunity to clinch the league title at the weekend."
+          },
+          {
+            "cf": "",
+            "x": "The league leaders scored 3 goals in the last five minutes."
+          },
+          {
+            "cf": "",
+            "x": "United were league champions last season."
+          },
+          {
+            "cf": "in a league",
+            "x": "the best team in the league "
+          },
+          {
+            "cf": "",
+            "x": "Their 3–0 win was enough to put them at the top of the league."
+          },
+          {
+            "cf": "",
+            "x": "Bristol were at the bottom of the league."
+          }
+        ]
+      },
+      {
+        "definition": "a level of quality, ability, etc.",
+        "examples": [
+          {
+            "cf": "in a league",
+            "x": "As a painter, he is in a league of his own (= much better than others)."
+          },
+          {
+            "cf": "",
+            "x": "They're in a different league from us."
+          },
+          {
+            "cf": "not in somebody's league",
+            "x": "When it comes to cooking, I'm not in her league (= she is much better than me)."
+          },
+          {
+            "cf": "out of somebody's league",
+            "x": "A house like that is out of our league (= too expensive for us)."
+          }
+        ]
+      },
+      {
+        "definition": "a group of people or nations who have combined for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the League of Nations"
+          },
+          {
+            "cf": "",
+            "x": "a meeting of the Women’s League for Peace"
+          }
+        ]
+      },
+      {
+        "definition": "a unit for measuring distance, equal to about 3 miles or 4 000 metres",
+        "examples": []
+      },
+      {
+        "definition": "making secret plans with somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Those two crooks seem to be in league with each other."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marathon",
+    "level": "B1",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marat/marathon__gb_1.mp3",
+    "phonetic_text": "/ˈmærəθən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marat/marathon__us_1.mp3",
+    "phonetic_am_text": "/ˈmærəθɑːn/",
+    "senses": [
+      {
+        "definition": "a long running race of about 42 kilometres or 26 miles",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the London marathon"
+          },
+          {
+            "cf": "",
+            "x": "to run a marathon"
+          },
+          {
+            "cf": "",
+            "x": "a marathon runner"
+          }
+        ]
+      },
+      {
+        "definition": "an activity or a piece of work that lasts a long time and requires a lot of effort, concentration, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The interview was a real marathon."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "match",
+    "level": "A2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/match/match__gb_1.mp3",
+    "phonetic_text": "/mætʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/match/match__us_1.mp3",
+    "phonetic_am_text": "/mætʃ/",
+    "senses": [
+      {
+        "definition": "a sports event where people or teams compete against each other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a football match"
+          },
+          {
+            "cf": "",
+            "x": "a tennis match"
+          },
+          {
+            "cf": "",
+            "x": "a league match"
+          },
+          {
+            "cf": "",
+            "x": "They are playing an important match against Liverpool on Saturday."
+          },
+          {
+            "cf": "",
+            "x": "to win/lose a match "
+          },
+          {
+            "cf": "",
+            "x": "I'll probably watch the match on TV."
+          },
+          {
+            "cf": "",
+            "x": "Dublin took on Toulouse in their opening match of the European Cup."
+          },
+          {
+            "cf": "",
+            "x": "Ireland took the match (= won) 2–1 ."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is equal to somebody else in strength, skill, intelligence, etc.",
+        "examples": [
+          {
+            "cf": "a/no match for somebody (at something)",
+            "x": "I was no match for him at tennis."
+          },
+          {
+            "cf": "",
+            "x": "We should be a match for most teams."
+          },
+          {
+            "cf": "somebody’s match (at something)",
+            "x": "I was his match at tennis."
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that combines well with somebody/something else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The curtains and carpet are a good match."
+          },
+          {
+            "cf": "a… match for somebody",
+            "x": "Jo and Ian are a perfect match for each other."
+          },
+          {
+            "cf": "a… match between A and B",
+            "x": "an excellent match between our goals and what your company offers"
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is or looks exactly the same as or very similar to something else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've found a vase that is an exact match of the one I broke."
+          },
+          {
+            "cf": "",
+            "x": "This paint is a close enough colour match to the original."
+          },
+          {
+            "cf": "",
+            "x": "She has a rare blood type, and finding a match could take years."
+          },
+          {
+            "cf": "",
+            "x": "To forge the certificate, she needed an exact match for the paper and the fonts."
+          }
+        ]
+      },
+      {
+        "definition": "a small stick made of wood or cardboard that is used for lighting a fire, cigarette, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a box of matches"
+          },
+          {
+            "cf": "",
+            "x": "to strike a match (= to make it burn)"
+          },
+          {
+            "cf": "",
+            "x": "to put a match to something (= set fire to something)"
+          },
+          {
+            "cf": "",
+            "x": "If you suspect a gas leak do not strike a match or use electricity."
+          },
+          {
+            "cf": "",
+            "x": "He took all her letters into the yard and put a match to them."
+          },
+          {
+            "cf": "",
+            "x": "He lit a match so they could see in the cave."
+          }
+        ]
+      },
+      {
+        "definition": "a marriage or a marriage partner",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was determined that his daughter should make a good match (= find a suitable husband)."
+          }
+        ]
+      },
+      {
+        "definition": "to meet somebody who is equal to or even better than you in strength, skill or intelligence",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thought he could beat anyone at chess but he’s met his match in Peter."
+          }
+        ]
+      },
+      {
+        "definition": "a man who is chosen as having given the best performance in a game of football (soccer), cricket, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stokes was named man of the match."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "medal",
+    "level": "A2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medal/medal__gb_1.mp3",
+    "phonetic_text": "/ˈmedl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medal/medal__us_1.mp3",
+    "phonetic_am_text": "/ˈmedl/",
+    "senses": [
+      {
+        "definition": "a flat piece of metal, usually like a coin in shape, that is given to the winner of a competition or to somebody who has been brave, for example in war",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to win a gold medal in the Olympics"
+          },
+          {
+            "cf": "",
+            "x": "to award a medal for bravery"
+          }
+        ]
+      },
+      {
+        "definition": "used to say that you admire somebody because they have done something difficult or unpleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She deserves a medal for teaching those 5-year-olds all day!"
+          },
+          {
+            "cf": "",
+            "x": "You really deserve a medal!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "net",
+    "level": "B1",
+    "category": "sports",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/net/net__/net__gb_2.mp3",
+    "phonetic_text": "/net/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/net/net__/net__us_1.mp3",
+    "phonetic_am_text": "/net/",
+    "senses": [
+      {
+        "definition": "a net amount of money is the amount that remains when nothing more is to be taken away",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a net profit of £500"
+          },
+          {
+            "cf": "",
+            "x": "net income/earnings (= after tax has been paid)"
+          },
+          {
+            "cf": "net of something",
+            "x": "What do you earn net of tax?"
+          }
+        ]
+      },
+      {
+        "definition": "the net weight of something is the weight without its container or the material it is wrapped in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "450 gms net weight"
+          }
+        ]
+      },
+      {
+        "definition": "final, after all the important facts have been included",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The net result is that small shopkeepers are being forced out of business."
+          },
+          {
+            "cf": "",
+            "x": "Canada is now a substantial net importer of medicines (= it imports more than it exports)."
+          },
+          {
+            "cf": "",
+            "x": "a net gain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pitch",
+    "level": "B2",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pit/pitch/pitch__gb_1.mp3",
+    "phonetic_text": "/pɪtʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pit/pitch/pitch__us_1.mp3",
+    "phonetic_am_text": "/pɪtʃ/",
+    "senses": [
+      {
+        "definition": "an area of ground specially prepared and marked for playing a sports game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a football pitch"
+          },
+          {
+            "cf": "",
+            "x": "a cricket/rugby/hockey pitch"
+          },
+          {
+            "cf": "",
+            "x": "an artificial pitch "
+          },
+          {
+            "cf": "",
+            "x": "After the game fans invaded the pitch."
+          },
+          {
+            "cf": "",
+            "x": "The rugby tour was a disaster both on and off the pitch (= they lost their matches and the players behaved badly while on tour, getting bad news reports)."
+          }
+        ]
+      },
+      {
+        "definition": "how high or low a sound is, especially a musical note",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A basic sense of rhythm and pitch is essential in a music teacher."
+          }
+        ]
+      },
+      {
+        "definition": "the degree or strength of a feeling or activity; the highest point of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a frenetic pitch of activity"
+          },
+          {
+            "cf": "",
+            "x": "Speculation has reached such a pitch that a decision will have to be made immediately."
+          },
+          {
+            "cf": "",
+            "x": "to reach a high pitch of excitement"
+          }
+        ]
+      },
+      {
+        "definition": "talk or arguments used by a person trying to sell something or persuade people to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an aggressive sales pitch"
+          },
+          {
+            "cf": "",
+            "x": "the candidate’s campaign pitch"
+          },
+          {
+            "cf": "",
+            "x": "Each company was given ten minutes to make its pitch."
+          }
+        ]
+      },
+      {
+        "definition": "an act of throwing the ball; the way in which it is thrown",
+        "examples": []
+      },
+      {
+        "definition": "a black sticky substance made from oil or coal, used on roofs or the wooden boards of a ship to stop water from coming through",
+        "examples": []
+      },
+      {
+        "definition": "a place in a street or market where somebody sells things, or where somebody performs in order to entertain people outdoors",
+        "examples": []
+      },
+      {
+        "definition": "a place in a campsite where you can put up one tent or park one caravan, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Pitches to rent from only £15 per night."
+          }
+        ]
+      },
+      {
+        "definition": "the movement of a ship up and down in the water or of an aircraft in the air",
+        "examples": []
+      },
+      {
+        "definition": "the degree to which a roof slopes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The pitch of the roof is 45 degrees."
+          }
+        ]
+      },
+      {
+        "definition": "to make a determined effort to get something or to persuade somebody of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He made a pitch to black voters in Alabama."
+          }
+        ]
+      },
+      {
+        "definition": "to cause somebody’s plans to fail or to destroy their chances of getting something",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "player",
+    "level": "A1",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/playe/player__gb_1.mp3",
+    "phonetic_text": "/ˈpleɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/playe/player__us_2.mp3",
+    "phonetic_am_text": "/ˈpleɪər/",
+    "senses": [
+      {
+        "definition": "a person who takes part in a game or sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a football/tennis/chess player"
+          },
+          {
+            "cf": "",
+            "x": "top/star players"
+          },
+          {
+            "cf": "",
+            "x": "a game for four players"
+          },
+          {
+            "cf": "",
+            "x": "We've lost two key players through injury."
+          },
+          {
+            "cf": "",
+            "x": "Celtic have signed four new players. "
+          }
+        ]
+      },
+      {
+        "definition": "a company or person involved in a particular area of business or politics",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company has emerged as a major player in the London property market."
+          }
+        ]
+      },
+      {
+        "definition": "a machine for producing the sound or pictures that have been recorded on CDs, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a DVD/CD player"
+          }
+        ]
+      },
+      {
+        "definition": "a person who plays a musical instrument",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a trumpet/bass player"
+          }
+        ]
+      },
+      {
+        "definition": "an actor",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Phoenix Players present ‘Romeo and Juliet’."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pool",
+    "level": "A1",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/poo/pool_/pool__gb_3.mp3",
+    "phonetic_text": "/puːl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/poo/pool_/pool__us_1.mp3",
+    "phonetic_am_text": "/puːl/",
+    "senses": [
+      {
+        "definition": "an area of water that has been created for people to swim in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an indoor/outdoor pool"
+          },
+          {
+            "cf": "",
+            "x": "Does the hotel have a pool?"
+          },
+          {
+            "cf": "",
+            "x": "relaxing by the pool"
+          }
+        ]
+      },
+      {
+        "definition": "the building that contains a public pool",
+        "examples": []
+      },
+      {
+        "definition": "a small area of still water, especially one that has formed naturally",
+        "examples": [
+          {
+            "cf": "",
+            "x": "freshwater/thermal pools"
+          }
+        ]
+      },
+      {
+        "definition": "a small amount of liquid or light lying on a surface",
+        "examples": [
+          {
+            "cf": "pool of something",
+            "x": "The body was lying in a pool of blood."
+          },
+          {
+            "cf": "",
+            "x": "a pool of light"
+          },
+          {
+            "cf": "",
+            "x": "The water ran down out of their clothes and formed a pool on floor. "
+          }
+        ]
+      },
+      {
+        "definition": "a supply of things or money that is shared by a group of people and can be used when needed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pool of cars used by the firm’s sales force"
+          },
+          {
+            "cf": "",
+            "x": "a pool car"
+          }
+        ]
+      },
+      {
+        "definition": "a group of people available for work when needed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pool of cheap labour"
+          },
+          {
+            "cf": "",
+            "x": "I started my career in the typing pool (= a group of people who shared a company’s typing work) over 40 years ago. "
+          }
+        ]
+      },
+      {
+        "definition": "a game for two people played with 16 balls on a table, often in pubs and bars. Players use cues (= long sticks) to try to hit the balls into pockets at the edge of the table.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pool table"
+          },
+          {
+            "cf": "",
+            "x": "to shoot (= play) pool"
+          },
+          {
+            "cf": "",
+            "x": "Do you play pool?"
+          }
+        ]
+      },
+      {
+        "definition": "a form of gambling in the UK in which people try to win money by saying what the results of football matches will be",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He does the pools every week."
+          },
+          {
+            "cf": "",
+            "x": "a pools winner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "punch",
+    "level": "B1",
+    "category": "sports",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pun/punch/punch__gb_2.mp3",
+    "phonetic_text": "/pʌntʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pun/punch/punch__us_2.mp3",
+    "phonetic_am_text": "/pʌntʃ/",
+    "senses": [
+      {
+        "definition": "a hard hit made with the fist (= closed hand)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a punch in the face"
+          },
+          {
+            "cf": "",
+            "x": "Hill threw a punch at the police officer."
+          },
+          {
+            "cf": "",
+            "x": "a knockout punch"
+          },
+          {
+            "cf": "",
+            "x": "He shot out his right arm and landed a punch on Lorrimer's nose."
+          }
+        ]
+      },
+      {
+        "definition": "the power to interest people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's a well-constructed crime story, told with speed and punch."
+          }
+        ]
+      },
+      {
+        "definition": "a tool or machine for cutting holes in paper, leather or metal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a hole punch"
+          }
+        ]
+      },
+      {
+        "definition": "a hot or cold drink made by mixing water, fruit juice, spices and usually wine or another alcoholic drink",
+        "examples": []
+      },
+      {
+        "definition": "to get or do something before somebody else can",
+        "examples": []
+      },
+      {
+        "definition": "to be capable of hitting somebody very hard",
+        "examples": []
+      },
+      {
+        "definition": "to have a powerful effect on somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The advertising campaign packs quite a punch."
+          }
+        ]
+      },
+      {
+        "definition": "to express something less strongly than you are able to, for example to avoid upsetting or shocking somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her articles certainly don't pull any punches."
+          }
+        ]
+      },
+      {
+        "definition": "to adapt yourself to a difficult situation",
+        "examples": []
+      }
+    ]
+  }
+]

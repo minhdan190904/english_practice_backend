@@ -1,0 +1,857 @@
+[
+  {
+    "word": "auto",
+    "level": "B2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/auto_/auto__gb_1.mp3",
+    "phonetic_text": "/ˈɔːtəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/auto_/auto__us_1.mp3",
+    "phonetic_am_text": "/ˈɔːtəʊ/",
+    "senses": [
+      {
+        "definition": "a car",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the auto industry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lane",
+    "level": "B1",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/lane_/lane__gb_1.mp3",
+    "phonetic_text": "/leɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/lane_/lane__us_1.mp3",
+    "phonetic_am_text": "/leɪn/",
+    "senses": [
+      {
+        "definition": "a narrow road in the country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "winding country lanes"
+          },
+          {
+            "cf": "",
+            "x": "We drove along a muddy lane to reach the farmhouse."
+          }
+        ]
+      },
+      {
+        "definition": "a city street",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Park Lane"
+          },
+          {
+            "cf": "",
+            "x": "The quickest way is through the back lanes behind the bus station."
+          }
+        ]
+      },
+      {
+        "definition": "a section of a wide road, that is marked by painted white lines, to keep lines of traffic separate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the inside/middle lane"
+          },
+          {
+            "cf": "",
+            "x": "the northbound/southbound lane"
+          },
+          {
+            "cf": "",
+            "x": "to change lanes"
+          },
+          {
+            "cf": "",
+            "x": "a four-lane highway"
+          }
+        ]
+      },
+      {
+        "definition": "a narrow marked section of a track or a swimming pool that is used by one person, for example when taking part in a race",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Australian in lane four is coming up fast from behind."
+          },
+          {
+            "cf": "",
+            "x": "Obi, the record holder, is in lane 3."
+          }
+        ]
+      },
+      {
+        "definition": "a route used by ships or aircraft on regular journeys",
+        "examples": [
+          {
+            "cf": "",
+            "x": "one of the world’s busiest shipping lanes"
+          }
+        ]
+      },
+      {
+        "definition": "(in tenpin bowling) a narrow section of floor along which the ball is bowled",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a 20-lane bowling alley"
+          }
+        ]
+      },
+      {
+        "definition": "where things are most exciting and where a lot is happening",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had a good job, plenty of money and he was enjoying life in the fast lane."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "load",
+    "level": "B1",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/loa/load_/load__gb_1.mp3",
+    "phonetic_text": "/ləʊd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/loa/load_/load__us_1.mp3",
+    "phonetic_am_text": "/ləʊd/",
+    "senses": [
+      {
+        "definition": "something that is being carried (usually in large amounts) by a person, vehicle, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trucks waited at the warehouse to pick up their loads."
+          },
+          {
+            "cf": "load of something",
+            "x": "The women came down the hill with their loads of firewood."
+          },
+          {
+            "cf": "",
+            "x": "These backpacks are designed to carry a heavy load."
+          },
+          {
+            "cf": "",
+            "x": "A lorry shed its load (= accidentally dropped its load) on the motorway."
+          },
+          {
+            "cf": "",
+            "x": "The company's debt load could drag it into bankruptcy."
+          }
+        ]
+      },
+      {
+        "definition": "the total amount of something that something can carry or contain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a busload of tourists"
+          },
+          {
+            "cf": "",
+            "x": "They ordered three truckloads of sand."
+          },
+          {
+            "cf": "",
+            "x": "He put half a load of washing in the machine."
+          },
+          {
+            "cf": "",
+            "x": "The plane took off with a full load."
+          },
+          {
+            "cf": "",
+            "x": "Maximum load, including passengers, is 800 pounds."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of weight that is pressing down on something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a load-bearing wall"
+          },
+          {
+            "cf": "",
+            "x": "Modern backpacks spread the load over a wider area."
+          },
+          {
+            "cf": "",
+            "x": "The table creaked under its heavy load."
+          }
+        ]
+      },
+      {
+        "definition": "a large number or amount of people or things; plenty",
+        "examples": [
+          {
+            "cf": "a load/loads of somebody/something",
+            "x": "She's got loads of friends."
+          },
+          {
+            "cf": "",
+            "x": "He wrote loads and loads of letters to people."
+          },
+          {
+            "cf": "",
+            "x": "Uncle Jim brought a whole load of presents for the kids."
+          },
+          {
+            "cf": "",
+            "x": "We saw a load of houses before we bought this one."
+          },
+          {
+            "cf": "",
+            "x": "They all had loads of fun at the park. "
+          },
+          {
+            "cf": "",
+            "x": "In my job I get the chance to meet loads of different people. "
+          },
+          {
+            "cf": "a load/loads to do",
+            "x": "There's loads to do today."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that something is wrong, stupid, bad, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You're talking a load of rubbish."
+          }
+        ]
+      },
+      {
+        "definition": "an amount of work that a person or machine has to do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Teaching loads have increased in all types of school."
+          },
+          {
+            "cf": "",
+            "x": "Extra warmth from sunlight can put an additional load on the air-conditioning system."
+          },
+          {
+            "cf": "",
+            "x": "We're trying to spread the load by employing more staff."
+          }
+        ]
+      },
+      {
+        "definition": "a feeling of responsibility or worry that is difficult to deal with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She thought she would not be able to bear the load of bringing up her family alone."
+          },
+          {
+            "cf": "",
+            "x": "Knowing that they had arrived safely took a load off my mind."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of electrical power that is being supplied at a particular time",
+        "examples": []
+      },
+      {
+        "definition": "used to tell somebody to look at or listen to somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Get a load of that dress!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lorry",
+    "level": "B1",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lor/lorry/lorry__gb_2.mp3",
+    "phonetic_text": "/ˈlɒri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lor/lorry/lorry__us_1.mp3",
+    "phonetic_am_text": "/ˈlɔːri/",
+    "senses": [
+      {
+        "definition": "a large vehicle for carrying heavy loads by road",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a lorry driver"
+          },
+          {
+            "cf": "",
+            "x": "a lorry load of frozen fish"
+          },
+          {
+            "cf": "by lorry",
+            "x": "Emergency food supplies were brought in by lorry."
+          }
+        ]
+      },
+      {
+        "definition": "goods that fell off the back of a lorry were probably stolen. People say or accept that they came ‘off the back of a lorry’ to avoid saying or asking where they really came from.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mobility",
+    "level": "B2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobility__gb_1.mp3",
+    "phonetic_text": "/məʊˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobility__us_1.mp3",
+    "phonetic_am_text": "/məʊˈbɪləti/",
+    "senses": [
+      {
+        "definition": "the ability to move easily from one place, social class or job to another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "social/geographical/career mobility"
+          },
+          {
+            "cf": "",
+            "x": "The high cost of living acts as an obstacle to mobility of labour."
+          }
+        ]
+      },
+      {
+        "definition": "the ability to move or travel around easily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "An electric wheelchair has given her greater mobility."
+          },
+          {
+            "cf": "",
+            "x": "mobility training for blind people"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "motor",
+    "level": "A2",
+    "category": "transport",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motor__gb_1.mp3",
+    "phonetic_text": "/ˈməʊtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motor__us_2.mp3",
+    "phonetic_am_text": "/ˈməʊtər/",
+    "senses": [
+      {
+        "definition": "having an engine; using the power of an engine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The street is closed to motor vehicles."
+          }
+        ]
+      },
+      {
+        "definition": "connected with vehicles that have engines",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Europe's motor industry faces international competition."
+          },
+          {
+            "cf": "",
+            "x": "I like all forms of motor sports."
+          },
+          {
+            "cf": "",
+            "x": "a motor accident"
+          },
+          {
+            "cf": "",
+            "x": "motor insurance"
+          },
+          {
+            "cf": "",
+            "x": "motor fuel"
+          }
+        ]
+      },
+      {
+        "definition": "connected with movement of the body that is produced by muscles; connected with the nerves that control movement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "uncoordinated motor activity"
+          },
+          {
+            "cf": "",
+            "x": "Both motor and sensory functions are affected."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "motorcycle",
+    "level": "A2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motorcycle__gb_2.mp3",
+    "phonetic_text": "/ˈməʊtəsaɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motorcycle__us_1.mp3",
+    "phonetic_am_text": "/ˈməʊtərsaɪkl/",
+    "senses": [
+      {
+        "definition": "a road vehicle with two wheels, driven by an engine, with one seat for the driver and often a seat for a passenger behind the driver",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He never learned to ride a motorcycle or to drive a car."
+          },
+          {
+            "cf": "on a motorcycle",
+            "x": "She rode round Italy on a motorcycle."
+          },
+          {
+            "cf": "",
+            "x": "motorcycle racing"
+          },
+          {
+            "cf": "",
+            "x": "a motorcycle accident"
+          },
+          {
+            "cf": "",
+            "x": "The car was accompanied by a police motorcycle escort."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "motorist",
+    "level": "B2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motor/motorist__gb_1.mp3",
+    "phonetic_text": "/ˈməʊtərɪst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motor/motorist__us_1.mp3",
+    "phonetic_am_text": "/ˈməʊtərɪst/",
+    "senses": [
+      {
+        "definition": "a person driving a car",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The accident was reported by a passing motorist."
+          },
+          {
+            "cf": "",
+            "x": "Motorists who fail to stop risk an even higher penalty."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "navigation",
+    "level": "B2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nav/navig/navigation__gb_1.mp3",
+    "phonetic_text": "/ˌnævɪˈɡeɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nav/navig/navigation__us_1.mp3",
+    "phonetic_am_text": "/ˌnævɪˈɡeɪʃn/",
+    "senses": [
+      {
+        "definition": "the skill or the process of planning a route for a ship or other vehicle and taking it there",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an expert in navigation"
+          },
+          {
+            "cf": "",
+            "x": "a GPS navigation device"
+          },
+          {
+            "cf": "",
+            "x": "The stars were used for navigation in the desert."
+          }
+        ]
+      },
+      {
+        "definition": "the movement of ships or aircraft",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the right of navigation through international waters"
+          }
+        ]
+      },
+      {
+        "definition": "the way that you move around a website or the internet when you are looking for information",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The site was redesigned to improve navigation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "parking",
+    "level": "A2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/parki/parking__gb_1.mp3",
+    "phonetic_text": "/ˈpɑːkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parki/parking__us_1.mp3",
+    "phonetic_am_text": "/ˈpɑːrkɪŋ/",
+    "senses": [
+      {
+        "definition": "the act of stopping a vehicle at a place and leaving it there for a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is no parking here between 9 a.m. and 6 p.m."
+          },
+          {
+            "cf": "",
+            "x": "I managed to find a parking space."
+          },
+          {
+            "cf": "",
+            "x": "I got there early to grab a parking spot. "
+          },
+          {
+            "cf": "",
+            "x": "I pulled the car over into a parking bay. "
+          },
+          {
+            "cf": "",
+            "x": "a parking fine (= for parking illegally)"
+          }
+        ]
+      },
+      {
+        "definition": "a space or an area for leaving vehicles",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hotel is centrally situated with ample free parking."
+          },
+          {
+            "cf": "",
+            "x": "parking for 300 cars"
+          },
+          {
+            "cf": "",
+            "x": "There is off-street parking at the front of the house. "
+          },
+          {
+            "cf": "",
+            "x": "The town has free on-street parking."
+          },
+          {
+            "cf": "",
+            "x": "The public did not vote for increased car parking charges."
+          },
+          {
+            "cf": "",
+            "x": "The hotel has six levels of underground parking."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "passenger",
+    "level": "A2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pas/passe/passenger__gb_2.mp3",
+    "phonetic_text": "/ˈpæsɪndʒə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/passe/passenger__us_1.mp3",
+    "phonetic_am_text": "/ˈpæsɪndʒər/",
+    "senses": [
+      {
+        "definition": "a person who is travelling in a car, bus, train, plane or ship and who is not driving it or working on it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "airline/cruise/rail/bus passengers"
+          },
+          {
+            "cf": "",
+            "x": "I soon got talking to a fellow passenger on the flight."
+          },
+          {
+            "cf": "",
+            "x": "The boat was carrying more than 100 passengers."
+          },
+          {
+            "cf": "",
+            "x": "a passenger train (= carrying passengers, not goods)"
+          }
+        ]
+      },
+      {
+        "definition": "a member of a group or team who does not do as much work as the others",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The firm cannot afford to carry passengers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "petrol",
+    "level": "A2",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pet/petro/petrol__gb_1.mp3",
+    "phonetic_text": "/ˈpetrəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pet/petro/petrol__us_1.mp3",
+    "phonetic_am_text": "/ˈpetrəl/",
+    "senses": [
+      {
+        "definition": "a liquid obtained from petroleum, used as fuel in car engines, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to fill a car up with petrol "
+          },
+          {
+            "cf": "",
+            "x": "to run out of petrol"
+          },
+          {
+            "cf": "",
+            "x": "The car has a 2-litre petrol engine. "
+          },
+          {
+            "cf": "",
+            "x": "the petrol tank of a car"
+          },
+          {
+            "cf": "",
+            "x": "An increase in petrol prices will lead to severe difficulties for the company."
+          },
+          {
+            "cf": "",
+            "x": "leaded/unleaded petrol"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plane",
+    "level": "A1",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plane/plane__gb_3.mp3",
+    "phonetic_text": "/pleɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plane/plane__us_1.mp3",
+    "phonetic_am_text": "/pleɪn/",
+    "senses": [
+      {
+        "definition": "a flying vehicle with wings and one or more engines",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a passenger/fighter/military/private plane"
+          },
+          {
+            "cf": "",
+            "x": "They boarded the plane and flew to Chicago."
+          },
+          {
+            "cf": "",
+            "x": "I caught the next plane to Dublin."
+          },
+          {
+            "cf": "",
+            "x": "The plane took off an hour late."
+          },
+          {
+            "cf": "",
+            "x": "The plane landed in Geneva."
+          },
+          {
+            "cf": "",
+            "x": "to fly a plane"
+          },
+          {
+            "cf": "by plane",
+            "x": "She left by plane for Berlin."
+          },
+          {
+            "cf": "",
+            "x": "a plane ticket"
+          },
+          {
+            "cf": "",
+            "x": "a plane crash"
+          },
+          {
+            "cf": "",
+            "x": "a plane ride/flight/journey"
+          }
+        ]
+      },
+      {
+        "definition": "any flat or level surface, or an imaginary flat surface through or joining material objects",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the horizontal/vertical plane"
+          },
+          {
+            "cf": "",
+            "x": "We may describe uniquely any point in a plane by an ordered pair of numbers, called coordinates."
+          }
+        ]
+      },
+      {
+        "definition": "a level of thought, existence or development",
+        "examples": [
+          {
+            "cf": "",
+            "x": "With practice, an athlete can reach a higher plane of achievement."
+          },
+          {
+            "cf": "",
+            "x": "They seem to exist on a different spiritual plane."
+          },
+          {
+            "cf": "",
+            "x": "Like all talented musicians, he operates on a different plane from most people."
+          }
+        ]
+      },
+      {
+        "definition": "a tool with a blade (= sharp metal part) set in a flat surface, used for making the surface of wood smooth by cutting very thin layers off it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "port",
+    "level": "B1",
+    "category": "transport",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/por/port_/port__gb_1.mp3",
+    "phonetic_text": "/pɔːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/port_/port__us_1.mp3",
+    "phonetic_am_text": "/pɔːrt/",
+    "senses": [
+      {
+        "definition": "a town or city with a harbour, especially one where ships load and unload goods",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a container/fishing port"
+          },
+          {
+            "cf": "",
+            "x": "Rotterdam is a major port."
+          },
+          {
+            "cf": "",
+            "x": "the port city of Gdansk "
+          },
+          {
+            "cf": "",
+            "x": "the Black Sea ports"
+          }
+        ]
+      },
+      {
+        "definition": "a place where ships load and unload goods or shelter from storms",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a naval port"
+          },
+          {
+            "cf": "",
+            "x": "a container/ferry port"
+          },
+          {
+            "cf": "in/into port",
+            "x": "The ship spent four days in port. "
+          },
+          {
+            "cf": "",
+            "x": "They reached port at last."
+          },
+          {
+            "cf": "",
+            "x": "port of entry (= a place where people or goods can enter a country)"
+          },
+          {
+            "cf": "",
+            "x": "the port authorities"
+          }
+        ]
+      },
+      {
+        "definition": "a strong sweet wine, usually dark red, that is made in Portugal. It is usually drunk at the end of a meal.",
+        "examples": []
+      },
+      {
+        "definition": "a glass of port",
+        "examples": []
+      },
+      {
+        "definition": "the side of a ship or aircraft that is on the left when you are facing forward",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the port side"
+          }
+        ]
+      },
+      {
+        "definition": "a place on a computer where you can attach another piece of equipment, often using a cable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the modem port"
+          }
+        ]
+      },
+      {
+        "definition": "if you are in great trouble, you take any help that is offered",
+        "examples": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,883 @@
+[
+  {
+    "word": "agricultural",
+    "level": "B2",
+    "category": "environment",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agric/agricultural__gb_1.mp3",
+    "phonetic_text": "/ˌæɡrɪˈkʌltʃərəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agric/agricultural__us_1.mp3",
+    "phonetic_am_text": "/ˌæɡrɪˈkʌltʃərəl/",
+    "senses": [
+      {
+        "definition": "connected with the science or practice of farming",
+        "examples": [
+          {
+            "cf": "",
+            "x": "agricultural policy/land/production/development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agriculture",
+    "level": "B2",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/agr/agric/agriculture__gb_1.mp3",
+    "phonetic_text": "/ˈæɡrɪkʌltʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/agr/agric/agriculture__us_1.mp3",
+    "phonetic_am_text": "/ˈæɡrɪkʌltʃər/",
+    "senses": [
+      {
+        "definition": "the science or practice of farming",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The number of people employed in agriculture has fallen in the last decade."
+          },
+          {
+            "cf": "",
+            "x": "50% of the country’s population depends on agriculture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "air",
+    "level": "A1",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/air/air__/air__gb_1.mp3",
+    "phonetic_text": "/eə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/air/air__/air__us_1.mp3",
+    "phonetic_am_text": "/er/",
+    "senses": [
+      {
+        "definition": "the mixture of gases that surrounds the earth and that we breathe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let's go out for some fresh air."
+          },
+          {
+            "cf": "",
+            "x": "a blast of hot air"
+          },
+          {
+            "cf": "",
+            "x": "currents of warm air"
+          },
+          {
+            "cf": "",
+            "x": "He stood outside, breathing the cold night air."
+          },
+          {
+            "cf": "",
+            "x": "She was gasping for air as she ran out of the burning house."
+          },
+          {
+            "cf": "",
+            "x": "whales coming up for air (= in order to breathe)"
+          },
+          {
+            "cf": "",
+            "x": "I need to put some air in my tyres."
+          },
+          {
+            "cf": "",
+            "x": "The agreement requires reductions in air pollution."
+          },
+          {
+            "cf": "",
+            "x": "The Act lays down a minimum standard for air quality."
+          }
+        ]
+      },
+      {
+        "definition": "the space above the ground or that is around things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Music filled the night air."
+          },
+          {
+            "cf": "in/into the air",
+            "x": "Wave your hands in the air!"
+          },
+          {
+            "cf": "",
+            "x": "I kicked the ball high into the air."
+          },
+          {
+            "cf": "through the air",
+            "x": "Spicy smells wafted through the air."
+          },
+          {
+            "cf": "",
+            "x": "He punched the air in triumph."
+          },
+          {
+            "cf": "",
+            "x": "The air was thick with cigarette smoke."
+          }
+        ]
+      },
+      {
+        "definition": "the space above the earth where planes fly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The temple was clearly visible from the air."
+          },
+          {
+            "cf": "",
+            "x": "We watched as the helicopter took to the air."
+          },
+          {
+            "cf": "by air",
+            "x": "It only takes three hours by air (= in a plane)."
+          },
+          {
+            "cf": "",
+            "x": "air travel/traffic"
+          },
+          {
+            "cf": "",
+            "x": "air defence systems (= weapons that defend against attacks from the air)"
+          },
+          {
+            "cf": "",
+            "x": "A surprise air attack (= from aircraft) was launched at night."
+          }
+        ]
+      },
+      {
+        "definition": "the particular feeling or impression that is given by somebody/something; the way somebody does something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She looked at him with a defiant air."
+          },
+          {
+            "cf": "air of something",
+            "x": "The room had an air of luxury."
+          },
+          {
+            "cf": "",
+            "x": "There was an air of complete confidence about her."
+          }
+        ]
+      },
+      {
+        "definition": "a tune",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Bach’s Air on a G string"
+          }
+        ]
+      },
+      {
+        "definition": "a way of behaving that shows that somebody thinks that they are more important, etc. than they really are",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I hate it when people put on airs."
+          }
+        ]
+      },
+      {
+        "definition": "a way of behaving that shows that somebody thinks that they are more important, etc. than they really are",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Even when he became a star he didn’t have any airs and graces."
+          }
+        ]
+      },
+      {
+        "definition": "clean air breathed in after being indoors or in a dirty atmosphere",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We'll get a breath of fresh air at lunchtime."
+          },
+          {
+            "cf": "",
+            "x": "I'm going outside for a breath of fresh air."
+          }
+        ]
+      },
+      {
+        "definition": "(to have) plans or dreams that are not likely to happen or come true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "As a child he would wander round the boatyards, building castles in the air about owning a boat one day."
+          }
+        ]
+      },
+      {
+        "definition": "to improve a difficult or tense situation by talking about worries, doubts, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This meeting will be an opportunity to clear the air and start the healing process."
+          }
+        ]
+      },
+      {
+        "definition": "to make the air less dirty or less humid (= warm and wet)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Storms were supposed to clear the air."
+          }
+        ]
+      },
+      {
+        "definition": "to disappear suddenly in a mysterious way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She can’t just have vanished into thin air."
+          },
+          {
+            "cf": "",
+            "x": "At a stroke she could make things vanish into thin air."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to an estimate or method of doing something that is not very accurate or scientific and partly based on guessing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It isn’t an exact science—it’s a kind of finger in the air thing."
+          },
+          {
+            "cf": "",
+            "x": "‘It’s all a bit finger in the air,’ admitted a spokesman."
+          }
+        ]
+      },
+      {
+        "definition": "to feel very happy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Most couples feel they are walking on air on their wedding day."
+          }
+        ]
+      },
+      {
+        "definition": "felt by a number of people to exist or to be happening",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's romance in the air."
+          }
+        ]
+      },
+      {
+        "definition": "broadcasting or not broadcasting on television or radio",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We will be back on air tomorrow morning at 7."
+          },
+          {
+            "cf": "",
+            "x": "The programme was taken off the air over the summer."
+          }
+        ]
+      },
+      {
+        "definition": "from nowhere or nothing, as if by magic",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Unfortunately, I can’t just conjure up the money out of thin air!"
+          }
+        ]
+      },
+      {
+        "definition": "to say a name, number, etc. without thinking about it, especially in answer to a question",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I just plucked a figure out of the air and said : ‘Would £1 000 seem reasonable to you?’"
+          }
+        ]
+      },
+      {
+        "definition": "not yet decided",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Our travel plans are still up in the air."
+          }
+        ]
+      },
+      {
+        "definition": "in a way that is not friendly and suggests that you think that you are better than other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She walked in with her nose in the air, ignoring everyone."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ash",
+    "level": "B1",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ash/ash__/ash__gb_2.mp3",
+    "phonetic_text": "/æʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ash/ash__/ash__us_2.mp3",
+    "phonetic_am_text": "/æʃ/",
+    "senses": [
+      {
+        "definition": "the grey or black powder that is left after something, especially tobacco, wood or coal, has burnt",
+        "examples": [
+          {
+            "cf": "",
+            "x": "cigarette ash"
+          },
+          {
+            "cf": "",
+            "x": "black volcanic ash"
+          },
+          {
+            "cf": "",
+            "x": "Ash from the volcano fell over a wide area."
+          },
+          {
+            "cf": "",
+            "x": "She flicked ash out of the window carelessly."
+          }
+        ]
+      },
+      {
+        "definition": "what is left after something has been destroyed by burning",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The town was reduced to ashes in the fighting."
+          },
+          {
+            "cf": "",
+            "x": "the glowing ashes of the campfire"
+          },
+          {
+            "cf": "",
+            "x": "The fire had died to cold ashes."
+          },
+          {
+            "cf": "",
+            "x": "The party had risen, like a phoenix, from the ashes of electoral disaster."
+          },
+          {
+            "cf": "",
+            "x": "She had seen all her dreams turn to ashes."
+          }
+        ]
+      },
+      {
+        "definition": "the powder that is left after a dead person’s body has been cremated (= burned)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She wanted her ashes to be scattered at sea."
+          }
+        ]
+      },
+      {
+        "definition": "a forest tree with grey bark",
+        "examples": []
+      },
+      {
+        "definition": "the hard pale wood of the ash tree",
+        "examples": []
+      },
+      {
+        "definition": "the letter æ, used in Old English, and as a phonetic symbol to represent the vowel sound in cat",
+        "examples": []
+      },
+      {
+        "definition": "to behave in a way that shows that you are sorry for something that you have done",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gas",
+    "level": "A2",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gas/gas__/gas__gb_2.mp3",
+    "phonetic_text": "/ɡæs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gas/gas__/gas__us_1.mp3",
+    "phonetic_am_text": "/ɡæs/",
+    "senses": [
+      {
+        "definition": "any substance like air that is neither a solid nor a liquid, for example hydrogen or oxygen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Air is a mixture of gases."
+          },
+          {
+            "cf": "",
+            "x": "Carbon monoxide is a poisonous gas."
+          }
+        ]
+      },
+      {
+        "definition": "a particular type of gas or mixture of gases used as fuel for heating and cooking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "fossil fuels like oil and gas"
+          },
+          {
+            "cf": "",
+            "x": "Can you smell gas?"
+          },
+          {
+            "cf": "",
+            "x": "a gas cooker/stove/fire"
+          },
+          {
+            "cf": "",
+            "x": "gas central heating"
+          },
+          {
+            "cf": "",
+            "x": "a gas leak/explosion"
+          },
+          {
+            "cf": "",
+            "x": "plans to build a new gas pipeline"
+          },
+          {
+            "cf": "",
+            "x": "Gas prices have risen sharply."
+          },
+          {
+            "cf": "",
+            "x": "The country has huge gas reserves."
+          },
+          {
+            "cf": "",
+            "x": "a gas canister/cylinder (= for storing gas)"
+          },
+          {
+            "cf": "",
+            "x": "Preheat the oven to gas mark 5 (= a particular temperature of a gas oven)."
+          }
+        ]
+      },
+      {
+        "definition": "a particular type of gas used during a medical operation, to make the patient unconscious or to make the pain less",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an anaesthetic gas"
+          },
+          {
+            "cf": "",
+            "x": "Did you have gas or an injection?"
+          },
+          {
+            "cf": "",
+            "x": "During the birth she was given gas and air."
+          }
+        ]
+      },
+      {
+        "definition": "a particular type of gas used in war to kill or injure people, or used by the police to control people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a gas attack"
+          }
+        ]
+      },
+      {
+        "definition": "a liquid obtained from petroleum, used as fuel in car engines, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to run out of gas"
+          },
+          {
+            "cf": "",
+            "x": "I still had plenty of gas in the tank."
+          },
+          {
+            "cf": "",
+            "x": "He supported himself with a night job pumping gas."
+          },
+          {
+            "cf": "",
+            "x": "a gas pump"
+          }
+        ]
+      },
+      {
+        "definition": "the pedal in a car or other vehicle that you press with your foot to control the speed of the engine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Step on the gas, we're late."
+          }
+        ]
+      },
+      {
+        "definition": "a person or an event that is fun",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The party was a real gas."
+          }
+        ]
+      },
+      {
+        "definition": "air that you swallow with food or drink; gas that is produced in your stomach or intestines that makes you feel uncomfortable",
+        "examples": []
+      },
+      {
+        "definition": "to be doing something very well and successfully",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "level": "B2",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gre/green/greenhouse__gb_1.mp3",
+    "phonetic_text": "/ˈɡriːnhaʊs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gre/green/greenhouse__us_1.mp3",
+    "phonetic_am_text": "/ˈɡriːnhaʊs/",
+    "senses": [
+      {
+        "definition": "a building with glass sides and a glass roof for growing plants in",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "litter",
+    "level": "B1",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lit/litte/litter__gb_1.mp3",
+    "phonetic_text": "/ˈlɪtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lit/litte/litter__us_1.mp3",
+    "phonetic_am_text": "/ˈlɪtər/",
+    "senses": [
+      {
+        "definition": "small pieces of rubbish such as paper, cans and bottles, that people have left lying in a public place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There will be fines for people who drop litter."
+          }
+        ]
+      },
+      {
+        "definition": "a number of things that are lying in an untidy way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The floor was covered with a litter of newspapers, clothes and empty cups."
+          }
+        ]
+      },
+      {
+        "definition": "a dry substance that is put in a shallow open box for pets, especially cats, to use as a toilet when they are indoors",
+        "examples": [
+          {
+            "cf": "",
+            "x": "cat litter"
+          },
+          {
+            "cf": "",
+            "x": "kitty litter"
+          },
+          {
+            "cf": "",
+            "x": "a litter tray"
+          },
+          {
+            "cf": "",
+            "x": "a litter box"
+          }
+        ]
+      },
+      {
+        "definition": "a number of baby animals that one mother gives birth to at the same time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a litter of puppies"
+          },
+          {
+            "cf": "",
+            "x": "the runt (= the smallest and weakest baby) of the litter"
+          },
+          {
+            "cf": "",
+            "x": "‘Chief’ was born six years ago, one of a litter of 11."
+          }
+        ]
+      },
+      {
+        "definition": "the substance, especially straw, that is used for farm animals to sleep on",
+        "examples": []
+      },
+      {
+        "definition": "a kind of chair or bed that was used in the past for carrying important people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "plastic",
+    "level": "A2",
+    "category": "environment",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plast/plastic__gb_1.mp3",
+    "phonetic_text": "/ˈplæstɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plast/plastic__us_2.mp3",
+    "phonetic_am_text": "/ˈplæstɪk/",
+    "senses": [
+      {
+        "definition": "made of plastic",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a plastic bag/bottle/cup"
+          },
+          {
+            "cf": "",
+            "x": "recyclable plastic containers "
+          }
+        ]
+      },
+      {
+        "definition": "easily formed into different shapes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Clay is a plastic substance."
+          }
+        ]
+      },
+      {
+        "definition": "that seems artificial; false; not real or sincere",
+        "examples": [
+          {
+            "cf": "",
+            "x": "TV game show hosts with their banal remarks and plastic smiles"
+          },
+          {
+            "cf": "",
+            "x": "The flight attendants served up plastic food with little taste or texture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pollution",
+    "level": "B1",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pol/pollu/pollution__gb_2.mp3",
+    "phonetic_text": "/pəˈluːʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pol/pollu/pollution__us_2.mp3",
+    "phonetic_am_text": "/pəˈluːʃn/",
+    "senses": [
+      {
+        "definition": "the process of making air, water, soil, etc. dirty; the state of being dirty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "air/water pollution"
+          },
+          {
+            "cf": "",
+            "x": "to reduce pollution levels"
+          },
+          {
+            "cf": "",
+            "x": "new pollution control technologies "
+          }
+        ]
+      },
+      {
+        "definition": "substances that make air, water, soil, etc. dirty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "beaches covered with pollution"
+          },
+          {
+            "cf": "",
+            "x": "The new buses emit no more pollution than the average car."
+          }
+        ]
+      },
+      {
+        "definition": "harmful or annoying levels of noise, or of artificial light at night",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Heavy traffic flow is a major source of noise pollution in urban areas."
+          },
+          {
+            "cf": "",
+            "x": "The government has announced plans to tackle light pollution."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "preservation",
+    "level": "B2",
+    "category": "environment",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prese/preservation__gb_1.mp3",
+    "phonetic_text": "/ˌprezəˈveɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/prese/preservation__us_1.mp3",
+    "phonetic_am_text": "/ˌprezərˈveɪʃn/",
+    "senses": [
+      {
+        "definition": "the act of keeping something in its original state or in good condition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "building/environmental/food preservation"
+          },
+          {
+            "cf": "",
+            "x": "a preservation group/society"
+          }
+        ]
+      },
+      {
+        "definition": "the act of making sure that something is kept",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The central issue in the strike was the preservation of jobs."
+          }
+        ]
+      },
+      {
+        "definition": "the degree to which something has not been changed or damaged by age, weather, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The paintings were in an excellent state of preservation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "preserve",
+    "level": "B2",
+    "category": "environment",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prese/preserve__gb_1.mp3",
+    "phonetic_text": "/prɪˈzɜːv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/prese/preserve__us_4.mp3",
+    "phonetic_am_text": "/prɪˈzɜːrv/",
+    "senses": [
+      {
+        "definition": "to keep a particular quality, feature, etc.; to make sure that something is kept",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was anxious to preserve his reputation."
+          },
+          {
+            "cf": "",
+            "x": "Efforts to preserve the peace have failed."
+          },
+          {
+            "cf": "",
+            "x": "She managed to preserve her sense of humour under very trying circumstances."
+          },
+          {
+            "cf": "",
+            "x": "He was insistent on preserving the integrity of the brand. "
+          }
+        ]
+      },
+      {
+        "definition": "to keep something in its original state in good condition",
+        "examples": [
+          {
+            "cf": "preserve something/somebody",
+            "x": "a perfectly preserved 14th-century house"
+          },
+          {
+            "cf": "",
+            "x": "Is he really 60? He's remarkably well preserved."
+          },
+          {
+            "cf": "",
+            "x": "We need knowledgeable gallery curators to preserve great masterpieces for posterity. "
+          },
+          {
+            "cf": "preserve something + adj.",
+            "x": "This vase has been preserved intact."
+          }
+        ]
+      },
+      {
+        "definition": "to prevent something, especially food, from decaying (= being destroyed by natural processes) by treating it in a particular way",
+        "examples": [
+          {
+            "cf": "preserve something",
+            "x": "Wax polish preserves wood and leather."
+          },
+          {
+            "cf": "",
+            "x": "preserved lemons "
+          },
+          {
+            "cf": "preserve something in something",
+            "x": "olives preserved in brine"
+          },
+          {
+            "cf": "preserve something from something",
+            "x": "an attempt to preserve the corpse from decomposition"
+          }
+        ]
+      },
+      {
+        "definition": "to keep somebody/something alive, or safe from harm or danger",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The society was set up to preserve endangered species from extinction."
+          }
+        ]
+      }
+    ]
+  }
+]

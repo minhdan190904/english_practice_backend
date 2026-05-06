@@ -1,0 +1,1575 @@
+[
+  {
+    "word": "apartment",
+    "level": "A1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/apa/apart/apartment__gb_1.mp3",
+    "phonetic_text": "/əˈpɑːtmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/apa/apart/apartment__us_1.mp3",
+    "phonetic_am_text": "/əˈpɑːrtmənt/",
+    "senses": [
+      {
+        "definition": "a set of rooms for living in, usually on one floor of a building",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an apartment building"
+          },
+          {
+            "cf": "",
+            "x": "I was renting a two-bedroom apartment in an old building."
+          },
+          {
+            "cf": "",
+            "x": "A group of developers wants to build a high-rise apartment complex."
+          },
+          {
+            "cf": "",
+            "x": "I lived on the ground floor of an apartment block. "
+          },
+          {
+            "cf": "",
+            "x": "They left their fourth-floor apartment on Mott Street and walked to the bus."
+          },
+          {
+            "cf": "",
+            "x": "a one-room apartment"
+          },
+          {
+            "cf": "",
+            "x": "I moved into a lovely little studio apartment."
+          },
+          {
+            "cf": "",
+            "x": "He was evicted from his Manhattan apartment."
+          }
+        ]
+      },
+      {
+        "definition": "a set of rooms used for a holiday",
+        "examples": [
+          {
+            "cf": "",
+            "x": "self-catering holiday apartments"
+          },
+          {
+            "cf": "",
+            "x": "They are staying in a luxury apartment overlooking the beach."
+          }
+        ]
+      },
+      {
+        "definition": "a room in a house, especially a large or famous house",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You can visit the whole palace except for the private apartments."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "attachment",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attac/attachment__gb_1.mp3",
+    "phonetic_text": "/əˈtætʃmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attac/attachment__us_1.mp3",
+    "phonetic_am_text": "/əˈtætʃmənt/",
+    "senses": [
+      {
+        "definition": "a document that you send to somebody using email",
+        "examples": [
+          {
+            "cf": "",
+            "x": "No attachment was included."
+          }
+        ]
+      },
+      {
+        "definition": "the act of joining one thing to another; a thing that joins two things together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All cars have points for the attachment of safety restraints."
+          },
+          {
+            "cf": "attachment of something to something",
+            "x": "They discussed the attachment of new conditions to the peace plans."
+          },
+          {
+            "cf": "attachment to something",
+            "x": "They had to check the strength of the seat attachments to the floor of the plane."
+          }
+        ]
+      },
+      {
+        "definition": "a feeling of love for somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a child’s strong attachment to its parents"
+          },
+          {
+            "cf": "",
+            "x": "Prisoners can develop attachments to their guards."
+          }
+        ]
+      },
+      {
+        "definition": "belief in and support for an idea or a set of values",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the popular attachment to democratic government"
+          }
+        ]
+      },
+      {
+        "definition": "a tool that you can fix onto a machine, to make it do another job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an electric drill with a range of different attachments"
+          }
+        ]
+      },
+      {
+        "definition": "a short time spent working with an organization such as a hospital, school or part of the armed forces",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a 4-month training attachment"
+          },
+          {
+            "cf": "on attachment (to something)",
+            "x": "She's on attachment to the local hospital."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "garage",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garag/garage__gb_6.mp3",
+    "phonetic_text": "/ˈɡærɑːʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garag/garage__us_1_rr.mp3",
+    "phonetic_am_text": "/ɡəˈrɑːʒ/",
+    "senses": [
+      {
+        "definition": "a building for keeping one or more cars or other vehicles in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a double garage (= one for two cars)"
+          },
+          {
+            "cf": "",
+            "x": "a house with a detached/an attached/an integral garage"
+          },
+          {
+            "cf": "",
+            "x": "a bus garage"
+          },
+          {
+            "cf": "",
+            "x": "an underground garage (= for example under an office building)"
+          },
+          {
+            "cf": "in a garage",
+            "x": "Don't forget to put the car in the garage."
+          },
+          {
+            "cf": "",
+            "x": "Did you shut the garage door?"
+          }
+        ]
+      },
+      {
+        "definition": "a place where vehicles are repaired and/or where you can buy a car or buy petrol and oil",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I had to take the car to the garage."
+          },
+          {
+            "cf": "at a garage",
+            "x": "The car's still at the garage."
+          },
+          {
+            "cf": "",
+            "x": "a garage mechanic"
+          }
+        ]
+      },
+      {
+        "definition": "a style of rock music played with great energy but not necessarily great technique, popular in the 1960s",
+        "examples": []
+      },
+      {
+        "definition": "a type of electronic dance music with elements of drum and bass, house music and soul",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "level": "A1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gar/garde/garden__gb_2.mp3",
+    "phonetic_text": "/ˈɡɑːdn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3",
+    "phonetic_am_text": "/ˈɡɑːrdn/",
+    "senses": [
+      {
+        "definition": "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn (= an area of grass)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a front/back/rear garden"
+          },
+          {
+            "cf": "",
+            "x": "a vegetable garden"
+          },
+          {
+            "cf": "",
+            "x": "a rose garden (= where only roses are grown)"
+          },
+          {
+            "cf": "",
+            "x": "The main bedroom overlooks the garden."
+          },
+          {
+            "cf": "in the garden",
+            "x": "children playing in the garden"
+          },
+          {
+            "cf": "",
+            "x": "a garden shed"
+          },
+          {
+            "cf": "",
+            "x": "garden flowers/plants"
+          }
+        ]
+      },
+      {
+        "definition": "an area in a yard where you grow flowers or plants",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These flowers brighten up backyard gardens all over the country."
+          }
+        ]
+      },
+      {
+        "definition": "a public park",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Thousands of people now visit the gardens every year."
+          },
+          {
+            "cf": "in the gardens",
+            "x": "The concert will take place in the gardens."
+          }
+        ]
+      },
+      {
+        "definition": "used in the name of streets",
+        "examples": [
+          {
+            "cf": "",
+            "x": "39 Belvoir Gardens"
+          }
+        ]
+      },
+      {
+        "definition": "ordinary; with no special features",
+        "examples": []
+      },
+      {
+        "definition": "everything is fine",
+        "examples": []
+      },
+      {
+        "definition": "to make somebody believe something that is not true",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "gate",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gat/gate_/gate__gb_2.mp3",
+    "phonetic_text": "/ɡeɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gat/gate_/gate__us_1.mp3",
+    "phonetic_am_text": "/ɡeɪt/",
+    "senses": [
+      {
+        "definition": "a barrier like a door that is used to close an opening in a fence or a wall outside a building",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the front/main gate"
+          },
+          {
+            "cf": "",
+            "x": "the back/side gate"
+          },
+          {
+            "cf": "",
+            "x": "an iron gate"
+          },
+          {
+            "cf": "",
+            "x": "to open/close/shut a gate"
+          },
+          {
+            "cf": "",
+            "x": "He pushed open the garden gate."
+          },
+          {
+            "cf": "outside a gate",
+            "x": "Students were still standing outside the school gates."
+          },
+          {
+            "cf": "at a gate",
+            "x": "A crowd gathered at the factory gates."
+          },
+          {
+            "cf": "gate to something",
+            "x": "Someone was waiting by the gate to his house."
+          }
+        ]
+      },
+      {
+        "definition": "an opening that can be closed by a gate or gates",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I was slightly nervous as I entered the gates."
+          },
+          {
+            "cf": "through a gate",
+            "x": "We drove through the palace gates."
+          }
+        ]
+      },
+      {
+        "definition": "a way out of an airport through which passengers go to get on their plane",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Passengers for Paris should proceed to gate 8."
+          },
+          {
+            "cf": "at a gate",
+            "x": "BA flight 726 to Paris is now boarding at gate 16."
+          }
+        ]
+      },
+      {
+        "definition": "a barrier that is used to control the flow of water on a river or canal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a lock/sluice gate "
+          }
+        ]
+      },
+      {
+        "definition": "the number of people who attend a sports event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Tonight's game has attracted the largest gate of the season."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of money made by selling tickets for a sports event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Today's gate will be given to charity."
+          }
+        ]
+      },
+      {
+        "definition": "a political scandal connected with the person, place or event mentioned, usually involving a cover-up (= an attempt to hide an illegal activity)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The newspapers have been running stories on the Partygate scandal for months."
+          }
+        ]
+      },
+      {
+        "definition": "an electronic switch that reacts in one of two ways to data that is put into it. A computer performs operations by passing data through a very large number of gates.",
+        "examples": []
+      },
+      {
+        "definition": "to be successful from the beginning, especially in sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Grizzlies came out of the gate motivated, bursting to a 27–10 lead."
+          },
+          {
+            "cf": "",
+            "x": "The team has struggled to get out of the gate this year."
+          }
+        ]
+      },
+      {
+        "definition": "right from the beginning of a situation or an activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trouble began right out of the gate."
+          },
+          {
+            "cf": "",
+            "x": "The Democrats had a clear advantage out of the gate."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "glass",
+    "level": "A1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gla/glass/glass__gb_5.mp3",
+    "phonetic_text": "/ɡlɑːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glass/glass__us_1.mp3",
+    "phonetic_am_text": "/ɡlæs/",
+    "senses": [
+      {
+        "definition": "a hard, usually clear, substance used, for example, for making windows and bottles",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sheet/pane of glass"
+          },
+          {
+            "cf": "",
+            "x": "I cut myself on a piece of broken glass."
+          },
+          {
+            "cf": "",
+            "x": "frosted/toughened glass"
+          },
+          {
+            "cf": "",
+            "x": "a glass bottle/jar"
+          },
+          {
+            "cf": "",
+            "x": "sliding glass doors"
+          },
+          {
+            "cf": "",
+            "x": "a glass roof/dome/panel"
+          },
+          {
+            "cf": "under glass",
+            "x": "The vegetables are grown under glass (= in a greenhouse)."
+          }
+        ]
+      },
+      {
+        "definition": "a container made of glass, used for drinking out of",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He poured orange juice into a glass."
+          },
+          {
+            "cf": "",
+            "x": "a champagne/beer glass"
+          },
+          {
+            "cf": "",
+            "x": "a shot glass"
+          },
+          {
+            "cf": "",
+            "x": "a pint glass"
+          }
+        ]
+      },
+      {
+        "definition": "the contents of a glass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He drank three whole glasses."
+          },
+          {
+            "cf": "glass of something",
+            "x": "a glass of wine/water"
+          }
+        ]
+      },
+      {
+        "definition": "two lenses in a frame that rests on the nose and ears. People wear glasses in order to be able to see better or to protect their eyes from bright light.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of glasses"
+          },
+          {
+            "cf": "",
+            "x": "reading glasses"
+          },
+          {
+            "cf": "",
+            "x": "I wear glasses for driving."
+          }
+        ]
+      },
+      {
+        "definition": "objects made of glass",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We keep all our glass and china in this cupboard."
+          },
+          {
+            "cf": "",
+            "x": "She has a fine collection of Bohemian glass."
+          }
+        ]
+      },
+      {
+        "definition": "a protecting cover made of glass on a watch, picture or photograph frame, fire alarm, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In case of emergency, break the glass and press the button."
+          }
+        ]
+      },
+      {
+        "definition": "a mirror",
+        "examples": []
+      },
+      {
+        "definition": "a barometer",
+        "examples": []
+      },
+      {
+        "definition": "used to refer to the attitude of somebody who always looks at the bad things in a situation rather than the good ones",
+        "examples": [
+          {
+            "cf": "",
+            "x": "For me the glass is half-empty."
+          },
+          {
+            "cf": "",
+            "x": "If you start to look at things with a glass half-empty mentality, your problems soon pile up."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to the attitude of somebody who always looks at the good things in a situation rather than the bad ones ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My glass is always half-full."
+          },
+          {
+            "cf": "",
+            "x": "She always looks on the bright side—she's a glass half-full kind of person."
+          }
+        ]
+      },
+      {
+        "definition": "you should not criticize other people, because they will easily find ways of criticizing you",
+        "examples": []
+      },
+      {
+        "definition": "to hold up your glass and wish somebody happiness, good luck, etc. before you drink",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "key",
+    "level": "A1",
+    "category": "home",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
+    "phonetic_text": "/kiː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
+    "phonetic_am_text": "/kiː/",
+    "senses": [
+      {
+        "definition": "most important; essential",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the key issue/factor/point"
+          },
+          {
+            "cf": "",
+            "x": "a key element/component/part/feature"
+          },
+          {
+            "cf": "",
+            "x": "He was a key figure in the campaign."
+          },
+          {
+            "cf": "",
+            "x": "Both are key players in the peace process."
+          },
+          {
+            "cf": "",
+            "x": "She played a key role in the dispute."
+          },
+          {
+            "cf": "",
+            "x": "‘Caution’ is the key word in this situation."
+          },
+          {
+            "cf": "",
+            "x": "His contribution could be key."
+          },
+          {
+            "cf": "key to something",
+            "x": "Good communication is key to our success."
+          },
+          {
+            "cf": "key to doing something",
+            "x": "Better training for our staff has been key to improving the service."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kitchen",
+    "level": "A1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kit/kitch/kitchen__gb_2.mp3",
+    "phonetic_text": "/ˈkɪtʃɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kit/kitch/kitchen__us_2.mp3",
+    "phonetic_am_text": "/ˈkɪtʃɪn/",
+    "senses": [
+      {
+        "definition": "a room in which meals are cooked or prepared",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We ate at the kitchen table."
+          },
+          {
+            "cf": "",
+            "x": "the kitchen floor/window/door"
+          },
+          {
+            "cf": "",
+            "x": "a stainless steel kitchen sink"
+          },
+          {
+            "cf": "",
+            "x": "He stabbed her with a kitchen knife."
+          },
+          {
+            "cf": "",
+            "x": "The house has a fully fitted kitchen with custom-built units."
+          }
+        ]
+      },
+      {
+        "definition": "a very large number of things, probably more than is necessary",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We seem to take everything but the kitchen sink when we go camping."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "knife",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kni/knife/knife__gb_2.mp3",
+    "phonetic_text": "/naɪf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kni/knife/knife__us_1.mp3",
+    "phonetic_am_text": "/naɪf/",
+    "senses": [
+      {
+        "definition": "a sharp blade (= metal edge) with a handle, used for cutting or as a weapon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "knives and forks"
+          },
+          {
+            "cf": "",
+            "x": "a sharp knife"
+          },
+          {
+            "cf": "",
+            "x": "a bread knife (= one for cutting bread)"
+          },
+          {
+            "cf": "",
+            "x": "The aim is to deter young people from carrying knives."
+          },
+          {
+            "cf": "",
+            "x": "He had been stabbed repeatedly with a kitchen knife."
+          },
+          {
+            "cf": "",
+            "x": "a plan to tackle knife crime"
+          },
+          {
+            "cf": "",
+            "x": "She was murdered in a frenzied knife attack."
+          }
+        ]
+      },
+      {
+        "definition": "the situation has become so bad that people are preparing to make one person take the blame, for example by taking away their job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The knives are out for the chancellor."
+          }
+        ]
+      },
+      {
+        "definition": "easily; without meeting any difficulty",
+        "examples": []
+      },
+      {
+        "definition": "to behave towards somebody in an unfriendly way and try to harm them",
+        "examples": []
+      },
+      {
+        "definition": "to say or do something unkind deliberately; to make somebody who is unhappy feel even more unhappy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Marcia laughed as she twisted the knife still deeper."
+          },
+          {
+            "cf": "",
+            "x": "Just to twist the knife, the filmmakers have provided a surprise ending."
+          }
+        ]
+      },
+      {
+        "definition": "having a medical operation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is to go under the surgeon's knife again on Thursday."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ladder",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lad/ladde/ladder__gb_2.mp3",
+    "phonetic_text": "/ˈlædə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lad/ladde/ladder__us_1.mp3",
+    "phonetic_am_text": "/ˈlædər/",
+    "senses": [
+      {
+        "definition": "a piece of equipment for climbing up and down a wall, the side of a building, etc., consisting of two lengths of wood or metal that are joined together by steps or rungs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to climb up/fall off a ladder"
+          }
+        ]
+      },
+      {
+        "definition": "a series of stages by which you can make progress in your life or career",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to move up or down the social ladder"
+          },
+          {
+            "cf": "",
+            "x": "the career ladder"
+          }
+        ]
+      },
+      {
+        "definition": "a long, thin hole in tights or stockings where some threads have broken",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've got a ladder in my new tights."
+          }
+        ]
+      },
+      {
+        "definition": "a competition in a particular sport or game in which teams or players are arranged in a list and they can move up the list by defeating one of the teams or players above",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He’s third on the tennis ladder at work."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lamp",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lam/lamp_/lamp__gb_2.mp3",
+    "phonetic_text": "/læmp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lam/lamp_/lamp__us_1.mp3",
+    "phonetic_am_text": "/læmp/",
+    "senses": [
+      {
+        "definition": "a device that uses electricity, oil or gas to produce light",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a desk/bedside lamp"
+          },
+          {
+            "cf": "",
+            "x": "a street lamp"
+          },
+          {
+            "cf": "",
+            "x": "an oil lamp"
+          },
+          {
+            "cf": "",
+            "x": "a paraffin lamp"
+          },
+          {
+            "cf": "",
+            "x": "a kerosene lamp"
+          },
+          {
+            "cf": "",
+            "x": "a fluorescent/halogen lamp"
+          },
+          {
+            "cf": "",
+            "x": "to switch on/turn off a lamp"
+          }
+        ]
+      },
+      {
+        "definition": "an electrical device that produces rays of heat and that is used for medical or scientific purposes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an infrared/ultraviolet lamp"
+          },
+          {
+            "cf": "",
+            "x": "The specimen was viewed under an ultraviolet lamp."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "landlord",
+    "level": "B2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lan/landl/landlord__gb_1.mp3",
+    "phonetic_text": "/ˈlændlɔːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/landl/landlord__us_1.mp3",
+    "phonetic_am_text": "/ˈlændlɔːrd/",
+    "senses": [
+      {
+        "definition": "a person or company that you rent a room, a house, an office, etc. from",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a buy-to-let landlord (= who buys houses and flats in order to rent them out)"
+          }
+        ]
+      },
+      {
+        "definition": "a man who owns or manages a pub or a guest house",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lawn",
+    "level": "B1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/law/lawn_/lawn__gb_1.mp3",
+    "phonetic_text": "/lɔːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/law/lawn_/lawn__us_1.mp3",
+    "phonetic_am_text": "/lɔːn/",
+    "senses": [
+      {
+        "definition": "an area of ground covered in short grass in a garden or park, or used for playing a game on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In summer we have to mow the lawn twice a week."
+          },
+          {
+            "cf": "",
+            "x": "The hotel boasts two tennis courts and a croquet lawn."
+          },
+          {
+            "cf": "",
+            "x": "They served afternoon tea on the lawn (= a large area of grass, near a big house, for example)."
+          }
+        ]
+      },
+      {
+        "definition": "a type of fine cotton or linen cloth used for making clothes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lighting",
+    "level": "B1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lig/light/lighting__gb_1.mp3",
+    "phonetic_text": "/ˈlaɪtɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lig/light/lighting__us_1.mp3",
+    "phonetic_am_text": "/ˈlaɪtɪŋ/",
+    "senses": [
+      {
+        "definition": "the arrangement or type of light in a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "electric/natural lighting"
+          },
+          {
+            "cf": "",
+            "x": "good/poor lighting"
+          },
+          {
+            "cf": "",
+            "x": "The play had excellent sound and lighting effects."
+          },
+          {
+            "cf": "",
+            "x": "The building needs improved security and lighting."
+          }
+        ]
+      },
+      {
+        "definition": "the use of electric lights in a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the cost of heating and lighting"
+          },
+          {
+            "cf": "",
+            "x": "street lighting"
+          },
+          {
+            "cf": "",
+            "x": "The generator supplies emergency lighting."
+          },
+          {
+            "cf": "",
+            "x": "exterior lighting and alarm systems"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lock",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/loc/lock_/lock__gb_1.mp3",
+    "phonetic_text": "/lɒk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/loc/lock_/lock__us_1.mp3",
+    "phonetic_am_text": "/lɑːk/",
+    "senses": [
+      {
+        "definition": "a device that keeps a door, window, box, etc. shut, usually needing a key to open it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She turned the key in the lock."
+          },
+          {
+            "cf": "",
+            "x": "It's a good idea to have locks fitted on all your windows."
+          }
+        ]
+      },
+      {
+        "definition": "a device that prevents a vehicle, machine or piece of equipment from being used",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a bicycle lock"
+          },
+          {
+            "cf": "",
+            "x": "a steering lock"
+          },
+          {
+            "cf": "",
+            "x": "safety locks for handguns"
+          }
+        ]
+      },
+      {
+        "definition": "a feature on a computer or mobile phone that prevents somebody from accessing it without a code",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's a security lock on the phone."
+          }
+        ]
+      },
+      {
+        "definition": "a state in which the parts of a machine, etc. do not move",
+        "examples": []
+      },
+      {
+        "definition": "the amount that the front wheels can be turned in one direction or the other in order to turn the vehicle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I had the steering wheel on full lock (= I had turned it as far as it would turn)."
+          }
+        ]
+      },
+      {
+        "definition": "a section of canal or river with a gate at either end, in which the water level can be changed so that boats can move from one level of the canal or river to another",
+        "examples": []
+      },
+      {
+        "definition": "a few hairs that hang or lie together on your head",
+        "examples": [
+          {
+            "cf": "",
+            "x": "John brushed a lock of hair from his eyes."
+          },
+          {
+            "cf": "",
+            "x": "She kept a lock of her mother’s hair."
+          }
+        ]
+      },
+      {
+        "definition": "a person’s hair",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She shook her long, flowing locks."
+          }
+        ]
+      },
+      {
+        "definition": "a player in the second row of the scrum",
+        "examples": []
+      },
+      {
+        "definition": "total control of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "One company had a virtual lock on all orange juice sales in the state."
+          }
+        ]
+      },
+      {
+        "definition": "including everything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He sold the business lock, stock and barrel."
+          }
+        ]
+      },
+      {
+        "definition": "to open a lock without a key, using something such as a piece of wire",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The burglars must have picked the lock on the back door."
+          }
+        ]
+      },
+      {
+        "definition": "locked up safely somewhere; in prison",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We keep our valuables under lock and key."
+          },
+          {
+            "cf": "",
+            "x": "I will not rest until the murderer is under lock and key."
+          },
+          {
+            "cf": "",
+            "x": "Prisoners are kept under lock and key 24 hours a day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mirror",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mir/mirro/mirror__gb_3.mp3",
+    "phonetic_text": "/ˈmɪrə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mir/mirro/mirror__us_2.mp3",
+    "phonetic_am_text": "/ˈmɪrər/",
+    "senses": [
+      {
+        "definition": "a piece of special flat glass that reflects images, so that you can see yourself when you look in it",
+        "examples": [
+          {
+            "cf": "in the mirror",
+            "x": "He looked at himself in the mirror."
+          },
+          {
+            "cf": "",
+            "x": "Remember to look in the mirror (= in a car, when driving) before signalling."
+          },
+          {
+            "cf": "",
+            "x": "the bathroom mirror"
+          }
+        ]
+      },
+      {
+        "definition": "something that shows what something else is like",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The face is the mirror of the soul."
+          },
+          {
+            "cf": "",
+            "x": "Dickens' novels are a mirror of his times."
+          }
+        ]
+      },
+      {
+        "definition": "a website that is a copy of another website but that has a different address on the internet",
+        "examples": []
+      },
+      {
+        "definition": "the fact of hiding the truth with information that is not important or relevant ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's a lot of smoke and mirrors in the financing of this film."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pad",
+    "level": "B1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pad/pad__/pad__gb_1.mp3",
+    "phonetic_text": "/pæd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pad/pad__/pad__us_1.mp3",
+    "phonetic_am_text": "/pæd/",
+    "senses": [
+      {
+        "definition": "a thick piece of soft material that is used, for example, for cleaning or protecting something or for holding liquid",
+        "examples": [
+          {
+            "cf": "",
+            "x": "medicated cleansing pads for sensitive skin"
+          },
+          {
+            "cf": "",
+            "x": "sanitary pads (= that a woman uses during her period)"
+          }
+        ]
+      },
+      {
+        "definition": "a number of pieces of paper for writing or drawing on, that are fastened together at one edge",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sketch/writing pad"
+          },
+          {
+            "cf": "",
+            "x": "He always kept a pad and pencil by the bed to note down thoughts in the night."
+          },
+          {
+            "cf": "",
+            "x": "She doodled on a pad as she spoke."
+          }
+        ]
+      },
+      {
+        "definition": "the soft part under the foot of a cat, dog, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A cat detects vibrations through the pads of its feet."
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of rough material used for cleaning pans, surfaces, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a scouring pad"
+          }
+        ]
+      },
+      {
+        "definition": "a flat surface where a spacecraft or a helicopter takes off and lands",
+        "examples": [
+          {
+            "cf": "",
+            "x": "helicopter landing pads"
+          },
+          {
+            "cf": "",
+            "x": "Two booster rockets will power the shuttle off the pad."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of thick material that you wear in some sports, for example football and cricket, to protect parts of your body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "knee pads"
+          }
+        ]
+      },
+      {
+        "definition": "the large flat leaf of some water plants, especially the water lily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "floating lily pads"
+          }
+        ]
+      },
+      {
+        "definition": "the place where somebody lives, especially a flat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He moved back into his old bachelor pad."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pipe",
+    "level": "B1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pip/pipe_/pipe__gb_1.mp3",
+    "phonetic_text": "/paɪp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pip/pipe_/pipe__us_1.mp3",
+    "phonetic_am_text": "/paɪp/",
+    "senses": [
+      {
+        "definition": "a tube through which liquids and gases can flow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Both hot and cold water pipes should be properly insulated."
+          },
+          {
+            "cf": "",
+            "x": "steel/copper pipes"
+          },
+          {
+            "cf": "",
+            "x": "a burst pipe"
+          },
+          {
+            "cf": "",
+            "x": "The house was blown apart by an explosion, caused by a leaking gas pipe."
+          },
+          {
+            "cf": "",
+            "x": "PVC pipe is commonly used in building and construction."
+          },
+          {
+            "cf": "",
+            "x": "a drainage/sewage pipe"
+          },
+          {
+            "cf": "",
+            "x": "Insulation may reduce the danger of pipes bursting in winter."
+          }
+        ]
+      },
+      {
+        "definition": "a narrow tube with a bowl at one end, used for smoking tobacco",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to smoke a pipe"
+          },
+          {
+            "cf": "",
+            "x": "He puffed on his pipe."
+          },
+          {
+            "cf": "",
+            "x": "pipe tobacco"
+          },
+          {
+            "cf": "",
+            "x": "He knocked out his pipe in the big glass ashtray."
+          }
+        ]
+      },
+      {
+        "definition": "a musical instrument in the shape of a tube, played by blowing",
+        "examples": []
+      },
+      {
+        "definition": "any of the tubes from which sound is produced in an organ",
+        "examples": []
+      },
+      {
+        "definition": "a musical instrument played especially in Scotland. The player blows air into a bag held under the arm and then slowly forces the air out through pipes to produce a noise.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "property",
+    "level": "B1",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prope/property__gb_2.mp3",
+    "phonetic_text": "/ˈprɒpəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prope/property__us_1.mp3",
+    "phonetic_am_text": "/ˈprɑːpərti/",
+    "senses": [
+      {
+        "definition": "a thing or things that are owned by somebody; a possession or possessions",
+        "examples": [
+          {
+            "cf": "",
+            "x": "personal/stolen property"
+          },
+          {
+            "cf": "",
+            "x": "This building is government property."
+          },
+          {
+            "cf": "",
+            "x": "Be careful not to damage other people's property."
+          }
+        ]
+      },
+      {
+        "definition": "land and buildings",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The price of property has risen enormously."
+          },
+          {
+            "cf": "",
+            "x": "A sign indicates that it is now private property."
+          },
+          {
+            "cf": "",
+            "x": "commercial/residential property"
+          },
+          {
+            "cf": "",
+            "x": "property prices/values/taxes"
+          },
+          {
+            "cf": "",
+            "x": "a property developer/owner"
+          },
+          {
+            "cf": "",
+            "x": "property development/investment"
+          },
+          {
+            "cf": "",
+            "x": "a slump in the property market"
+          },
+          {
+            "cf": "",
+            "x": "The storms caused millions of pounds worth of property damage."
+          }
+        ]
+      },
+      {
+        "definition": "a building or buildings and the surrounding land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to own/buy/purchase/acquire/sell a property"
+          },
+          {
+            "cf": "",
+            "x": "rental/investment properties"
+          },
+          {
+            "cf": "",
+            "x": "There are a lot of empty properties in the area."
+          }
+        ]
+      },
+      {
+        "definition": "a quality or characteristic that something has",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Compare the physical properties of the two substances."
+          },
+          {
+            "cf": "",
+            "x": "a plant with medicinal properties"
+          },
+          {
+            "cf": "",
+            "x": "The substance has properties similar to those of plastic."
+          },
+          {
+            "cf": "",
+            "x": "The difference occurs because of local variation in soil properties."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yard",
+    "level": "A2",
+    "category": "home",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yar/yard_/yard__gb_1.mp3",
+    "phonetic_text": "/jɑːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yar/yard_/yard__us_1.mp3",
+    "phonetic_am_text": "/jɑːrd/",
+    "senses": [
+      {
+        "definition": "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn (= an area of grass)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They have a gorgeous old oak tree in their front yard."
+          },
+          {
+            "cf": "",
+            "x": "My next-door neighbor was watering her yard."
+          }
+        ]
+      },
+      {
+        "definition": "an area outside a building, usually with a hard surface and a surrounding wall",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The prisoners were made to line up in the prison yard."
+          },
+          {
+            "cf": "",
+            "x": "The children were playing in the yard at the front of the school."
+          }
+        ]
+      },
+      {
+        "definition": "an area of land used for a special purpose or business",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a boat yard"
+          }
+        ]
+      },
+      {
+        "definition": "a unit for measuring length, equal to 3 feet (36 inches) or 0.9144 of a metre",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They still live within yards of each other."
+          },
+          {
+            "cf": "",
+            "x": "a beautiful white dress with yards and yards of fabric"
+          },
+          {
+            "cf": "",
+            "x": "The accident happened less than 50 yards from his home."
+          }
+        ]
+      },
+      {
+        "definition": "a long piece of wood fastened to a mast that supports a sail on a boat or ship",
+        "examples": []
+      },
+      {
+        "definition": "used to say that if you allow some people a small amount of freedom or power they will see you as weak and try to take a lot more",
+        "examples": []
+      },
+      {
+        "definition": "everything, or a situation which includes everything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When Dan cooks dinner he always goes the whole nine yards, with three courses and a choice of dessert."
+          }
+        ]
+      }
+    ]
+  }
+]

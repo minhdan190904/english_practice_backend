@@ -1,0 +1,97 @@
+[
+  {
+    "category": "uncategorized",
+    "file": "uncategorized.json",
+    "count": 3625
+  },
+  {
+    "category": "daily",
+    "file": "daily.json",
+    "count": 410
+  },
+  {
+    "category": "people",
+    "file": "people.json",
+    "count": 74
+  },
+  {
+    "category": "family",
+    "file": "family.json",
+    "count": 13
+  },
+  {
+    "category": "home",
+    "file": "home.json",
+    "count": 20
+  },
+  {
+    "category": "food",
+    "file": "food.json",
+    "count": 22
+  },
+  {
+    "category": "travel",
+    "file": "travel.json",
+    "count": 23
+  },
+  {
+    "category": "transport",
+    "file": "transport.json",
+    "count": 14
+  },
+  {
+    "category": "education",
+    "file": "education.json",
+    "count": 71
+  },
+  {
+    "category": "work",
+    "file": "work.json",
+    "count": 46
+  },
+  {
+    "category": "business",
+    "file": "business.json",
+    "count": 89
+  },
+  {
+    "category": "technology",
+    "file": "technology.json",
+    "count": 53
+  },
+  {
+    "category": "science",
+    "file": "science.json",
+    "count": 71
+  },
+  {
+    "category": "nature",
+    "file": "nature.json",
+    "count": 30
+  },
+  {
+    "category": "environment",
+    "file": "environment.json",
+    "count": 11
+  },
+  {
+    "category": "health",
+    "file": "health.json",
+    "count": 70
+  },
+  {
+    "category": "sports",
+    "file": "sports.json",
+    "count": 14
+  },
+  {
+    "category": "culture",
+    "file": "culture.json",
+    "count": 119
+  },
+  {
+    "category": "society",
+    "file": "society.json",
+    "count": 181
+  }
+]

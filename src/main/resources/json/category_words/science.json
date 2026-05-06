@@ -1,0 +1,4405 @@
+[
+  {
+    "word": "absorb",
+    "level": "B1",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absor/absorb__gb_2.mp3",
+    "phonetic_text": "/əbˈzɔːb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absor/absorb__us_2_rr.mp3",
+    "phonetic_am_text": "/əbˈzɔːrb/",
+    "senses": [
+      {
+        "definition": "to take in a liquid, gas or other substance from the surface or space around",
+        "examples": [
+          {
+            "cf": "absorb something",
+            "x": "Plants absorb carbon dioxide from the air."
+          },
+          {
+            "cf": "",
+            "x": "Let the rice cook until it has absorbed all the water."
+          },
+          {
+            "cf": "absorb something into something",
+            "x": "The cream is easily absorbed into the skin."
+          }
+        ]
+      },
+      {
+        "definition": "to take in and keep heat, light, energy, sound, etc. instead of reflecting it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Black walls absorb a lot of heat during the day."
+          }
+        ]
+      },
+      {
+        "definition": "to reduce the effect of a physical impact or movement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This tennis racket absorbs shock on impact."
+          },
+          {
+            "cf": "",
+            "x": "The bats have graphite shafts that absorb the vibration."
+          }
+        ]
+      },
+      {
+        "definition": "to take something into the mind and learn or understand it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's a lot of information to absorb all at once."
+          },
+          {
+            "cf": "",
+            "x": "It took me several days to absorb the fact of her death."
+          },
+          {
+            "cf": "",
+            "x": "They spent a week in Paris just absorbing the atmosphere."
+          }
+        ]
+      },
+      {
+        "definition": "to interest somebody very much so that they pay no attention to anything else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This work had absorbed him for several years."
+          },
+          {
+            "cf": "",
+            "x": "Her work absorbed her completely."
+          }
+        ]
+      },
+      {
+        "definition": "to make something smaller become part of something larger",
+        "examples": [
+          {
+            "cf": "absorb something",
+            "x": "The town absorbs an influx of tourists every summer."
+          },
+          {
+            "cf": "be absorbed into something",
+            "x": "The surrounding small towns have been absorbed into the city."
+          },
+          {
+            "cf": "",
+            "x": "These committees were gradually absorbed into the local government machine."
+          }
+        ]
+      },
+      {
+        "definition": "to use up a large supply of something, especially money or time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new proposals would absorb $80 billion of the federal budget."
+          },
+          {
+            "cf": "",
+            "x": "My work absorbs a great deal of my time."
+          }
+        ]
+      },
+      {
+        "definition": "to deal with changes, effects, costs, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company is unable to absorb such huge losses."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abstract",
+    "level": "C1",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/abstr/abstract__gb_5.mp3",
+    "phonetic_text": "/ˈæbstrækt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/abstr/abstract__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈæbstrækt/",
+    "senses": [
+      {
+        "definition": "based on general ideas and not on any particular real person, thing or situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "abstract knowledge/principles"
+          },
+          {
+            "cf": "",
+            "x": "The research shows that pre-school children are capable of thinking in abstract terms."
+          }
+        ]
+      },
+      {
+        "definition": "existing in thought or as an idea but not having a physical reality",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We may talk of beautiful things but beauty itself is abstract."
+          }
+        ]
+      },
+      {
+        "definition": "not representing people or things in a realistic way, but expressing the artist’s ideas about them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the work of American abstract expressionists like Mark Rothko"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abundance",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abund/abundance__gb_1.mp3",
+    "phonetic_text": "/əˈbʌndəns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abund/abundance__us_1.mp3",
+    "phonetic_am_text": "/əˈbʌndəns/",
+    "senses": [
+      {
+        "definition": "a large quantity that is more than enough",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The brochure promised beautiful walks with an abundance of wildlife."
+          },
+          {
+            "cf": "",
+            "x": "The country has an abundance of natural resources."
+          },
+          {
+            "cf": "",
+            "x": "We were amazed by the sheer abundance of food."
+          }
+        ]
+      },
+      {
+        "definition": "in large quantities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Fruit and vegetables grew in abundance on the island."
+          },
+          {
+            "cf": "",
+            "x": "Exotic plants grew there in great abundance."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accelerate",
+    "level": "B2",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accel/accelerate__gb_1.mp3",
+    "phonetic_text": "/əkˈseləreɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accel/accelerate__us_1.mp3",
+    "phonetic_am_text": "/əkˈseləreɪt/",
+    "senses": [
+      {
+        "definition": "to happen faster or earlier; to make something happen faster or earlier",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Inflation continues to accelerate."
+          },
+          {
+            "cf": "accelerate something",
+            "x": "Exposure to the sun can accelerate the ageing process."
+          }
+        ]
+      },
+      {
+        "definition": "to start to go faster",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The runners accelerated smoothly around the bend."
+          },
+          {
+            "cf": "",
+            "x": "The car accelerated to overtake me."
+          },
+          {
+            "cf": "",
+            "x": "The car purred into life and accelerated away."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accumulate",
+    "level": "B2",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulate__gb_2.mp3",
+    "phonetic_text": "/əˈkjuːmjəleɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulate__us_1.mp3",
+    "phonetic_am_text": "/əˈkjuːmjəleɪt/",
+    "senses": [
+      {
+        "definition": "to gradually get more and more of something over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I seem to have accumulated a lot of books."
+          },
+          {
+            "cf": "",
+            "x": "By investing wisely she accumulated a fortune."
+          },
+          {
+            "cf": "",
+            "x": "We have accumulated a great amount of evidence."
+          }
+        ]
+      },
+      {
+        "definition": "to gradually increase in number or quantity over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Debts began to accumulate."
+          },
+          {
+            "cf": "",
+            "x": "Dust and dirt soon accumulate if a house is not cleaned regularly."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accumulation",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accum/accumulation__gb_1.mp3",
+    "phonetic_text": "/əˌkjuːmjəˈleɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accum/accumulation__us_1.mp3",
+    "phonetic_am_text": "/əˌkjuːmjəˈleɪʃn/",
+    "senses": [
+      {
+        "definition": "the process of gradually increasing or getting more and more of something over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the accumulation of wealth"
+          }
+        ]
+      },
+      {
+        "definition": "an amount of something that has gradually increased over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an accumulation of toxic chemicals"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accuracy",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accuracy__gb_1.mp3",
+    "phonetic_text": "/ˈækjərəsi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accuracy__us_1.mp3",
+    "phonetic_am_text": "/ˈækjərəsi/",
+    "senses": [
+      {
+        "definition": "the state of being exact or correct; the ability to do something with skill and without making mistakes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They questioned the accuracy of the information in the file."
+          },
+          {
+            "cf": "",
+            "x": "Candidates are judged on technical accuracy as well as artistic expression."
+          },
+          {
+            "cf": "",
+            "x": "She hits the ball with great accuracy."
+          }
+        ]
+      },
+      {
+        "definition": "the degree to which a measurement, calculation, etc. is exact or correct",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the accuracy of radiocarbon dating"
+          },
+          {
+            "cf": "",
+            "x": "to achieve accuracies of 50–70 per cent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accurate",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accurate__gb_3.mp3",
+    "phonetic_text": "/ˈækjərət/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accurate__us_1.mp3",
+    "phonetic_am_text": "/ˈækjərət/",
+    "senses": [
+      {
+        "definition": "correct and true in every detail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an accurate description/picture of something"
+          },
+          {
+            "cf": "",
+            "x": "Accurate measurements are essential."
+          },
+          {
+            "cf": "",
+            "x": "I'm not convinced the reports are accurate."
+          },
+          {
+            "cf": "",
+            "x": "The film is not historically accurate."
+          },
+          {
+            "cf": "",
+            "x": "an accurate prediction/estimate/assessment"
+          },
+          {
+            "cf": "",
+            "x": "an accurate representation/portrayal"
+          },
+          {
+            "cf": "",
+            "x": "scientifically accurate information/data"
+          },
+          {
+            "cf": "",
+            "x": "reasonably/entirely/fairly accurate"
+          },
+          {
+            "cf": "",
+            "x": "The cost is an accurate reflection of the quality of our products."
+          }
+        ]
+      },
+      {
+        "definition": "able to give completely correct information or to do something in an exact way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a highly accurate electronic compass"
+          },
+          {
+            "cf": "",
+            "x": "My watch is not very accurate."
+          },
+          {
+            "cf": "",
+            "x": "Scientists have found a more accurate way of dating cave paintings."
+          },
+          {
+            "cf": "accurate (to) within something",
+            "x": "Huygens was able to build a clock accurate to within ten seconds in a day."
+          }
+        ]
+      },
+      {
+        "definition": "an accurate throw, shot, weapon, etc. hits or reaches the thing that it was aimed at",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There were only two accurate shots on goal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accurately",
+    "level": "B2",
+    "category": "science",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accur/accurately__gb_1.mp3",
+    "phonetic_text": "/ˈækjərətli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accur/accurately__us_1.mp3",
+    "phonetic_am_text": "/ˈækjərətli/",
+    "senses": [
+      {
+        "definition": "in a way that is correct and true in every detail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The article accurately reflects public opinion."
+          },
+          {
+            "cf": "",
+            "x": "The report accurately reflects the current state of the industry."
+          }
+        ]
+      },
+      {
+        "definition": "in an exact way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Quantities must be measured accurately."
+          }
+        ]
+      },
+      {
+        "definition": "hitting or reaching the thing that was aimed at",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You need to hit the ball accurately."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acid",
+    "level": "B1",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aci/acid_/acid__gb_1.mp3",
+    "phonetic_text": "/ˈæsɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aci/acid_/acid__us_1.mp3",
+    "phonetic_am_text": "/ˈæsɪd/",
+    "senses": [
+      {
+        "definition": "that contains acid or has the essential characteristics of an acid; that has a pH of less than seven",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Rye is tolerant of poor, acid soils."
+          }
+        ]
+      },
+      {
+        "definition": "that has a bitter sharp taste",
+        "examples": [
+          {
+            "cf": "",
+            "x": "acid fruit"
+          },
+          {
+            "cf": "",
+            "x": "It’s a very juicy fruit with a slightly acid flavour."
+          }
+        ]
+      },
+      {
+        "definition": "critical and unkind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an acid wit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "activate",
+    "level": "B2",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activate__gb_1.mp3",
+    "phonetic_text": "/ˈæktɪveɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activate__us_1.mp3",
+    "phonetic_am_text": "/ˈæktɪveɪt/",
+    "senses": [
+      {
+        "definition": "to make something such as a device or chemical process start working",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The burglar alarm is activated by movement."
+          },
+          {
+            "cf": "",
+            "x": "The gene is activated by a specific protein."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "activation",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/act/activ/activation__gb_1.mp3",
+    "phonetic_text": "/ˌæktɪˈveɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/act/activ/activation__us_1.mp3",
+    "phonetic_am_text": "/ˌæktɪˈveɪʃn/",
+    "senses": [
+      {
+        "definition": "the act of making something such as a device or chemical process start working",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The activation of several target genes results in two major effects."
+          },
+          {
+            "cf": "",
+            "x": "to trigger/inhibit/block the activation of something"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adapt",
+    "level": "A2",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ada/adapt/adapt__gb_2.mp3",
+    "phonetic_text": "/əˈdæpt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ada/adapt/adapt__us_1.mp3",
+    "phonetic_am_text": "/əˈdæpt/",
+    "senses": [
+      {
+        "definition": "to change your behaviour in order to deal more successfully with a new situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's amazing how soon you adapt."
+          },
+          {
+            "cf": "",
+            "x": "The organisms were forced to adapt in order to survive."
+          },
+          {
+            "cf": "adapt to something",
+            "x": "Some animals have a remarkable ability to adapt to changing environments."
+          },
+          {
+            "cf": "",
+            "x": "A large organization can be slow to adapt to change."
+          },
+          {
+            "cf": "",
+            "x": "The company was able to adapt to the conditions and enhance its position."
+          },
+          {
+            "cf": "",
+            "x": "We have had to adapt quickly to the new system."
+          },
+          {
+            "cf": "adapt yourself to something",
+            "x": "It took him a while to adapt himself to his new surroundings."
+          }
+        ]
+      },
+      {
+        "definition": "to change something in order to make it suitable for a new use or situation",
+        "examples": [
+          {
+            "cf": "adapt something",
+            "x": "These styles can be adapted to suit individual tastes."
+          },
+          {
+            "cf": "",
+            "x": "We need technology that can be adapted to suit the needs of the future."
+          },
+          {
+            "cf": "adapt something for something",
+            "x": "The gym has been adapted for use by visually impaired students."
+          }
+        ]
+      },
+      {
+        "definition": "to change a book or play so that it can be made into a play, film, television drama, etc.",
+        "examples": [
+          {
+            "cf": "adapt something for something",
+            "x": "Three of her novels have been adapted for television."
+          },
+          {
+            "cf": "adapt something from something",
+            "x": "The radio play had been adapted from a novel."
+          },
+          {
+            "cf": "adapt something",
+            "x": "They have adapted her original novel beautifully."
+          },
+          {
+            "cf": "adapt something for something from something",
+            "x": "It was adapted for the screen from his original play."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adaptation",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ada/adapt/adaptation__gb_1.mp3",
+    "phonetic_text": "/ˌædæpˈteɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ada/adapt/adaptation__us_1.mp3",
+    "phonetic_am_text": "/ˌædæpˈteɪʃn/",
+    "senses": [
+      {
+        "definition": "the action or process of changing something, or of being changed, to suit a new purpose or situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the adaptation of buildings for military purposes"
+          },
+          {
+            "cf": "adaptation to something",
+            "x": "The process of adaptation to a new school is difficult for some children."
+          },
+          {
+            "cf": "",
+            "x": "making adaptations to your home"
+          }
+        ]
+      },
+      {
+        "definition": "a film, television drama or play that is based on a particular book or play but has been changed to suit the new medium",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a screen adaptation of Shakespeare’s ‘Macbeth’"
+          }
+        ]
+      },
+      {
+        "definition": "the process of change by which a species becomes better suited to its environment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the adaptation of desert species to the hot conditions"
+          },
+          {
+            "cf": "",
+            "x": "Adaptations in plants occur over thousands of years."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "analogy",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analo/analogy__gb_2.mp3",
+    "phonetic_text": "/əˈnælədʒi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analo/analogy__us_1.mp3",
+    "phonetic_am_text": "/əˈnælədʒi/",
+    "senses": [
+      {
+        "definition": "a comparison of one thing with another thing that has similar features; a feature that is similar",
+        "examples": [
+          {
+            "cf": "analogy (between A and B)",
+            "x": "The teacher drew an analogy between the human heart and a pump."
+          },
+          {
+            "cf": "analogy (with something)",
+            "x": "There are no analogies with any previous legal cases."
+          }
+        ]
+      },
+      {
+        "definition": "the process of comparing one thing with another thing that has similar features in order to explain it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "learning by analogy"
+          },
+          {
+            "cf": "",
+            "x": "We can understand this theory by analogy with human beings."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "analyse",
+    "level": "B2",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analy/analyse__gb_6.mp3",
+    "phonetic_text": "/ˈænəlaɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analy/analyse__us_2.mp3",
+    "phonetic_am_text": "/ˈænəlaɪz/",
+    "senses": [
+      {
+        "definition": "to examine the nature or structure of something, especially by separating it into its parts, in order to understand or explain it",
+        "examples": [
+          {
+            "cf": "analyse something",
+            "x": "The job involves collecting and analysing data."
+          },
+          {
+            "cf": "",
+            "x": "Researchers have analysed the results in detail using specialist software."
+          },
+          {
+            "cf": "",
+            "x": "Learn to step back and critically analyse situations."
+          },
+          {
+            "cf": "",
+            "x": "He tried to analyse his feelings."
+          },
+          {
+            "cf": "",
+            "x": "The first step is to define and analyse the problem."
+          },
+          {
+            "cf": "analyse something for something",
+            "x": "The water samples will be analysed for the presence of polluting chemicals."
+          },
+          {
+            "cf": "analyse what, how, etc…",
+            "x": "We need to analyse what went wrong."
+          }
+        ]
+      },
+      {
+        "definition": "to treat or study somebody using psychoanalysis",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "analysis",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ana/analy/analysis__gb_4.mp3",
+    "phonetic_text": "/əˈnæləsɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ana/analy/analysis__us_2.mp3",
+    "phonetic_am_text": "/əˈnæləsɪs/",
+    "senses": [
+      {
+        "definition": "the detailed study or examination of something in order to understand more about it; the result of the study",
+        "examples": [
+          {
+            "cf": "",
+            "x": "statistical/data analysis"
+          },
+          {
+            "cf": "",
+            "x": "a detailed analysis of the data"
+          },
+          {
+            "cf": "",
+            "x": "to perform/conduct an analysis"
+          },
+          {
+            "cf": "",
+            "x": "Further analysis revealed significant regional variations in the results. "
+          },
+          {
+            "cf": "",
+            "x": "We made the decision based on our analysis of the situation. "
+          },
+          {
+            "cf": "",
+            "x": "to be included in/excluded from the analysis"
+          }
+        ]
+      },
+      {
+        "definition": "a careful examination of a substance in order to find out what it consists of",
+        "examples": [
+          {
+            "cf": "for analysis",
+            "x": "The blood samples are sent to the laboratory for analysis."
+          },
+          {
+            "cf": "",
+            "x": "the results of a DNA sequence analysis"
+          },
+          {
+            "cf": "",
+            "x": "You can ask for a chemical analysis of your tap water."
+          }
+        ]
+      },
+      {
+        "definition": "a method of treating somebody who has problems with their mental health by asking them to talk about past experiences and feelings, and trying to help them understand fears and feelings that they were not conscious of",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In analysis the individual resolves difficult emotional conflicts."
+          }
+        ]
+      },
+      {
+        "definition": "used to say what is most important after everything has been discussed, or considered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In the final analysis, it's a matter of personal choice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apparatus",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appar/apparatus__gb_1.mp3",
+    "phonetic_text": "/ˌæpəˈreɪtəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appar/apparatus__us_1_rr.mp3",
+    "phonetic_am_text": "/ˌæpəˈrætəs/",
+    "senses": [
+      {
+        "definition": "the tools or other pieces of equipment that are needed for a particular activity or task",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a piece of laboratory apparatus"
+          },
+          {
+            "cf": "",
+            "x": "Firefighters needed breathing apparatus to enter the burning house."
+          },
+          {
+            "cf": "",
+            "x": "Science departments say they are lacking basic apparatus."
+          }
+        ]
+      },
+      {
+        "definition": "the structure of a system or an organization, particularly that of a political party or a government",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the power of the state apparatus"
+          },
+          {
+            "cf": "",
+            "x": "We cannot do without the apparatus of government in protecting the rights of the individual."
+          }
+        ]
+      },
+      {
+        "definition": "a system of organs in the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the sensory apparatus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "applicable",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/appli/applicable__gb_1.mp3",
+    "phonetic_text": "/əˈplɪkəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/appli/applicable__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈæplɪkəbl/",
+    "senses": [
+      {
+        "definition": "that can be said to be true in the case of somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Give details of children where applicable (= if you have any)."
+          },
+          {
+            "cf": "applicable to somebody/something",
+            "x": "Much of the form was not applicable (= did not apply) to me."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "array",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/arr/array/array__gb_1.mp3",
+    "phonetic_text": "/əˈreɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/array/array__us_1.mp3",
+    "phonetic_am_text": "/əˈreɪ/",
+    "senses": [
+      {
+        "definition": "a group or collection of things or people, often one that is large or impressive",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vast array of bottles of different shapes and sizes"
+          },
+          {
+            "cf": "",
+            "x": "a dazzling array of talent"
+          }
+        ]
+      },
+      {
+        "definition": "a way of organizing and storing related data in a computer memory",
+        "examples": []
+      },
+      {
+        "definition": "a set of numbers, signs or values arranged in rows and columns",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "artificial",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/art/artif/artificial__gb_1.mp3",
+    "phonetic_text": "/ˌɑːtɪˈfɪʃl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/artif/artificial__us_3.mp3",
+    "phonetic_am_text": "/ˌɑːrtɪˈfɪʃl/",
+    "senses": [
+      {
+        "definition": "made or produced to copy something natural; not real",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an artificial limb/flower/sweetener/fertilizer "
+          },
+          {
+            "cf": "",
+            "x": "artificial lighting/light"
+          }
+        ]
+      },
+      {
+        "definition": "created by people; not happening naturally",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A job interview is a very artificial situation."
+          },
+          {
+            "cf": "",
+            "x": "the artificial barriers of race, class and gender"
+          }
+        ]
+      },
+      {
+        "definition": "not what it appears to be",
+        "examples": [
+          {
+            "cf": "",
+            "x": "artificial emotion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/atm/atmos/atmosphere__gb_1.mp3",
+    "phonetic_text": "/ˈætməsfɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/atm/atmos/atmosphere__us_2.mp3",
+    "phonetic_am_text": "/ˈætməsfɪr/",
+    "senses": [
+      {
+        "definition": "the mixture of gases that surrounds the earth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wind power doesn't release carbon dioxide into the atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "greenhouse gases in the earth's atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "Volcanoes and hot springs can emit methane into the atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "the upper atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "pollution of the atmosphere"
+          }
+        ]
+      },
+      {
+        "definition": "a mixture of gases that surrounds another planet or a star",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Saturn’s atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "The probe will plunge into the planet's stormy atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "The outermost part of the sun's atmosphere is called the corona."
+          }
+        ]
+      },
+      {
+        "definition": "the air in a room or in a small space; the air around a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a smoky/stuffy atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "These plants love warm, humid atmospheres."
+          }
+        ]
+      },
+      {
+        "definition": "the feeling or mood that you have in a particular place or situation; a feeling between two people or in a group of people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Before the parade, the atmosphere was electric."
+          },
+          {
+            "cf": "",
+            "x": "This type of lighting creates a relaxing atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "City officials have created an atmosphere of fear."
+          },
+          {
+            "cf": "",
+            "x": "Use music and lighting to create a romantic atmosphere."
+          },
+          {
+            "cf": "",
+            "x": "There was an atmosphere of mutual trust between them."
+          },
+          {
+            "cf": "",
+            "x": "The old house is full of atmosphere (= it's very interesting)."
+          },
+          {
+            "cf": "",
+            "x": "The children grew up in an atmosphere of violence and insecurity."
+          },
+          {
+            "cf": "",
+            "x": "a party atmosphere"
+          },
+          {
+            "cf": "",
+            "x": "The hotel offers a friendly atmosphere and personal service."
+          }
+        ]
+      },
+      {
+        "definition": "a situation when people do not say anything, but feel embarrassed or uncomfortable",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/att/attri/attribute__gb_2.mp3",
+    "phonetic_text": "/ˈætrɪbjuːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attri/attribute__us_2.mp3",
+    "phonetic_am_text": "/ˈætrɪbjuːt/",
+    "senses": [
+      {
+        "definition": "a quality or feature of somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Patience is one of the most important attributes in a teacher."
+          },
+          {
+            "cf": "",
+            "x": "The most basic attribute of all animals is consciousness."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "automatic",
+    "level": "A2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autom/automatic__gb_1.mp3",
+    "phonetic_text": "/ˌɔːtəˈmætɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autom/automatic__us_1.mp3",
+    "phonetic_am_text": "/ˌɔːtəˈmætɪk/",
+    "senses": [
+      {
+        "definition": "having controls that work without needing a person to operate them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "automatic doors"
+          },
+          {
+            "cf": "",
+            "x": "a fully automatic driverless train"
+          },
+          {
+            "cf": "",
+            "x": "automatic transmission (= in a car, etc.)"
+          },
+          {
+            "cf": "",
+            "x": "an automatic rifle (= one that continues to fire as long as the trigger is pressed)"
+          },
+          {
+            "cf": "",
+            "x": "My camera has manual and automatic functions."
+          }
+        ]
+      },
+      {
+        "definition": "done or happening without thinking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Breathing is an automatic function of the body."
+          },
+          {
+            "cf": "",
+            "x": "My reaction was automatic."
+          }
+        ]
+      },
+      {
+        "definition": "always happening as a result of a particular action or situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A fine for this offence is automatic."
+          },
+          {
+            "cf": "",
+            "x": "Promotion was almost automatic after two or three years."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "automatically",
+    "level": "A2",
+    "category": "science",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aut/autom/automatically__gb_2.mp3",
+    "phonetic_text": "/ˌɔːtəˈmætɪkli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aut/autom/automatically__us_1.mp3",
+    "phonetic_am_text": "/ˌɔːtəˈmætɪkli/",
+    "senses": [
+      {
+        "definition": "without needing a person to operate controls",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The heating switches off automatically."
+          }
+        ]
+      },
+      {
+        "definition": "without thinking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I turned left automatically without thinking."
+          }
+        ]
+      },
+      {
+        "definition": "in a way that always happens as a result of a particular action or situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You will automatically get free dental treatment if you are under 18."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gene",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gene_/gene__gb_2.mp3",
+    "phonetic_text": "/dʒiːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gene_/gene_1_us_3.mp3",
+    "phonetic_am_text": "/dʒiːn/",
+    "senses": [
+      {
+        "definition": "a unit inside a cell that controls a particular quality in a living thing that has been passed on from its parents",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a dominant/recessive gene"
+          },
+          {
+            "cf": "",
+            "x": "genes that code for the colour of the eyes"
+          }
+        ]
+      },
+      {
+        "definition": "to be a quality that your parents have passed on to you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've always enjoyed music—it's in the genes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "genetic",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/genet/genetic__gb_3.mp3",
+    "phonetic_text": "/dʒəˈnetɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/genet/genetic__us_1.mp3",
+    "phonetic_am_text": "/dʒəˈnetɪk/",
+    "senses": [
+      {
+        "definition": "connected with genes (= the units in the cells of a living thing that control its physical characteristics) or genetics (= the study of genes)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "genetic and environmental factors"
+          },
+          {
+            "cf": "",
+            "x": "genetic abnormalities"
+          },
+          {
+            "cf": "",
+            "x": "There are about 4 000 inherited human genetic diseases."
+          },
+          {
+            "cf": "",
+            "x": "genetic research/techniques"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gravity",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/gravi/gravity__gb_1.mp3",
+    "phonetic_text": "/ˈɡrævəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/gravi/gravity__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrævəti/",
+    "senses": [
+      {
+        "definition": "the force that attracts objects in space towards each other, and that on the earth pulls them towards the centre of the planet, so that things fall to the ground when they are dropped",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Newton’s law of gravity"
+          }
+        ]
+      },
+      {
+        "definition": "extreme importance and a cause for worry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't think you realise the gravity of the situation."
+          },
+          {
+            "cf": "",
+            "x": "Punishment varies according to the gravity of the offence."
+          }
+        ]
+      },
+      {
+        "definition": "serious behaviour, speech or appearance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were asked to behave with the gravity that was appropriate in a court of law."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lab",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lab/lab__/lab__gb_2.mp3",
+    "phonetic_text": "/læb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lab/lab__/lab__us_1.mp3",
+    "phonetic_am_text": "/læb/",
+    "senses": [
+      {
+        "definition": "a laboratory",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a computer/research lab"
+          },
+          {
+            "cf": "",
+            "x": "the school science labs"
+          },
+          {
+            "cf": "in a lab",
+            "x": "She'd been working in the lab all day."
+          },
+          {
+            "cf": "",
+            "x": "a lab technician"
+          },
+          {
+            "cf": "",
+            "x": "a lab coat (= a white coat worn by scientists, etc. working in a laboratory)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laboratory",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lab/labor/laboratory__gb_2.mp3",
+    "phonetic_text": "/ləˈbɒrətri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lab/labor/laboratory__us_2.mp3",
+    "phonetic_am_text": "/ˈlæbrətɔːri/",
+    "senses": [
+      {
+        "definition": "a room or building used for scientific research, experiments, testing, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a clinical/research laboratory"
+          },
+          {
+            "cf": "",
+            "x": "to send a specimen to the laboratory for analysis"
+          },
+          {
+            "cf": "in a/the laboratory",
+            "x": "The effects of weathering can be simulated in the laboratory."
+          },
+          {
+            "cf": "",
+            "x": "laboratory experiments/tests"
+          },
+          {
+            "cf": "",
+            "x": "The athletes' reflexes were tested under laboratory conditions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laser",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/las/laser/laser__gb_1.mp3",
+    "phonetic_text": "/ˈleɪzə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/las/laser/laser__us_1.mp3",
+    "phonetic_am_text": "/ˈleɪzər/",
+    "senses": [
+      {
+        "definition": "a device that gives out light in which all the waves oscillate (= change direction and strength) together, typically producing a powerful beam of light that can be used for cutting metal, in medical operations, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a laser beam"
+          },
+          {
+            "cf": "",
+            "x": "a laser navigation device"
+          },
+          {
+            "cf": "",
+            "x": "The barcodes on the products are read by lasers."
+          },
+          {
+            "cf": "",
+            "x": "a laser show (= lasers used as entertainment)"
+          },
+          {
+            "cf": "",
+            "x": "She's had laser surgery on her eye."
+          },
+          {
+            "cf": "",
+            "x": "laser treatment/therapy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "layer",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lay/layer/layer__gb_3.mp3",
+    "phonetic_text": "/ˈleɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lay/layer/layer__us_4.mp3",
+    "phonetic_am_text": "/ˈleɪər/",
+    "senses": [
+      {
+        "definition": "a quantity or sheet of something that lies over a surface or between surfaces",
+        "examples": [
+          {
+            "cf": "layer (of something)",
+            "x": "A thin layer of dust covered everything."
+          },
+          {
+            "cf": "",
+            "x": "Ducks have a thick layer of fat to keep them warm."
+          },
+          {
+            "cf": "",
+            "x": "How many layers of clothing are you wearing?"
+          },
+          {
+            "cf": "",
+            "x": "Sunlight thickens the outer layer of the skin."
+          },
+          {
+            "cf": "in layers",
+            "x": "The paint is applied in layers."
+          }
+        ]
+      },
+      {
+        "definition": "a level or part within a system or set of ideas",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There were too many layers of management in the company."
+          },
+          {
+            "cf": "",
+            "x": "the layers of meaning in the poem"
+          },
+          {
+            "cf": "",
+            "x": "You've got to fight your way through layer upon layer of bureaucracy."
+          },
+          {
+            "cf": "",
+            "x": "It was claimed that the reforms would add layers to the EU's political structure."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "length",
+    "level": "A2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/len/lengt/length__gb_2.mp3",
+    "phonetic_text": "/leŋkθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/len/lengt/length__us_3.mp3",
+    "phonetic_am_text": "/leŋkθ/",
+    "senses": [
+      {
+        "definition": "the size or measurement of something from one end to the other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Measure the length of the line from A to B."
+          },
+          {
+            "cf": "",
+            "x": "to estimate/calculate/increase/reduce the length of something"
+          },
+          {
+            "cf": "in length",
+            "x": "The river is 300 miles in length."
+          },
+          {
+            "cf": "",
+            "x": "The snake usually reaches a length of 100 cm."
+          },
+          {
+            "cf": "",
+            "x": "Safety barriers will be installed along the full length of the road."
+          },
+          {
+            "cf": "",
+            "x": "He ran the entire length of the beach."
+          },
+          {
+            "cf": "",
+            "x": "Look at the length of that queue!"
+          },
+          {
+            "cf": "",
+            "x": "He has to hold newspapers at arm's length to focus on the print."
+          }
+        ]
+      },
+      {
+        "definition": "the quality of being long",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Did you see the length of his hair?"
+          }
+        ]
+      },
+      {
+        "definition": "the amount of time that something lasts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The average length of each song on the album is six minutes."
+          },
+          {
+            "cf": "",
+            "x": "These changes will shorten the length of time spent waiting for test results. "
+          },
+          {
+            "cf": "",
+            "x": "She got a headache if she had to read for any length of time (= for a long time)."
+          },
+          {
+            "cf": "",
+            "x": "Size of pension depends partly on length of service with the company."
+          },
+          {
+            "cf": "in length",
+            "x": "Each class is 45 minutes in length."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of writing in a book, or a document, etc.; the amount of time that a film lasts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is a maximum length of 2 500 words."
+          },
+          {
+            "cf": "in length",
+            "x": "The document is over 800 pages in length."
+          },
+          {
+            "cf": "",
+            "x": "Her novels vary in length."
+          }
+        ]
+      },
+      {
+        "definition": "having the length mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "shoulder-length hair"
+          }
+        ]
+      },
+      {
+        "definition": "the distance from one end of a swimming pool to the other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He swims 50 lengths a day."
+          },
+          {
+            "cf": "",
+            "x": "I did 20 lengths today."
+          }
+        ]
+      },
+      {
+        "definition": "the size of a horse or boat from one end to the other, when it is used to measure the distance between two horses or boats taking part in a race",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The horse won by two clear lengths."
+          }
+        ]
+      },
+      {
+        "definition": "a long, thin piece of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a length of rope/string/wire "
+          },
+          {
+            "cf": "",
+            "x": "The timber is sold in lengths of 2, 5 or 10 metres."
+          }
+        ]
+      },
+      {
+        "definition": "for a long time and in detail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He quoted at length from the report."
+          },
+          {
+            "cf": "",
+            "x": "We have already discussed this matter at great length."
+          },
+          {
+            "cf": "",
+            "x": "She told me at length about her new job."
+          }
+        ]
+      },
+      {
+        "definition": "after a long time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘I'm still not sure,’ he said at length."
+          }
+        ]
+      },
+      {
+        "definition": "to put a lot of effort into doing something, especially when this seems extreme",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She goes to extraordinary lengths to keep her private life private."
+          }
+        ]
+      },
+      {
+        "definition": "to avoid having a close relationship with somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He keeps all his clients at arm's length."
+          },
+          {
+            "cf": "",
+            "x": "She kept him at arm's length for months."
+          }
+        ]
+      },
+      {
+        "definition": "in or to all parts of a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They have travelled the length and breadth of Europe giving concerts."
+          },
+          {
+            "cf": "",
+            "x": "They travelled the length and breadth of the land."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lens",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/len/lens_/lens__gb_1.mp3",
+    "phonetic_text": "/lenz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/len/lens_/lens__us_1.mp3",
+    "phonetic_am_text": "/lenz/",
+    "senses": [
+      {
+        "definition": "a curved piece of glass or plastic that makes things look larger, smaller or clearer when you look through it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of glasses with tinted lenses"
+          }
+        ]
+      },
+      {
+        "definition": "a piece of equipment that is part of a camera, containing one or more lenses",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a camera with an adjustable lens"
+          },
+          {
+            "cf": "",
+            "x": "a view of Mount Kilimanjaro as seen through Eddie's camera lens"
+          },
+          {
+            "cf": "",
+            "x": "a lens cap/cover"
+          },
+          {
+            "cf": "",
+            "x": "a long-lens shot of a rare bird"
+          }
+        ]
+      },
+      {
+        "definition": "a contact lens (= a small round piece of thin plastic that you put on your eye to help you see better)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Have you got your lenses in?"
+          }
+        ]
+      },
+      {
+        "definition": "the clear part of the eye, behind the pupil, that focuses light so that you can see clearly",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "level": "A1",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lig/light/light__gb_2.mp3",
+    "phonetic_text": "/laɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lig/light/light__us_1.mp3",
+    "phonetic_am_text": "/laɪt/",
+    "senses": [
+      {
+        "definition": "pale in colour",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's got light blue eyes."
+          },
+          {
+            "cf": "",
+            "x": "Lighter shades suit you best."
+          },
+          {
+            "cf": "",
+            "x": "People with pale complexions should avoid wearing light colours."
+          },
+          {
+            "cf": "",
+            "x": "a box of light and dark chocolates"
+          }
+        ]
+      },
+      {
+        "definition": "full of light; having the natural light of day",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We'll leave in the morning as soon as it's light."
+          },
+          {
+            "cf": "",
+            "x": "It gets light at about 5 o'clock."
+          },
+          {
+            "cf": "",
+            "x": "Let's go now while it's still light."
+          },
+          {
+            "cf": "",
+            "x": "It was a light spacious apartment at the top of the building."
+          }
+        ]
+      },
+      {
+        "definition": "easy to lift or move; not weighing very much",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The device is light and portable."
+          },
+          {
+            "cf": "",
+            "x": "Carry this bag—it's the lightest."
+          },
+          {
+            "cf": "",
+            "x": "Hydrogen gas is lighter than air."
+          },
+          {
+            "cf": "",
+            "x": "The little girl was as light as a feather."
+          },
+          {
+            "cf": "",
+            "x": "The tent is light enough for backpacking and touring."
+          }
+        ]
+      },
+      {
+        "definition": "of less than average or usual weight",
+        "examples": [
+          {
+            "cf": "",
+            "x": "light summer clothes"
+          },
+          {
+            "cf": "",
+            "x": "Only light vehicles are allowed over the old bridge."
+          }
+        ]
+      },
+      {
+        "definition": "used with a unit of weight to say that something weighs less than it should do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The delivery of potatoes was several kilos light."
+          }
+        ]
+      },
+      {
+        "definition": "gentle and without weight; not using much force",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She felt a light tap on her shoulder."
+          },
+          {
+            "cf": "",
+            "x": "the sound of quick light footsteps"
+          },
+          {
+            "cf": "",
+            "x": "You only need to apply light pressure."
+          },
+          {
+            "cf": "",
+            "x": "As a boxer, he was always light on his feet (= quick and elegant in the way he moved)."
+          }
+        ]
+      },
+      {
+        "definition": "easy to do; not making you tired",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After his accident he was moved to lighter work."
+          },
+          {
+            "cf": "",
+            "x": "some light housework"
+          },
+          {
+            "cf": "",
+            "x": "Her duties are relatively light."
+          },
+          {
+            "cf": "",
+            "x": "You are probably well enough to take a little light exercise."
+          }
+        ]
+      },
+      {
+        "definition": "not great in amount, degree, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Traffic was light."
+          },
+          {
+            "cf": "",
+            "x": "Light rain is forecast."
+          },
+          {
+            "cf": "",
+            "x": "Civilian casualties were comparatively light."
+          },
+          {
+            "cf": "",
+            "x": "Trading on the stock exchange was light today."
+          },
+          {
+            "cf": "",
+            "x": "Apply a light coating of cooking oil."
+          }
+        ]
+      },
+      {
+        "definition": "fun rather than serious and not needing much mental effort",
+        "examples": [
+          {
+            "cf": "",
+            "x": "light reading for the beach"
+          },
+          {
+            "cf": "",
+            "x": "This is not something you'd watch for light entertainment."
+          },
+          {
+            "cf": "",
+            "x": "light music/opera"
+          },
+          {
+            "cf": "",
+            "x": "We were just making light conversation."
+          },
+          {
+            "cf": "",
+            "x": "Her novels are light, but very well written."
+          },
+          {
+            "cf": "",
+            "x": "We all needed a little light relief at the end of a long day (= something funny or fun that comes after something serious or boring)."
+          }
+        ]
+      },
+      {
+        "definition": "not serious",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She kept her tone light."
+          },
+          {
+            "cf": "",
+            "x": "This programme looks at the lighter side of politics."
+          },
+          {
+            "cf": "",
+            "x": "The job does have its lighter moments."
+          },
+          {
+            "cf": "",
+            "x": "Let’s talk about lighter things, shall we?"
+          },
+          {
+            "cf": "",
+            "x": "On a lighter note, we end the news today with a story about a duck called Quackers."
+          }
+        ]
+      },
+      {
+        "definition": "not severe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was convicted of assaulting a police officer but he got off with a light sentence."
+          },
+          {
+            "cf": "",
+            "x": "The punishment can be remarkably light."
+          }
+        ]
+      },
+      {
+        "definition": "small in quantity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a light meal/supper/snack/breakfast"
+          },
+          {
+            "cf": "",
+            "x": "Light refreshments will be provided."
+          },
+          {
+            "cf": "",
+            "x": "I just want something light for lunch."
+          }
+        ]
+      },
+      {
+        "definition": "not containing much fat, sugar or other rich ingredients and therefore easy to digest",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stick to a light diet."
+          },
+          {
+            "cf": "",
+            "x": "a deliciously light alternative to cake"
+          }
+        ]
+      },
+      {
+        "definition": "containing a lot of air",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This pastry is so light."
+          }
+        ]
+      },
+      {
+        "definition": "low in alcohol",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a light beer"
+          }
+        ]
+      },
+      {
+        "definition": "containing a lot of water",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't like my coffee too light."
+          },
+          {
+            "cf": "",
+            "x": "I think I’ll have a light tea."
+          }
+        ]
+      },
+      {
+        "definition": "carrying only light weapons",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the light infantry/cavalry"
+          }
+        ]
+      },
+      {
+        "definition": "a person in a light sleep is easy to wake",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She drifted into a light sleep."
+          },
+          {
+            "cf": "",
+            "x": "I've always been a light sleeper."
+          }
+        ]
+      },
+      {
+        "definition": "free from worry; cheerful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I left the island with a light heart."
+          }
+        ]
+      },
+      {
+        "definition": "to not have enough of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We seem to be light on fuel."
+          }
+        ]
+      },
+      {
+        "definition": "the ability to deal with something in a sensitive and relaxed way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She handles this difficult subject with a light touch."
+          }
+        ]
+      },
+      {
+        "definition": "to treat something as not being important and not serious",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I didn’t mean to make light of your injuries."
+          }
+        ]
+      },
+      {
+        "definition": "to do something quickly and with little effort",
+        "examples": []
+      },
+      {
+        "definition": "used to say that a job is made easier if a lot of people help",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "likelihood",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lik/likel/likelihood__gb_1.mp3",
+    "phonetic_text": "/ˈlaɪklihʊd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lik/likel/likelihood__us_1.mp3",
+    "phonetic_am_text": "/ˈlaɪklihʊd/",
+    "senses": [
+      {
+        "definition": "the chance of something happening; how likely something is to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is very little likelihood of that happening."
+          },
+          {
+            "cf": "",
+            "x": "In all likelihood (= very probably) the meeting will be cancelled."
+          },
+          {
+            "cf": "",
+            "x": "The likelihood is that (= it is likely that) unemployment figures will continue to fall."
+          },
+          {
+            "cf": "",
+            "x": "This reduces the likelihood that the treatment will be successful."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "linear",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lin/linea/linear__gb_1.mp3",
+    "phonetic_text": "/ˈlɪniə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lin/linea/linear__us_1.mp3",
+    "phonetic_am_text": "/ˈlɪniər/",
+    "senses": [
+      {
+        "definition": "of or in lines",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In his art he broke the laws of scientific linear perspective."
+          }
+        ]
+      },
+      {
+        "definition": "going from one thing to another in a single series of stages",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Students do not always progress in a linear fashion."
+          },
+          {
+            "cf": "",
+            "x": "The author abandons the conventions of linear narrative and normal chronology."
+          }
+        ]
+      },
+      {
+        "definition": "of length",
+        "examples": [
+          {
+            "cf": "",
+            "x": "linear measurement (= for example metres, feet, etc.)"
+          }
+        ]
+      },
+      {
+        "definition": "able to be represented by a straight line on a graph",
+        "examples": [
+          {
+            "cf": "",
+            "x": "linear equations"
+          }
+        ]
+      },
+      {
+        "definition": "broadcast and watched at regular times according to a schedule",
+        "examples": [
+          {
+            "cf": "",
+            "x": "People are watching linear TV much less these days, preferring on-demand platforms like Netflix."
+          },
+          {
+            "cf": "",
+            "x": "the simplicity of traditional linear channel programming"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liquid",
+    "level": "B1",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/liq/liqui/liquid__gb_1.mp3",
+    "phonetic_text": "/ˈlɪkwɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/liq/liqui/liquid__us_3.mp3",
+    "phonetic_am_text": "/ˈlɪkwɪd/",
+    "senses": [
+      {
+        "definition": "in the form of a liquid; not a solid or a gas",
+        "examples": [
+          {
+            "cf": "",
+            "x": "liquid nitrogen"
+          },
+          {
+            "cf": "",
+            "x": "liquid soap"
+          },
+          {
+            "cf": "",
+            "x": "The detergent comes in powder or liquid form."
+          },
+          {
+            "cf": "",
+            "x": "a stall selling snacks and liquid refreshment (= drinks)"
+          },
+          {
+            "cf": "",
+            "x": "a liquid lunch (= alcoholic drinks, rather than food)"
+          }
+        ]
+      },
+      {
+        "definition": "in cash, or that can easily be changed into cash",
+        "examples": [
+          {
+            "cf": "",
+            "x": "liquid assets"
+          }
+        ]
+      },
+      {
+        "definition": "clear, like water",
+        "examples": [
+          {
+            "cf": "",
+            "x": "liquid blue eyes"
+          }
+        ]
+      },
+      {
+        "definition": "clear, pure and flowing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the liquid song of a blackbird"
+          },
+          {
+            "cf": "",
+            "x": "Italian is rich in broad open vowels and liquid consonants."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "litre",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lit/litre/litre__gb_1.mp3",
+    "phonetic_text": "/ˈliːtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lit/litre/litre__us_1.mp3",
+    "phonetic_am_text": "/ˈliːtər/",
+    "senses": [
+      {
+        "definition": "a unit for measuring volume, equal to 1.76 British pints or 2.11 American pints",
+        "examples": [
+          {
+            "cf": "",
+            "x": "3 litres of water"
+          },
+          {
+            "cf": "",
+            "x": "a litre bottle of wine"
+          },
+          {
+            "cf": "",
+            "x": "a car with a 3.5 litre engine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "magnetic",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magne/magnetic__gb_1.mp3",
+    "phonetic_text": "/mæɡˈnetɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magne/magnetic__us_1.mp3",
+    "phonetic_am_text": "/mæɡˈnetɪk/",
+    "senses": [
+      {
+        "definition": "behaving like a magnet; that can be attracted by a magnet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "magnetic materials"
+          },
+          {
+            "cf": "",
+            "x": "Steel is magnetic."
+          },
+          {
+            "cf": "",
+            "x": "The block becomes magnetic when the current is switched on."
+          }
+        ]
+      },
+      {
+        "definition": "connected with or produced by magnetism",
+        "examples": [
+          {
+            "cf": "",
+            "x": "magnetic properties/forces"
+          },
+          {
+            "cf": "",
+            "x": "a magnetic disk (= one containing magnetic material that stores information to be used by a computer)"
+          }
+        ]
+      },
+      {
+        "definition": "that people find very powerful and attractive",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a magnetic personality"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "magnitude",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mag/magni/magnitude__gb_1.mp3",
+    "phonetic_text": "/ˈmæɡnɪtjuːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mag/magni/magnitude__us_1.mp3",
+    "phonetic_am_text": "/ˈmæɡnɪtuːd/",
+    "senses": [
+      {
+        "definition": "the great size or importance of something; the degree to which something is large or important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We did not realize the magnitude of the problem."
+          },
+          {
+            "cf": "",
+            "x": "a discovery of the first magnitude"
+          }
+        ]
+      },
+      {
+        "definition": "the degree to which a star is bright",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The star varies in brightness by about three magnitudes."
+          },
+          {
+            "cf": "",
+            "x": "Stars of the first magnitude are visible to the naked eye."
+          }
+        ]
+      },
+      {
+        "definition": "the size of an earthquake",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The quake reached a magnitude of 7.1 on the Richter scale."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mass",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/mass_/mass__gb_2.mp3",
+    "phonetic_text": "/mæs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/mass_/mass__us_2.mp3",
+    "phonetic_am_text": "/mæs/",
+    "senses": [
+      {
+        "definition": "affecting or involving a large number of people or things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The world faces the tremendous problem of mass unemployment."
+          },
+          {
+            "cf": "",
+            "x": "The industrial revolution heralded the start of mass production."
+          },
+          {
+            "cf": "",
+            "x": "victims of a mass shooting"
+          },
+          {
+            "cf": "",
+            "x": "Their latest product is aimed at the mass market."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "material",
+    "level": "A2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mater/material__gb_2.mp3",
+    "phonetic_text": "/məˈtɪəriəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mater/material__us_2.mp3",
+    "phonetic_am_text": "/məˈtɪriəl/",
+    "senses": [
+      {
+        "definition": "connected with money, possessions, etc. rather than with the needs of the mind or spirit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "material possessions/wealth"
+          },
+          {
+            "cf": "",
+            "x": "The early pioneers had few material resources at their disposal."
+          },
+          {
+            "cf": "",
+            "x": "Only 34% of respondents said that material goods brought them happiness."
+          },
+          {
+            "cf": "",
+            "x": "changes in your material circumstances"
+          }
+        ]
+      },
+      {
+        "definition": "connected with the physical world rather than with the mind or spirit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the material world"
+          }
+        ]
+      },
+      {
+        "definition": "important and needing to be considered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "material evidence/facts"
+          },
+          {
+            "cf": "",
+            "x": "We must allow all material considerations to be taken into account."
+          },
+          {
+            "cf": "material to something",
+            "x": "She omitted information that was material to the case."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maximum",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/max/maxim/maximum__gb_2.mp3",
+    "phonetic_text": "/ˈmæksɪməm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/max/maxim/maximum__us_2.mp3",
+    "phonetic_am_text": "/ˈmæksɪməm/",
+    "senses": [
+      {
+        "definition": "as large, fast, etc. as is possible, or the most that is possible or allowed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the maximum amount/number of something"
+          },
+          {
+            "cf": "",
+            "x": "Turn it right up to the maximum volume."
+          },
+          {
+            "cf": "",
+            "x": "The trains travel at a maximum speed of 100 mph."
+          },
+          {
+            "cf": "",
+            "x": " It was the highest maximum temperature ever recorded in the region."
+          },
+          {
+            "cf": "",
+            "x": "For maximum effect do the exercises every day."
+          },
+          {
+            "cf": "",
+            "x": "The offence carries a maximum prison sentence of ten years."
+          },
+          {
+            "cf": "",
+            "x": "a maximum security prison"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "measure",
+    "level": "A2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/measu/measure__gb_3.mp3",
+    "phonetic_text": "/ˈmeʒə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/measu/measure__us_1.mp3",
+    "phonetic_am_text": "/ˈmeʒər/",
+    "senses": [
+      {
+        "definition": "an official action that is done in order to achieve a particular aim",
+        "examples": [
+          {
+            "cf": "",
+            "x": "safety/austerity measures"
+          },
+          {
+            "cf": "",
+            "x": "a temporary/an emergency measure"
+          },
+          {
+            "cf": "",
+            "x": "a series/number/range of measures"
+          },
+          {
+            "cf": "",
+            "x": "a package of measures aimed at cutting pollution"
+          },
+          {
+            "cf": "",
+            "x": "New security measures were implemented to prevent further violence."
+          },
+          {
+            "cf": "as a… measure",
+            "x": "Police in riot gear were in attendance as a precautionary measure."
+          },
+          {
+            "cf": "measure to do something",
+            "x": "We must take preventive measures to reduce crime in the area."
+          },
+          {
+            "cf": "",
+            "x": "The government is introducing tougher measures to combat crime."
+          },
+          {
+            "cf": "measure against something",
+            "x": "They are demanding harsher measures against racism."
+          }
+        ]
+      },
+      {
+        "definition": "a unit used for stating the size, quantity or degree of something; a system or a scale of these units",
+        "examples": [
+          {
+            "cf": "",
+            "x": "weights and measures"
+          },
+          {
+            "cf": "",
+            "x": "The Richter Scale is a measure of ground motion."
+          },
+          {
+            "cf": "",
+            "x": "Which measure of weight do pharmacists use?"
+          },
+          {
+            "cf": "",
+            "x": "liquid/dry measure"
+          }
+        ]
+      },
+      {
+        "definition": "a standard quantity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a generous measure of whisky"
+          }
+        ]
+      },
+      {
+        "definition": "a way of judging or measuring something",
+        "examples": [
+          {
+            "cf": "measure of something",
+            "x": "an accurate measure of ability"
+          },
+          {
+            "cf": "",
+            "x": "Is this test a good measure of reading comprehension?"
+          },
+          {
+            "cf": "",
+            "x": "Exam results are only one measure of a school's success."
+          },
+          {
+            "cf": "as a… measure",
+            "x": "Companies can use their stock price as a performance measure."
+          }
+        ]
+      },
+      {
+        "definition": "a sign of the size or the strength of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Sending flowers is a measure of how much you care."
+          }
+        ]
+      },
+      {
+        "definition": "a particular amount of something, especially a fairly large amount",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A measure of technical knowledge is desirable in this job."
+          },
+          {
+            "cf": "",
+            "x": "She achieved some measure of success with her first book."
+          },
+          {
+            "cf": "",
+            "x": "It was a success, containing equal measures of unbridled anarchy and infantile fun."
+          }
+        ]
+      },
+      {
+        "definition": "an instrument such as a stick, a long tape or a container that is marked with standard units and is used for measuring",
+        "examples": []
+      },
+      {
+        "definition": "a written suggestion, especially one for a new law made by the lawmakers of a state",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a motion to refer the measure to another committee"
+          },
+          {
+            "cf": "",
+            "x": "a ballot measure (= a change in the law that voters decide on)"
+          }
+        ]
+      },
+      {
+        "definition": "one of the short sections of equal length that a piece of music is divided into, and the notes that are in it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The band began playing the opening measures."
+          }
+        ]
+      },
+      {
+        "definition": "very much",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He irritated me beyond measure."
+          }
+        ]
+      },
+      {
+        "definition": "as an extra amount of something in addition to what has already been done or given",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Use 50g of rice per person and an extra spoonful for good measure."
+          },
+          {
+            "cf": "",
+            "x": "‘I’m no good at puzzles. I can’t even do crosswords,’ she added for good measure."
+          }
+        ]
+      },
+      {
+        "definition": "the whole of something or less of something than you expect or should have",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We experienced the full measure of their hospitality."
+          },
+          {
+            "cf": "",
+            "x": "The concert only lasted an hour, so we felt we were getting short measure."
+          }
+        ]
+      },
+      {
+        "definition": "to form an opinion about something, especially somebody’s character or abilities, so that you can deal with them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After only one game, the chess champion had the measure of his young opponent."
+          }
+        ]
+      },
+      {
+        "definition": "to the greatest possible degree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My expectations had been met in full measure."
+          }
+        ]
+      },
+      {
+        "definition": "to a great extent",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their success is due in large measure to their determination."
+          }
+        ]
+      },
+      {
+        "definition": "to a great extent",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their success is due in large part to their determination."
+          }
+        ]
+      },
+      {
+        "definition": "to a large extent or degree; to some, etc. extent or degree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The introduction of a new tax accounted in no small measure for the downfall of the government."
+          },
+          {
+            "cf": "",
+            "x": "Our thanks are due in equal measure to every member of the team."
+          }
+        ]
+      },
+      {
+        "definition": "made especially for one person according to particular measurements",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You'll need to get a suit made to measure."
+          },
+          {
+            "cf": "",
+            "x": "I’m having the curtains made to measure."
+          },
+          {
+            "cf": "",
+            "x": "a made-to-measure suit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "measurement",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/measu/measurement__gb_2.mp3",
+    "phonetic_text": "/ˈmeʒəmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/measu/measurement__us_1.mp3",
+    "phonetic_am_text": "/ˈmeʒərmənt/",
+    "senses": [
+      {
+        "definition": "the act or the process of finding the size, quantity or degree of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the metric system of measurement"
+          },
+          {
+            "cf": "",
+            "x": "Accurate measurement is very important in science."
+          },
+          {
+            "cf": "",
+            "x": " The research is based on the measurement of body fat in schoolchildren."
+          },
+          {
+            "cf": "",
+            "x": "It is important to take precise measurements of the structure."
+          }
+        ]
+      },
+      {
+        "definition": "the size, length or amount of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to take somebody’s chest/waist measurement"
+          },
+          {
+            "cf": "",
+            "x": "Do you know your measurements (= the size of parts of your body)?"
+          },
+          {
+            "cf": "",
+            "x": "The exact measurements of the room are 3 metres 20 by 2 metres 84."
+          }
+        ]
+      },
+      {
+        "definition": "a unit or system of measuring",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A hand is a measurement used for measuring horses."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mechanism",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mec/mecha/mechanism__gb_1.mp3",
+    "phonetic_text": "/ˈmekənɪzəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mec/mecha/mechanism__us_1.mp3",
+    "phonetic_am_text": "/ˈmekənɪzəm/",
+    "senses": [
+      {
+        "definition": "a set of moving parts in a machine that performs a task",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a delicate watch mechanism"
+          },
+          {
+            "cf": "",
+            "x": "The mechanism for locking the door of the washing machine is childproof."
+          },
+          {
+            "cf": "",
+            "x": "The gun froze, jamming the mechanism."
+          }
+        ]
+      },
+      {
+        "definition": "a method or a system for achieving something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mechanisms for dealing with complaints from the general public"
+          },
+          {
+            "cf": "",
+            "x": "The college has established an effective student support mechanism."
+          }
+        ]
+      },
+      {
+        "definition": "a system of parts in a living thing that together perform a particular function",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the balance mechanism in the ears"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "melt",
+    "level": "B1",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mel/melt_/melt__gb_1.mp3",
+    "phonetic_text": "/melt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mel/melt_/melt__us_1.mp3",
+    "phonetic_am_text": "/melt/",
+    "senses": [
+      {
+        "definition": "to become or make something become liquid as a result of heating",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The snow showed no sign of melting."
+          },
+          {
+            "cf": "",
+            "x": "melting ice"
+          },
+          {
+            "cf": "melt something",
+            "x": "The sun had melted the snow."
+          },
+          {
+            "cf": "",
+            "x": "boiled potatoes with melted butter"
+          },
+          {
+            "cf": "",
+            "x": "melted cheese/chocolate/ice cream"
+          },
+          {
+            "cf": "",
+            "x": "First, melt two ounces of butter."
+          }
+        ]
+      },
+      {
+        "definition": "to become or to make a feeling, an emotion, etc. become gentler and less strong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The tension in the room began to melt."
+          },
+          {
+            "cf": "melt something",
+            "x": "Her trusting smile melted his heart."
+          }
+        ]
+      },
+      {
+        "definition": "to become extremely hot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Today the temperature got up to 36 degrees and it felt like I was melting."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that somebody seems to be innocent, kind, etc. when they are not really",
+        "examples": []
+      },
+      {
+        "definition": "to be soft and very good to eat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They serve steaks that just melt in your mouth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "metal",
+    "level": "A2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metal/metal__gb_1.mp3",
+    "phonetic_text": "/ˈmetl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metal/metal__us_1.mp3",
+    "phonetic_am_text": "/ˈmetl/",
+    "senses": [
+      {
+        "definition": "a type of solid mineral substance that is usually hard and shiny and that heat and electricity can travel through, for example tin, iron and gold",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a piece/sheet of metal"
+          },
+          {
+            "cf": "",
+            "x": "a metal pipe/bar/box/plate "
+          },
+          {
+            "cf": "",
+            "x": "a heap of scrap metal"
+          },
+          {
+            "cf": "",
+            "x": "a roof of sheet metal"
+          },
+          {
+            "cf": "",
+            "x": "The frame is made of metal."
+          }
+        ]
+      },
+      {
+        "definition": "(to go) at full speed; (to drive) with the accelerator of the car pressed to the floor",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We drove through the night flat-out, with the pedal to the metal. "
+          }
+        ]
+      },
+      {
+        "definition": "to use as much effort as possible; with as much effort as possible",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm still putting the pedal to the metal here at work."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "metre",
+    "level": "A2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metre/metre__gb_1.mp3",
+    "phonetic_text": "/ˈmiːtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metre/metre__us_1.mp3",
+    "phonetic_am_text": "/ˈmiːtər/",
+    "senses": [
+      {
+        "definition": "a unit for measuring length; a hundred centimetres",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a 50-metre swimming pool"
+          },
+          {
+            "cf": "",
+            "x": "Every few metres the cat stopped and turned to look at me."
+          },
+          {
+            "cf": "",
+            "x": "Over 3 700 square metres of office space is available."
+          },
+          {
+            "cf": "",
+            "x": "The huge sculpture is made of 500 cubic metres of ice."
+          },
+          {
+            "cf": "",
+            "x": "an athlete running at 10 metres per second"
+          }
+        ]
+      },
+      {
+        "definition": "used in the name of races",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She came second in the 200 metres."
+          },
+          {
+            "cf": "",
+            "x": "the 4 × 100 metre(s) relay"
+          }
+        ]
+      },
+      {
+        "definition": "the arrangement of strong and weak stresses in lines of poetry that produces the rhythm; a particular example of this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She knows a lot about verse metre."
+          },
+          {
+            "cf": "",
+            "x": "poems in a variety of metres"
+          },
+          {
+            "cf": "",
+            "x": "the hexameter, the epic metre of Homer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mineral",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/min/miner/mineral__gb_1.mp3",
+    "phonetic_text": "/ˈmɪnərəl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/min/miner/mineral__us_3.mp3",
+    "phonetic_am_text": "/ˈmɪnərəl/",
+    "senses": [
+      {
+        "definition": "a substance that is naturally present in the earth and is not formed from animal or vegetable matter, for example gold and salt. Some minerals are also present in food and drink and in the human body and are essential for good health.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a country rich in mineral resources"
+          },
+          {
+            "cf": "",
+            "x": "mineral deposits/extraction"
+          },
+          {
+            "cf": "",
+            "x": "the recommended intake of vitamins and minerals"
+          },
+          {
+            "cf": "",
+            "x": "Low bone mineral density is linked with vitamin deficiency."
+          }
+        ]
+      },
+      {
+        "definition": "a sweet drink with various different tastes that has bubbles of gas in it and does not contain alcohol",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Soft drinks and minerals sold here."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mixture",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mix/mixtu/mixture__gb_1.mp3",
+    "phonetic_text": "/ˈmɪkstʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mix/mixtu/mixture__us_1.mp3",
+    "phonetic_am_text": "/ˈmɪkstʃər/",
+    "senses": [
+      {
+        "definition": "a combination of different things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was a curious mixture, part grand lady, part wild child."
+          },
+          {
+            "cf": "mixture of A and B",
+            "x": "The city is a mixture of old and new buildings."
+          },
+          {
+            "cf": "",
+            "x": "We listened to the news with a mixture of surprise and horror."
+          },
+          {
+            "cf": "",
+            "x": "Anger is often caused by frustration or embarrassment, or a mixture of the two."
+          },
+          {
+            "cf": "",
+            "x": "pastries filled with a mixture of nuts, sugar and rose water"
+          }
+        ]
+      },
+      {
+        "definition": "a substance made by mixing other substances together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Spread the cake mixture into a greased baking tin."
+          },
+          {
+            "cf": "",
+            "x": "Add the eggs to the mixture and beat well."
+          },
+          {
+            "cf": "",
+            "x": "Gradually fold the flour into the egg mixture."
+          }
+        ]
+      },
+      {
+        "definition": "a combination of two or more substances that mix together without any chemical reaction taking place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Exposures to chemical mixtures have produced unexpected effects."
+          }
+        ]
+      },
+      {
+        "definition": "the act of mixing different substances together",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "momentum",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mom/momen/momentum__gb_1.mp3",
+    "phonetic_text": "/məˈmentəm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mom/momen/momentum__us_1_rr.mp3",
+    "phonetic_am_text": "/məʊˈmentəm/",
+    "senses": [
+      {
+        "definition": "the ability to keep increasing or developing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The fight for his release gathers momentum each day."
+          },
+          {
+            "cf": "",
+            "x": "They began to lose momentum in the second half of the game."
+          }
+        ]
+      },
+      {
+        "definition": "a force that is gained by movement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The vehicle gained momentum as the road dipped."
+          },
+          {
+            "cf": "",
+            "x": "The car gathered momentum as it rolled down the hill."
+          }
+        ]
+      },
+      {
+        "definition": "the quantity of movement of a moving object, measured as its mass multiplied by its speed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/motio/motion__gb_1.mp3",
+    "phonetic_text": "/ˈməʊʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/motio/motion__us_1.mp3",
+    "phonetic_am_text": "/ˈməʊʃn/",
+    "senses": [
+      {
+        "definition": "the act or process of moving or the way something moves",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What was Newton's first law of motion?"
+          },
+          {
+            "cf": "",
+            "x": "The swaying motion of the ship was making me feel seasick."
+          },
+          {
+            "cf": "",
+            "x": "Rub the cream in with a circular motion."
+          },
+          {
+            "cf": "in motion",
+            "x": "Do not alight while the train is still in motion (= moving)."
+          }
+        ]
+      },
+      {
+        "definition": "a particular movement made usually with your hand or your head, especially to communicate something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "At a single motion of his hand, the room fell silent."
+          },
+          {
+            "cf": "",
+            "x": "She made a sawing motion with her hand."
+          }
+        ]
+      },
+      {
+        "definition": "a formal proposal that is discussed and voted on at a meeting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to table/put forward a motion"
+          },
+          {
+            "cf": "",
+            "x": "to propose a motion (= to be the main speaker in favour of a motion)"
+          },
+          {
+            "cf": "",
+            "x": "The motion was adopted/carried by six votes to one."
+          }
+        ]
+      },
+      {
+        "definition": "an act of emptying the bowels; the waste matter that is emptied from the bowels",
+        "examples": []
+      },
+      {
+        "definition": "to do or say something because you have to, not because you really want to",
+        "examples": []
+      },
+      {
+        "definition": "to start something moving",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They set the machinery in motion."
+          },
+          {
+            "cf": "",
+            "x": "The wheels of change have been set in motion."
+          },
+          {
+            "cf": "",
+            "x": "He wound the key and set the toy in motion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nuclear",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nuc/nucle/nuclear__gb_2.mp3",
+    "phonetic_text": "/ˈnjuːkliə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nuc/nucle/nuclear__us_1.mp3",
+    "phonetic_am_text": "/ˈnuːkliər/",
+    "senses": [
+      {
+        "definition": "using, producing or resulting from nuclear energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a nuclear power plant/station"
+          },
+          {
+            "cf": "",
+            "x": "China and India only produce a very small percentage of their electricity from nuclear facilities. "
+          },
+          {
+            "cf": "",
+            "x": "the nuclear industry"
+          },
+          {
+            "cf": "",
+            "x": "nuclear-powered submarines"
+          },
+          {
+            "cf": "",
+            "x": "a nuclear reactor"
+          },
+          {
+            "cf": "",
+            "x": "nuclear waste/fuel"
+          }
+        ]
+      },
+      {
+        "definition": "connected with weapons that use nuclear energy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "nuclear weapons/arms"
+          },
+          {
+            "cf": "",
+            "x": "a nuclear bomb/missile/warhead "
+          },
+          {
+            "cf": "",
+            "x": "a nuclear explosion/attack/war "
+          },
+          {
+            "cf": "",
+            "x": "the country’s nuclear capability (= the fact that it has nuclear weapons)"
+          },
+          {
+            "cf": "",
+            "x": "The country is developing a nuclear weapons program. "
+          },
+          {
+            "cf": "",
+            "x": "They aim to discourage the country from developing its nuclear weapons program further."
+          },
+          {
+            "cf": "",
+            "x": "They argued in favour of keeping a nuclear deterrent (= nuclear weapons that are intended to stop an enemy from attacking)."
+          },
+          {
+            "cf": "",
+            "x": "The opponents are campaigning for nuclear disarmament."
+          },
+          {
+            "cf": "",
+            "x": "Years of threats by the U.S. have done nothing to curb these states' nuclear ambitions (= attempts to develop nuclear weapons). "
+          },
+          {
+            "cf": "",
+            "x": "Russia's huge nuclear arsenal"
+          }
+        ]
+      },
+      {
+        "definition": "of the nucleus (= central part) of an atom",
+        "examples": [
+          {
+            "cf": "",
+            "x": "nuclear particles"
+          },
+          {
+            "cf": "",
+            "x": "a nuclear reaction"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "parallel",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paral/parallel__gb_2.mp3",
+    "phonetic_text": "/ˈpærəlel/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paral/parallel__us_1.mp3",
+    "phonetic_am_text": "/ˈpærəlel/",
+    "senses": [
+      {
+        "definition": "two or more lines that are parallel to each other are the same distance apart at every point",
+        "examples": [
+          {
+            "cf": "",
+            "x": "parallel lines"
+          },
+          {
+            "cf": "parallel to/with something",
+            "x": "The road and the canal are parallel to each other."
+          }
+        ]
+      },
+      {
+        "definition": "very similar or taking place at the same time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "parallel trends"
+          },
+          {
+            "cf": "",
+            "x": "Though still a committed painter, in 1978 she launched a parallel career as a photographer."
+          },
+          {
+            "cf": "",
+            "x": "Two poisonings have been reported recently in London and now there has been a parallel case in the Netherlands."
+          }
+        ]
+      },
+      {
+        "definition": "involving several computer operations at the same time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "parallel processing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "phase",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pha/phase/phase__gb_2.mp3",
+    "phonetic_text": "/feɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pha/phase/phase__us_1.mp3",
+    "phonetic_am_text": "/feɪz/",
+    "senses": [
+      {
+        "definition": "a stage in a process of change or development",
+        "examples": [
+          {
+            "cf": "",
+            "x": "during the initial/final phase"
+          },
+          {
+            "cf": "",
+            "x": "the construction/development/design phase "
+          },
+          {
+            "cf": "",
+            "x": "the testing phase of the project"
+          },
+          {
+            "cf": "",
+            "x": "This technology is still in an early phase of development."
+          },
+          {
+            "cf": "phase in something",
+            "x": "an important phase in your career "
+          },
+          {
+            "cf": "",
+            "x": "The wedding marked the beginning of a new phase in Emma's life."
+          },
+          {
+            "cf": "",
+            "x": "His anxiety about the work was just a passing phase."
+          },
+          {
+            "cf": "",
+            "x": "During his stay in Spain, his work entered a new phase. "
+          },
+          {
+            "cf": "",
+            "x": "She's going through a difficult phase."
+          },
+          {
+            "cf": "",
+            "x": "The semester was divided into three phases of study. "
+          }
+        ]
+      },
+      {
+        "definition": "each of the shapes of the moon as we see it from the earth at different times of the month",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the phases of the moon"
+          }
+        ]
+      },
+      {
+        "definition": "working/not working together in the right way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The traffic lights were out of phase."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/phe/pheno/phenomenon__gb_3.mp3",
+    "phonetic_text": "/fəˈnɒmɪnən/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/phe/pheno/phenomenon__us_1_rr.mp3",
+    "phonetic_am_text": "/fəˈnɑːmɪnən/",
+    "senses": [
+      {
+        "definition": "a fact or an event in nature or society, especially one that is not fully understood",
+        "examples": [
+          {
+            "cf": "",
+            "x": "cultural/natural phenomena"
+          },
+          {
+            "cf": "phenomenon of something",
+            "x": "the global phenomenon of climate change"
+          },
+          {
+            "cf": "",
+            "x": "Globalization is a phenomenon of the 21st century."
+          },
+          {
+            "cf": "",
+            "x": "Early retirement is a relatively new phenomenon in Britain."
+          },
+          {
+            "cf": "",
+            "x": "We were hoping science could somehow explain this strange phenomenon. "
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is very successful or impressive",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This young pianist is a phenomenon."
+          },
+          {
+            "cf": "",
+            "x": "The movie has become a bona fide cult phenomenon."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "physics",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/phy/physi/physics__gb_2.mp3",
+    "phonetic_text": "/ˈfɪzɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/phy/physi/physics__us_2.mp3",
+    "phonetic_am_text": "/ˈfɪzɪks/",
+    "senses": [
+      {
+        "definition": "the scientific study of matter and energy and the relationships between them, including the study of forces, heat, light, sound, electricity and the structure of atoms",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a degree in physics"
+          },
+          {
+            "cf": "",
+            "x": "quantum/theoretical physics"
+          },
+          {
+            "cf": "",
+            "x": "the laws of physics"
+          },
+          {
+            "cf": "",
+            "x": "the physics laboratory/department"
+          },
+          {
+            "cf": "",
+            "x": "a physics professor/teacher"
+          },
+          {
+            "cf": "physics of something",
+            "x": "to study the physics of the electron"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "level": "A2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/plane/planet__gb_1.mp3",
+    "phonetic_text": "/ˈplænɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/plane/planet__us_1.mp3",
+    "phonetic_am_text": "/ˈplænɪt/",
+    "senses": [
+      {
+        "definition": "a large round object in space that moves around a star (such as the sun) and receives light from it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the planets of our solar system"
+          },
+          {
+            "cf": "",
+            "x": "the planet Earth/Venus/Mars"
+          },
+          {
+            "cf": "",
+            "x": "the possibility of life deep below the planet's surface "
+          }
+        ]
+      },
+      {
+        "definition": "used to mean ‘the world’, especially when talking about the environment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the battle to save the planet"
+          },
+          {
+            "cf": "",
+            "x": "He must be one of the few people on the planet without a website."
+          }
+        ]
+      },
+      {
+        "definition": "used to suggest that somebody’s ideas are not realistic or practical",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thinks being a father is easy. What planet is he on?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "powder",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pow/powde/powder__gb_1.mp3",
+    "phonetic_text": "/ˈpaʊdə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pow/powde/powder__us_2.mp3",
+    "phonetic_am_text": "/ˈpaʊdər/",
+    "senses": [
+      {
+        "definition": "a dry mass of very small fine pieces or grains",
+        "examples": [
+          {
+            "cf": "",
+            "x": "chilli/cocoa powder"
+          },
+          {
+            "cf": "",
+            "x": "lumps of chalk crushed to a fine white powder"
+          },
+          {
+            "cf": "",
+            "x": "The snow was like powder."
+          },
+          {
+            "cf": "",
+            "x": "a wide range of cleaning fluids and powders"
+          },
+          {
+            "cf": "",
+            "x": "The mustard is sold in powder form."
+          },
+          {
+            "cf": "",
+            "x": "powder skiing (= on fine dry snow)"
+          }
+        ]
+      },
+      {
+        "definition": "a very fine, soft, dry substance that you can put on your face to make it look smooth and dry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I only use lipstick and a little powder."
+          },
+          {
+            "cf": "",
+            "x": "She quickly dabbed some powder on her cheeks."
+          }
+        ]
+      },
+      {
+        "definition": "explosive powder used especially in bombs or fireworks",
+        "examples": []
+      },
+      {
+        "definition": "to remain ready for a possible emergency",
+        "examples": []
+      },
+      {
+        "definition": "to leave suddenly; to run away",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "precision",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preci/precision__gb_1.mp3",
+    "phonetic_text": "/prɪˈsɪʒn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preci/precision__us_1.mp3",
+    "phonetic_am_text": "/prɪˈsɪʒn/",
+    "senses": [
+      {
+        "definition": "the quality of being exact, accurate and careful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her writing is imaginative but lacks precision."
+          },
+          {
+            "cf": "with precision",
+            "x": "He chose his words with precision."
+          },
+          {
+            "cf": "",
+            "x": "done with mathematical precision"
+          },
+          {
+            "cf": "",
+            "x": "Historians can’t estimate the date with any (degree of) precision."
+          },
+          {
+            "cf": "",
+            "x": "precision instruments/tools"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "level": "B1",
+    "category": "science",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/predi/predict__gb_2.mp3",
+    "phonetic_text": "/prɪˈdɪkt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/predi/predict__us_1.mp3",
+    "phonetic_am_text": "/prɪˈdɪkt/",
+    "senses": [
+      {
+        "definition": "to say that something will happen in the future",
+        "examples": [
+          {
+            "cf": "predict something",
+            "x": "a reliable method of predicting earthquakes"
+          },
+          {
+            "cf": "",
+            "x": "Nobody could predict the outcome."
+          },
+          {
+            "cf": "",
+            "x": "to predict the future"
+          },
+          {
+            "cf": "",
+            "x": "He predicts a bright future for the business in the next financial year. "
+          },
+          {
+            "cf": "",
+            "x": "The party is predicting a majority of 20 seats."
+          },
+          {
+            "cf": "predict what, whether, etc…",
+            "x": "It is impossible to predict what will happen."
+          },
+          {
+            "cf": "predict (that)…",
+            "x": "She predicted (that) the election result would be close."
+          },
+          {
+            "cf": "",
+            "x": "He predicted (that) it would be a bestseller."
+          },
+          {
+            "cf": "it is predicted that…",
+            "x": "It was predicted that inflation would continue to fall."
+          },
+          {
+            "cf": "somebody/something is predicted to do something",
+            "x": "The trial is predicted to last for months."
+          },
+          {
+            "cf": "",
+            "x": "This figure is predicted to rise to one billion by the year 2030."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "predictable",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/predi/predictable__gb_1.mp3",
+    "phonetic_text": "/prɪˈdɪktəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/predi/predictable__us_1.mp3",
+    "phonetic_am_text": "/prɪˈdɪktəbl/",
+    "senses": [
+      {
+        "definition": "if something is predictable, you know in advance that it will happen or what it will be like",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a predictable result"
+          },
+          {
+            "cf": "",
+            "x": "The ending of the book was entirely predictable."
+          },
+          {
+            "cf": "",
+            "x": "The disease follows a highly predictable pattern."
+          },
+          {
+            "cf": "",
+            "x": "In March and April, the weather is much less predictable."
+          }
+        ]
+      },
+      {
+        "definition": "behaving or happening in a way that you would expect and therefore boring",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's very nice, but I find him rather dull and predictable."
+          },
+          {
+            "cf": "",
+            "x": "Rock music is getting so predictable these days."
+          },
+          {
+            "cf": "",
+            "x": "She had been in a number of predictable sitcoms."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prediction",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/predi/prediction__gb_3.mp3",
+    "phonetic_text": "/prɪˈdɪkʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/predi/prediction__us_3.mp3",
+    "phonetic_am_text": "/prɪˈdɪkʃn/",
+    "senses": [
+      {
+        "definition": "a statement that says what you think will happen; the act of making such a statement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The results of the experiment confirmed our predictions."
+          },
+          {
+            "cf": "prediction about/on something",
+            "x": "I've learned not to make predictions about the weather."
+          },
+          {
+            "cf": "",
+            "x": "It's difficult to make accurate predictions about the effects on the environment."
+          },
+          {
+            "cf": "",
+            "x": "Experts preview the game and offer their prediction on the outcome."
+          },
+          {
+            "cf": "prediction that…",
+            "x": "Not many people agree with the government's prediction that the economy will improve."
+          },
+          {
+            "cf": "prediction of something",
+            "x": "Their prediction of fifty million visitors turned out to be optimistic. "
+          },
+          {
+            "cf": "prediction for somebody/something",
+            "x": "What are your predictions for the economy? "
+          },
+          {
+            "cf": "",
+            "x": "Skilled readers make use of context and prediction."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "probability",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proba/probability__gb_3.mp3",
+    "phonetic_text": "/ˌprɒbəˈbɪləti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proba/probability__us_1.mp3",
+    "phonetic_am_text": "/ˌprɑːbəˈbɪləti/",
+    "senses": [
+      {
+        "definition": "how likely something is to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The probability is that prices will rise rapidly."
+          },
+          {
+            "cf": "",
+            "x": "There seemed to be a high probability of success."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is likely to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A fall in interest rates is a strong probability in the present economic climate."
+          },
+          {
+            "cf": "",
+            "x": "It now seems a probability rather than just a possibility."
+          }
+        ]
+      },
+      {
+        "definition": "a ratio showing the chances that a particular thing will happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is a 60 per cent probability that the population will be infected with the disease."
+          }
+        ]
+      },
+      {
+        "definition": "(considering) the evidence on both sides of an argument, to find the most likely reason for or result of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The balance of evidence suggests the Liberal party's decline began before the First World War."
+          },
+          {
+            "cf": "",
+            "x": "The coroner thought that on the balance of probabilities, the pilot had suffered a stroke just before the crash."
+          }
+        ]
+      },
+      {
+        "definition": "(considering) the evidence on both sides of an argument, to find the most likely reason for or result of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The coroner thought that on the balance of probabilities, the pilot had suffered a stroke just before the crash."
+          }
+        ]
+      },
+      {
+        "definition": "it is very likely that",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In all probability he failed to understand the consequences of his actions."
+          },
+          {
+            "cf": "",
+            "x": "In all probability she wouldn't come even if we invited her."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "probable",
+    "level": "B2",
+    "category": "science",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proba/probable__gb_1.mp3",
+    "phonetic_text": "/ˈprɒbəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proba/probable__us_1.mp3",
+    "phonetic_am_text": "/ˈprɑːbəbl/",
+    "senses": [
+      {
+        "definition": "likely to happen, to exist or to be true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the probable cause/explanation/outcome"
+          },
+          {
+            "cf": "",
+            "x": "highly/quite/most probable"
+          },
+          {
+            "cf": "",
+            "x": "It is probable that the disease has a genetic element."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "probe",
+    "level": "C1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/probe/probe__gb_1.mp3",
+    "phonetic_text": "/prəʊb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/probe/probe__us_1.mp3",
+    "phonetic_am_text": "/prəʊb/",
+    "senses": [
+      {
+        "definition": "a complete and careful investigation of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a police probe into the financial affairs of the company"
+          },
+          {
+            "cf": "",
+            "x": "Arson probe after three die at home."
+          }
+        ]
+      },
+      {
+        "definition": "a spacecraft without people on board that obtains information and sends it back to earth",
+        "examples": []
+      },
+      {
+        "definition": "a long, thin metal tool used by doctors for examining inside the body",
+        "examples": []
+      },
+      {
+        "definition": "a small device put inside something and used by scientists to test something or record information",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "proportion",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/propo/proportion__gb_2.mp3",
+    "phonetic_text": "/prəˈpɔːʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/propo/proportion__us_1.mp3",
+    "phonetic_am_text": "/prəˈpɔːrʃn/",
+    "senses": [
+      {
+        "definition": "a part or share of a whole",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Water covers a large proportion of the earth's surface."
+          },
+          {
+            "cf": "",
+            "x": "Loam is a soil with roughly equal proportions of clay, sand and silt."
+          },
+          {
+            "cf": "",
+            "x": "A significant proportion of the books have been translated from other languages."
+          },
+          {
+            "cf": "",
+            "x": "A higher proportion of Americans go on to higher education than is the case in Britain."
+          }
+        ]
+      },
+      {
+        "definition": "the relationship of one thing to another in size, amount, etc.",
+        "examples": [
+          {
+            "cf": "proportion of something to something",
+            "x": "The proportion of men to women in the college has changed dramatically over the years."
+          },
+          {
+            "cf": "in the proportion…",
+            "x": "The basic ingredients are limestone and clay in the proportion 2:1."
+          },
+          {
+            "cf": "in proportion to something",
+            "x": "The room is very long in proportion to (= relative to) its width."
+          }
+        ]
+      },
+      {
+        "definition": "the correct relationship in size, degree, importance, etc. between one thing and another or between the parts of a whole",
+        "examples": [
+          {
+            "cf": "in proportion (to something)",
+            "x": "You haven't drawn the figures in the foreground in proportion."
+          },
+          {
+            "cf": "out of proportion (with something)",
+            "x": "The head is out of proportion with the body."
+          },
+          {
+            "cf": "",
+            "x": "an impressive building with fine proportions"
+          },
+          {
+            "cf": "",
+            "x": "There is an entrance hall of perfect proportions, twice as long as it is wide."
+          },
+          {
+            "cf": "",
+            "x": "Always try to keep a sense of proportion (= of the relative importance of different things)."
+          }
+        ]
+      },
+      {
+        "definition": "the measurements of something; its size and shape",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This method divides the task into more manageable proportions."
+          },
+          {
+            "cf": "",
+            "x": "a food shortage that could soon reach crisis proportions"
+          },
+          {
+            "cf": "",
+            "x": "a room of fairly generous proportions"
+          }
+        ]
+      },
+      {
+        "definition": "the equal relationship between two pairs of numbers, as in the statement ‘4 is to 8 as 6 is to 12’",
+        "examples": []
+      },
+      {
+        "definition": "to react to something in a sensible way and not think it is worse or more serious than it really is",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The problem of hooliganism should be kept in proportion. Only a small number of young people act in this way."
+          }
+        ]
+      },
+      {
+        "definition": "larger, more serious, etc. in relation to something than is necessary or appropriate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They earn salaries out of all proportion to their ability."
+          },
+          {
+            "cf": "",
+            "x": "The media have blown the incident up out of all proportion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pump",
+    "level": "B1",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pum/pump_/pump__gb_1.mp3",
+    "phonetic_text": "/pʌmp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pum/pump_/pump__us_1.mp3",
+    "phonetic_am_text": "/pʌmp/",
+    "senses": [
+      {
+        "definition": "a machine that is used to force liquid, gas or air into or out of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a petrol pump"
+          },
+          {
+            "cf": "",
+            "x": "a gas pump"
+          },
+          {
+            "cf": "",
+            "x": "a foot/hand pump (= that you work by using your foot or hand)"
+          },
+          {
+            "cf": "",
+            "x": "a bicycle pump"
+          },
+          {
+            "cf": "",
+            "x": "She washed her face at the pump in front of the inn."
+          }
+        ]
+      },
+      {
+        "definition": "a light simple sports shoe made of canvas (= strong cotton cloth) with a rubber sole",
+        "examples": []
+      },
+      {
+        "definition": "a woman’s formal shoe that is plain and does not cover the top part of the foot",
+        "examples": []
+      },
+      {
+        "definition": "a woman’s light, soft flat shoe worn for dancing or exercise; a similar style of shoe worn as a fashion item",
+        "examples": [
+          {
+            "cf": "",
+            "x": "ballet pumps"
+          }
+        ]
+      },
+      {
+        "definition": "everyone helps or must help, especially in a difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are 30 people coming to dinner tonight, so it's all hands on deck."
+          }
+        ]
+      },
+      {
+        "definition": "to encourage the growth of a new or weak business or industry by putting money into it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "yield",
+    "level": "B2",
+    "category": "science",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yie/yield/yield__gb_2.mp3",
+    "phonetic_text": "/jiːld/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yie/yield/yield__us_1.mp3",
+    "phonetic_am_text": "/jiːld/",
+    "senses": [
+      {
+        "definition": "the total amount of crops, profits, etc. that are produced",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a high crop yield"
+          },
+          {
+            "cf": "",
+            "x": "a reduction in milk yield"
+          },
+          {
+            "cf": "",
+            "x": "This will give a yield of 10% on your investment."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5656 @@
+[
+  {
+    "word": "abortion",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/abort/abortion__gb_1.mp3",
+    "phonetic_text": "/əˈbɔːʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abo/abort/abortion__us_1.mp3",
+    "phonetic_am_text": "/əˈbɔːrʃn/",
+    "senses": [
+      {
+        "definition": "the deliberate ending of a pregnancy at an early stage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to support/oppose abortion"
+          },
+          {
+            "cf": "",
+            "x": "a woman’s right to abortion"
+          },
+          {
+            "cf": "",
+            "x": "the country's strict abortion laws"
+          },
+          {
+            "cf": "",
+            "x": "Both pro-choice and anti-abortion groups want to ensure their voices are heard."
+          }
+        ]
+      },
+      {
+        "definition": "a medical operation to end a pregnancy at an early stage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She decided to have an abortion."
+          },
+          {
+            "cf": "",
+            "x": "Some medical staff wanted the right to refuse to perform abortions."
+          }
+        ]
+      },
+      {
+        "definition": "the process of giving birth to a baby before it is fully developed and able to survive",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "abuse",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abuse/abuse__gb_1.mp3",
+    "phonetic_text": "/əˈbjuːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abuse/abuse__us_3.mp3",
+    "phonetic_am_text": "/əˈbjuːs/",
+    "senses": [
+      {
+        "definition": "the use of something in a way that is wrong or harmful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "alcohol/drug abuse"
+          },
+          {
+            "cf": "",
+            "x": "The system of paying cash bonuses is open to abuse (= might be used in the wrong way)."
+          },
+          {
+            "cf": "",
+            "x": "The legal system is open to abuse."
+          },
+          {
+            "cf": "abuse of something",
+            "x": "He was arrested on charges of corruption and abuse of power."
+          },
+          {
+            "cf": "",
+            "x": "What she did was an abuse of her position as manager."
+          }
+        ]
+      },
+      {
+        "definition": "unfair, cruel or violent treatment of somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "child abuse"
+          },
+          {
+            "cf": "",
+            "x": "sexual abuse"
+          },
+          {
+            "cf": "",
+            "x": "reported abuses by the secret police"
+          },
+          {
+            "cf": "",
+            "x": "They suffered years of physical abuse."
+          }
+        ]
+      },
+      {
+        "definition": "rude and offensive remarks, usually made when somebody is very angry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to scream/hurl/shout abuse"
+          },
+          {
+            "cf": "",
+            "x": "a stream/torrent of abuse"
+          },
+          {
+            "cf": "",
+            "x": "The man burst into a torrent of foul-mouthed racist abuse."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accident",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accid/accident__gb_2.mp3",
+    "phonetic_text": "/ˈæksɪdənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accid/accident__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈæksɪdənt/",
+    "senses": [
+      {
+        "definition": "an unpleasant event, especially in a vehicle, that happens unexpectedly and causes injury or damage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a car/road/traffic accident"
+          },
+          {
+            "cf": "in an accident",
+            "x": "He was killed in an accident."
+          },
+          {
+            "cf": "",
+            "x": "One in seven accidents is caused by sleepy drivers."
+          },
+          {
+            "cf": "",
+            "x": "The accident happened at 3 p.m."
+          },
+          {
+            "cf": "",
+            "x": "to have an accident"
+          },
+          {
+            "cf": "",
+            "x": "a serious/minor accident"
+          },
+          {
+            "cf": "",
+            "x": "a fatal accident (= in which somebody is killed)"
+          },
+          {
+            "cf": "",
+            "x": "Every year in the United Kingdom more than 4 000 people die in accidents in the home."
+          },
+          {
+            "cf": "",
+            "x": "a climbing/riding accident"
+          },
+          {
+            "cf": "",
+            "x": "Take out accident insurance before you go on your trip."
+          },
+          {
+            "cf": "",
+            "x": "I didn't mean to break it—it was an accident."
+          },
+          {
+            "cf": "",
+            "x": "Their boat sank in a freak accident."
+          },
+          {
+            "cf": "",
+            "x": "His son died in a tragic cycling accident."
+          },
+          {
+            "cf": "",
+            "x": "There are a number of accident blackspots (= places where lots of accidents happen) on that road."
+          },
+          {
+            "cf": "",
+            "x": "We don't know the cause of the accident."
+          },
+          {
+            "cf": "",
+            "x": "She was badly injured in a motorcycle accident."
+          }
+        ]
+      },
+      {
+        "definition": "something that happens by chance and without an obvious cause",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their early arrival was just an accident."
+          },
+          {
+            "cf": "",
+            "x": "It is no accident that lawn tennis was invented in England."
+          },
+          {
+            "cf": "",
+            "x": "an accident of birth/fate/history (= describing facts and events that are due to chance or circumstances)"
+          }
+        ]
+      },
+      {
+        "definition": "a thing or person that is very likely to cause danger or a problem in the future because of the condition it is in or the way they behave",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Any one of these nuclear plants may be a disaster waiting to happen."
+          }
+        ]
+      },
+      {
+        "definition": "people say accidents will happen to tell somebody who has had an accident, for example breaking something, that it does not matter and they should not worry",
+        "examples": []
+      },
+      {
+        "definition": "in a way that is not planned or organized",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We met by accident at the airport."
+          },
+          {
+            "cf": "",
+            "x": "Helen got into acting purely by accident."
+          },
+          {
+            "cf": "",
+            "x": "It happened, whether by accident or design, that Steve and I were the last two people to leave."
+          }
+        ]
+      },
+      {
+        "definition": "a series of unpleasant events caused by bad luck",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The whole affair has been a chapter of accidents from start to finish."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acute",
+    "level": "B2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acu/acute/acute__gb_1.mp3",
+    "phonetic_text": "/əˈkjuːt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acu/acute/acute__us_1.mp3",
+    "phonetic_am_text": "/əˈkjuːt/",
+    "senses": [
+      {
+        "definition": "very serious or severe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There is an acute shortage of water."
+          },
+          {
+            "cf": "",
+            "x": "acute pain"
+          },
+          {
+            "cf": "",
+            "x": "the world’s acute environmental problems"
+          },
+          {
+            "cf": "",
+            "x": "Competition for jobs is acute."
+          },
+          {
+            "cf": "",
+            "x": "The scandal was an acute embarrassment for the President."
+          },
+          {
+            "cf": "",
+            "x": "He was suffering from acute chest pains."
+          }
+        ]
+      },
+      {
+        "definition": "an acute illness is one that has quickly become severe and dangerous",
+        "examples": [
+          {
+            "cf": "",
+            "x": "acute appendicitis"
+          }
+        ]
+      },
+      {
+        "definition": "describing or designed for patients suffering from an acute illness",
+        "examples": [
+          {
+            "cf": "",
+            "x": "acute patients"
+          },
+          {
+            "cf": "",
+            "x": "an acute ward"
+          }
+        ]
+      },
+      {
+        "definition": "very sensitive and well developed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Dogs have an acute sense of smell."
+          }
+        ]
+      },
+      {
+        "definition": "intelligent and quick to notice and understand things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is an acute observer of the social scene."
+          },
+          {
+            "cf": "",
+            "x": "Her judgement is acute."
+          }
+        ]
+      },
+      {
+        "definition": "less than 90°",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "addiction",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addic/addiction__gb_1.mp3",
+    "phonetic_text": "/əˈdɪkʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addic/addiction__us_1.mp3",
+    "phonetic_am_text": "/əˈdɪkʃn/",
+    "senses": [
+      {
+        "definition": "the condition of being unable to stop using or doing something as a habit, especially something harmful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "cocaine addiction"
+          },
+          {
+            "cf": "addiction to something",
+            "x": "He is now fighting his addiction to alcohol."
+          },
+          {
+            "cf": "",
+            "x": "an addiction to TV game shows/social media/gambling"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adolescent",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ado/adole/adolescent__gb_1.mp3",
+    "phonetic_text": "/ˌædəˈlesnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ado/adole/adolescent__us_1.mp3",
+    "phonetic_am_text": "/ˌædəˈlesnt/",
+    "senses": [
+      {
+        "definition": "a young person who is developing from a child into an adult",
+        "examples": [
+          {
+            "cf": "",
+            "x": "adolescents between the ages of 13 and 18 and the problems they face"
+          },
+          {
+            "cf": "",
+            "x": "Stop acting like an adolescent!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adult",
+    "level": "A1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adu/adult/adult__gb_3.mp3",
+    "phonetic_text": "/ˈædʌlt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adu/adult/adult__us_2_rr.mp3",
+    "phonetic_am_text": "/əˈdʌlt/",
+    "senses": [
+      {
+        "definition": "fully grown or developed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "preparing young people for adult life"
+          },
+          {
+            "cf": "",
+            "x": "He was a healthy young adult male."
+          },
+          {
+            "cf": "",
+            "x": "the adult population"
+          },
+          {
+            "cf": "",
+            "x": "adult monkeys"
+          },
+          {
+            "cf": "",
+            "x": "She spent her entire adult life caring for others."
+          }
+        ]
+      },
+      {
+        "definition": "behaving in an intelligent and responsible way; typical of what is expected of an adult",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When my parents split up, it was all very adult and open."
+          },
+          {
+            "cf": "",
+            "x": "Young children become quickly bored by adult conversation."
+          }
+        ]
+      },
+      {
+        "definition": "intended for adults only because it is about sex or shows people with no clothes on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an adult movie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "AIDS",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aid/aids_/aids__gb_1.mp3",
+    "phonetic_text": "/eɪdz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aid/aids_/aids__us_1.mp3",
+    "phonetic_am_text": "/eɪdz/",
+    "senses": [
+      {
+        "definition": "a serious illness caused by a virus called HIV that attacks the body’s ability to resist infection (the abbreviation for ‘Acquired Immune Deficiency Syndrome’)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the AIDS epidemic"
+          },
+          {
+            "cf": "",
+            "x": "to fight/eradicate/combat AIDS"
+          },
+          {
+            "cf": "",
+            "x": "people who have battled and survived AIDS"
+          },
+          {
+            "cf": "",
+            "x": "AIDS research/education"
+          },
+          {
+            "cf": "",
+            "x": "She died of an AIDs-related illness at the age of 54."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ambulance",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/amb/ambul/ambulance__gb_5.mp3",
+    "phonetic_text": "/ˈæmbjələns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/amb/ambul/ambulance__us_1.mp3",
+    "phonetic_am_text": "/ˈæmbjələns/",
+    "senses": [
+      {
+        "definition": "a vehicle with special equipment, used for taking sick or injured people to a hospital",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Call an ambulance!"
+          },
+          {
+            "cf": "",
+            "x": "the ambulance service"
+          },
+          {
+            "cf": "",
+            "x": "The ambulance crew rushed her to the hospital."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ankle",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ank/ankle/ankle__gb_1.mp3",
+    "phonetic_text": "/ˈæŋkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ank/ankle/ankle__us_1.mp3",
+    "phonetic_am_text": "/ˈæŋkl/",
+    "senses": [
+      {
+        "definition": "the joint connecting the foot to the leg; the narrow part of the leg just above the ankle joint",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to sprain/break/twist your ankle"
+          },
+          {
+            "cf": "",
+            "x": "She suffered a serious ankle injury in training."
+          },
+          {
+            "cf": "",
+            "x": "to have a broken/twisted/fractured/sprained ankle"
+          },
+          {
+            "cf": "",
+            "x": "ankle boots (= that cover the ankle)"
+          },
+          {
+            "cf": "",
+            "x": "We found ourselves ankle-deep in water (= the water came up to our ankles)."
+          },
+          {
+            "cf": "",
+            "x": "My ankles have swollen."
+          },
+          {
+            "cf": "",
+            "x": "The injury required surgery on his right ankle."
+          },
+          {
+            "cf": "",
+            "x": "He will wear an electronic ankle bracelet, which allows police to track him."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anxiety",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxie/anxiety__gb_1.mp3",
+    "phonetic_text": "/æŋˈzaɪəti/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anx/anxie/anxiety__us_1.mp3",
+    "phonetic_am_text": "/æŋˈzaɪəti/",
+    "senses": [
+      {
+        "definition": "the state of feeling nervous or worried that something bad is going to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "acute/intense/deep anxiety"
+          },
+          {
+            "cf": "",
+            "x": "Some hospital patients experience high levels of anxiety."
+          },
+          {
+            "cf": "",
+            "x": "Waiting for exam results is a time of great anxiety."
+          }
+        ]
+      },
+      {
+        "definition": "a mental illness that causes somebody to worry so much that it has a very negative effect on their daily life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some people are feeling the pressure and suffering from anxiety and depression."
+          },
+          {
+            "cf": "",
+            "x": "patients with an anxiety disorder"
+          }
+        ]
+      },
+      {
+        "definition": "a worry or fear about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If you're worried about your health, share your anxieties with your doctor."
+          }
+        ]
+      },
+      {
+        "definition": "a strong feeling of wanting to do something or of wanting something to happen",
+        "examples": [
+          {
+            "cf": "anxiety to do something",
+            "x": "the candidate’s anxiety to win the vote"
+          },
+          {
+            "cf": "",
+            "x": "A couple of photographers fell over themselves in their anxiety to get a shot of her."
+          },
+          {
+            "cf": "anxiety for something",
+            "x": "the people’s anxiety for the war to end"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anxious",
+    "level": "B2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anx/anxio/anxious__gb_1.mp3",
+    "phonetic_text": "/ˈæŋkʃəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anx/anxio/anxious__us_1.mp3",
+    "phonetic_am_text": "/ˈæŋkʃəs/",
+    "senses": [
+      {
+        "definition": "feeling worried or nervous",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The bus was late and Sue began to get anxious."
+          },
+          {
+            "cf": "anxious about something",
+            "x": "I felt very anxious and depressed about the future."
+          },
+          {
+            "cf": "",
+            "x": "He seemed anxious about the meeting."
+          },
+          {
+            "cf": "anxious for somebody",
+            "x": "Parents are naturally anxious for their children."
+          }
+        ]
+      },
+      {
+        "definition": "causing worry; showing worry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The family faces another anxious wait for news."
+          },
+          {
+            "cf": "",
+            "x": "There were a few anxious moments in the baseball game."
+          },
+          {
+            "cf": "",
+            "x": "an anxious look/face/expression"
+          }
+        ]
+      },
+      {
+        "definition": "wanting something very much",
+        "examples": [
+          {
+            "cf": "anxious to do something",
+            "x": "She was anxious to finish school and get a job."
+          },
+          {
+            "cf": "",
+            "x": "He was anxious not to be misunderstood."
+          },
+          {
+            "cf": "anxious for something",
+            "x": "There are plenty of graduates anxious for work."
+          },
+          {
+            "cf": "anxious for somebody to do something",
+            "x": "I'm anxious for her to do as little as possible."
+          },
+          {
+            "cf": "anxious that…",
+            "x": "He walked quickly down the road, anxious that he should not be late. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gut",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gut/gut__/gut__gb_2.mp3",
+    "phonetic_text": "/ɡʌt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gut/gut__/gut__us_1.mp3",
+    "phonetic_am_text": "/ɡʌt/",
+    "senses": [
+      {
+        "definition": "the tube in the body through which food passes when it leaves the stomach",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It can take up to 72 hours for food to pass through the gut."
+          },
+          {
+            "cf": "",
+            "x": "I had a terrible pain in my guts after eating too many plums."
+          }
+        ]
+      },
+      {
+        "definition": "the organs in and around the stomach, especially in an animal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'll only cook fish if the guts have been removed."
+          },
+          {
+            "cf": "",
+            "x": "I don't like movies that are full of blood and guts (= that show a lot of blood and violence)."
+          }
+        ]
+      },
+      {
+        "definition": "a person’s stomach, especially when it is large",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had a bit of a gut on him, but otherwise he was quite skinny."
+          },
+          {
+            "cf": "",
+            "x": "a beer gut (= caused by drinking a lot of beer regularly)"
+          }
+        ]
+      },
+      {
+        "definition": "the courage and strength of mind that it takes to do something difficult or unpleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He doesn't have the guts to walk away from a well-paid job."
+          }
+        ]
+      },
+      {
+        "definition": "the place where your natural feelings that make you react in a particular way are thought to be",
+        "examples": [
+          {
+            "cf": "in your guts",
+            "x": "I had a feeling in my guts that something was wrong."
+          }
+        ]
+      },
+      {
+        "definition": "the most important part of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the guts of the problem"
+          }
+        ]
+      },
+      {
+        "definition": "thin strong string made from animals' intestines and used in making musical instruments, tennis rackets and medical equipment",
+        "examples": []
+      },
+      {
+        "definition": "to make a great effort to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It’s a problem which nobody is going to bust a gut trying to solve."
+          },
+          {
+            "cf": "",
+            "x": "I busted my chops to get into law school."
+          },
+          {
+            "cf": "",
+            "x": "These guys were busting their butts on the field, trying to excel at athletics."
+          }
+        ]
+      },
+      {
+        "definition": "to make a decision based on something that you are certain about, even though you do not have any direct proof and cannot explain why you are certain ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I went with my gut and turned down the job."
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to somebody who eats too much",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Make sure greedy guts doesn’t eat all the cake."
+          }
+        ]
+      },
+      {
+        "definition": "to dislike somebody very much",
+        "examples": []
+      },
+      {
+        "definition": "to be very angry with somebody and punish them severely for something they have done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She’ll have your guts for garters if she ever finds out."
+          }
+        ]
+      },
+      {
+        "definition": "to work very hard to achieve something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I slogged my guts out for the exam."
+          }
+        ]
+      },
+      {
+        "definition": "to tell somebody everything you know or feel about something, because you are upset",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has spilled his guts in his new autobiography."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gym",
+    "level": "A1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gym/gym__/gym__gb_2.mp3",
+    "phonetic_text": "/dʒɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gym/gym__/gym__us_1.mp3",
+    "phonetic_am_text": "/dʒɪm/",
+    "senses": [
+      {
+        "definition": "a room or hall with equipment for doing physical exercise, for example in a school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The school has recently built a new gym."
+          },
+          {
+            "cf": "in a gym",
+            "x": "to play basketball in the gym"
+          }
+        ]
+      },
+      {
+        "definition": "a private club where people go to do physical exercise in order to stay or become healthy and fit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I just joined a gym."
+          },
+          {
+            "cf": "at a gym",
+            "x": "I work out at the gym most days."
+          }
+        ]
+      },
+      {
+        "definition": "physical exercises done in a gym, especially at school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't enjoy gym."
+          },
+          {
+            "cf": "",
+            "x": "gym shoes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kidney",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kidne/kidney__gb_2.mp3",
+    "phonetic_text": "/ˈkɪdni/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kidne/kidney__us_1.mp3",
+    "phonetic_am_text": "/ˈkɪdni/",
+    "senses": [
+      {
+        "definition": "either of the two organs in the body that remove waste products from the blood and produce urine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a kidney infection"
+          }
+        ]
+      },
+      {
+        "definition": "the kidneys of some animals that are cooked and eaten",
+        "examples": [
+          {
+            "cf": "",
+            "x": "steak and kidney pie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "knee",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kne/knee_/knee__gb_3.mp3",
+    "phonetic_text": "/niː/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kne/knee_/knee__us_1.mp3",
+    "phonetic_am_text": "/niː/",
+    "senses": [
+      {
+        "definition": "the joint between the top and bottom parts of the leg where it bends in the middle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a knee injury"
+          },
+          {
+            "cf": "",
+            "x": "I had knee surgery three years ago."
+          },
+          {
+            "cf": "",
+            "x": "Bend your knees until you feel your thigh muscles working."
+          },
+          {
+            "cf": "",
+            "x": "I grazed my knee when I fell."
+          },
+          {
+            "cf": "",
+            "x": "He went down on one knee and asked her to marry him."
+          },
+          {
+            "cf": "on your knees ",
+            "x": "She was on her knees scrubbing the kitchen floor."
+          },
+          {
+            "cf": "",
+            "x": "Everyone was down on (their) hands and knees (= crawling on the floor) looking for the ring."
+          },
+          {
+            "cf": "",
+            "x": "He fell to his knees and begged for mercy."
+          },
+          {
+            "cf": "",
+            "x": "My knees were knocking (= I was frightened)."
+          }
+        ]
+      },
+      {
+        "definition": "the part of a piece of clothing that covers the knee",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I brushed the dust from the knees of my trousers."
+          },
+          {
+            "cf": "at the knee",
+            "x": "These jeans are torn at the knee."
+          },
+          {
+            "cf": "",
+            "x": "a knee patch"
+          }
+        ]
+      },
+      {
+        "definition": "the top surface of the upper part of the legs when you are sitting down",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Come and sit on Daddy's knee."
+          }
+        ]
+      },
+      {
+        "definition": "when you were very young",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I learnt these songs at my mother's knee."
+          }
+        ]
+      },
+      {
+        "definition": "an excellent person or thing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She thinks she's the bee's knees (= she has a very high opinion of herself)."
+          }
+        ]
+      },
+      {
+        "definition": "to defeat somebody, especially in a war",
+        "examples": []
+      },
+      {
+        "definition": "to badly affect an organization, etc. so that it can no longer function",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The strikes brought the industry to its knees."
+          },
+          {
+            "cf": "",
+            "x": "The fuel shortage brought the country to its knees within weeks."
+          }
+        ]
+      },
+      {
+        "definition": "if you ask for something on bended knee(s), you ask for it in a very anxious and/or humble way (= showing you think you are less important than the person you are asking)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’d go down on bended knee if I thought she’d change her mind."
+          }
+        ]
+      },
+      {
+        "definition": "to punish somebody by making them lie on top of your knee and hitting their bottom",
+        "examples": []
+      },
+      {
+        "definition": "to kneel on one knee in public in order to protest about the unfair treatment of black people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Officers at the rally were seen taking a knee in solidarity with the demonstrators."
+          }
+        ]
+      },
+      {
+        "definition": "hardly able to stand because of emotion, fear, illness, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His sudden smile made her go weak at the knees."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lap",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lap/lap__/lap__gb_1.mp3",
+    "phonetic_text": "/læp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lap/lap__/lap__us_1.mp3",
+    "phonetic_am_text": "/læp/",
+    "senses": [
+      {
+        "definition": "the top part of your legs that forms a flat surface when you are sitting down",
+        "examples": [
+          {
+            "cf": "on somebody's lap",
+            "x": "There's only one seat so you'll have to sit on my lap."
+          },
+          {
+            "cf": "in somebody's lap",
+            "x": "She sat with her hands in her lap."
+          }
+        ]
+      },
+      {
+        "definition": "one journey from the beginning to the end of a track used for running, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the fastest lap on record"
+          },
+          {
+            "cf": "",
+            "x": "She has completed six laps."
+          },
+          {
+            "cf": "",
+            "x": "He was overtaken on the final lap."
+          },
+          {
+            "cf": "",
+            "x": "to do a lap of honour (= go around the track again to celebrate winning)"
+          },
+          {
+            "cf": "",
+            "x": "to do a victory lap"
+          }
+        ]
+      },
+      {
+        "definition": "a section of a journey, or of a piece of work, etc.",
+        "examples": [
+          {
+            "cf": "on the… lap",
+            "x": "They're off on the first lap of their round-the-world tour."
+          },
+          {
+            "cf": "",
+            "x": "We've nearly finished. We're on the last lap."
+          }
+        ]
+      },
+      {
+        "definition": "to make something the responsibility of another person",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They dropped the problem firmly back in my lap."
+          }
+        ]
+      },
+      {
+        "definition": "somebody has the opportunity to do something pleasant without having made any effort",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My dream job just fell into my lap."
+          }
+        ]
+      },
+      {
+        "definition": "if the result of something is in the lap of the gods, you do not know what will happen because it depends on luck or things you cannot control",
+        "examples": []
+      },
+      {
+        "definition": "in easy, comfortable conditions, and enjoying the advantages of being rich",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We spent two weeks in the hotel living in the lap of luxury."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "leg",
+    "level": "A1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/leg/leg__/leg__gb_6.mp3",
+    "phonetic_text": "/leɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/leg/leg__/leg__us_1.mp3",
+    "phonetic_am_text": "/leɡ/",
+    "senses": [
+      {
+        "definition": "one of the long parts that connect the feet to the rest of the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Sit on the floor, stretching your legs out in front of you."
+          },
+          {
+            "cf": "",
+            "x": "your left/right leg"
+          },
+          {
+            "cf": "",
+            "x": "I broke my leg playing football."
+          },
+          {
+            "cf": "",
+            "x": "She has a broken leg."
+          },
+          {
+            "cf": "",
+            "x": "He lost a leg in a motorcycle accident."
+          },
+          {
+            "cf": "",
+            "x": "She had to have her leg amputated."
+          },
+          {
+            "cf": "",
+            "x": "How many legs does a centipede have?"
+          },
+          {
+            "cf": "",
+            "x": "The bear rose up on its hind legs."
+          },
+          {
+            "cf": "",
+            "x": "a wooden leg"
+          },
+          {
+            "cf": "between somebody's legs",
+            "x": "He dribbled the ball between the defender's legs."
+          },
+          {
+            "cf": "on somebody's leg",
+            "x": "I had a big bruise on my leg."
+          },
+          {
+            "cf": "",
+            "x": "a leg injury"
+          }
+        ]
+      },
+      {
+        "definition": "the leg of an animal, especially the top part, cooked and eaten",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Have you ever tried frogs' legs?"
+          },
+          {
+            "cf": "",
+            "x": "chicken legs"
+          },
+          {
+            "cf": "leg of something",
+            "x": "roast leg of lamb"
+          }
+        ]
+      },
+      {
+        "definition": "the part of a pair of trousers that covers the leg",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a trouser/pant leg"
+          },
+          {
+            "cf": "",
+            "x": "He rolled up the legs of his jeans."
+          },
+          {
+            "cf": "in the leg",
+            "x": "These jeans are too long in the leg."
+          }
+        ]
+      },
+      {
+        "definition": "one of the long thin parts on the bottom of a table, chair, etc. that support it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a table/chair leg"
+          },
+          {
+            "cf": "",
+            "x": "He tripped over the leg of the chair."
+          }
+        ]
+      },
+      {
+        "definition": "having the number or type of legs mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a three-legged stool"
+          },
+          {
+            "cf": "",
+            "x": "a long-legged insect"
+          }
+        ]
+      },
+      {
+        "definition": "one part of a journey or race",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The final leg of the trip was by donkey."
+          }
+        ]
+      },
+      {
+        "definition": "one of a pair of matches played between the same opponents in a sports competition, which together form a single round (= stage) of the competition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Spanish team won the third leg."
+          },
+          {
+            "cf": "",
+            "x": "I really believe we can turn around that 4–2 first leg deficit and win this game."
+          }
+        ]
+      },
+      {
+        "definition": "as quickly as you can",
+        "examples": []
+      },
+      {
+        "definition": "to be going to die or stop functioning very soon; to be very weak or in bad condition",
+        "examples": []
+      },
+      {
+        "definition": "used to wish somebody good luck, especially to an actor before they go on stage",
+        "examples": []
+      },
+      {
+        "definition": "to cost/pay a lot of money",
+        "examples": []
+      },
+      {
+        "definition": "to have sex",
+        "examples": []
+      },
+      {
+        "definition": "if you say that a news story, etc. has legs, you mean that people will continue to be interested in it for a long time",
+        "examples": []
+      },
+      {
+        "definition": "to be in a position where you are unable to prove something or explain why something is reasonable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Without written evidence, we don't have a leg to stand on."
+          }
+        ]
+      },
+      {
+        "definition": "to play a joke on somebody, usually by making them believe something that is not true",
+        "examples": []
+      },
+      {
+        "definition": "used to tell somebody to start to do something or to hurry",
+        "examples": []
+      },
+      {
+        "definition": "to go for a short walk after sitting for some time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was good to get out of the car and stretch our legs."
+          }
+        ]
+      },
+      {
+        "definition": "to talk too much, especially about things that are boring or not important",
+        "examples": []
+      },
+      {
+        "definition": "feeling ashamed or unhappy because you have been defeated or punished",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lethal",
+    "level": "C1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/let/letha/lethal__gb_1.mp3",
+    "phonetic_text": "/ˈliːθl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/let/letha/lethal__us_1.mp3",
+    "phonetic_am_text": "/ˈliːθl/",
+    "senses": [
+      {
+        "definition": "causing or able to cause death",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had been given a lethal dose of poison."
+          },
+          {
+            "cf": "",
+            "x": "Any sharp pointed instrument is potentially a lethal weapon."
+          },
+          {
+            "cf": "",
+            "x": "The closure of the factory dealt a lethal blow to the town."
+          },
+          {
+            "cf": "",
+            "x": "The snake’s venom is rarely lethal to humans."
+          }
+        ]
+      },
+      {
+        "definition": "causing or able to cause a lot of harm or damage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You and that car—it's a lethal combination!"
+          },
+          {
+            "cf": "",
+            "x": "A shift in shopping habits created a lethal cocktail of bankruptcies and store closures."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lifestyle",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lif/lifes/lifestyle__gb_2.mp3",
+    "phonetic_text": "/ˈlaɪfstaɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lif/lifes/lifestyle__us_2.mp3",
+    "phonetic_am_text": "/ˈlaɪfstaɪl/",
+    "senses": [
+      {
+        "definition": "the way in which a person or a group of people lives and works",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Many people are trying to adopt a healthy lifestyle these days."
+          },
+          {
+            "cf": "",
+            "x": "a comfortable/lavish lifestyle"
+          },
+          {
+            "cf": "",
+            "x": "Too many children are living a completely sedentary lifestyle."
+          },
+          {
+            "cf": "",
+            "x": "It was a big change in lifestyle when we moved to the country."
+          },
+          {
+            "cf": "",
+            "x": "lifestyle choices/changes"
+          },
+          {
+            "cf": "",
+            "x": "the lifestyle section of the newspaper (= the part that deals with clothes, furniture, hobbies, etc.)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "limb",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lim/limb_/limb__gb_1.mp3",
+    "phonetic_text": "/lɪm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lim/limb_/limb__us_1.mp3",
+    "phonetic_am_text": "/lɪm/",
+    "senses": [
+      {
+        "definition": "an arm or a leg; a similar part of an animal, such as a wing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an artificial limb"
+          },
+          {
+            "cf": "",
+            "x": "For a while, she lost the use of her limbs."
+          }
+        ]
+      },
+      {
+        "definition": "having the type of limbs mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "long-limbed"
+          },
+          {
+            "cf": "",
+            "x": "loose-limbed"
+          }
+        ]
+      },
+      {
+        "definition": "a large branch of a tree",
+        "examples": []
+      },
+      {
+        "definition": "not supported by other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are you prepared to go out on a limb (= risk doing something that other people are not prepared to do) and make your suspicions public?"
+          },
+          {
+            "cf": "",
+            "x": "His controversial stance has left him out on a limb."
+          }
+        ]
+      },
+      {
+        "definition": "to risk being killed or injured in order to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She risked life and limb to save her children from the fire."
+          }
+        ]
+      },
+      {
+        "definition": "to attack somebody very violently",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "lip",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lip/lip__/lip__gb_1.mp3",
+    "phonetic_text": "/lɪp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lip/lip__/lip__us_1.mp3",
+    "phonetic_am_text": "/lɪp/",
+    "senses": [
+      {
+        "definition": "either of the two soft edges at the opening to the mouth",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The assistant pursed her lips."
+          },
+          {
+            "cf": "",
+            "x": "your upper/lower/top/bottom lip"
+          },
+          {
+            "cf": "on the lips",
+            "x": "She kissed him on the lips."
+          },
+          {
+            "cf": "",
+            "x": "He raised the bottle to his lips and took a large swig from it."
+          }
+        ]
+      },
+      {
+        "definition": "having the type of lips mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "thin-lipped"
+          },
+          {
+            "cf": "",
+            "x": "thick-lipped"
+          }
+        ]
+      },
+      {
+        "definition": "the edge of a container or a hollow place in the ground",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He ran his finger around the lip of the cup."
+          },
+          {
+            "cf": "",
+            "x": "Lava bubbled a few feet below the lip of the crater."
+          }
+        ]
+      },
+      {
+        "definition": "words spoken to somebody that are rude and show a lack of respect for that person",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't let him give you any lip!"
+          },
+          {
+            "cf": "",
+            "x": "I’ve just about had enough of your lip!"
+          }
+        ]
+      },
+      {
+        "definition": "to stop yourself from saying something or from showing an emotion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I bit my lip and forced myself to be calm."
+          }
+        ]
+      },
+      {
+        "definition": "to move your tongue over your lips, especially before eating something good",
+        "examples": []
+      },
+      {
+        "definition": "to show that you are excited about something and want it to happen soon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were licking their lips at the thought of clinching the deal."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that you will not repeat somebody’s secret to other people",
+        "examples": []
+      },
+      {
+        "definition": "if words do not pass your lips, you say nothing",
+        "examples": []
+      },
+      {
+        "definition": "if food or drink does not pass your lips, you eat or drink nothing",
+        "examples": []
+      },
+      {
+        "definition": "if something is on everyone’s lips, they are all talking about it",
+        "examples": []
+      },
+      {
+        "definition": "used to tell somebody to listen carefully to what you are saying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Read my lips: no new taxes (= I promise there will be no new taxes)."
+          }
+        ]
+      },
+      {
+        "definition": "to move your lips, apart noisily, especially before eating something good",
+        "examples": []
+      },
+      {
+        "definition": "to show that you are excited about something and want it to happen soon",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were smacking their lips at the thought of clinching the deal."
+          }
+        ]
+      },
+      {
+        "definition": "to keep calm and hide your feelings when you are in pain or in a difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was taught to keep a stiff upper lip and never to cry in public."
+          },
+          {
+            "cf": "",
+            "x": "Their reaction contrasts sharply with the stiff upper lip of the English."
+          }
+        ]
+      },
+      {
+        "definition": "nothing is completely certain until it really happens because things can easily go wrong",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "liver",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/liv/liver/liver__gb_1.mp3",
+    "phonetic_text": "/ˈlɪvə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/liv/liver/liver__us_1.mp3",
+    "phonetic_am_text": "/ˈlɪvər/",
+    "senses": [
+      {
+        "definition": "a large organ in the body that cleans the blood and produces bile",
+        "examples": [
+          {
+            "cf": "",
+            "x": "liver disease"
+          },
+          {
+            "cf": "",
+            "x": "He had a liver transplant at the age of 12."
+          },
+          {
+            "cf": "",
+            "x": "a nationwide appeal for a donor liver"
+          }
+        ]
+      },
+      {
+        "definition": "the liver of some animals that is cooked and eaten",
+        "examples": [
+          {
+            "cf": "",
+            "x": "liver and onions"
+          },
+          {
+            "cf": "",
+            "x": "chicken livers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lonely",
+    "level": "A2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lon/lonel/lonely__gb_1.mp3",
+    "phonetic_text": "/ˈləʊnli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lon/lonel/lonely__us_2.mp3",
+    "phonetic_am_text": "/ˈləʊnli/",
+    "senses": [
+      {
+        "definition": "unhappy because you have no friends or people to talk to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She lives alone and often feels lonely."
+          }
+        ]
+      },
+      {
+        "definition": "sad and spent alone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "all those lonely nights at home watching TV"
+          },
+          {
+            "cf": "",
+            "x": "a lonely childhood "
+          },
+          {
+            "cf": "",
+            "x": "She contemplated the lonely walk home. "
+          },
+          {
+            "cf": "",
+            "x": "These characters live sad, lonely lives."
+          }
+        ]
+      },
+      {
+        "definition": "where only a few people ever come or visit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a lonely beach"
+          },
+          {
+            "cf": "",
+            "x": " a lonely mountain road "
+          },
+          {
+            "cf": "",
+            "x": "It gets pretty lonely here in winter."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lung",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lun/lung_/lung__gb_1.mp3",
+    "phonetic_text": "/lʌŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lun/lung_/lung__us_1.mp3",
+    "phonetic_am_text": "/lʌŋ/",
+    "senses": [
+      {
+        "definition": "either of the two organs in the chest that you use for breathing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her father died of lung cancer."
+          },
+          {
+            "cf": "",
+            "x": "Obesity can raise the risk of lung disease."
+          },
+          {
+            "cf": "",
+            "x": "He will need a lung transplant if he is going to survive. "
+          },
+          {
+            "cf": "",
+            "x": "Some of these substances are known to damage lung tissue. "
+          },
+          {
+            "cf": "",
+            "x": "Coughing clears the lungs of mucus."
+          },
+          {
+            "cf": "",
+            "x": "She felt the sun on her skin and fresh air in her lungs. "
+          },
+          {
+            "cf": "",
+            "x": "He's been hospitalized for a blood clot in his lung."
+          },
+          {
+            "cf": "",
+            "x": "She has a fine pair of lungs! (= she can sing or shout loudly)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mask",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/mask_/mask__gb_1.mp3",
+    "phonetic_text": "/mɑːsk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/mask_/mask__us_1.mp3",
+    "phonetic_am_text": "/mæsk/",
+    "senses": [
+      {
+        "definition": "something that you wear over your face to hide it, or to frighten or entertain other people ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The robbers wore stocking masks."
+          },
+          {
+            "cf": "",
+            "x": "The kids were all wearing animal masks."
+          },
+          {
+            "cf": "",
+            "x": "In the second part of the play, the actors take off their masks."
+          }
+        ]
+      },
+      {
+        "definition": "something that you wear over part or all of your face in order to protect it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a fencing mask"
+          }
+        ]
+      },
+      {
+        "definition": "a thick cream made of various substances that you put on your face and neck in order to improve the quality of your skin",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a face mask"
+          }
+        ]
+      },
+      {
+        "definition": "a manner or an expression that hides your true character or feelings",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He longed to throw off the mask of respectability."
+          },
+          {
+            "cf": "",
+            "x": "Her face was a cold, blank mask."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "medical",
+    "level": "A2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medic/medical__gb_2.mp3",
+    "phonetic_text": "/ˈmedɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medic/medical__us_2.mp3",
+    "phonetic_am_text": "/ˈmedɪkl/",
+    "senses": [
+      {
+        "definition": "connected with illness and injury and their treatment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "medical care/treatment"
+          },
+          {
+            "cf": "",
+            "x": "the medical profession "
+          },
+          {
+            "cf": "",
+            "x": "medical research/advances"
+          },
+          {
+            "cf": "",
+            "x": "her medical condition/history "
+          },
+          {
+            "cf": "",
+            "x": "His medical records showed that he was unfit for work."
+          },
+          {
+            "cf": "",
+            "x": "a medical student/school"
+          },
+          {
+            "cf": "",
+            "x": "Medical staff are advising patients to avoid using the cream."
+          },
+          {
+            "cf": "",
+            "x": "a medical certificate (= a statement by a doctor that gives details of your state of health)"
+          },
+          {
+            "cf": "",
+            "x": "Seek medical attention as quickly as possible."
+          }
+        ]
+      },
+      {
+        "definition": "connected with ways of treating illness that do not involve cutting the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are also medical and surgical treatment options for the condition."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "medication",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medic/medication__gb_1.mp3",
+    "phonetic_text": "/ˌmedɪˈkeɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medic/medication__us_1.mp3",
+    "phonetic_am_text": "/ˌmedɪˈkeɪʃn/",
+    "senses": [
+      {
+        "definition": "a drug or another form of medicine that you take to prevent or to treat an illness; treatment involving drugs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are you currently taking any medication?"
+          },
+          {
+            "cf": "",
+            "x": "The condition may require prolonged medication."
+          },
+          {
+            "cf": "medication for something",
+            "x": "The doctor prescribed medication for his condition."
+          },
+          {
+            "cf": "on medication (for something)",
+            "x": "She is on medication for depression. "
+          },
+          {
+            "cf": "",
+            "x": "Many flu medications are available without a prescription."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "medicine",
+    "level": "A1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medic/medicine__gb_5.mp3",
+    "phonetic_text": "/ˈmedsn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medic/medicine__us_2.mp3",
+    "phonetic_am_text": "/ˈmedɪsn/",
+    "senses": [
+      {
+        "definition": "the study and treatment of diseases and injuries",
+        "examples": [
+          {
+            "cf": "",
+            "x": "advances in modern medicine"
+          },
+          {
+            "cf": "",
+            "x": "to study/practise medicine "
+          },
+          {
+            "cf": "",
+            "x": "a professor of medicine"
+          },
+          {
+            "cf": "",
+            "x": "conventional/orthodox medicine"
+          },
+          {
+            "cf": "",
+            "x": "alternative/complementary medicine"
+          },
+          {
+            "cf": "",
+            "x": "Acupuncture has long been a part of traditional Chinese medicine."
+          },
+          {
+            "cf": "",
+            "x": "a rapidly developing field of medicine"
+          },
+          {
+            "cf": "",
+            "x": "There is a greater emphasis on preventive medicine."
+          }
+        ]
+      },
+      {
+        "definition": "a substance that you take in order to cure an illness, especially a liquid that you drink or swallow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Did you take your medicine?"
+          },
+          {
+            "cf": "",
+            "x": "Your doctor can prescribe medicine to ease your symptoms."
+          },
+          {
+            "cf": "",
+            "x": "She gave me a dose of cough medicine."
+          },
+          {
+            "cf": "",
+            "x": "Chinese herbal medicines"
+          },
+          {
+            "cf": "",
+            "x": "medicine for a chest infection"
+          },
+          {
+            "cf": "",
+            "x": "It's a medicine used to combat diarrhoea."
+          }
+        ]
+      },
+      {
+        "definition": "the best way of improving a situation, especially of making you feel happier",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Laughter is the best medicine."
+          }
+        ]
+      },
+      {
+        "definition": "the same bad treatment that you have given to others",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Let the bully have a taste of his own medicine."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "meditation",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/med/medit/meditation__gb_1.mp3",
+    "phonetic_text": "/ˌmedɪˈteɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/med/medit/meditation__us_1.mp3",
+    "phonetic_am_text": "/ˌmedɪˈteɪʃn/",
+    "senses": [
+      {
+        "definition": "the practice of focusing your mind in silence, especially for religious reasons or in order to make your mind calm",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She found peace through yoga and meditation."
+          }
+        ]
+      },
+      {
+        "definition": "the activity of thinking deeply about something, especially so that you do not notice the people or things around you",
+        "examples": [
+          {
+            "cf": "in meditation",
+            "x": "He was deep in meditation and didn't see me come in."
+          },
+          {
+            "cf": "",
+            "x": "She stared out of the window in silent meditation."
+          }
+        ]
+      },
+      {
+        "definition": "serious thoughts on a particular subject that somebody writes down or speaks",
+        "examples": [
+          {
+            "cf": "",
+            "x": "his meditations on life and art"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mental",
+    "level": "B1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/menta/mental__gb_2.mp3",
+    "phonetic_text": "/ˈmentl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/menta/mental__us_1.mp3",
+    "phonetic_am_text": "/ˈmentl/",
+    "senses": [
+      {
+        "definition": "connected with or happening in the mind; involving the process of thinking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the mental process of remembering"
+          },
+          {
+            "cf": "",
+            "x": "Do you have a mental picture of what it will look like?"
+          },
+          {
+            "cf": "",
+            "x": " The actor doesn't match the mental image I had of the character."
+          },
+          {
+            "cf": "",
+            "x": "I made a mental note to talk to her about it."
+          },
+          {
+            "cf": "",
+            "x": "He has a complete mental block (= difficulty in understanding or remembering) when it comes to physics."
+          },
+          {
+            "cf": "",
+            "x": "These musicians have prodigious mental capacities."
+          },
+          {
+            "cf": "",
+            "x": "The experience caused her huge amounts of mental suffering."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the state of health of the mind or with the treatment of illnesses of the mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mental illness/disorder"
+          },
+          {
+            "cf": "",
+            "x": "She was suffering from physical and mental exhaustion."
+          },
+          {
+            "cf": "",
+            "x": "The analysis of dreams can reveal details of a person's mental state."
+          },
+          {
+            "cf": "",
+            "x": "a mental hospital/patient"
+          }
+        ]
+      },
+      {
+        "definition": "crazy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My dad will go mental (= be very angry) when he finds out."
+          },
+          {
+            "cf": "",
+            "x": "We were just losing so much money—it was mental."
+          },
+          {
+            "cf": "",
+            "x": "It was mental, but a brilliant ending to the film."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mild",
+    "level": "B1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mil/mild_/mild__gb_1.mp3",
+    "phonetic_text": "/maɪld/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/mild_/mild__us_1.mp3",
+    "phonetic_am_text": "/maɪld/",
+    "senses": [
+      {
+        "definition": "not severe or strong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mild form of the disease"
+          },
+          {
+            "cf": "",
+            "x": "a mild case of flu"
+          },
+          {
+            "cf": "",
+            "x": "The symptoms were mild."
+          },
+          {
+            "cf": "",
+            "x": "a mild punishment/criticism "
+          },
+          {
+            "cf": "",
+            "x": "It's safe to take a mild sedative."
+          },
+          {
+            "cf": "",
+            "x": "Use a soap that is mild on the skin."
+          }
+        ]
+      },
+      {
+        "definition": "not very cold, and therefore pleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the mildest winter since records began"
+          },
+          {
+            "cf": "",
+            "x": "a mild climate"
+          },
+          {
+            "cf": "",
+            "x": "It's quite mild for the time of year."
+          },
+          {
+            "cf": "",
+            "x": "Later in the week the weather turned very mild."
+          }
+        ]
+      },
+      {
+        "definition": "not great or extreme",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mild irritation/amusement/disapproval"
+          },
+          {
+            "cf": "",
+            "x": "a mild state of shock"
+          },
+          {
+            "cf": "",
+            "x": "She looked at him in mild surprise."
+          }
+        ]
+      },
+      {
+        "definition": "not strong, spicy or bitter",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a fairly mild flavour"
+          },
+          {
+            "cf": "",
+            "x": "mild cheese"
+          },
+          {
+            "cf": "",
+            "x": "a mild curry"
+          }
+        ]
+      },
+      {
+        "definition": "gentle and kind; not usually getting angry or violent",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mild woman, who never shouted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mouth",
+    "level": "A1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mouth/mouth__gb_3.mp3",
+    "phonetic_text": "/maʊθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mouth/mouth__us_1.mp3",
+    "phonetic_am_text": "/maʊθ/",
+    "senses": [
+      {
+        "definition": "the opening in the face used for speaking, eating, etc.; the area inside the head behind this opening",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She opened her mouth to say something."
+          },
+          {
+            "cf": "",
+            "x": "His mouth twisted into a wry smile."
+          },
+          {
+            "cf": "",
+            "x": "Their mouths fell open (= they were surprised)."
+          },
+          {
+            "cf": "",
+            "x": "Don't talk with your mouth full (= when eating)."
+          },
+          {
+            "cf": "",
+            "x": "The creature was foaming/frothing at the mouth."
+          },
+          {
+            "cf": "",
+            "x": "Cover your mouth when you cough."
+          },
+          {
+            "cf": "",
+            "x": "The adult bird drops the worms into the mouths of the hungry chicks."
+          }
+        ]
+      },
+      {
+        "definition": "a person considered only as somebody who needs to be provided with food",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Now there would be another mouth to feed."
+          },
+          {
+            "cf": "",
+            "x": "The world will not be able to support all these extra hungry mouths."
+          }
+        ]
+      },
+      {
+        "definition": "the place where a river joins the sea",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A number of industries sprang up around the mouth of the river."
+          },
+          {
+            "cf": "",
+            "x": "Pelicans are found close to river mouths."
+          }
+        ]
+      },
+      {
+        "definition": "the entrance or opening of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the mouth of a cave/pit"
+          },
+          {
+            "cf": "",
+            "x": "Up ahead was the tunnel mouth."
+          }
+        ]
+      },
+      {
+        "definition": "a particular way of speaking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has a foul mouth on him!"
+          },
+          {
+            "cf": "",
+            "x": "Watch your mouth! (= stop saying things that are rude and/or offensive)"
+          }
+        ]
+      },
+      {
+        "definition": "having the type or shape of mouth mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a round, wide-mouthed face"
+          },
+          {
+            "cf": "",
+            "x": "a narrow-mouthed cave"
+          }
+        ]
+      },
+      {
+        "definition": "having a particular way of speaking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a rather crude-mouthed individual"
+          }
+        ]
+      },
+      {
+        "definition": "if you say somebody is all mouth, you mean that they talk a lot about doing something, but are, in fact, not brave enough to do it",
+        "examples": []
+      },
+      {
+        "definition": "having rich parents",
+        "examples": []
+      },
+      {
+        "definition": "used to say that somebody seems to be innocent, kind, etc. when they are not really",
+        "examples": []
+      },
+      {
+        "definition": "because people tell each other and not because they read about it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The news spread by word of mouth."
+          },
+          {
+            "cf": "",
+            "x": "The restaurant does not advertise, but relies on word of mouth for custom."
+          }
+        ]
+      },
+      {
+        "definition": "unhappy and depressed",
+        "examples": []
+      },
+      {
+        "definition": "to have a mass of small bubbles in and around its mouth, especially because it is sick or angry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The dog started foaming at the mouth."
+          }
+        ]
+      },
+      {
+        "definition": "to be very angry",
+        "examples": []
+      },
+      {
+        "definition": "given by somebody who is directly involved and therefore likely to be accurate",
+        "examples": []
+      },
+      {
+        "definition": "to be bad at keeping secrets",
+        "examples": []
+      },
+      {
+        "definition": "to talk too much, especially about your own abilities and achievements",
+        "examples": []
+      },
+      {
+        "definition": "somebody feels nervous or frightened about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My heart was in my mouth as I opened the envelope."
+          }
+        ]
+      },
+      {
+        "definition": "to not talk about something to somebody because it is a secret or because it will upset or annoy them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've warned them to keep their mouths shut about this."
+          },
+          {
+            "cf": "",
+            "x": "Now she's upset—why couldn't you keep your mouth shut?"
+          },
+          {
+            "cf": "",
+            "x": "The athletes were warned to keep their mouths shut about politics."
+          }
+        ]
+      },
+      {
+        "definition": "to make you feel upset or ashamed afterwards",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The whole business left a bad taste in my mouth."
+          }
+        ]
+      },
+      {
+        "definition": "to spend all the money you earn on basic needs such as food without being able to save any money",
+        "examples": []
+      },
+      {
+        "definition": "to refuse or criticize something that is given to you for nothing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’m never one to look a gift horse in the mouth."
+          }
+        ]
+      },
+      {
+        "definition": "used when you realize that you have said something that you should not have said",
+        "examples": []
+      },
+      {
+        "definition": "to be soft and very good to eat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They serve steaks that just melt in your mouth."
+          }
+        ]
+      },
+      {
+        "definition": "used when a small child has just said something that seems very wise or clever",
+        "examples": []
+      },
+      {
+        "definition": "to say or do something that upsets, offends or embarrasses somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I really put my foot in my mouth with Ella—I didn't know she'd split up with Tom."
+          }
+        ]
+      },
+      {
+        "definition": "to support what you say by doing something practical; to show by your actions that you really mean something",
+        "examples": []
+      },
+      {
+        "definition": "to suggest that somebody has said something when in fact they have not",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He felt after the interview that the police officers had been trying to put words into his mouth."
+          }
+        ]
+      },
+      {
+        "definition": "to talk too much, in a way that is not sensible",
+        "examples": []
+      },
+      {
+        "definition": "to talk about something in a way that shows that you are too proud of it",
+        "examples": []
+      },
+      {
+        "definition": "to talk about something that is private or secret",
+        "examples": []
+      },
+      {
+        "definition": "a rude way of telling somebody to be quiet or stop talking",
+        "examples": []
+      },
+      {
+        "definition": "to take away somebody’s job so that they are no longer able to earn enough money to live",
+        "examples": []
+      },
+      {
+        "definition": "to say what somebody else was going to say",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I was about to say we should cancel the trip, but she took the words right out of my mouth."
+          }
+        ]
+      },
+      {
+        "definition": "to be careful what you say in order not to offend somebody or make them angry",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "muscle",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mus/muscl/muscle__gb_1.mp3",
+    "phonetic_text": "/ˈmʌsl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/muscl/muscle__us_2.mp3",
+    "phonetic_am_text": "/ˈmʌsl/",
+    "senses": [
+      {
+        "definition": "a piece of body tissue that you make tight and relax in order to move a particular part of the body; the tissue that forms the muscles of the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a calf/neck/thigh muscle "
+          },
+          {
+            "cf": "",
+            "x": "All of this put strain on the heart muscle."
+          },
+          {
+            "cf": "",
+            "x": "to pull/tear/strain a muscle"
+          },
+          {
+            "cf": "",
+            "x": "He poses and flexes his muscles in the mirror."
+          },
+          {
+            "cf": "",
+            "x": "This exercise will work the muscles of the lower back."
+          },
+          {
+            "cf": "",
+            "x": "Contract and relax the muscles in your fingers a few times."
+          },
+          {
+            "cf": "",
+            "x": "She tried to relax her tense muscles."
+          },
+          {
+            "cf": "",
+            "x": "He felt every muscle in his body tighten."
+          },
+          {
+            "cf": "",
+            "x": "He didn't move a muscle (= stood completely still)."
+          },
+          {
+            "cf": "",
+            "x": "Lift weights to build muscle."
+          },
+          {
+            "cf": "",
+            "x": "muscle fibre/tissue/mass"
+          }
+        ]
+      },
+      {
+        "definition": "physical strength",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's an intelligent player but lacks the muscle of older competitors."
+          },
+          {
+            "cf": "",
+            "x": "I exerted every ounce of my miserable muscle power."
+          }
+        ]
+      },
+      {
+        "definition": "the power and influence to make others do what you want",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to exercise political/industrial/financial muscle "
+          },
+          {
+            "cf": "",
+            "x": "The countries tried to flex their collective muscle."
+          },
+          {
+            "cf": "",
+            "x": "This show gives the artist the chance to flex his creative muscle."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nail",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nai/nail_/nail__gb_1.mp3",
+    "phonetic_text": "/neɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nai/nail_/nail__us_1.mp3",
+    "phonetic_am_text": "/neɪl/",
+    "senses": [
+      {
+        "definition": "the thin hard layer covering the outer tip of the fingers or toes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stop biting your nails!"
+          },
+          {
+            "cf": "",
+            "x": "nail clippers"
+          }
+        ]
+      },
+      {
+        "definition": "a small thin pointed piece of metal with a flat head, used for joining pieces of wood together or hanging things on a wall",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She hammered the nail in."
+          },
+          {
+            "cf": "",
+            "x": "He knocked the nail into the wall."
+          }
+        ]
+      },
+      {
+        "definition": "to fight in a very determined way for what you want",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The residents are fighting tooth and nail to stop the new development."
+          },
+          {
+            "cf": "",
+            "x": "She fought tooth and nail to keep custody of the children."
+          }
+        ]
+      },
+      {
+        "definition": "showing no fear, sympathy or kind behaviour",
+        "examples": []
+      },
+      {
+        "definition": "to say something that is exactly right",
+        "examples": []
+      },
+      {
+        "definition": "something that makes the end or failure of an organization, somebody’s plans, etc. more likely to happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This latest defeat is another nail in the government's coffin."
+          }
+        ]
+      },
+      {
+        "definition": "without delay",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They're good customers who always pay on the nail."
+          }
+        ]
+      },
+      {
+        "definition": "very strong and able to deal successfully with difficult conditions or situations",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's almost 90 but she's still as tough as nails."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neck",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nec/neck_/neck__gb_2.mp3",
+    "phonetic_text": "/nek/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nec/neck_/neck__us_1.mp3",
+    "phonetic_am_text": "/nek/",
+    "senses": [
+      {
+        "definition": "the part of the body between the head and the shoulders",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tied a scarf around his neck."
+          },
+          {
+            "cf": "",
+            "x": "I woke up with a stiff neck."
+          },
+          {
+            "cf": "",
+            "x": "Giraffes have very long necks."
+          },
+          {
+            "cf": "",
+            "x": "She craned (= stretched) her neck to get a better view."
+          },
+          {
+            "cf": "",
+            "x": "He broke his neck in the fall."
+          },
+          {
+            "cf": "",
+            "x": "Somebody's going to break their neck (= injure themselves) on these steps."
+          },
+          {
+            "cf": "",
+            "x": "The hairs on the nape of my neck stood on end."
+          }
+        ]
+      },
+      {
+        "definition": "the part of a piece of clothing that fits around the neck",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He wore a casual shirt with an open neck."
+          },
+          {
+            "cf": "",
+            "x": "Her dress had three buttons at the neck."
+          },
+          {
+            "cf": "",
+            "x": "What neck size do you take?"
+          }
+        ]
+      },
+      {
+        "definition": "having the type of neck mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a round-necked sweater"
+          }
+        ]
+      },
+      {
+        "definition": "a long narrow part of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the neck of a bottle"
+          },
+          {
+            "cf": "",
+            "x": "the narrow neck of land between the lake and the sea"
+          },
+          {
+            "cf": "",
+            "x": "the neck of a guitar"
+          }
+        ]
+      },
+      {
+        "definition": "the neck of an animal, cooked and eaten",
+        "examples": [
+          {
+            "cf": "",
+            "x": "neck of lamb"
+          }
+        ]
+      },
+      {
+        "definition": "to have a lot of something to deal with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We're up to our neck in debt."
+          },
+          {
+            "cf": "",
+            "x": "He's in it (= trouble) up to his neck."
+          }
+        ]
+      },
+      {
+        "definition": "a combination of confidence and lack of respect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I didn't think he would have the brass neck to do that."
+          }
+        ]
+      },
+      {
+        "definition": "to watch closely what somebody is doing in a way that makes them feel anxious and/or annoyed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I can’t get any work done with you breathing down my neck."
+          }
+        ]
+      },
+      {
+        "definition": "if a person or an animal wins a race by a neck, they win it by a short distance",
+        "examples": []
+      },
+      {
+        "definition": "roughly holding the back of an animal’s or person’s neck",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She grabbed him by the scruff of the neck and threw him out."
+          },
+          {
+            "cf": "",
+            "x": "The cat picked up her kitten by the scruff of its neck."
+          }
+        ]
+      },
+      {
+        "definition": "to be shouted at or punished because of something that you have done",
+        "examples": []
+      },
+      {
+        "definition": "a difficult problem or responsibility that it seems impossible to solve or get rid of",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My debts are a millstone around my neck."
+          },
+          {
+            "cf": "",
+            "x": "Unemployment was an economic millstone around the country’s neck."
+          }
+        ]
+      },
+      {
+        "definition": "level with somebody in a race or competition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cyclists were neck and neck as they approached the final lap."
+          }
+        ]
+      },
+      {
+        "definition": "a particular place or area",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's from your neck of the woods (= the area where you live)."
+          },
+          {
+            "cf": "",
+            "x": "What are you doing in this neck of the woods?"
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is very annoying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That man's a pain in the neck!"
+          }
+        ]
+      },
+      {
+        "definition": "to risk losing your job, damaging your reputation, etc. by doing or saying something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's not a matter that I'm prepared to put my head on the block for."
+          }
+        ]
+      },
+      {
+        "definition": "to risk being killed or injured in order to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm not going to risk my neck playing rugby with you!"
+          }
+        ]
+      },
+      {
+        "definition": "to rescue somebody from a very difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's out to save his own political neck."
+          }
+        ]
+      },
+      {
+        "definition": "to try to avoid death, punishment, etc., especially by leaving others in an extremely difficult situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "To save his own skin, he lied and blamed the accident on his friend."
+          }
+        ]
+      },
+      {
+        "definition": "to do or say something when there is a risk that you may be wrong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’ll stick my neck out and say that Bill is definitely the best candidate for the job."
+          }
+        ]
+      },
+      {
+        "definition": "when you say that you will wring somebody’s neck, you mean that you are very angry or annoyed with them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When he was late again I wanted to wring his neck."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "needle",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nee/needl/needle__gb_1.mp3",
+    "phonetic_text": "/ˈniːdl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nee/needl/needle__us_2.mp3",
+    "phonetic_am_text": "/ˈniːdl/",
+    "senses": [
+      {
+        "definition": "a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a needle and thread"
+          },
+          {
+            "cf": "",
+            "x": "the eye (= hole) of a needle"
+          },
+          {
+            "cf": "",
+            "x": "Can you thread this needle?"
+          },
+          {
+            "cf": "",
+            "x": "a packet of fine needles"
+          }
+        ]
+      },
+      {
+        "definition": "a long thin piece of plastic or metal with a point at one end that you use for knitting. You usually use two together.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Vera's knitting needles clicked away."
+          },
+          {
+            "cf": "",
+            "x": "a circular needle"
+          },
+          {
+            "cf": "",
+            "x": "a needle holding two stitches"
+          }
+        ]
+      },
+      {
+        "definition": "a very thin, pointed piece of steel used on the end of a syringe for putting a drug into somebody’s body, or for taking blood out of it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a hypodermic needle"
+          },
+          {
+            "cf": "",
+            "x": "a needle inserted into the abdomen"
+          },
+          {
+            "cf": "",
+            "x": "Using dirty needles was a significant factor in the spread of the disease."
+          }
+        ]
+      },
+      {
+        "definition": "a thin piece of metal on a scientific instrument that moves to point to the correct measurement or direction",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The compass needle was pointing north."
+          }
+        ]
+      },
+      {
+        "definition": "the thin, hard, pointed leaf of a pine tree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A soft blanket of pine needles covered the forest floor."
+          }
+        ]
+      },
+      {
+        "definition": "the very small pointed piece of metal that touches a record that is being played in order to produce the sound",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She lowered the needle onto the record."
+          },
+          {
+            "cf": "",
+            "x": "The gramophone needle stuck in a groove."
+          }
+        ]
+      },
+      {
+        "definition": "(to be) very anxious or excited while you are waiting to find out something or see what will happen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've been on pins and needles all week waiting for the results."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is almost impossible to find",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Searching for one man in this city is like looking for a needle in a haystack."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nerve",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/ner/nerve/nerve__gb_1.mp3",
+    "phonetic_text": "/nɜːv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/ner/nerve/nerve__us_1.mp3",
+    "phonetic_am_text": "/nɜːrv/",
+    "senses": [
+      {
+        "definition": "any of the long fibres that carry messages between the brain and parts of the body, enabling you to move, feel pain, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the optic nerve"
+          },
+          {
+            "cf": "",
+            "x": "He's off work with a trapped nerve in his neck."
+          },
+          {
+            "cf": "",
+            "x": "Every nerve in her body was tense."
+          },
+          {
+            "cf": "",
+            "x": "The illness kills nerve cells and causes chronic fatigue."
+          },
+          {
+            "cf": "",
+            "x": "Pain occurs when the nerve fibres are damaged."
+          },
+          {
+            "cf": "",
+            "x": "Signals are transmitted from the nerve endings to the brain."
+          },
+          {
+            "cf": "",
+            "x": "The disease can also cause nerve damage."
+          }
+        ]
+      },
+      {
+        "definition": "feelings of worry or stress",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Even after years as a singer, he still suffers from nerves before a performance."
+          },
+          {
+            "cf": "",
+            "x": "I need something to calm my nerves."
+          },
+          {
+            "cf": "",
+            "x": "to settle/soothe/steady your nerves"
+          },
+          {
+            "cf": "",
+            "x": "Everyone's nerves were on edge (= everyone felt tense)."
+          },
+          {
+            "cf": "",
+            "x": "He lives on his nerves (= is always worried)."
+          },
+          {
+            "cf": "",
+            "x": "By the end of the meal her nerves were completely frayed."
+          }
+        ]
+      },
+      {
+        "definition": "the courage to do something difficult or dangerous",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It took a lot of nerve to take the company to court."
+          },
+          {
+            "cf": "",
+            "x": "I was going to have a go at parachuting but lost my nerve at the last minute."
+          },
+          {
+            "cf": "",
+            "x": "He held his nerve to win the final set 6–4."
+          },
+          {
+            "cf": "",
+            "x": "Investors largely kept their nerve and stayed with the company."
+          },
+          {
+            "cf": "",
+            "x": "It was an amazing journey which tested her nerves to the full."
+          }
+        ]
+      },
+      {
+        "definition": "a way of behaving that other people think is rude or not appropriate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I don't know how you have the nerve to show your face after what you said!"
+          },
+          {
+            "cf": "",
+            "x": "He's got a nerve asking us for money!"
+          },
+          {
+            "cf": "",
+            "x": "‘Then she demanded to see the manager!’ ‘What a nerve!’"
+          },
+          {
+            "cf": "",
+            "x": "He had some nerve to insult Mina's cooking."
+          }
+        ]
+      },
+      {
+        "definition": "to be very nervous",
+        "examples": [
+          {
+            "cf": "",
+            "x": "By the time of the interview, I was a bundle of nerves."
+          }
+        ]
+      },
+      {
+        "definition": "to annoy somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That music is starting to get on my nerves."
+          },
+          {
+            "cf": "",
+            "x": "It really gets on my nerves when people talk loudly on the phone in public."
+          },
+          {
+            "cf": "",
+            "x": "His endless whining really gets on my nerves."
+          }
+        ]
+      },
+      {
+        "definition": "to be able to remain calm in a difficult or dangerous situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You need nerves of steel to be a good poker player."
+          }
+        ]
+      },
+      {
+        "definition": "to mention a subject that makes somebody feel angry, upset, embarrassed, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You touched a raw nerve when you mentioned his first wife."
+          },
+          {
+            "cf": "",
+            "x": "My remarks about divorce had unwittingly touched a raw nerve."
+          },
+          {
+            "cf": "",
+            "x": " The article struck a raw nerve as it revived unpleasant memories."
+          }
+        ]
+      },
+      {
+        "definition": "to try as hard as you can to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He strained every nerve to snatch victory from defeat."
+          }
+        ]
+      },
+      {
+        "definition": "to have a strong effect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His work strikes a nerve with people who are attracted to nostalgia."
+          },
+          {
+            "cf": "",
+            "x": " It seems I struck a nerve with my last post about cell phones."
+          },
+          {
+            "cf": "",
+            "x": "Nissan may well strike a popular nerve here."
+          }
+        ]
+      },
+      {
+        "definition": "an attempt to defeat your opponents by putting pressure on them so that they lose courage or confidence",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The union has been fighting a war of nerves with the management over pay."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nervous",
+    "level": "A2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/ner/nervo/nervous__gb_1.mp3",
+    "phonetic_text": "/ˈnɜːvəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/ner/nervo/nervous__us_1.mp3",
+    "phonetic_am_text": "/ˈnɜːrvəs/",
+    "senses": [
+      {
+        "definition": "anxious about something or afraid of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I felt really nervous before the interview."
+          },
+          {
+            "cf": "",
+            "x": "I get so nervous before exams."
+          },
+          {
+            "cf": "",
+            "x": "I was too nervous to say anything."
+          },
+          {
+            "cf": "nervous about something",
+            "x": "Consumers are very nervous about the future."
+          },
+          {
+            "cf": "nervous of somebody/something",
+            "x": "The horse may be nervous of cars."
+          },
+          {
+            "cf": "nervous about/of doing something",
+            "x": "He had been nervous about inviting us."
+          },
+          {
+            "cf": "",
+            "x": "a nervous laugh/glance/smile (= one that shows that you feel anxious)"
+          },
+          {
+            "cf": "",
+            "x": "By the time the police arrived, I was a nervous wreck."
+          }
+        ]
+      },
+      {
+        "definition": "easily worried or frightened",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was a thin, nervous child."
+          },
+          {
+            "cf": "",
+            "x": "He's not the nervous type."
+          },
+          {
+            "cf": "",
+            "x": "She was of a nervous disposition."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the body’s nerves and often affecting you mentally or emotionally",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a nervous condition/disorder/disease"
+          },
+          {
+            "cf": "",
+            "x": "She was in a state of nervous exhaustion."
+          },
+          {
+            "cf": "",
+            "x": "There is danger of her going into nervous shock."
+          },
+          {
+            "cf": "",
+            "x": "He was full of nervous energy, like a racehorse who hadn't run in a while."
+          }
+        ]
+      },
+      {
+        "definition": "to be very easily frightened; to be very nervous",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "nightmare",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nig/night/nightmare__gb_1.mp3",
+    "phonetic_text": "/ˈnaɪtmeə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nig/night/nightmare__us_1.mp3",
+    "phonetic_am_text": "/ˈnaɪtmer/",
+    "senses": [
+      {
+        "definition": "a dream that is very frightening or unpleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He still has nightmares about the accident."
+          },
+          {
+            "cf": "",
+            "x": "She has a recurring nightmare about being stuck in a lift."
+          }
+        ]
+      },
+      {
+        "definition": "an experience that is very frightening and unpleasant, or very difficult to deal with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trip turned into a nightmare when they both got sick."
+          },
+          {
+            "cf": "",
+            "x": "Nobody knows what's going on—it's a nightmare!"
+          },
+          {
+            "cf": "",
+            "x": "Filling in all those forms was a nightmare."
+          },
+          {
+            "cf": "",
+            "x": "Losing a child is most people's worst nightmare."
+          },
+          {
+            "cf": "",
+            "x": "If it goes ahead, it will be the nightmare scenario (= the worst thing that could happen)."
+          },
+          {
+            "cf": "",
+            "x": "Travel in the city was becoming a logistical nightmare."
+          },
+          {
+            "cf": "nightmare for somebody",
+            "x": "What a nightmare for you!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nose",
+    "level": "A1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nos/nose_/nose__gb_1.mp3",
+    "phonetic_text": "/nəʊz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nos/nose_/nose__us_1.mp3",
+    "phonetic_am_text": "/nəʊz/",
+    "senses": [
+      {
+        "definition": "the part of the face that sticks out above the mouth, used for breathing and smelling things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had dark eyes and a long narrow nose."
+          },
+          {
+            "cf": "",
+            "x": "He broke his nose in the fight."
+          },
+          {
+            "cf": "",
+            "x": "She wrinkled her nose in disgust."
+          },
+          {
+            "cf": "",
+            "x": "He pressed his nose up against the window."
+          },
+          {
+            "cf": "through your nose",
+            "x": "Try to breathe through your nose."
+          },
+          {
+            "cf": "",
+            "x": "He blew his nose (= cleared it by blowing strongly into a handkerchief)."
+          },
+          {
+            "cf": "",
+            "x": "a blocked/runny nose"
+          },
+          {
+            "cf": "",
+            "x": "Stop picking your nose! (= removing dirt from it with your finger)"
+          },
+          {
+            "cf": "",
+            "x": "He held his nose as he passed the stinking dustbins."
+          },
+          {
+            "cf": "",
+            "x": "He held his nose and voted for the bill anyway."
+          },
+          {
+            "cf": "",
+            "x": "He pushed his glasses up the bridge of his nose (= the hard part near the top)."
+          }
+        ]
+      },
+      {
+        "definition": "having the type of nose mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "red-nosed"
+          },
+          {
+            "cf": "",
+            "x": "large-nosed"
+          }
+        ]
+      },
+      {
+        "definition": "the front part of a plane, spacecraft, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Heat detectors are fitted in the nose of the missile."
+          }
+        ]
+      },
+      {
+        "definition": "a special ability for finding or recognizing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "As a journalist, she has always had a nose for a good story."
+          }
+        ]
+      },
+      {
+        "definition": "a sense of smell",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a dog with a good nose"
+          },
+          {
+            "cf": "",
+            "x": "Good noses can always smell a fight brewing."
+          }
+        ]
+      },
+      {
+        "definition": "a smell that is characteristic of a particular wine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This Cote de Beaune has a good nose, with apricot and raisin aromas."
+          }
+        ]
+      },
+      {
+        "definition": "by only a small amount (used mostly when talking about horse racing) ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He lost his first race by a nose but won the next three."
+          },
+          {
+            "cf": "",
+            "x": "Glen's Diamond was declared the winner by a nose from the 11–4 favourite."
+          }
+        ]
+      },
+      {
+        "definition": "to do something when you are angry that is meant to harm somebody else but that also harms you",
+        "examples": []
+      },
+      {
+        "definition": "to be guided by your sense of smell",
+        "examples": []
+      },
+      {
+        "definition": "to go straight forward",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The garage is a mile ahead up the hill—just follow your nose."
+          }
+        ]
+      },
+      {
+        "definition": "to act according to what seems right or reasonable, rather than following any particular rules",
+        "examples": []
+      },
+      {
+        "definition": "if you say that people have their noses in the trough, you mean that they are trying to get a lot of money for themselves",
+        "examples": []
+      },
+      {
+        "definition": "to annoy somebody",
+        "examples": []
+      },
+      {
+        "definition": "to defeat somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We have to give him a bloody nose in the election."
+          },
+          {
+            "cf": "",
+            "x": "Voters gave the government a bloody nose in the local elections."
+          }
+        ]
+      },
+      {
+        "definition": "to be reading",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She always has her nose in a book."
+          }
+        ]
+      },
+      {
+        "definition": "to be reading something and giving it all your attention",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Peter always has his nose in a book."
+          }
+        ]
+      },
+      {
+        "definition": "to look around a place; to look for something in a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’ll have a nose round and see what I can find."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that somebody is not upset or annoyed about something because it does not affect them in a bad way",
+        "examples": []
+      },
+      {
+        "definition": "to avoid doing anything wrong or illegal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Since leaving prison, he's managed to keep his nose clean."
+          }
+        ]
+      },
+      {
+        "definition": "to not become involved in things that should not really involve you",
+        "examples": []
+      },
+      {
+        "definition": "to work hard for a long period of time without stopping",
+        "examples": []
+      },
+      {
+        "definition": "to make somebody do everything you want; to control somebody completely",
+        "examples": []
+      },
+      {
+        "definition": "to behave in a way that suggests that you think that you are better than somebody or that something is not good enough for you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "People who live in that area tend to look down their noses at their poorer neighbours."
+          },
+          {
+            "cf": "",
+            "x": "They tend to look down their noses at people who drive small cars."
+          }
+        ]
+      },
+      {
+        "definition": "if cars, etc. are nose to tail, they are moving slowly in a long line with little space between them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The traffic was nose to tail for miles."
+          }
+        ]
+      },
+      {
+        "definition": "exactly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The budget should hit the $136 billion target on the nose."
+          }
+        ]
+      },
+      {
+        "definition": "to pay too much money for something",
+        "examples": []
+      },
+      {
+        "definition": "very obvious",
+        "examples": []
+      },
+      {
+        "definition": "to try to become involved in something that should not involve you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He’s always poking his nose into other people’s business."
+          }
+        ]
+      },
+      {
+        "definition": "a polite way to say that somebody goes to the toilet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'm just going to powder my nose."
+          }
+        ]
+      },
+      {
+        "definition": "to upset or annoy somebody, especially by not giving them enough attention",
+        "examples": []
+      },
+      {
+        "definition": "to keep reminding somebody in an unkind way of their past mistakes",
+        "examples": []
+      },
+      {
+        "definition": "to make a rude sign with your thumb on your nose; to show that you have no respect for somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company just thumbs its nose at the legislation on pollution."
+          },
+          {
+            "cf": "",
+            "x": "They thumb their noses at all of our traditions."
+          }
+        ]
+      },
+      {
+        "definition": "to refuse something, especially because you do not think that it is good enough for you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children turn up their noses at almost everything I cook."
+          }
+        ]
+      },
+      {
+        "definition": "if something is under somebody’s nose, it is very close to them but they cannot see it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I searched everywhere for the letter and it was under my nose all the time!"
+          }
+        ]
+      },
+      {
+        "definition": "if something happens under somebody’s nose, they do not notice it even though it is not being done secretly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police didn't know the drugs ring was operating right under their noses."
+          }
+        ]
+      },
+      {
+        "definition": "in a way that is not friendly and suggests that you think that you are better than other people",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She walked in with her nose in the air, ignoring everyone."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nurse",
+    "level": "A1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nur/nurse/nurse__gb_1.mp3",
+    "phonetic_text": "/nɜːs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nur/nurse/nurse__us_1.mp3",
+    "phonetic_am_text": "/nɜːrs/",
+    "senses": [
+      {
+        "definition": "a person whose job is to take care of sick or injured people, usually in a hospital",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a registered nurse"
+          },
+          {
+            "cf": "",
+            "x": "a qualified/trained nurse"
+          },
+          {
+            "cf": "",
+            "x": "She trained as a nurse in Korea. "
+          },
+          {
+            "cf": "",
+            "x": "student nurses"
+          },
+          {
+            "cf": "",
+            "x": "a male nurse"
+          },
+          {
+            "cf": "",
+            "x": "a dental nurse (= one who helps a dentist)"
+          },
+          {
+            "cf": "",
+            "x": "a psychiatric nurse (= one who works in a hospital for people with mental illnesses)"
+          },
+          {
+            "cf": "",
+            "x": "a team of doctors and nurses"
+          },
+          {
+            "cf": "",
+            "x": "a nurses' station (= an office for nurses in a hospital)"
+          },
+          {
+            "cf": "",
+            "x": "Nurse Bennett"
+          },
+          {
+            "cf": "",
+            "x": "Nurse, come quickly!"
+          },
+          {
+            "cf": "",
+            "x": "I work as a nurse in a busy hospital."
+          }
+        ]
+      },
+      {
+        "definition": "(in the past) a woman or girl whose job was to take care of babies or small children in their own homes",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "nursing",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nur/nursi/nursing__gb_1.mp3",
+    "phonetic_text": "/ˈnɜːsɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nur/nursi/nursing__us_1.mp3",
+    "phonetic_am_text": "/ˈnɜːrsɪŋ/",
+    "senses": [
+      {
+        "definition": "the job or skill of caring for people who are sick or injured",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a career in nursing"
+          },
+          {
+            "cf": "",
+            "x": "nursing care"
+          },
+          {
+            "cf": "",
+            "x": "the nursing profession"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nutrition",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nut/nutri/nutrition__gb_1.mp3",
+    "phonetic_text": "/njuˈtrɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nut/nutri/nutrition__us_1.mp3",
+    "phonetic_am_text": "/nuˈtrɪʃn/",
+    "senses": [
+      {
+        "definition": "the process by which living things receive the food necessary for them to grow and be healthy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "advice on diet and nutrition"
+          },
+          {
+            "cf": "",
+            "x": "to study food science and nutrition"
+          },
+          {
+            "cf": "",
+            "x": "Nutrition information is now provided on the back of most food products."
+          }
+        ]
+      },
+      {
+        "definition": "food that is needed to grow and be healthy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A feeding tube gives her nutrition and water."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pain",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pai/pain_/pain__gb_1.mp3",
+    "phonetic_text": "/peɪn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pai/pain_/pain__us_1.mp3",
+    "phonetic_am_text": "/peɪn/",
+    "senses": [
+      {
+        "definition": "the feelings that you have in your body when you have been hurt or when you are ill",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a cry of pain"
+          },
+          {
+            "cf": "in pain",
+            "x": "She was clearly in a lot of pain."
+          },
+          {
+            "cf": "",
+            "x": "He screamed in pain as he fell to his knees. "
+          },
+          {
+            "cf": "pain in something",
+            "x": "He felt a sharp pain in his knee."
+          },
+          {
+            "cf": "",
+            "x": "chronic/acute/severe pain"
+          },
+          {
+            "cf": "",
+            "x": "patients suffering from back pain"
+          },
+          {
+            "cf": "",
+            "x": "stomach/chest/abdominal/back pains"
+          },
+          {
+            "cf": "",
+            "x": "You get more aches and pains as you get older."
+          },
+          {
+            "cf": "",
+            "x": "The booklet contains information on pain relief during labour."
+          },
+          {
+            "cf": "",
+            "x": "This cream should help to relieve the pain."
+          },
+          {
+            "cf": "",
+            "x": "These pills should ease the pain."
+          },
+          {
+            "cf": "",
+            "x": "to feel/experience/suffer pain"
+          },
+          {
+            "cf": "",
+            "x": "It's wrong to inflict pain on any animal."
+          },
+          {
+            "cf": "",
+            "x": "I was able to learn pain management techniques."
+          }
+        ]
+      },
+      {
+        "definition": "mental or emotional difficulty",
+        "examples": [
+          {
+            "cf": "the pain of something",
+            "x": "the pain of separation"
+          },
+          {
+            "cf": "the pain of doing something",
+            "x": "It took him several years to get over the pain of losing his job."
+          },
+          {
+            "cf": "",
+            "x": "I never meant to cause her pain."
+          },
+          {
+            "cf": "",
+            "x": "the pleasures and pains of growing old"
+          },
+          {
+            "cf": "",
+            "x": "a life full of pain and suffering"
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is very annoying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She can be a real pain when she's in a bad mood."
+          },
+          {
+            "cf": "",
+            "x": "It's a pain having to go all that way for just one meeting."
+          }
+        ]
+      },
+      {
+        "definition": "used to say that you need to suffer if you want to achieve something",
+        "examples": []
+      },
+      {
+        "definition": "with the threat of having something done to you as a punishment if you do not obey",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were required to cut pollution levels, on pain of a £10 000 fine if they disobeyed."
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is very annoying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That man's a pain in the neck!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "painful",
+    "level": "A2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pai/painf/painful__gb_1.mp3",
+    "phonetic_text": "/ˈpeɪnfl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pai/painf/painful__us_1.mp3",
+    "phonetic_am_text": "/ˈpeɪnfl/",
+    "senses": [
+      {
+        "definition": "causing you pain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Is your back still painful?"
+          },
+          {
+            "cf": "",
+            "x": "a painful death"
+          },
+          {
+            "cf": "",
+            "x": "My ankle is still too painful to walk on."
+          },
+          {
+            "cf": "",
+            "x": "He took a painful blow on the shoulder."
+          },
+          {
+            "cf": "",
+            "x": "It was a difficult and painful operation."
+          }
+        ]
+      },
+      {
+        "definition": "causing you to feel upset or embarrassed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Seeing her again brought back painful memories."
+          },
+          {
+            "cf": "",
+            "x": "My parents' divorce was a very painful experience for me."
+          },
+          {
+            "cf": "",
+            "x": "Christmas can be a painful reminder of the loss of a loved one. "
+          },
+          {
+            "cf": "painful to do something",
+            "x": "Their efforts were painful to watch."
+          },
+          {
+            "cf": "",
+            "x": "I find it extremely painful to read the daily news."
+          },
+          {
+            "cf": "painful for somebody (to do something)",
+            "x": "It's very painful for a kid to face up to that kind of thing."
+          },
+          {
+            "cf": "painful doing something",
+            "x": "It was painful watching them get it all wrong."
+          },
+          {
+            "cf": "painful to somebody",
+            "x": "The subject of his failed marriage was quite painful to him."
+          }
+        ]
+      },
+      {
+        "definition": "unpleasant or difficult to do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Applying for jobs can be a long and painful process."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pale",
+    "level": "B1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pal/pale_/pale__gb_1.mp3",
+    "phonetic_text": "/peɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pal/pale_/pale__us_1.mp3",
+    "phonetic_am_text": "/peɪl/",
+    "senses": [
+      {
+        "definition": "having skin that is very light in colour; having skin that has less colour than usual because of illness, a strong emotion, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pale complexion"
+          },
+          {
+            "cf": "",
+            "x": "She was tall with a slender figure and pale skin. "
+          },
+          {
+            "cf": "",
+            "x": "pale with fear/shock"
+          },
+          {
+            "cf": "",
+            "x": "to go/turn/grow pale"
+          },
+          {
+            "cf": "",
+            "x": "You look pale. Are you OK?"
+          },
+          {
+            "cf": "",
+            "x": "Her face had grown deathly pale. "
+          },
+          {
+            "cf": "",
+            "x": "The ordeal left her looking pale and drawn."
+          }
+        ]
+      },
+      {
+        "definition": "light in colour; containing a lot of white",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pale blue eyes"
+          },
+          {
+            "cf": "",
+            "x": "a paler shade of green"
+          },
+          {
+            "cf": "",
+            "x": "a pale sky"
+          },
+          {
+            "cf": "",
+            "x": "The flowers were pale and wilted."
+          }
+        ]
+      },
+      {
+        "definition": "not strong or bright",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the cold pale light of dawn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "palm",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pal/palm_/palm__gb_1.mp3",
+    "phonetic_text": "/pɑːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pal/palm_/palm__us_1_rr.mp3",
+    "phonetic_am_text": "/pɑːm/",
+    "senses": [
+      {
+        "definition": "a straight tree with a mass of long leaves at the top, growing in tropical countries. There are several types of palm tree, some of which produce fruit.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a date palm"
+          },
+          {
+            "cf": "",
+            "x": "a coconut palm"
+          },
+          {
+            "cf": "",
+            "x": "palm leaves/fronds/groves"
+          }
+        ]
+      },
+      {
+        "definition": "the inner surface of the hand between the wrist and the fingers",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He held the bird gently in the palm of his hand."
+          },
+          {
+            "cf": "",
+            "x": "sweaty palms"
+          },
+          {
+            "cf": "",
+            "x": "to read somebody’s palm (= to say what you think will happen to somebody by looking at the lines on their palm)"
+          }
+        ]
+      },
+      {
+        "definition": "to give somebody money so that they will do you a favour, especially tell your fortune",
+        "examples": []
+      },
+      {
+        "definition": "to give somebody money in order to persuade them to do something dishonest",
+        "examples": []
+      },
+      {
+        "definition": "to have complete control or influence over somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Even before he plays a note, he has the audience in the palm of his hand."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "panic",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pan/panic/panic__gb_1.mp3",
+    "phonetic_text": "/ˈpænɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pan/panic/panic__us_1.mp3",
+    "phonetic_am_text": "/ˈpænɪk/",
+    "senses": [
+      {
+        "definition": "a sudden feeling of great fear that cannot be controlled and prevents you from thinking clearly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a moment of panic"
+          },
+          {
+            "cf": "",
+            "x": "They were in a state of panic."
+          },
+          {
+            "cf": "in panic",
+            "x": "Office workers fled in panic as the fire took hold."
+          },
+          {
+            "cf": "",
+            "x": "There's no point getting into a panic about the exams."
+          },
+          {
+            "cf": "",
+            "x": "a panic attack (= a condition in which you suddenly feel very anxious, causing your heart to beat faster, etc.)"
+          },
+          {
+            "cf": "",
+            "x": "a panic decision (= one that is made when you are in a state of panic)"
+          },
+          {
+            "cf": "",
+            "x": "A look of panic crossed his face."
+          },
+          {
+            "cf": "",
+            "x": "The mere thought of flying fills me with panic."
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which people are made to feel very anxious or frightened, causing them to act quickly and without thinking carefully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "News of the losses caused (a) panic among investors."
+          },
+          {
+            "cf": "",
+            "x": "Careful planning at this stage will help to avoid a last-minute panic."
+          },
+          {
+            "cf": "",
+            "x": "There's no panic (= we do not need to rush), we've got plenty of time."
+          },
+          {
+            "cf": "",
+            "x": "panic buying/selling (= the act of buying/selling things quickly and without thinking carefully because you are afraid that a particular situation will become worse)"
+          }
+        ]
+      },
+      {
+        "definition": "a situation in which people feel very anxious and there is a lot of confused activity, especially because there is a lot to do in a short period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was panic stations when the deadline was brought forward by a week."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "patient",
+    "level": "A2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/patie/patient__gb_2.mp3",
+    "phonetic_text": "/ˈpeɪʃnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/patie/patient__us_1.mp3",
+    "phonetic_am_text": "/ˈpeɪʃnt/",
+    "senses": [
+      {
+        "definition": "able to wait for a long time or accept annoying behaviour or difficulties without becoming angry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You'll just have to be patient and wait till I'm finished."
+          },
+          {
+            "cf": "",
+            "x": "to be endlessly/infinitely/incredibly patient"
+          },
+          {
+            "cf": "patient with somebody/something",
+            "x": "She's very patient with young children."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "physical",
+    "level": "A2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/phy/physi/physical__gb_2.mp3",
+    "phonetic_text": "/ˈfɪzɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/phy/physi/physical__us_1.mp3",
+    "phonetic_am_text": "/ˈfɪzɪkl/",
+    "senses": [
+      {
+        "definition": "connected with a person’s body rather than their mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "physical activity/fitness"
+          },
+          {
+            "cf": "",
+            "x": "All subjects undergo a physical examination."
+          },
+          {
+            "cf": "",
+            "x": "physical appearance"
+          },
+          {
+            "cf": "",
+            "x": "physical disabilities/injuries"
+          },
+          {
+            "cf": "",
+            "x": "The ordeal has affected both her mental and physical health. "
+          },
+          {
+            "cf": "",
+            "x": "He tends to avoid all physical contact."
+          },
+          {
+            "cf": "",
+            "x": "The centre offers activities for everyone, whatever your age or physical condition."
+          }
+        ]
+      },
+      {
+        "definition": "connected with things that actually exist or are present and can be seen, felt, etc. rather than things that only exist in a person’s mind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the physical world"
+          },
+          {
+            "cf": "",
+            "x": "the quality of the physical environment"
+          },
+          {
+            "cf": "",
+            "x": "the physical properties (= the colour, weight, shape, etc.) of copper"
+          },
+          {
+            "cf": "",
+            "x": "She was intimidated by his physical presence."
+          },
+          {
+            "cf": "",
+            "x": "Is there any physical evidence to suggest that a crime has been committed?"
+          }
+        ]
+      },
+      {
+        "definition": "according to the laws of nature",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is a physical impossibility to be in two places at once."
+          },
+          {
+            "cf": "",
+            "x": "There does not seem to be any physical explanation for what they saw."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the scientific study of forces such as heat, light, sound, etc. and how they affect objects",
+        "examples": [
+          {
+            "cf": "",
+            "x": "physical laws"
+          },
+          {
+            "cf": "",
+            "x": "physical science/chemistry"
+          }
+        ]
+      },
+      {
+        "definition": "involving a lot of physical contact or activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Rugby is a very physical sport."
+          },
+          {
+            "cf": "",
+            "x": "It was a very physical match."
+          }
+        ]
+      },
+      {
+        "definition": "involving sex",
+        "examples": [
+          {
+            "cf": "",
+            "x": "physical love"
+          },
+          {
+            "cf": "",
+            "x": "They are having a physical relationship."
+          },
+          {
+            "cf": "",
+            "x": "Their relationship was purely physical."
+          },
+          {
+            "cf": "",
+            "x": "There was a physical attraction between us."
+          }
+        ]
+      },
+      {
+        "definition": "liking to touch other people a lot",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She's not very physical."
+          }
+        ]
+      },
+      {
+        "definition": "violent (used to avoid saying this in a direct way)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are you going to cooperate or do we have to get physical?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "physician",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/phy/physi/physician__gb_1.mp3",
+    "phonetic_text": "/fɪˈzɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/phy/physi/physician__us_1.mp3",
+    "phonetic_am_text": "/fɪˈzɪʃn/",
+    "senses": [
+      {
+        "definition": "a doctor, especially one who is a specialist in general medicine and not surgery",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Dr Dennett is a practicing family physician in Atlanta."
+          },
+          {
+            "cf": "",
+            "x": "Please consult your physician before beginning any new exercise program."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pill",
+    "level": "A2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pil/pill_/pill__gb_1.mp3",
+    "phonetic_text": "/pɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pil/pill_/pill__us_1.mp3",
+    "phonetic_am_text": "/pɪl/",
+    "senses": [
+      {
+        "definition": "a small flat round piece of medicine that you swallow whole, without biting it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vitamin pill"
+          },
+          {
+            "cf": "",
+            "x": "Take three pills daily after meals."
+          },
+          {
+            "cf": "",
+            "x": "pill-popping (= the act of taking too many pills or using illegal drugs)"
+          },
+          {
+            "cf": "",
+            "x": "The doctor prescribed her some pills to help her sleep."
+          },
+          {
+            "cf": "",
+            "x": "I was on various pills for my heart condition."
+          }
+        ]
+      },
+      {
+        "definition": "a pill that some women take to prevent them becoming pregnant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the contraceptive pill"
+          },
+          {
+            "cf": "on the pill",
+            "x": "to be/go on the pill "
+          },
+          {
+            "cf": "",
+            "x": "Her doctor put her on the pill at 16."
+          }
+        ]
+      },
+      {
+        "definition": "an annoying person",
+        "examples": []
+      },
+      {
+        "definition": "a fact or an event that is unpleasant and difficult to accept",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The election defeat was a bitter pill for the party to swallow."
+          }
+        ]
+      },
+      {
+        "definition": "to do something that makes an unpleasant situation seem less unpleasant",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "poison",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/poi/poiso/poison__gb_1.mp3",
+    "phonetic_text": "/ˈpɔɪzn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/poi/poiso/poison__us_1.mp3",
+    "phonetic_am_text": "/ˈpɔɪzn/",
+    "senses": [
+      {
+        "definition": "a substance that causes death or harm if it gets into the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some mushrooms contain a deadly poison."
+          },
+          {
+            "cf": "",
+            "x": "How did he die? Was it poison?"
+          },
+          {
+            "cf": "",
+            "x": "The dog was killed by rat poison (= poison intended to kill rats)."
+          },
+          {
+            "cf": "",
+            "x": "to hunt with poison arrows"
+          },
+          {
+            "cf": "",
+            "x": "bombs containing poison gas"
+          },
+          {
+            "cf": "",
+            "x": "She had laced his drink with poison."
+          }
+        ]
+      },
+      {
+        "definition": "an idea, a feeling, etc. that is extremely harmful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the poison of racial hatred"
+          }
+        ]
+      },
+      {
+        "definition": "used to say that different people like different things; what one person likes very much, another person does not like at all",
+        "examples": []
+      },
+      {
+        "definition": "used to ask somebody what alcoholic drink they would like",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "poisonous",
+    "level": "B2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/poi/poiso/poisonous__gb_1.mp3",
+    "phonetic_text": "/ˈpɔɪzənəs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/poi/poiso/poisonous__us_1.mp3",
+    "phonetic_am_text": "/ˈpɔɪzənəs/",
+    "senses": [
+      {
+        "definition": "causing death or illness if swallowed or taken into the body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "poisonous chemicals/fumes/plants"
+          },
+          {
+            "cf": "",
+            "x": "a poisonous substance"
+          },
+          {
+            "cf": "",
+            "x": "This gas is highly poisonous."
+          },
+          {
+            "cf": "poisonous to somebody/something",
+            "x": "The leaves of certain trees are poisonous to cattle."
+          }
+        ]
+      },
+      {
+        "definition": "producing a poison that can cause death or illness if the animal or insect bites you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "poisonous snakes"
+          },
+          {
+            "cf": "",
+            "x": "a tiny spider with a poisonous bite"
+          }
+        ]
+      },
+      {
+        "definition": "extremely unpleasant or unfriendly ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a poisonous person"
+          },
+          {
+            "cf": "",
+            "x": "the poisonous atmosphere in the office"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pregnancy",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/pregn/pregnancy__gb_1.mp3",
+    "phonetic_text": "/ˈpreɡnənsi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/pregn/pregnancy__us_1.mp3",
+    "phonetic_am_text": "/ˈpreɡnənsi/",
+    "senses": [
+      {
+        "definition": "the state of being pregnant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pregnancy test"
+          },
+          {
+            "cf": "during pregnancy",
+            "x": "Many women experience sickness during pregnancy."
+          },
+          {
+            "cf": "",
+            "x": "unplanned/unwanted pregnancies"
+          },
+          {
+            "cf": "",
+            "x": "the increase in teenage pregnancies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pregnant",
+    "level": "B1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/pregn/pregnant__gb_1.mp3",
+    "phonetic_text": "/ˈpreɡnənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/pregn/pregnant__us_1.mp3",
+    "phonetic_am_text": "/ˈpreɡnənt/",
+    "senses": [
+      {
+        "definition": "having a baby or young animal developing inside her/its body",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My wife is pregnant."
+          },
+          {
+            "cf": "pregnant with…",
+            "x": "I was pregnant with our third child at the time."
+          },
+          {
+            "cf": "",
+            "x": "a heavily pregnant woman (= one whose baby is nearly ready to be born)"
+          },
+          {
+            "cf": "",
+            "x": "to get/become/fall pregnant"
+          },
+          {
+            "cf": "",
+            "x": "He got his girlfriend pregnant and they're getting married."
+          },
+          {
+            "cf": "",
+            "x": "She's six months pregnant."
+          }
+        ]
+      },
+      {
+        "definition": "full of a quality or feeling",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her silences were pregnant with criticism."
+          }
+        ]
+      },
+      {
+        "definition": "an occasion when nobody speaks, although people are aware that there are feelings or thoughts to express",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was a pregnant pause before she replied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prescribe",
+    "level": "B2",
+    "category": "health",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/presc/prescribe__gb_1.mp3",
+    "phonetic_text": "/prɪˈskraɪb/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/presc/prescribe__us_1.mp3",
+    "phonetic_am_text": "/prɪˈskraɪb/",
+    "senses": [
+      {
+        "definition": "to tell somebody to take a particular medicine or have a particular treatment; to write a prescription for a particular medicine, etc.",
+        "examples": [
+          {
+            "cf": "prescribe something",
+            "x": "Valium is usually prescribed to treat anxiety."
+          },
+          {
+            "cf": "prescribe (somebody) something (for something)",
+            "x": "He may be able to prescribe you something for that cough."
+          }
+        ]
+      },
+      {
+        "definition": "to say what should be done or how something should be done",
+        "examples": [
+          {
+            "cf": "prescribe something",
+            "x": "The prescribed form must be completed and returned to this office."
+          },
+          {
+            "cf": "prescribe that…",
+            "x": "Police regulations prescribe that an officer's number must be clearly visible."
+          },
+          {
+            "cf": "prescribe which, what, etc…",
+            "x": "The syllabus prescribes precisely which books should be studied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prescription",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/presc/prescription__gb_1.mp3",
+    "phonetic_text": "/prɪˈskrɪpʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/presc/prescription__us_1.mp3",
+    "phonetic_am_text": "/prɪˈskrɪpʃn/",
+    "senses": [
+      {
+        "definition": "an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's ",
+        "examples": [
+          {
+            "cf": "prescription for something",
+            "x": "The doctor gave me a prescription for antibiotics."
+          },
+          {
+            "cf": "on prescription",
+            "x": "Antibiotics are only available on prescription."
+          },
+          {
+            "cf": "by prescription",
+            "x": "Antibiotics are only available by prescription."
+          },
+          {
+            "cf": "",
+            "x": "They are not available without a prescription."
+          },
+          {
+            "cf": "",
+            "x": "prescription drugs/medication(s)"
+          }
+        ]
+      },
+      {
+        "definition": "medicine that your doctor has ordered for you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The pharmacist will make up your prescription."
+          }
+        ]
+      },
+      {
+        "definition": "the act of prescribing medicine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The prescription of drugs is a doctor's responsibility."
+          }
+        ]
+      },
+      {
+        "definition": "a plan or a suggestion for making something happen or for improving it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a prescription for happiness"
+          },
+          {
+            "cf": "",
+            "x": "Both parties will be outlining their prescription for economic recovery."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pressure",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/press/pressure__gb_2.mp3",
+    "phonetic_text": "/ˈpreʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/press/pressure__us_2.mp3",
+    "phonetic_am_text": "/ˈpreʃər/",
+    "senses": [
+      {
+        "definition": "the act of trying to persuade or to force somebody to do something",
+        "examples": [
+          {
+            "cf": "pressure for something",
+            "x": "The pressure for change continued to mount."
+          },
+          {
+            "cf": "pressure on somebody",
+            "x": "We are determined to keep up the pressure on the other member states."
+          },
+          {
+            "cf": "pressure on somebody to do something",
+            "x": "There is intense pressure on her to resign."
+          },
+          {
+            "cf": "pressure to do something",
+            "x": "In every society there is strong pressure to conform."
+          },
+          {
+            "cf": "",
+            "x": "Do you feel any pressure to dress in a certain way?"
+          },
+          {
+            "cf": "",
+            "x": "We must bring pressure to bear on our government to reverse this decision."
+          },
+          {
+            "cf": "pressure from somebody/something",
+            "x": "The company is facing increasing pressure from shareholders"
+          },
+          {
+            "cf": "",
+            "x": "The government eventually bowed to popular pressure (= they agreed to do what people were trying to get them to do)."
+          }
+        ]
+      },
+      {
+        "definition": "difficulties and worries that are caused by the need to achieve or to behave in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You need to be able to handle pressure in this job."
+          },
+          {
+            "cf": "pressure of something",
+            "x": "She was unable to attend because of the pressure of work."
+          },
+          {
+            "cf": "",
+            "x": "How can anyone enjoy the pressures of city life?"
+          },
+          {
+            "cf": "pressure on somebody",
+            "x": "The economic pressures on small businesses are intense."
+          }
+        ]
+      },
+      {
+        "definition": "the force or weight with which something presses against something else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The nurse applied pressure to his arm to stop the bleeding."
+          },
+          {
+            "cf": "",
+            "x": "The barriers gave way under the pressure of the crowd."
+          },
+          {
+            "cf": "",
+            "x": "Last year he had brain surgery to relieve pressure from a blood clot."
+          }
+        ]
+      },
+      {
+        "definition": "the force produced by a particular amount of gas or liquid in a container or a limited space; the amount of this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "air/water pressure"
+          },
+          {
+            "cf": "",
+            "x": "Check the tyre pressure (= the amount of air in a tyre) regularly."
+          },
+          {
+            "cf": "",
+            "x": "a pressure gauge (= an instrument used for measuring the pressure of a liquid or a gas)"
+          }
+        ]
+      },
+      {
+        "definition": "the effect that something has on the way a situation develops, especially when this causes problems",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This puts upward pressure on prices."
+          },
+          {
+            "cf": "",
+            "x": "The high unemployment rate was exerting downward pressure on wage growth."
+          },
+          {
+            "cf": "",
+            "x": "These measures are intended to relieve the pressure on the prison system."
+          },
+          {
+            "cf": "",
+            "x": "They raised the starting threshold for income tax to ease the pressure on family budgets."
+          }
+        ]
+      },
+      {
+        "definition": "the force of the atmosphere on the earth’s surface",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A band of high/low pressure is moving across the country."
+          }
+        ]
+      },
+      {
+        "definition": "to force or to try to persuade somebody to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Advertisements put pressure on girls to be thin."
+          }
+        ]
+      },
+      {
+        "definition": "if a liquid or a gas is kept under pressure, it is forced into a container so that when the container is opened, the liquid or gas escapes quickly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Draught beer is pumped out of the barrel under pressure."
+          }
+        ]
+      },
+      {
+        "definition": "being forced to do something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The director is under increasing pressure to resign."
+          },
+          {
+            "cf": "",
+            "x": "Hospital staff are coming under pressure to work longer hours."
+          }
+        ]
+      },
+      {
+        "definition": "made to feel anxious about something you have to do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The team performs well under pressure."
+          },
+          {
+            "cf": "",
+            "x": "He's felt under pressure since his wife had the operation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prevalence",
+    "level": "C1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preva/prevalence__gb_1.mp3",
+    "phonetic_text": "/ˈprevələns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preva/prevalence__us_1.mp3",
+    "phonetic_am_text": "/ˈprevələns/",
+    "senses": [
+      {
+        "definition": "the fact of existing or being very common at a particular time or in a particular place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an increase in the prevalence of obesity in many countries"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "level": "A2",
+    "category": "health",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preve/prevent__gb_1.mp3",
+    "phonetic_text": "/prɪˈvent/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preve/prevent__us_1.mp3",
+    "phonetic_am_text": "/prɪˈvent/",
+    "senses": [
+      {
+        "definition": "to stop somebody from doing something; to stop something from happening",
+        "examples": [
+          {
+            "cf": "prevent something/somebody",
+            "x": "The accident could have been prevented."
+          },
+          {
+            "cf": "",
+            "x": "Maddie would have joined the army if an injury had not prevented her. "
+          },
+          {
+            "cf": "",
+            "x": "The government took steps to prevent a scandal."
+          },
+          {
+            "cf": "prevent somebody/something from doing something",
+            "x": "He is prevented by law from holding a licence."
+          },
+          {
+            "cf": "",
+            "x": "Nothing would prevent him from speaking out against injustice."
+          },
+          {
+            "cf": "prevent somebody/something doing something",
+            "x": "Nothing would prevent him speaking out against injustice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prevention",
+    "level": "B1",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preve/prevention__gb_1.mp3",
+    "phonetic_text": "/prɪˈvenʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preve/prevention__us_1.mp3",
+    "phonetic_am_text": "/prɪˈvenʃn/",
+    "senses": [
+      {
+        "definition": "the act of stopping something bad from happening",
+        "examples": [
+          {
+            "cf": "",
+            "x": "accident/crime prevention"
+          },
+          {
+            "cf": "",
+            "x": "the prevention of disease"
+          },
+          {
+            "cf": "",
+            "x": "a fire prevention officer"
+          },
+          {
+            "cf": "",
+            "x": "a diabetes prevention programme"
+          }
+        ]
+      },
+      {
+        "definition": "it is better to stop something bad from happening rather than try to deal with the problems after it has happened",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Prevention is better than cure, so start looking after your heart now."
+          },
+          {
+            "cf": "",
+            "x": "Prevention is better than cure, so start taking care of yourself."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "protective",
+    "level": "B2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prote/protective__gb_2.mp3",
+    "phonetic_text": "/prəˈtektɪv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prote/protective__us_1.mp3",
+    "phonetic_am_text": "/prəˈtektɪv/",
+    "senses": [
+      {
+        "definition": "providing or intended to provide protection",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Workers should wear full protective clothing."
+          },
+          {
+            "cf": "",
+            "x": "a protective layer of varnish"
+          },
+          {
+            "cf": "",
+            "x": "The ozone layer forms a protective barrier against the sun's rays."
+          }
+        ]
+      },
+      {
+        "definition": "having or showing a wish to protect somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He put a protective arm around her shoulders."
+          },
+          {
+            "cf": "protective towards somebody/something",
+            "x": "She had been fiercely protective towards him as a teenager."
+          },
+          {
+            "cf": "protective of somebody/something",
+            "x": "He was extremely protective of his role as advisor."
+          }
+        ]
+      },
+      {
+        "definition": "intended to give an advantage to your own country’s industry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "protective tariffs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "protein",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prote/protein__gb_1.mp3",
+    "phonetic_text": "/ˈprəʊtiːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prote/protein__us_1.mp3",
+    "phonetic_am_text": "/ˈprəʊtiːn/",
+    "senses": [
+      {
+        "definition": "a substance, found within all living things, that forms the structure of muscles, organs, etc. There are many different proteins and they are an essential part of what humans and animals eat to help them grow and stay healthy.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "essential proteins and vitamins"
+          },
+          {
+            "cf": "",
+            "x": "protein deficiency"
+          },
+          {
+            "cf": "",
+            "x": "Peas, beans and lentils are a good source of vegetable protein."
+          },
+          {
+            "cf": "",
+            "x": "Gluten is a protein found in wheat and other grains."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychiatric",
+    "level": "C1",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychiatric__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkiˈætrɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychiatric__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkiˈætrɪk/",
+    "senses": [
+      {
+        "definition": "relating to psychiatry or to mental illnesses",
+        "examples": [
+          {
+            "cf": "",
+            "x": "psychiatric disorders"
+          },
+          {
+            "cf": "",
+            "x": "a psychiatric hospital/nurse/patient"
+          },
+          {
+            "cf": "",
+            "x": "psychiatric treatment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychological",
+    "level": "B2",
+    "category": "health",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychological__gb_1.mp3",
+    "phonetic_text": "/ˌsaɪkəˈlɒdʒɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychological__us_1.mp3",
+    "phonetic_am_text": "/ˌsaɪkəˈlɑːdʒɪkl/",
+    "senses": [
+      {
+        "definition": "connected with a person’s mind and the way in which it works",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the psychological development of children"
+          },
+          {
+            "cf": "",
+            "x": "Abuse can lead to both psychological and emotional problems."
+          },
+          {
+            "cf": "",
+            "x": "Her symptoms are more psychological than physical (= imaginary rather than real)."
+          },
+          {
+            "cf": "",
+            "x": "Victory in the last game gave them a psychological advantage over their opponents."
+          },
+          {
+            "cf": "",
+            "x": "a psychological novel (= one that examines the minds of the characters)"
+          }
+        ]
+      },
+      {
+        "definition": "connected with the study of psychology",
+        "examples": [
+          {
+            "cf": "",
+            "x": "psychological research"
+          },
+          {
+            "cf": "",
+            "x": "A psychological study of refugee children came up with some worrying results."
+          }
+        ]
+      },
+      {
+        "definition": "the best time to do something in order for it to be successful",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trick is in finding the (right) psychological moment to ask him for more money."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychologist",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychologist__gb_1.mp3",
+    "phonetic_text": "/saɪˈkɒlədʒɪst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychologist__us_1.mp3",
+    "phonetic_am_text": "/saɪˈkɑːlədʒɪst/",
+    "senses": [
+      {
+        "definition": "a scientist who studies and is trained in psychology",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to see a psychologist"
+          },
+          {
+            "cf": "",
+            "x": "to go to a psychologist"
+          },
+          {
+            "cf": "",
+            "x": "an educational psychologist"
+          },
+          {
+            "cf": "",
+            "x": "a clinical psychologist (= one who treats people with a mental illness)"
+          },
+          {
+            "cf": "",
+            "x": "I made an appointment with the school psychologist."
+          },
+          {
+            "cf": "",
+            "x": "a child psychologist"
+          },
+          {
+            "cf": "",
+            "x": "a sports psychologist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "psychology",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/psy/psych/psychology__gb_2.mp3",
+    "phonetic_text": "/saɪˈkɒlədʒi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/psy/psych/psychology__us_1.mp3",
+    "phonetic_am_text": "/saɪˈkɑːlədʒi/",
+    "senses": [
+      {
+        "definition": "the scientific study of the mind and how it influences behaviour",
+        "examples": [
+          {
+            "cf": "",
+            "x": "clinical/educational/child/sport psychology"
+          },
+          {
+            "cf": "",
+            "x": "Kevin has a master's degree in psychology."
+          },
+          {
+            "cf": "",
+            "x": "She's a professor of psychology at Harvard University."
+          }
+        ]
+      },
+      {
+        "definition": "the kind of mind that somebody has that makes them think or behave in a particular way",
+        "examples": [
+          {
+            "cf": "psychology of somebody",
+            "x": "the psychology of small boys"
+          },
+          {
+            "cf": "",
+            "x": "I help the actors understand the psychology of their characters."
+          },
+          {
+            "cf": "",
+            "x": "The answers we give will reflect our own psychology."
+          },
+          {
+            "cf": "",
+            "x": "Watching the shoppers at the sales gave her a first-hand insight into crowd psychology."
+          }
+        ]
+      },
+      {
+        "definition": "how the mind influences behaviour in a particular area of life",
+        "examples": [
+          {
+            "cf": "psychology of something",
+            "x": "the psychology of interpersonal relationships"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pulse",
+    "level": "B2",
+    "category": "health",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pul/pulse/pulse__gb_1.mp3",
+    "phonetic_text": "/pʌls/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pul/pulse/pulse__us_1.mp3",
+    "phonetic_am_text": "/pʌls/",
+    "senses": [
+      {
+        "definition": "the regular beat of the heart as it sends blood around the body, that can be felt in different places, especially on the inside part of the wrist; the number of times the heart beats in a minute",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a strong/weak pulse"
+          },
+          {
+            "cf": "",
+            "x": "an abnormally high pulse rate"
+          },
+          {
+            "cf": "",
+            "x": "The doctor took/felt my pulse."
+          },
+          {
+            "cf": "",
+            "x": "Fear sent her pulse racing (= made it beat very quickly)."
+          }
+        ]
+      },
+      {
+        "definition": "a strong regular beat in music",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the throbbing pulse of the drums"
+          }
+        ]
+      },
+      {
+        "definition": "a single short increase in the amount of light, sound or electricity produced by a machine, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "pulse waves"
+          },
+          {
+            "cf": "",
+            "x": "sound pulses"
+          }
+        ]
+      },
+      {
+        "definition": "the seeds of some plants that are eaten as food, such as peas and lentils",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Pulses are a good source of protein."
+          }
+        ]
+      },
+      {
+        "definition": "to always be aware of the most recent developments in a particular situation",
+        "examples": []
+      }
+    ]
+  }
+]

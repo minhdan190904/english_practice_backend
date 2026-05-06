@@ -1,0 +1,4469 @@
+[
+  {
+    "word": "access",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/access__gb_4.mp3",
+    "phonetic_text": "/ˈækses/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/access__us_2.mp3",
+    "phonetic_am_text": "/ˈækses/",
+    "senses": [
+      {
+        "definition": "the opportunity or right to use something or to see somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "High-speed internet access has become a necessity."
+          },
+          {
+            "cf": "access to something/somebody",
+            "x": "You need a password to get access to the computer system."
+          },
+          {
+            "cf": "",
+            "x": "access to information/services/resources"
+          },
+          {
+            "cf": "",
+            "x": "access to healthcare/education"
+          },
+          {
+            "cf": "",
+            "x": "They are seeking increased access to markets overseas."
+          },
+          {
+            "cf": "",
+            "x": "to provide/allow access to something/somebody"
+          },
+          {
+            "cf": "",
+            "x": "to restrict/block access to something/somebody"
+          },
+          {
+            "cf": "",
+            "x": "Journalists were denied access to the President."
+          },
+          {
+            "cf": "",
+            "x": "Many divorced fathers only have access to their children at weekends (= they are allowed by law to see them only at weekends)."
+          }
+        ]
+      },
+      {
+        "definition": "a way of entering or reaching a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police gained access through a broken window."
+          },
+          {
+            "cf": "",
+            "x": "Many paths have become overgrown, blocking access."
+          },
+          {
+            "cf": "",
+            "x": "There is easy access by road."
+          },
+          {
+            "cf": "access to something",
+            "x": "We welcome disabled visitors and there is wheelchair access to all parts of the park."
+          },
+          {
+            "cf": "",
+            "x": "The only access to the farmhouse is across the fields."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accessible",
+    "level": "B2",
+    "category": "technology",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/acces/accessible__gb_4.mp3",
+    "phonetic_text": "/əkˈsesəbl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/acces/accessible__us_1.mp3",
+    "phonetic_am_text": "/əkˈsesəbl/",
+    "senses": [
+      {
+        "definition": "that can be reached, entered, used, seen, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The remote desert area is accessible only by helicopter."
+          },
+          {
+            "cf": "accessible to somebody",
+            "x": "These documents are not accessible to the public."
+          }
+        ]
+      },
+      {
+        "definition": "that can be reached, entered, used, etc. by somebody who has problems walking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "accessible toilets for wheelchair users"
+          },
+          {
+            "cf": "",
+            "x": "The beach should be accessible to everyone."
+          }
+        ]
+      },
+      {
+        "definition": "easy to understand",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her poetry is always very accessible."
+          },
+          {
+            "cf": "accessible to somebody",
+            "x": "a programme making science more accessible to young people"
+          }
+        ]
+      },
+      {
+        "definition": "easy to talk to and to get to know",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "app",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/app/app__/app__gb_1.mp3",
+    "phonetic_text": "/æp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/app__/app__us_1.mp3",
+    "phonetic_am_text": "/æp/",
+    "senses": [
+      {
+        "definition": "a piece of software that you can download to a device such as a smartphone or tablet, for example to look up information or to play a game",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You first need to install the app on your device."
+          },
+          {
+            "cf": "",
+            "x": "to download/launch an app"
+          },
+          {
+            "cf": "",
+            "x": "to build/develop an app"
+          },
+          {
+            "cf": "",
+            "x": "Have you got the dictionary app on your phone?"
+          },
+          {
+            "cf": "",
+            "x": "Gaming today is all about mobile app downloads."
+          },
+          {
+            "cf": "",
+            "x": "app developers"
+          },
+          {
+            "cf": "",
+            "x": "The app is available on/in the app store."
+          }
+        ]
+      },
+      {
+        "definition": "a program designed to do a particular job; a piece of software",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a database app"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gaming",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gam/gamin/gaming__gb_2.mp3",
+    "phonetic_text": "/ˈɡeɪmɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gam/gamin/gaming__us_1.mp3",
+    "phonetic_am_text": "/ˈɡeɪmɪŋ/",
+    "senses": [
+      {
+        "definition": "playing video games",
+        "examples": [
+          {
+            "cf": "",
+            "x": "online/mobile/console gaming"
+          },
+          {
+            "cf": "",
+            "x": "With each new release, this video game has repeatedly transformed the world of gaming."
+          }
+        ]
+      },
+      {
+        "definition": "gambling (= the activity of playing games of chance for money and of betting on horses, etc.)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He spent all night at the gaming tables."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gear",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gea/gear_/gear__gb_1.mp3",
+    "phonetic_text": "/ɡɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gea/gear_/gear__us_1.mp3",
+    "phonetic_am_text": "/ɡɪr/",
+    "senses": [
+      {
+        "definition": "equipment in a vehicle that changes the relation between engine speed (or pedal speed on a bicycle) and the speed of the wheels moving forwards or backwards",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Careless use of the clutch may damage the gears."
+          },
+          {
+            "cf": "",
+            "x": "The car pulled up with a screech of brakes and a grinding of gears."
+          }
+        ]
+      },
+      {
+        "definition": "a particular position of the gears in a vehicle that gives a particular range of speed and power",
+        "examples": [
+          {
+            "cf": "",
+            "x": "first/second, etc. gear"
+          },
+          {
+            "cf": "",
+            "x": "reverse gear"
+          },
+          {
+            "cf": "",
+            "x": "low/high gear"
+          },
+          {
+            "cf": "",
+            "x": "bottom/top gear"
+          },
+          {
+            "cf": "",
+            "x": "to change gear"
+          },
+          {
+            "cf": "",
+            "x": "to shift gear"
+          },
+          {
+            "cf": "in gear",
+            "x": "When parking on a hill, leave the car in gear."
+          },
+          {
+            "cf": "",
+            "x": "What gear are you in?"
+          },
+          {
+            "cf": "",
+            "x": "He drove wildly, crashing through the gears like a maniac."
+          }
+        ]
+      },
+      {
+        "definition": "the equipment or clothing needed for a particular activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "climbing/fishing/sports gear"
+          }
+        ]
+      },
+      {
+        "definition": "clothes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her friends were all wearing the latest gear."
+          },
+          {
+            "cf": "",
+            "x": "She was the only one wearing expensive designer gear."
+          }
+        ]
+      },
+      {
+        "definition": "the things that a person owns",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've left all my gear at Dave's house."
+          }
+        ]
+      },
+      {
+        "definition": "a machine used for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "lifting/towing/winding gear"
+          }
+        ]
+      },
+      {
+        "definition": "used to talk about the speed or effort involved in doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The party organization is moving into top gear as the election approaches."
+          },
+          {
+            "cf": "",
+            "x": "to move into high gear"
+          },
+          {
+            "cf": "",
+            "x": "Coming out of the final bend, the runner stepped up a gear to overtake the rest of the pack."
+          },
+          {
+            "cf": "",
+            "x": "He found it hard to switch gears when he retired."
+          }
+        ]
+      },
+      {
+        "definition": "illegal drugs",
+        "examples": []
+      },
+      {
+        "definition": "a rude way of telling somebody to hurry",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If you get your ass in gear, we can make it out of here tonight."
+          }
+        ]
+      },
+      {
+        "definition": "to start working, or to start something working, in an efficient way",
+        "examples": []
+      },
+      {
+        "definition": "(to become) out of control",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She said nothing in case her temper slipped out of gear."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "generate",
+    "level": "B2",
+    "category": "technology",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gen/gener/generate__gb_3.mp3",
+    "phonetic_text": "/ˈdʒenəreɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gen/gener/generate__us_1.mp3",
+    "phonetic_am_text": "/ˈdʒenəreɪt/",
+    "senses": [
+      {
+        "definition": "to produce energy, especially electricity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The wind turbines are used to generate electricity."
+          },
+          {
+            "cf": "",
+            "x": "to generate heat/power"
+          },
+          {
+            "cf": "",
+            "x": "Living cells generate energy from food."
+          }
+        ]
+      },
+      {
+        "definition": "to produce or create something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to generate revenue/income/profit"
+          },
+          {
+            "cf": "",
+            "x": "We need someone to generate new ideas."
+          },
+          {
+            "cf": "",
+            "x": "The proposal has generated a lot of interest."
+          }
+        ]
+      },
+      {
+        "definition": "to produce a set or sequence of data by taking an initial set of data and applying a mathematical or logical process to it ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We generated 10 data sets, which we used to run each of the models."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "graphic",
+    "level": "B1",
+    "category": "technology",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/graph/graphic__gb_1.mp3",
+    "phonetic_text": "/ˈɡræfɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/graph/graphic__us_1.mp3",
+    "phonetic_am_text": "/ˈɡræfɪk/",
+    "senses": [
+      {
+        "definition": "connected with drawings and design, especially in the production of books, magazines, websites, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "graphic design"
+          },
+          {
+            "cf": "",
+            "x": "a graphic designer"
+          }
+        ]
+      },
+      {
+        "definition": "very clear and full of details, especially about something unpleasant",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a graphic account/description of a battle"
+          },
+          {
+            "cf": "",
+            "x": "He kept telling us about his operation, in the most graphic detail."
+          },
+          {
+            "cf": "",
+            "x": "This is a very graphic account of life in Victorian England."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "graphics",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/graph/graphics__gb_1.mp3",
+    "phonetic_text": "/ˈɡræfɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/graph/graphics__us_1.mp3",
+    "phonetic_am_text": "/ˈɡræfɪks/",
+    "senses": [
+      {
+        "definition": "designs, drawings or pictures that are used especially in the production of books, magazines, websites, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Text and graphics are prepared separately and then combined."
+          },
+          {
+            "cf": "",
+            "x": "The program can produce and manipulate text and graphics."
+          },
+          {
+            "cf": "",
+            "x": "The screen can display simple graphics as well as text."
+          }
+        ]
+      },
+      {
+        "definition": "the activity of making these designs, drawings or pictures or the use of these images",
+        "examples": [
+          {
+            "cf": "",
+            "x": "expertise in computer graphics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grid",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gri/grid_/grid__gb_1.mp3",
+    "phonetic_text": "/ɡrɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gri/grid_/grid__us_1.mp3",
+    "phonetic_am_text": "/ɡrɪd/",
+    "senses": [
+      {
+        "definition": "a pattern of straight lines, usually crossing each other to form squares",
+        "examples": [
+          {
+            "cf": "",
+            "x": "New York’s grid of streets"
+          }
+        ]
+      },
+      {
+        "definition": "a frame of metal or wooden bars that are parallel or cross each other",
+        "examples": []
+      },
+      {
+        "definition": "a pattern of squares on a map that are marked with letters or numbers to help you find the exact position of a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The grid reference is C8."
+          }
+        ]
+      },
+      {
+        "definition": "a system of electric wires or pipes carrying gas, for sending power over a large area",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the national grid (= the electricity supply in a country)"
+          },
+          {
+            "cf": "",
+            "x": "the development of the country’s electricity grid"
+          },
+          {
+            "cf": "",
+            "x": "Power can be fed from wind generators into the electricity grid system."
+          }
+        ]
+      },
+      {
+        "definition": "a pattern of lines marking the starting positions for the racing cars",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The 20-year-old didn't get the best of starts off the grid."
+          }
+        ]
+      },
+      {
+        "definition": "a number of computers that are linked together using the internet so that they can share power, data, etc. in order to work on difficult problems",
+        "examples": []
+      },
+      {
+        "definition": "not using the public supplies of electricity, gas, water, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The mountain cabin is entirely off the grid."
+          },
+          {
+            "cf": "",
+            "x": "You can produce your own power and live off the grid."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "keyboard",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/keybo/keyboard__gb_2.mp3",
+    "phonetic_text": "/ˈkiːbɔːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/keybo/keyboard__us_2.mp3",
+    "phonetic_am_text": "/ˈkiːbɔːrd/",
+    "senses": [
+      {
+        "definition": "the set of keys for operating a computer or typewriter, or the set of letters that you can touch to write on a smartphone or tablet ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The program locks the keyboard until a password is given."
+          },
+          {
+            "cf": "",
+            "x": "keyboard shortcuts"
+          }
+        ]
+      },
+      {
+        "definition": "the set of black and white keys on a piano or other musical instrument",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a piano keyboard"
+          }
+        ]
+      },
+      {
+        "definition": "an electronic musical instrument that has keys like a piano and can be made to play in different styles or to sound like different instruments",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She plays keyboard and guitar."
+          },
+          {
+            "cf": "on (a) keyboard",
+            "x": "He played the song on his keyboard."
+          },
+          {
+            "cf": "",
+            "x": "The recording features Herbie Hancock on keyboard."
+          },
+          {
+            "cf": "at a keyboard",
+            "x": "She sat down at the keyboard and started to play."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laptop",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lap/lapto/laptop__gb_1.mp3",
+    "phonetic_text": "/ˈlæptɒp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lap/lapto/laptop__us_1.mp3",
+    "phonetic_am_text": "/ˈlæptɑːp/",
+    "senses": [
+      {
+        "definition": "a small computer that can work with a battery and be easily carried",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I opened my laptop and started typing."
+          },
+          {
+            "cf": "on a laptop",
+            "x": "She was still working on her laptop."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "layout",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lay/layou/layout__gb_1.mp3",
+    "phonetic_text": "/ˈleɪaʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lay/layou/layout__us_1.mp3",
+    "phonetic_am_text": "/ˈleɪaʊt/",
+    "senses": [
+      {
+        "definition": "the way in which the parts of something such as the page of a book, a website, a garden or a building are arranged",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the layout of streets"
+          },
+          {
+            "cf": "",
+            "x": "the magazine’s attractive new page layout"
+          },
+          {
+            "cf": "",
+            "x": "There is no single correct layout for business letters."
+          },
+          {
+            "cf": "",
+            "x": "Are you familiar with the general layout of the hospital?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lin/link_/link__gb_2.mp3",
+    "phonetic_text": "/lɪŋk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lin/link_/link__us_1.mp3",
+    "phonetic_am_text": "/lɪŋk/",
+    "senses": [
+      {
+        "definition": "a connection between two or more people or things",
+        "examples": [
+          {
+            "cf": "link between A and B",
+            "x": "Police suspect there may be a link between the two murders."
+          },
+          {
+            "cf": "",
+            "x": "There is evidence for a strong causal link between exposure to sun and skin cancer."
+          },
+          {
+            "cf": "",
+            "x": "to establish/find a link"
+          },
+          {
+            "cf": "link with somebody/something",
+            "x": "These photographs are a direct link with the past."
+          },
+          {
+            "cf": "link to somebody/something",
+            "x": "Many of them had no previous links to terrorism."
+          }
+        ]
+      },
+      {
+        "definition": "a relationship between two or more people, countries or organizations",
+        "examples": [
+          {
+            "cf": "link with somebody/something",
+            "x": "to establish trade links with Asia"
+          },
+          {
+            "cf": "",
+            "x": "Producers are forging direct links with consumers."
+          },
+          {
+            "cf": "",
+            "x": "The department tries to maintain close links with industry."
+          },
+          {
+            "cf": "link between A and B",
+            "x": "Social workers provide a vital link between hospital and community."
+          },
+          {
+            "cf": "",
+            "x": "The agreement will strengthen the links between the two countries."
+          }
+        ]
+      },
+      {
+        "definition": "a means of travelling or communicating between two places",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a high-speed rail link"
+          },
+          {
+            "cf": "",
+            "x": "a video link"
+          },
+          {
+            "cf": "link between A and B",
+            "x": "The canal was an important transport link between England and Wales."
+          },
+          {
+            "cf": "link to something",
+            "x": "The driver has a radio link to base."
+          },
+          {
+            "cf": "link via something",
+            "x": "We're trying to establish a link via satellite."
+          },
+          {
+            "cf": "via a link",
+            "x": "The speech was broadcast via a satellite link."
+          }
+        ]
+      },
+      {
+        "definition": "a place in an electronic document that is connected to another electronic document or to another part of the same document",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You can find all the details by clicking this link."
+          },
+          {
+            "cf": "",
+            "x": "Follow the links to watch our exclusive trailer."
+          },
+          {
+            "cf": "link to something",
+            "x": "I've posted a link to the article, for those who are interested."
+          }
+        ]
+      },
+      {
+        "definition": "each ring of a chain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The chain was too long so I removed a few of the links."
+          }
+        ]
+      },
+      {
+        "definition": "a chain of long thin sausages; an individual long thin sausage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You need four Italian sausage links."
+          }
+        ]
+      },
+      {
+        "definition": "one of the stages in a process or a line of argument",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Food production, processing and marketing are different links in the chain from farmer to consumer."
+          },
+          {
+            "cf": "",
+            "x": "Death is the last link in the chain."
+          }
+        ]
+      },
+      {
+        "definition": "the point at which a system or an organization is most likely to fail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She went straight for the one weak link in the chain of his argument."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/log/log__/log__gb_1.mp3",
+    "phonetic_text": "/lɒɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/log/log__/log__us_1.mp3",
+    "phonetic_am_text": "/lɔːɡ/",
+    "senses": [
+      {
+        "definition": "a thick piece of wood that is cut from or has fallen from a tree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "logs for the fire"
+          }
+        ]
+      },
+      {
+        "definition": "an official record of events during a particular period of time, especially a journey on a ship or plane",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The captain keeps a log."
+          }
+        ]
+      },
+      {
+        "definition": "a written or digital record of activity on a computer or phone line ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I checked the server's error logs."
+          },
+          {
+            "cf": "",
+            "x": "The lawyers will review phone logs and other records."
+          }
+        ]
+      },
+      {
+        "definition": "a logarithm (= any of a series of numbers set out in lists that make it possible to work out problems by adding and subtracting instead of multiplying and dividing)",
+        "examples": []
+      },
+      {
+        "definition": "very easy or very easily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The whole procedure is as easy as ABC."
+          },
+          {
+            "cf": "",
+            "x": "Fooling him was as easy as falling off a log."
+          }
+        ]
+      },
+      {
+        "definition": "to sleep very well",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was so tired after all his exertions, he slept like a baby."
+          },
+          {
+            "cf": "",
+            "x": "I usually sleep like a log."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "loop",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/loo/loop_/loop__gb_1.mp3",
+    "phonetic_text": "/luːp/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/loo/loop_/loop__us_1.mp3",
+    "phonetic_am_text": "/luːp/",
+    "senses": [
+      {
+        "definition": "a shape like a curve or circle made by a line curving right round",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The road went in a huge loop around the lake."
+          },
+          {
+            "cf": "",
+            "x": "Duclair is a small town on a loop of the River Seine."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of rope, wire, etc. in the shape of a curve or circle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He tied a loop of rope around his arm."
+          },
+          {
+            "cf": "",
+            "x": "Make a loop in the string."
+          },
+          {
+            "cf": "",
+            "x": "a belt loop (= on trousers, etc. for holding a belt in place)"
+          }
+        ]
+      },
+      {
+        "definition": "a long, narrow piece of film or tape on which the pictures and sound are repeated continuously",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The film is on a loop."
+          },
+          {
+            "cf": "",
+            "x": "His mind kept turning in an endless loop."
+          }
+        ]
+      },
+      {
+        "definition": "a set of instructions that is repeated again and again until a particular condition is satisfied",
+        "examples": [
+          {
+            "cf": "",
+            "x": "positive and negative feedback loops"
+          }
+        ]
+      },
+      {
+        "definition": "a complete circuit for electrical current",
+        "examples": []
+      },
+      {
+        "definition": "a railway line or road that leaves the main track or road and then joins it again",
+        "examples": []
+      },
+      {
+        "definition": "the business centre of the US city of Chicago",
+        "examples": []
+      },
+      {
+        "definition": "part of a group of people that is dealing with something important; not part of this group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A lot of people want to be in the loop on this operation."
+          },
+          {
+            "cf": "",
+            "x": "Lawton had gradually been cut out of the loop on legal reviews."
+          }
+        ]
+      },
+      {
+        "definition": "to shock or surprise somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The result of the election knocked most people for a loop."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "machine",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mac/machi/machine__gb_1.mp3",
+    "phonetic_text": "/məˈʃiːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mac/machi/machine__us_1.mp3",
+    "phonetic_am_text": "/məˈʃiːn/",
+    "senses": [
+      {
+        "definition": "a piece of equipment with many parts that work together to do a particular task. The power used to work a machine may be electricity, steam, gas, etc. or human power.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Machines have replaced human labour in many industries."
+          },
+          {
+            "cf": "",
+            "x": "to operate/run a machine"
+          },
+          {
+            "cf": "",
+            "x": "How does this machine work?"
+          },
+          {
+            "cf": "",
+            "x": "a washing/sewing machine "
+          },
+          {
+            "cf": "",
+            "x": "a machine for making plastic toys"
+          },
+          {
+            "cf": "",
+            "x": "They have installed a new coffee machine in the staff room."
+          },
+          {
+            "cf": "",
+            "x": "to invent/design a machine"
+          },
+          {
+            "cf": "",
+            "x": "In the factory he oversees 14 teams of machine operators."
+          },
+          {
+            "cf": "by machine",
+            "x": "The potatoes are planted by machine."
+          }
+        ]
+      },
+      {
+        "definition": "a computer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The new machines will be shipped next month."
+          },
+          {
+            "cf": "",
+            "x": "We build machines that process data."
+          },
+          {
+            "cf": "",
+            "x": "All machines are connected online to reach specialists in Germany."
+          }
+        ]
+      },
+      {
+        "definition": "a particular machine, for example in the home, when you do not refer to it by its full name",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Just put those clothes in the machine (= the washing machine)."
+          },
+          {
+            "cf": "",
+            "x": "Is the machine working again?"
+          }
+        ]
+      },
+      {
+        "definition": "an organized system for achieving something and the people who control it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the president’s propaganda machine"
+          },
+          {
+            "cf": "",
+            "x": "He played the Republican political machine to get himself into power."
+          },
+          {
+            "cf": "",
+            "x": "These years saw a massive growth in the US military machine."
+          },
+          {
+            "cf": "",
+            "x": "Hollywood’s slick public relations machine has produced a new improved model of a young movie star."
+          }
+        ]
+      },
+      {
+        "definition": "a person who acts without thinking and without allowing their feelings to show or to affect their work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In this movie he plays a lean, mean killing machine."
+          },
+          {
+            "cf": "",
+            "x": "She was the perfect fighting machine with a total disregard for her own personal safety."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is a small part of a large organization",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "machinery",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mac/machi/machinery__gb_1.mp3",
+    "phonetic_text": "/məˈʃiːnəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mac/machi/machinery__us_1.mp3",
+    "phonetic_am_text": "/məˈʃiːnəri/",
+    "senses": [
+      {
+        "definition": "machines as a group, especially large ones",
+        "examples": [
+          {
+            "cf": "",
+            "x": "agricultural/industrial machinery"
+          },
+          {
+            "cf": "",
+            "x": "a piece of machinery"
+          }
+        ]
+      },
+      {
+        "definition": "the parts of a machine that make it work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a clock with all its machinery hanging out"
+          }
+        ]
+      },
+      {
+        "definition": "the organization or structure of something; the system for doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the machinery of government"
+          },
+          {
+            "cf": "",
+            "x": "They are faced with the task of dismantling the state machinery in order to create more democratic structures."
+          },
+          {
+            "cf": "machinery for doing something",
+            "x": "There is no machinery for resolving disputes."
+          },
+          {
+            "cf": "",
+            "x": "The bumblebee has developed complex machinery for collecting pollen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mechanical",
+    "level": "B2",
+    "category": "technology",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mec/mecha/mechanical__gb_3.mp3",
+    "phonetic_text": "/məˈkænɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mec/mecha/mechanical__us_1.mp3",
+    "phonetic_am_text": "/məˈkænɪkl/",
+    "senses": [
+      {
+        "definition": "operated by power from an engine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mechanical device/toy/clock"
+          },
+          {
+            "cf": "",
+            "x": "mechanical parts"
+          }
+        ]
+      },
+      {
+        "definition": "relating to machines and engines",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mechanical problems/defects"
+          },
+          {
+            "cf": "",
+            "x": "The breakdown was due to a mechanical failure."
+          }
+        ]
+      },
+      {
+        "definition": "done without thinking, like a machine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mechanical gesture/response"
+          },
+          {
+            "cf": "",
+            "x": "My work has become mechanical—I could do it in my sleep."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the physical laws of movement and cause and effect (= with mechanics)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mechanical processes"
+          }
+        ]
+      },
+      {
+        "definition": "good at understanding how machines work",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "message",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mes/messa/message__gb_1.mp3",
+    "phonetic_text": "/ˈmesɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mes/messa/message__us_1.mp3",
+    "phonetic_am_text": "/ˈmesɪdʒ/",
+    "senses": [
+      {
+        "definition": "a written or spoken piece of information, etc. that you send to somebody or leave for somebody when you cannot speak to them yourself",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There were no messages for me at the hotel."
+          },
+          {
+            "cf": "",
+            "x": "I never got your message."
+          },
+          {
+            "cf": "",
+            "x": "We've had an urgent message saying that your father's ill."
+          },
+          {
+            "cf": "",
+            "x": "Jenny's not here at the moment. Can I take a message?"
+          },
+          {
+            "cf": "",
+            "x": "I left a message on her voicemail."
+          },
+          {
+            "cf": "",
+            "x": "I've been trying to get you all day—don't you ever listen to your messages?"
+          },
+          {
+            "cf": "message (from somebody) (to somebody)",
+            "x": "Messages of support have been arriving from all over the country."
+          },
+          {
+            "cf": "",
+            "x": "a televised message from the president to the American people"
+          },
+          {
+            "cf": "",
+            "x": "A radio message was sent out to all ships in the area."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of information sent in electronic form, for example by email or mobile phone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an email/a text/an SMS message"
+          },
+          {
+            "cf": "",
+            "x": "There were four messages in my inbox."
+          },
+          {
+            "cf": "",
+            "x": "He sent me a message."
+          },
+          {
+            "cf": "",
+            "x": "I turned on my cell phone to check my messages."
+          },
+          {
+            "cf": "",
+            "x": "Fans post messages on her website."
+          },
+          {
+            "cf": "",
+            "x": "I keep getting an error message when I try to connect to the internet."
+          }
+        ]
+      },
+      {
+        "definition": "an important moral, social or political idea that a book, speech, etc. is trying to communicate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a film with a strong religious message"
+          },
+          {
+            "cf": "",
+            "x": "The campaign is trying to get the message across to young people that drugs are dangerous."
+          },
+          {
+            "cf": "",
+            "x": "The clear message coming from the government is that they are getting tough on crime."
+          },
+          {
+            "cf": "",
+            "x": "I think this movie sends the wrong message to her young fans."
+          },
+          {
+            "cf": "",
+            "x": "He uses his art to convey a political message."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of information that is sent from the brain to a part of the body, or from a part of the body to the brain",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The message arrives in your brain in a fraction of a second."
+          }
+        ]
+      },
+      {
+        "definition": "shopping",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to do the messages"
+          },
+          {
+            "cf": "",
+            "x": "to go for the messages"
+          },
+          {
+            "cf": "",
+            "x": "You can leave your messages (= the things that you have bought) here."
+          }
+        ]
+      },
+      {
+        "definition": "to understand what somebody is trying to tell you indirectly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "When he started looking at his watch, I got the message and left."
+          }
+        ]
+      },
+      {
+        "definition": "stating/not stating the official view of the political party or organization you represent",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mobile",
+    "level": "A2",
+    "category": "technology",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mob/mobil/mobile__gb_1.mp3",
+    "phonetic_text": "/ˈməʊbaɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mob/mobil/mobile__us_7.mp3",
+    "phonetic_am_text": "/ˈməʊbl/",
+    "senses": [
+      {
+        "definition": "connected with mobile phones, tablets, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What's your mobile number?"
+          },
+          {
+            "cf": "",
+            "x": "Mobile users spent 35 per cent more time on their devices this year."
+          },
+          {
+            "cf": "",
+            "x": "mobile apps aimed at children"
+          },
+          {
+            "cf": "",
+            "x": "mobile networks/operators (= companies that provide mobile phone services)"
+          },
+          {
+            "cf": "",
+            "x": "mobile platforms/operating systems"
+          },
+          {
+            "cf": "",
+            "x": "mobile technology/broadband"
+          },
+          {
+            "cf": "",
+            "x": "mobile gaming/banking"
+          },
+          {
+            "cf": "",
+            "x": "The mobile market has continued to grow."
+          },
+          {
+            "cf": "",
+            "x": "Many companies have tried to push mobile payment services."
+          }
+        ]
+      },
+      {
+        "definition": "that is not fixed in one place and can be moved easily and quickly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mobile equipment"
+          },
+          {
+            "cf": "",
+            "x": "a mobile clinic/shop/library (= one inside a vehicle)"
+          },
+          {
+            "cf": "",
+            "x": "a mobile police unit"
+          },
+          {
+            "cf": "",
+            "x": "The barbecue is fully mobile."
+          }
+        ]
+      },
+      {
+        "definition": "able to move or travel around easily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a kitchen especially designed for people who are less mobile"
+          },
+          {
+            "cf": "",
+            "x": "You really need to be mobile (= have a car) if you live in the country."
+          },
+          {
+            "cf": "",
+            "x": "I've sprained my ankle but I'm still fairly mobile."
+          },
+          {
+            "cf": "",
+            "x": "Yoga will help you to become more mobile and supple."
+          }
+        ]
+      },
+      {
+        "definition": "able to change your social class, your job or the place where you live easily",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a highly mobile workforce (= people who can move easily from place to place)"
+          },
+          {
+            "cf": "",
+            "x": "a geographically mobile population"
+          },
+          {
+            "cf": "",
+            "x": "We have become an increasingly mobile society."
+          },
+          {
+            "cf": "",
+            "x": "They were mobile, lived in one area for a short time and roamed widely to obtain resources."
+          },
+          {
+            "cf": "",
+            "x": "Meanwhile, skilled workers can be as mobile as capital."
+          }
+        ]
+      },
+      {
+        "definition": "changing shape or expression easily and often",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His mobile features registered amusement."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mode",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/mode_/mode__gb_1.mp3",
+    "phonetic_text": "/məʊd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/mode_/mode__us_1.mp3",
+    "phonetic_am_text": "/məʊd/",
+    "senses": [
+      {
+        "definition": "a particular way of doing something; a particular type of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mode of communication"
+          },
+          {
+            "cf": "",
+            "x": "a mode of behaviour"
+          },
+          {
+            "cf": "",
+            "x": "environment-friendly modes of transport"
+          }
+        ]
+      },
+      {
+        "definition": "the way in which a piece of equipment is set to perform a particular task",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Switch the camera into the automatic mode."
+          },
+          {
+            "cf": "",
+            "x": "You can also use this computer game in two-player mode."
+          }
+        ]
+      },
+      {
+        "definition": "a particular way of feeling or behaving",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to be in holiday mode"
+          }
+        ]
+      },
+      {
+        "definition": "a particular style or fashion in clothes, art, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pop video made by a director who really understands the mode"
+          }
+        ]
+      },
+      {
+        "definition": "a set of notes in music that form a scale",
+        "examples": [
+          {
+            "cf": "",
+            "x": "major/minor mode"
+          }
+        ]
+      },
+      {
+        "definition": "the value that appears most frequently in a series of numbers",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "model",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/model/model__gb_2.mp3",
+    "phonetic_text": "/ˈmɒdl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/model/model__us_2.mp3",
+    "phonetic_am_text": "/ˈmɑːdl/",
+    "senses": [
+      {
+        "definition": "a copy of something, usually smaller than the original object",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a working model (= one in which the parts move) of a fire engine"
+          },
+          {
+            "cf": "",
+            "x": "I used to build model aeroplanes."
+          },
+          {
+            "cf": "",
+            "x": "The architect had produced a scale model of the proposed shopping complex."
+          }
+        ]
+      },
+      {
+        "definition": "something such as a text or a system that can be used as an example for other people to copy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Look at the writing model on page 58."
+          },
+          {
+            "cf": "",
+            "x": "a model text/essay"
+          },
+          {
+            "cf": "",
+            "x": "The nation's constitution provided a model that other countries followed."
+          },
+          {
+            "cf": "",
+            "x": "Different funding models are used in schools."
+          }
+        ]
+      },
+      {
+        "definition": "a person or thing that is considered an excellent example of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was a model of clarity."
+          },
+          {
+            "cf": "",
+            "x": "He's a model student."
+          },
+          {
+            "cf": "",
+            "x": "a model farm (= one that has been specially designed to work well)"
+          }
+        ]
+      },
+      {
+        "definition": "a person whose job is to wear and show new styles of clothes and be photographed wearing them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She had a successful career as a fashion model."
+          },
+          {
+            "cf": "",
+            "x": "He was a former male model who became a movie star."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is employed to be painted, drawn, photographed, etc. by an artist or photographer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The model sits for me for three hours every day."
+          }
+        ]
+      },
+      {
+        "definition": "a particular design or type of product",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The latest models will be on display at the motor show."
+          }
+        ]
+      },
+      {
+        "definition": "a way of running a business, based on a particular way of getting the money you need and identifying and reaching your customers; a type of business model",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They may abandon the traditional cooperative model."
+          },
+          {
+            "cf": "under a… model",
+            "x": "Under a subscription model, consumers will typically pay a monthly fee to access the online library."
+          }
+        ]
+      },
+      {
+        "definition": "a simple description of a system, used for explaining how something works or calculating what might happen, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the standard economic model of supply and demand"
+          },
+          {
+            "cf": "",
+            "x": "to propose/construct/test a model"
+          },
+          {
+            "cf": "",
+            "x": "She developed a computer model to help farmers with pest control."
+          },
+          {
+            "cf": "",
+            "x": "a mathematical model for determining the safe level of pesticides in food"
+          },
+          {
+            "cf": "according to a model",
+            "x": "According to this model, by the middle of the century temperatures will rise by 1–3℃."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "modification",
+    "level": "C1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/modif/modification__gb_2.mp3",
+    "phonetic_text": "/ˌmɒdɪfɪˈkeɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/modif/modification__us_1.mp3",
+    "phonetic_am_text": "/ˌmɑːdɪfɪˈkeɪʃn/",
+    "senses": [
+      {
+        "definition": "the act or process of changing something in order to improve it or make it more acceptable; a change that is made",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Considerable modification of the existing system is needed."
+          },
+          {
+            "cf": "",
+            "x": "It might be necessary to make a few slight modifications to the design."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "modify",
+    "level": "B2",
+    "category": "technology",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mod/modif/modify__gb_1.mp3",
+    "phonetic_text": "/ˈmɒdɪfaɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mod/modif/modify__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːdɪfaɪ/",
+    "senses": [
+      {
+        "definition": "to change something slightly, especially in order to make it more suitable for a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Patients are taught how to modify their diet."
+          },
+          {
+            "cf": "",
+            "x": "We found it cheaper to modify existing equipment rather than buy new."
+          },
+          {
+            "cf": "",
+            "x": "The software we use has been modified for us."
+          },
+          {
+            "cf": "",
+            "x": "The law has been significantly modified since that ruling."
+          },
+          {
+            "cf": "",
+            "x": "heavily/highly modified"
+          },
+          {
+            "cf": "",
+            "x": "A modified version of my article was published in the newspaper."
+          },
+          {
+            "cf": "",
+            "x": "Permissions are arranged so that you can't delete or modify files."
+          }
+        ]
+      },
+      {
+        "definition": "to make something less extreme",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She refused to modify her behaviour."
+          },
+          {
+            "cf": "",
+            "x": "He listened to the arguments and modified his view of the party."
+          },
+          {
+            "cf": "",
+            "x": "The social worker at first aimed to get Mrs R to modify her behaviour, without success."
+          }
+        ]
+      },
+      {
+        "definition": "a word, such as an adjective or adverb, that modifies another word or group of words describes it or limits its meaning in some way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In ‘walk slowly’, the adverb ‘slowly’ modifies the verb ‘walk’."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "monitor",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mon/monit/monitor__gb_3.mp3",
+    "phonetic_text": "/ˈmɒnɪtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monit/monitor__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːnɪtər/",
+    "senses": [
+      {
+        "definition": "a screen that shows information from a computer; a television screen used to show particular kinds of information",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The details of today's flights are displayed on the monitor."
+          },
+          {
+            "cf": "",
+            "x": "The pages are designed to be viewed on a computer monitor."
+          },
+          {
+            "cf": "",
+            "x": "We included the costs of monitor, keyboard, mouse and speakers."
+          },
+          {
+            "cf": "",
+            "x": "The security staff can see all the outside of the building on their CCTV monitors."
+          },
+          {
+            "cf": "",
+            "x": "the display quality on LCD monitors has greatly improved."
+          },
+          {
+            "cf": "",
+            "x": "The laboratory is replete with banks of video monitors."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of equipment used to check or record something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was lying there hooked up to a heart monitor."
+          },
+          {
+            "cf": "",
+            "x": " Mia kept a two-way baby monitor in the living room so Harry's cries could be heard."
+          },
+          {
+            "cf": "",
+            "x": "A nurse checked his monitor for changes in ECG rhythms, pulse and oxygen saturation."
+          },
+          {
+            "cf": "",
+            "x": "The heart monitor shows the strength of your pulse."
+          }
+        ]
+      },
+      {
+        "definition": "a person whose job is to check that something is done fairly and honestly, especially in a foreign country",
+        "examples": [
+          {
+            "cf": "",
+            "x": "UN monitors declared the referendum fair."
+          },
+          {
+            "cf": "",
+            "x": "The EU has agreed to provide monitors for the crossing."
+          },
+          {
+            "cf": "",
+            "x": "Monitors or observers help to build trust between the two sides."
+          }
+        ]
+      },
+      {
+        "definition": "a student in a school who performs special duties, such as helping the teacher",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He was a star pupil and the class monitor."
+          }
+        ]
+      },
+      {
+        "definition": "a large tropical lizard (= a type of reptile)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A large monitor lizard, prehistoric in its beauty, stared at us. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mou/mouse/mouse__gb_3.mp3",
+    "phonetic_text": "/maʊs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mouse/mouse__us_1.mp3",
+    "phonetic_am_text": "/maʊs/",
+    "senses": [
+      {
+        "definition": "a small animal that is covered in fur and has a long thin tail. Mice live in fields, in people’s houses or where food is stored.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a house mouse"
+          },
+          {
+            "cf": "",
+            "x": "The stores were overrun with rats and mice."
+          },
+          {
+            "cf": "",
+            "x": "She crept upstairs, quiet as a mouse."
+          },
+          {
+            "cf": "",
+            "x": "He was a shy little mouse."
+          }
+        ]
+      },
+      {
+        "definition": "a small device that is moved by hand across a surface to control the movement of the cursor on a computer screen",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Use the mouse to drag the icon to a new position."
+          },
+          {
+            "cf": "",
+            "x": "I prefer a wireless mouse."
+          },
+          {
+            "cf": "",
+            "x": "The keyboard and mouse are wireless devices."
+          },
+          {
+            "cf": "",
+            "x": "Click the left mouse button twice to highlight the program."
+          },
+          {
+            "cf": "",
+            "x": "With simple mouse clicks, the viewer can navigate the room."
+          }
+        ]
+      },
+      {
+        "definition": "to play a cruel game with somebody in your power by changing your behaviour very often, so that they become nervous and do not know what to expect",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He thought the police were playing some elaborate game of cat and mouse and waiting to trap him."
+          },
+          {
+            "cf": "",
+            "x": "Young car thieves enjoy playing cat and mouse with the police."
+          }
+        ]
+      },
+      {
+        "definition": "people enjoy themselves more and behave with greater freedom when the person in charge of them is not there",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/net/netwo/network__gb_2.mp3",
+    "phonetic_text": "/ˈnetwɜːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/net/netwo/network__us_1.mp3",
+    "phonetic_am_text": "/ˈnetwɜːrk/",
+    "senses": [
+      {
+        "definition": "a complicated system of roads, lines, tubes, nerves, etc. that are connected to each other and operate together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a rail/road/canal network"
+          },
+          {
+            "cf": "",
+            "x": "The new rail services will form a network connecting the capital and major cities."
+          },
+          {
+            "cf": "",
+            "x": "Europe's mobile phone networks are controlled by five dominant players."
+          },
+          {
+            "cf": "network of something",
+            "x": "a network of veins"
+          },
+          {
+            "cf": "",
+            "x": "an extensive network of underground tunnels"
+          }
+        ]
+      },
+      {
+        "definition": "a closely connected group of people, companies, etc. that exchange information, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They have one of the most efficient distribution networks in Europe."
+          },
+          {
+            "cf": "",
+            "x": "These corporations control TV, radio and global communications networks."
+          },
+          {
+            "cf": "",
+            "x": "to build/create/develop a network"
+          },
+          {
+            "cf": "network of somebody/something",
+            "x": "She has a supportive network of close friends."
+          },
+          {
+            "cf": "",
+            "x": "Expand your network of contacts beyond your usual circles."
+          }
+        ]
+      },
+      {
+        "definition": "a number of computers and other devices that are connected together so that equipment and information can be shared",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The office network allows users to share files and software, and to use a central printer."
+          },
+          {
+            "cf": "across/over/via a network",
+            "x": "Users can access data across a network."
+          },
+          {
+            "cf": "",
+            "x": "The files are accessible over a network."
+          },
+          {
+            "cf": "",
+            "x": "You can print and scan from your device via a wireless network."
+          }
+        ]
+      },
+      {
+        "definition": "a group of radio or television stations in different places that are connected and that broadcast the same programmes at the same time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the four big US television networks"
+          },
+          {
+            "cf": "",
+            "x": "The report was broadcast across several radio networks."
+          },
+          {
+            "cf": "",
+            "x": "The show was first aired on the cable network Showtime."
+          },
+          {
+            "cf": "network of something",
+            "x": "He's chairman of a network of radio stations."
+          }
+        ]
+      },
+      {
+        "definition": "the situation in many British companies, government departments and branches of the armed forces where people give jobs to former students of the school or university that they went to ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Recruiting staff used to be done by means of the old boy network."
+          },
+          {
+            "cf": "",
+            "x": "Most of the managers were chosen by the old boy network and many of them turned out to be incompetent."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "news",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/news_/news__gb_2.mp3",
+    "phonetic_text": "/njuːz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/news_/news__us_1.mp3",
+    "phonetic_am_text": "/nuːz/",
+    "senses": [
+      {
+        "definition": "new information about something that has happened recently",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What's the latest news?"
+          },
+          {
+            "cf": "",
+            "x": "Have you heard the news? Pat's leaving!"
+          },
+          {
+            "cf": "",
+            "x": "That's great news."
+          },
+          {
+            "cf": "",
+            "x": "Tell me all your news."
+          },
+          {
+            "cf": "",
+            "x": "Do you want the good news or the bad news first?"
+          },
+          {
+            "cf": "",
+            "x": "saddened/shocked/surprised by the news"
+          },
+          {
+            "cf": "",
+            "x": "Here's a piece of news that may interest you."
+          },
+          {
+            "cf": "",
+            "x": "We've had a bit of good news."
+          },
+          {
+            "cf": "news of somebody/something",
+            "x": "Have you had any news of Patrick?"
+          },
+          {
+            "cf": "news on something",
+            "x": "Any news on the deal?"
+          },
+          {
+            "cf": "news about somebody/something",
+            "x": "He gave me some news about the office move."
+          },
+          {
+            "cf": "news that…",
+            "x": "Messengers brought news that the battle had been lost."
+          },
+          {
+            "cf": "",
+            "x": "It's news to me (= I haven't heard it before)."
+          }
+        ]
+      },
+      {
+        "definition": "reports of recent events that appear in newspapers or on television, radio or the internet",
+        "examples": [
+          {
+            "cf": "",
+            "x": "national/international/local news"
+          },
+          {
+            "cf": "",
+            "x": "a news story/item/report"
+          },
+          {
+            "cf": "",
+            "x": "a TV/radio news bulletin"
+          },
+          {
+            "cf": "",
+            "x": "news media/coverage"
+          },
+          {
+            "cf": "",
+            "x": "You can catch all the latest news on our website."
+          },
+          {
+            "cf": "",
+            "x": "The wedding was front-page news."
+          },
+          {
+            "cf": "news of something",
+            "x": "News of a serious road accident is just coming in."
+          },
+          {
+            "cf": "news on something",
+            "x": "Is there any news on the car bomb attack?"
+          },
+          {
+            "cf": "news about somebody/something",
+            "x": "I'm not interested in news about celebrities."
+          },
+          {
+            "cf": "in the news",
+            "x": "She is always in the news."
+          }
+        ]
+      },
+      {
+        "definition": "a regular television or radio broadcast of the latest news",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to listen to/watch the news"
+          },
+          {
+            "cf": "",
+            "x": "Can you put the news on?"
+          },
+          {
+            "cf": "",
+            "x": "the ten o’clock news"
+          },
+          {
+            "cf": "on the news",
+            "x": "I saw it on the news."
+          }
+        ]
+      },
+      {
+        "definition": "a person, thing or event that is considered to be interesting enough to be reported as news",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Pop stars are always news."
+          }
+        ]
+      },
+      {
+        "definition": "to be likely to cause problems",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Central heating is bad news for indoor plants."
+          }
+        ]
+      },
+      {
+        "definition": "to be likely to be helpful or give an advantage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The cut in interest rates is good news for homeowners."
+          },
+          {
+            "cf": "",
+            "x": "The good news is that there's still plenty of money available."
+          }
+        ]
+      },
+      {
+        "definition": "to be the first to tell somebody some bad news",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's no easy way to break the news."
+          },
+          {
+            "cf": "",
+            "x": "The police had to break the news to the boy's parents."
+          }
+        ]
+      },
+      {
+        "definition": "if there were bad news we would hear it, so as we have heard nothing, it is likely that nothing bad has happened",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I still haven't heard anything about the job, but no news is good news."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "newsletter",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/newsl/newsletter__gb_1.mp3",
+    "phonetic_text": "/ˈnjuːzletə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/newsl/newsletter__us_1.mp3",
+    "phonetic_am_text": "/ˈnuːzletər/",
+    "senses": [
+      {
+        "definition": "a report containing news of the activities of a club or organization that is sent regularly to all its members",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Our sailing club produces a monthly newsletter."
+          },
+          {
+            "cf": "",
+            "x": "a church newsletter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "newspaper",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/new/newsp/newspaper__gb_1.mp3",
+    "phonetic_text": "/ˈnjuːzpeɪpə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/new/newsp/newspaper__us_1.mp3",
+    "phonetic_am_text": "/ˈnuːzpeɪpər/",
+    "senses": [
+      {
+        "definition": "a set of large printed sheets of paper, or a website, containing news, articles, advertisements, etc. and published every day or every week; the organization responsible for producing this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a daily/weekly newspaper"
+          },
+          {
+            "cf": "",
+            "x": "a local/national newspaper"
+          },
+          {
+            "cf": "",
+            "x": "an online newspaper"
+          },
+          {
+            "cf": "",
+            "x": "a tabloid/broadsheet newspaper"
+          },
+          {
+            "cf": "",
+            "x": "a newspaper article/report/headline"
+          },
+          {
+            "cf": "",
+            "x": "a newspaper cutting/clipping"
+          },
+          {
+            "cf": "",
+            "x": "a newspaper editor/reporter/columnist"
+          },
+          {
+            "cf": "",
+            "x": "newspapers and news websites"
+          },
+          {
+            "cf": "",
+            "x": "British newspapers and their websites carried no photos of the event."
+          },
+          {
+            "cf": "",
+            "x": "Which newspaper do you read?"
+          },
+          {
+            "cf": "",
+            "x": "to publish/own/print a newspaper"
+          },
+          {
+            "cf": "",
+            "x": "The newspaper reported on Friday that the boy had been found."
+          },
+          {
+            "cf": "in the newspaper",
+            "x": "I read about it in the newspaper."
+          },
+          {
+            "cf": "according to the newspaper",
+            "x": "The company is considering up to 4000 job losses, according to The Times newspaper."
+          },
+          {
+            "cf": "",
+            "x": "She works for the local newspaper (= the company that produces it)."
+          }
+        ]
+      },
+      {
+        "definition": "paper taken from old newspapers",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wrap all your glasses in newspaper."
+          },
+          {
+            "cf": "",
+            "x": "Use old newspaper to wipe windows clean and dry."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "notify",
+    "level": "B2",
+    "category": "technology",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notif/notify__gb_1.mp3",
+    "phonetic_text": "/ˈnəʊtɪfaɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notif/notify__us_1.mp3",
+    "phonetic_am_text": "/ˈnəʊtɪfaɪ/",
+    "senses": [
+      {
+        "definition": "to formally or officially tell somebody about something",
+        "examples": [
+          {
+            "cf": "notify somebody",
+            "x": "Competition winners will be notified by post."
+          },
+          {
+            "cf": "",
+            "x": "You must notify us in writing if you wish to cancel your subscription."
+          },
+          {
+            "cf": "notify somebody of something",
+            "x": "The police must be notified of the date of the demonstration."
+          },
+          {
+            "cf": "notify something to somebody",
+            "x": "The date of the demonstration must be notified to the police."
+          },
+          {
+            "cf": "notify somebody that…",
+            "x": "Members have been notified that there will be a small increase in the fee."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "panel",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pan/panel/panel__gb_2.mp3",
+    "phonetic_text": "/ˈpænl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pan/panel/panel__us_1.mp3",
+    "phonetic_am_text": "/ˈpænl/",
+    "senses": [
+      {
+        "definition": "a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall",
+        "examples": [
+          {
+            "cf": "",
+            "x": "One of the glass panels in the front door was cracked."
+          },
+          {
+            "cf": "",
+            "x": "wooden fence panels"
+          },
+          {
+            "cf": "",
+            "x": "The central panel depicts St George."
+          },
+          {
+            "cf": "",
+            "x": "You need to remove the roof panel to remove the side panels."
+          }
+        ]
+      },
+      {
+        "definition": "a flat board in a vehicle or on a machine where the controls and instruments are fixed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an instrument/a display panel"
+          },
+          {
+            "cf": "",
+            "x": "A red light flashed on the control panel."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of metal that forms part of the outer frame of a vehicle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A rear body panel needed replacing after the accident."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of cloth that forms part of a piece of clothing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trousers have double thickness knee panels for extra protection."
+          }
+        ]
+      },
+      {
+        "definition": "a group of specialists who give their advice or opinion about something; a group of people who discuss topics of interest on television or radio",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an advisory panel"
+          },
+          {
+            "cf": "",
+            "x": " a judging panel"
+          },
+          {
+            "cf": "",
+            "x": "a panel of experts/judges"
+          },
+          {
+            "cf": "on a panel",
+            "x": "We have two politicians on tonight's panel."
+          },
+          {
+            "cf": "",
+            "x": "a panel discussion"
+          },
+          {
+            "cf": "",
+            "x": "The budget increase was recommended by an independent panel."
+          },
+          {
+            "cf": "",
+            "x": "She is a member of the medical advisory panel."
+          },
+          {
+            "cf": "",
+            "x": "The interview panel wants/want to find out as much as possible about each candidate's abilities."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "parameter",
+    "level": "C1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/param/parameter__gb_1.mp3",
+    "phonetic_text": "/pəˈræmɪtə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/param/parameter__us_1.mp3",
+    "phonetic_am_text": "/pəˈræmɪtər/",
+    "senses": [
+      {
+        "definition": "something that decides or limits the way in which something can be done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to set/define the parameters"
+          },
+          {
+            "cf": "",
+            "x": "We had to work within the parameters that had already been established."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "password",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pas/passw/password__gb_1.mp3",
+    "phonetic_text": "/ˈpɑːswɜːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/passw/password__us_1.mp3",
+    "phonetic_am_text": "/ˈpæswɜːrd/",
+    "senses": [
+      {
+        "definition": "a series of letters, numbers, etc. that you must type into a computer or computer system in order to be able to use it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Enter a username and password to get into the system."
+          }
+        ]
+      },
+      {
+        "definition": "a secret word or phrase that you need to know in order to be allowed into a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You must give the password before they'll let you in."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "patch",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/patch/patch__gb_1.mp3",
+    "phonetic_text": "/pætʃ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/patch/patch__us_1.mp3",
+    "phonetic_am_text": "/pætʃ/",
+    "senses": [
+      {
+        "definition": "a small area of something, especially one which is different from the area around it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a black dog with a white patch on its back"
+          },
+          {
+            "cf": "",
+            "x": "a bald patch on the top of his head"
+          },
+          {
+            "cf": "",
+            "x": "damp patches on the wall"
+          },
+          {
+            "cf": "",
+            "x": "patches of dense fog"
+          },
+          {
+            "cf": "",
+            "x": "We sat in a patch of shade under a tree."
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of material that is used to cover a hole in something or to make a weak area stronger, or as decoration",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I sewed patches on the knees of my jeans."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of material that you wear over an eye, usually because the eye is damaged",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He had a black patch over one eye."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of material that you sew onto clothes as part of a uniform",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He wears a patch from his employer, Verizon."
+          },
+          {
+            "cf": "",
+            "x": "It has a UPS patch sewn on the right shoulder."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of material that people can wear on their skin to help them to stop smoking",
+        "examples": [
+          {
+            "cf": "",
+            "x": "nicotine patches"
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of land, especially one used for growing vegetables or fruit",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a vegetable patch"
+          },
+          {
+            "cf": "",
+            "x": "We had a strawberry patch beside the greenhouse."
+          }
+        ]
+      },
+      {
+        "definition": "an area that somebody works in, knows well or comes from",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He knows every house in his patch."
+          },
+          {
+            "cf": "",
+            "x": "She has had a lot of success in her home patch."
+          }
+        ]
+      },
+      {
+        "definition": "a period of time of the type mentioned, usually a difficult or unhappy one",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go through a bad/difficult/sticky patch"
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of code (= instructions that a computer can understand) which can be added to a computer program to improve it or to correct a fault",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Follow the instructions below to download and install the patch."
+          },
+          {
+            "cf": "",
+            "x": "Update and apply all security patches to your browser, as soon as possible."
+          }
+        ]
+      },
+      {
+        "definition": "to be much less good, attractive, etc. than somebody/something else",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This book isn’t a patch on her others."
+          },
+          {
+            "cf": "",
+            "x": "Shop-bought jam is not a patch on home-made."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "phone",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pho/phone/phone__gb_2.mp3",
+    "phonetic_text": "/fəʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/phone/phone__us_1.mp3",
+    "phonetic_am_text": "/fəʊn/",
+    "senses": [
+      {
+        "definition": "a piece of equipment for talking to people who are not in the same place as you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I have to make a phone call."
+          },
+          {
+            "cf": "",
+            "x": "The phone rang and Pat answered it."
+          },
+          {
+            "cf": "",
+            "x": "Can someone answer the phone?"
+          },
+          {
+            "cf": "",
+            "x": "I hadn't got my phone with me."
+          },
+          {
+            "cf": "",
+            "x": "Please switch off your phones before the show begins."
+          },
+          {
+            "cf": "",
+            "x": "a phone conversation/interview"
+          },
+          {
+            "cf": "",
+            "x": "Here is our list of top new phone apps."
+          }
+        ]
+      },
+      {
+        "definition": "the system for talking to somebody else using a phone",
+        "examples": [
+          {
+            "cf": "by phone",
+            "x": "They like to do business by phone."
+          },
+          {
+            "cf": "on the phone",
+            "x": "I talk to my family on the phone."
+          },
+          {
+            "cf": "over the phone",
+            "x": "I can't talk about this over the phone."
+          },
+          {
+            "cf": "",
+            "x": "a phone bill"
+          },
+          {
+            "cf": "",
+            "x": "They want to put up a new phone mast next to the school."
+          },
+          {
+            "cf": "",
+            "x": "Most people only need one phone line. "
+          }
+        ]
+      },
+      {
+        "definition": "the part of a landline phone that you hold in your hand and speak into",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to pick up the phone"
+          },
+          {
+            "cf": "",
+            "x": "to put the phone down"
+          },
+          {
+            "cf": "",
+            "x": "to take the phone off the hook (= so that no one can call)"
+          }
+        ]
+      },
+      {
+        "definition": "an instrument that uses or makes sound",
+        "examples": [
+          {
+            "cf": "",
+            "x": "dictaphone"
+          },
+          {
+            "cf": "",
+            "x": "xylophone"
+          }
+        ]
+      },
+      {
+        "definition": "speaking a particular language; a person who does this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "anglophone"
+          },
+          {
+            "cf": "",
+            "x": "francophone"
+          }
+        ]
+      },
+      {
+        "definition": "a sound made in speech, especially when not considered as part of the sound system of a particular language",
+        "examples": []
+      },
+      {
+        "definition": "to be using the phone",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's been on the phone to Kate for more than an hour."
+          },
+          {
+            "cf": "",
+            "x": "She's on the phone at the moment."
+          }
+        ]
+      },
+      {
+        "definition": "to have a phone in your home or place of work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They're not on the phone at the holiday cottage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "photo",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pho/photo/photo__gb_2.mp3",
+    "phonetic_text": "/ˈfəʊtəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/photo/photo__us_1.mp3",
+    "phonetic_am_text": "/ˈfəʊtəʊ/",
+    "senses": [
+      {
+        "definition": "a picture that is made by using a camera that stores images in digital form or that has a film sensitive to light inside it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a colour/black-and-white photo"
+          },
+          {
+            "cf": "",
+            "x": "wedding/family photos"
+          },
+          {
+            "cf": "",
+            "x": "your passport/profile photo"
+          },
+          {
+            "cf": "",
+            "x": "a group photo of the class"
+          },
+          {
+            "cf": "",
+            "x": "I'll take a photo of you."
+          },
+          {
+            "cf": "",
+            "x": "Fans snapped photos of the event."
+          },
+          {
+            "cf": "",
+            "x": "She posted a photo of the two of them on her Facebook page."
+          },
+          {
+            "cf": "",
+            "x": "The actor shared a photo on Instagram."
+          },
+          {
+            "cf": "",
+            "x": "I've uploaded my holiday photos."
+          },
+          {
+            "cf": "",
+            "x": "to send/tweet a photo"
+          },
+          {
+            "cf": "",
+            "x": "to release/publish a photo"
+          },
+          {
+            "cf": "",
+            "x": "Visit the photo gallery on our website to see pictures from the event."
+          },
+          {
+            "cf": "",
+            "x": "a photo album (= a book for keeping your photos in)"
+          },
+          {
+            "cf": "",
+            "x": "a photo-sharing website"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "photograph",
+    "level": "A1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pho/photo/photograph__gb_1.mp3",
+    "phonetic_text": "/ˈfəʊtəɡrɑːf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/photo/photograph__us_2.mp3",
+    "phonetic_am_text": "/ˈfəʊtəɡræf/",
+    "senses": [
+      {
+        "definition": "a picture that is made by using a camera that stores images in digital form or that has a film sensitive to light inside it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "aerial photographs of the crash site "
+          },
+          {
+            "cf": "",
+            "x": "colour/black-and-white photographs"
+          },
+          {
+            "cf": "",
+            "x": "an exhibition of photographs by Annie Liebowitz"
+          },
+          {
+            "cf": "",
+            "x": "a framed photograph of her grandchildren"
+          },
+          {
+            "cf": "",
+            "x": "His photograph appeared in the local paper."
+          },
+          {
+            "cf": "",
+            "x": "Please enclose a recent passport-sized photograph of yourself."
+          },
+          {
+            "cf": "",
+            "x": "I spent the day taking photographs of the city."
+          },
+          {
+            "cf": "",
+            "x": "to post/upload a photograph"
+          },
+          {
+            "cf": "",
+            "x": "to publish/release a photograph"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "platform",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pla/platf/platform__gb_1.mp3",
+    "phonetic_text": "/ˈplætfɔːm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/platf/platform__us_1.mp3",
+    "phonetic_am_text": "/ˈplætfɔːrm/",
+    "senses": [
+      {
+        "definition": "the raised flat area next to the track at a train station where you get on or off the train",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What platform does it go from?"
+          },
+          {
+            "cf": "",
+            "x": "The train now standing at platform 1 is for Leeds."
+          },
+          {
+            "cf": "",
+            "x": "The train drew into the platform."
+          },
+          {
+            "cf": "",
+            "x": "The couple met on a train platform. "
+          }
+        ]
+      },
+      {
+        "definition": "a flat surface raised above the level of the ground or floor, used by public speakers or performers so that the audience can see them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Coming onto the platform now is tonight's conductor, Jane Glover."
+          },
+          {
+            "cf": "",
+            "x": "Representatives of both parties shared a platform (= they spoke at the same meeting)."
+          }
+        ]
+      },
+      {
+        "definition": "a raised level surface, for example one that equipment stands on or is operated from",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an oil/gas platform "
+          },
+          {
+            "cf": "",
+            "x": "a viewing platform giving stunning views over the valley"
+          },
+          {
+            "cf": "",
+            "x": "a launch platform (= for spacecraft)"
+          },
+          {
+            "cf": "",
+            "x": "The table and chairs were on a raised platform. "
+          }
+        ]
+      },
+      {
+        "definition": "the type of computer system or the software that is used",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a multimedia platform"
+          },
+          {
+            "cf": "",
+            "x": "a mobile gaming platform"
+          },
+          {
+            "cf": "",
+            "x": "The prevalence of smartphones has resulted in the migration of company information to mobile platforms. "
+          }
+        ]
+      },
+      {
+        "definition": "the aims of a political party and the things that they say they will do if they are elected to power",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They are campaigning on an anti-immigration platform."
+          },
+          {
+            "cf": "",
+            "x": "They fought the election on a platform of low taxes."
+          }
+        ]
+      },
+      {
+        "definition": "an opportunity or a place for somebody to express their opinions publicly or make progress in a particular area",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She used the newspaper column as a platform for her feminist views."
+          }
+        ]
+      },
+      {
+        "definition": "a type of shoe with a high, thick sole; the sole on such a shoe",
+        "examples": [
+          {
+            "cf": "",
+            "x": "platform shoes"
+          }
+        ]
+      },
+      {
+        "definition": "the open part at the back of a double-decker bus where you get on or off",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "plug",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/plu/plug_/plug__gb_1.mp3",
+    "phonetic_text": "/plʌɡ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/plu/plug_/plug__us_1.mp3",
+    "phonetic_am_text": "/plʌɡ/",
+    "senses": [
+      {
+        "definition": "a small plastic object with two or three metal pins that connects a piece of electrical equipment to the main supply of electricity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The iron is fitted with a three-pin plug."
+          },
+          {
+            "cf": "",
+            "x": "I'll have to change the plug on my hairdryer."
+          }
+        ]
+      },
+      {
+        "definition": "a small opening in a wall, by which you connect a piece of electrical equipment to the main supply of electricity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Can I use this plug for my iron?"
+          }
+        ]
+      },
+      {
+        "definition": "a small object that connects a wire from one piece of electrical equipment to an opening in another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the plug from the computer to the printer"
+          },
+          {
+            "cf": "",
+            "x": "I pushed the jack plug into the amp."
+          }
+        ]
+      },
+      {
+        "definition": "a part in a car engine that produces a spark (= a flash of electricity) which makes the fuel burn and starts the engine",
+        "examples": []
+      },
+      {
+        "definition": "a thick round piece of plastic, rubber or metal that you put in the hole in a bath or a sink to stop the water flowing out",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She pulled out the plug and let the water drain away."
+          },
+          {
+            "cf": "",
+            "x": "There was plenty of hot water, but there was no bath plug."
+          }
+        ]
+      },
+      {
+        "definition": "a round piece of material that fits into a hole and blocks it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She took the plug of cotton wool from her ear."
+          },
+          {
+            "cf": "",
+            "x": "We fixed the leak with a plug made from an old cloth."
+          }
+        ]
+      },
+      {
+        "definition": "an object that fits into the top of a bottle to close it",
+        "examples": []
+      },
+      {
+        "definition": "a small plastic tube that you put into a hole in a wall so that it will hold a screw",
+        "examples": []
+      },
+      {
+        "definition": "praise or attention that somebody gives to a new book, film, etc. in order to encourage people to buy or see it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He managed to get in a plug for his new book."
+          }
+        ]
+      },
+      {
+        "definition": "to put an end to somebody’s project, a plan, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The television company pulled the plug on the series after only five episodes."
+          },
+          {
+            "cf": "",
+            "x": "They decided to pull the plug on the project."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pos/post_/post__gb_1.mp3",
+    "phonetic_text": "/pəʊst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pos/post_/post__us_1.mp3",
+    "phonetic_am_text": "/pəʊst/",
+    "senses": [
+      {
+        "definition": "the official system used for sending and delivering letters, packages, etc.",
+        "examples": [
+          {
+            "cf": "by post",
+            "x": "I'll send the original to you by post."
+          },
+          {
+            "cf": "",
+            "x": "I sent it by first-class post."
+          },
+          {
+            "cf": "in the post",
+            "x": "I'll put the documents in the post to you tomorrow."
+          },
+          {
+            "cf": "",
+            "x": "My application got lost in the post."
+          }
+        ]
+      },
+      {
+        "definition": "letters, packages, etc. that are sent and delivered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There was a lot of post this morning."
+          },
+          {
+            "cf": "",
+            "x": "Have you opened your post yet?"
+          }
+        ]
+      },
+      {
+        "definition": "an occasion during the day when letters, etc. are collected or delivered",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to catch/miss the post"
+          },
+          {
+            "cf": "in the post",
+            "x": "The parcel came in this morning's post."
+          },
+          {
+            "cf": "",
+            "x": "The form should arrive in the post tomorrow."
+          },
+          {
+            "cf": "",
+            "x": "Payment should be sent by return of post (= immediately)."
+          },
+          {
+            "cf": "",
+            "x": "Do you get a second post here?"
+          }
+        ]
+      },
+      {
+        "definition": "a message sent to a discussion group on the internet; a piece of writing that forms part of a blog ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I love reading her posts because I learn so much."
+          },
+          {
+            "cf": "",
+            "x": "They have deleted all my posts."
+          },
+          {
+            "cf": "post about somebody/something",
+            "x": "She wrote a post about the experience on her blog."
+          },
+          {
+            "cf": "post by somebody",
+            "x": "This post by Mark Brady is very interesting."
+          },
+          {
+            "cf": "post from somebody",
+            "x": "The forum does not allow posts from non-members."
+          }
+        ]
+      },
+      {
+        "definition": "a job, especially an important one in a large organization",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an academic/a government post"
+          },
+          {
+            "cf": "",
+            "x": "She took up a teaching post at Basle University."
+          },
+          {
+            "cf": "",
+            "x": "to resign (from)/quit/leave a post"
+          },
+          {
+            "cf": "",
+            "x": "We will be creating 15 new posts next year."
+          },
+          {
+            "cf": "",
+            "x": "The company has been unable to fill the post."
+          },
+          {
+            "cf": "",
+            "x": "He has held the post for three years."
+          },
+          {
+            "cf": "",
+            "x": "She was offered a key post in the new government."
+          },
+          {
+            "cf": "post of something",
+            "x": "He accepted the post of deputy prime minister."
+          }
+        ]
+      },
+      {
+        "definition": "an act of sending somebody to a particular place to do their job, especially for a limited period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an overseas post"
+          },
+          {
+            "cf": "",
+            "x": "The island is rated by diplomats as a hardship post (= one that people do not like to be sent to because it is not a very comfortable place to live)."
+          }
+        ]
+      },
+      {
+        "definition": "the place where somebody, especially a soldier, does their job",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a police/military/customs post"
+          },
+          {
+            "cf": "",
+            "x": "an observation post"
+          },
+          {
+            "cf": "",
+            "x": "Three soldiers were shot dead at a border post."
+          },
+          {
+            "cf": "",
+            "x": "The guards were ordered not to leave their posts."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of wood or metal that is set in the ground in a position pointing upwards, especially to support something or to mark a point",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She tied the dog to a post."
+          },
+          {
+            "cf": "",
+            "x": "corner posts (= that mark the corners of a sports field)"
+          },
+          {
+            "cf": "",
+            "x": "The team’s ‘net’ was a piece of string tied to two posts."
+          }
+        ]
+      },
+      {
+        "definition": "the place where a race finishes, especially in horse racing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The first horse past the post wins the race."
+          },
+          {
+            "cf": "",
+            "x": "She led for most of the way before being pipped at the post (= beaten at the last moment)."
+          }
+        ]
+      },
+      {
+        "definition": "one of the two posts that form part of a goal",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The ball hit the post and bounced in."
+          },
+          {
+            "cf": "",
+            "x": "He steered a shot between the goalkeeper and the near post."
+          }
+        ]
+      },
+      {
+        "definition": "to be forced to go from one person or situation to another without achieving anything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Morale is very low. People have just had enough of being thrown from pillar to post."
+          }
+        ]
+      },
+      {
+        "definition": "very deaf (= unable to hear anything)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "press",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/press/press__gb_1.mp3",
+    "phonetic_text": "/pres/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/press/press__us_1.mp3",
+    "phonetic_am_text": "/pres/",
+    "senses": [
+      {
+        "definition": "newspapers and magazines",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the local/national/foreign press"
+          },
+          {
+            "cf": "",
+            "x": "the popular/tabloid press (= newspapers with a lot of pictures and stories about famous people)"
+          },
+          {
+            "cf": "",
+            "x": "the music/sporting press (= newspapers and magazines about music/sport)"
+          },
+          {
+            "cf": "",
+            "x": "The mainstream press is/are ignoring this story."
+          },
+          {
+            "cf": "",
+            "x": "Unlike the American, the British press operates on a national scale."
+          },
+          {
+            "cf": "in the press",
+            "x": "The case has been widely reported in the press."
+          },
+          {
+            "cf": "",
+            "x": "the freedom of the Press/press freedom (= the freedom to report any events and express opinions)"
+          },
+          {
+            "cf": "",
+            "x": "The event is bound to attract wide press coverage (= it will be written about in many newspapers)."
+          },
+          {
+            "cf": "",
+            "x": "According to French press reports, three people have been killed."
+          },
+          {
+            "cf": "",
+            "x": "a White House press briefing"
+          }
+        ]
+      },
+      {
+        "definition": "the journalists and photographers who work for newspapers and magazines",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The Press was/were not allowed to attend the trial."
+          },
+          {
+            "cf": "",
+            "x": "She has been harassed by the press, who desperately need a story."
+          },
+          {
+            "cf": "",
+            "x": "He told the press that there had been ‘further progress’."
+          },
+          {
+            "cf": "",
+            "x": "She told them not to talk to the press."
+          }
+        ]
+      },
+      {
+        "definition": "the type or amount of reports that newspapers write about somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The airline has had a bad press recently (= journalists have written unpleasant things about it)."
+          },
+          {
+            "cf": "",
+            "x": "The demonstration got very little press."
+          },
+          {
+            "cf": "",
+            "x": "His latest novel didn't get (a) very good press (= was not praised in the media)."
+          }
+        ]
+      },
+      {
+        "definition": "a machine for printing books, newspapers, etc.; the process of printing them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were able to watch the books rolling off the presses."
+          },
+          {
+            "cf": "",
+            "x": "These prices are correct at the time of going to press."
+          },
+          {
+            "cf": "",
+            "x": "a story that is hot off the press (= has just appeared in the newspapers)"
+          }
+        ]
+      },
+      {
+        "definition": "a business that prints and publishes books",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Oxford University Press"
+          }
+        ]
+      },
+      {
+        "definition": "a piece of equipment that is used for creating pressure on things, to make them flat or to get liquid from them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a trouser press"
+          },
+          {
+            "cf": "",
+            "x": "an olive press"
+          }
+        ]
+      },
+      {
+        "definition": "an act of pushing something with your hand or with a tool that you are holding",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He gave the bell another press."
+          },
+          {
+            "cf": "",
+            "x": "Those shirts need a press (= with an iron)."
+          }
+        ]
+      },
+      {
+        "definition": "a large number of people or things competing for space or movement",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the press of bodies all moving the same way"
+          },
+          {
+            "cf": "",
+            "x": "Among the press of cars he glimpsed a taxi."
+          }
+        ]
+      },
+      {
+        "definition": "a large cupboard, usually with shelves, for holding clothes, books, etc.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "print",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pri/print/print__gb_1.mp3",
+    "phonetic_text": "/prɪnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/print/print__us_1.mp3",
+    "phonetic_am_text": "/prɪnt/",
+    "senses": [
+      {
+        "definition": "letters, words, numbers, etc. that have been printed onto paper",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The tiny print was hard to read without my glasses."
+          },
+          {
+            "cf": "in… print",
+            "x": "in large/bold print "
+          },
+          {
+            "cf": "",
+            "x": "The terms of delivery appear at the bottom of the invoice in small print."
+          },
+          {
+            "cf": "",
+            "x": "The print quality of the new laser printer is superb."
+          },
+          {
+            "cf": "",
+            "x": "the print edition/version of the dictionary"
+          },
+          {
+            "cf": "",
+            "x": "television and print ads"
+          }
+        ]
+      },
+      {
+        "definition": "used to refer to the business of producing newspapers, magazines and books",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the print media"
+          },
+          {
+            "cf": "",
+            "x": "print unions"
+          }
+        ]
+      },
+      {
+        "definition": "a mark left by your finger, foot, etc. on the surface of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His prints were found on the gun."
+          },
+          {
+            "cf": "",
+            "x": "There were paw prints everywhere."
+          }
+        ]
+      },
+      {
+        "definition": "a picture that is cut into wood or metal then covered with ink (= coloured liquid for printing, drawing, etc.) and printed onto paper; a picture that is copied from a painting using photography",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a framed set of prints"
+          },
+          {
+            "cf": "",
+            "x": "a Renoir print"
+          }
+        ]
+      },
+      {
+        "definition": "a photograph produced from film",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How many sets of prints would you like?"
+          },
+          {
+            "cf": "",
+            "x": "a colour print"
+          }
+        ]
+      },
+      {
+        "definition": "cotton cloth that has a pattern printed on it; this pattern",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a cotton print dress"
+          },
+          {
+            "cf": "",
+            "x": "a floral print"
+          }
+        ]
+      },
+      {
+        "definition": "to be published",
+        "examples": [
+          {
+            "cf": "",
+            "x": "By the time this gets into print, they'll already have left the country."
+          }
+        ]
+      },
+      {
+        "definition": "still available from the company that publishes it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Is this edition still in print?"
+          }
+        ]
+      },
+      {
+        "definition": "printed in a book, newspaper, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was the first time he had seen his name in print."
+          }
+        ]
+      },
+      {
+        "definition": "no longer available from the company that publishes it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her first novel is now out of print."
+          },
+          {
+            "cf": "",
+            "x": "The shop specializes in out-of-print books."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "printer",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pri/print/printer__gb_2.mp3",
+    "phonetic_text": "/ˈprɪntə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/print/printer__us_2.mp3",
+    "phonetic_am_text": "/ˈprɪntər/",
+    "senses": [
+      {
+        "definition": "a machine for printing text on paper, especially one connected to a computer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a colour printer"
+          },
+          {
+            "cf": "",
+            "x": "a printer cartridge"
+          }
+        ]
+      },
+      {
+        "definition": "a person or a company whose job is printing books, etc.",
+        "examples": []
+      },
+      {
+        "definition": "a place where books, etc. are printed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "printing",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pri/print/printing__gb_1.mp3",
+    "phonetic_text": "/ˈprɪntɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/print/printing__us_1.mp3",
+    "phonetic_am_text": "/ˈprɪntɪŋ/",
+    "senses": [
+      {
+        "definition": "the act of producing letters, pictures, patterns, etc. on something by pressing a surface covered with ink (= coloured liquid for printing, drawing, etc.) against it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the invention of printing"
+          },
+          {
+            "cf": "",
+            "x": "colour printing"
+          },
+          {
+            "cf": "",
+            "x": "a printing business/firm"
+          },
+          {
+            "cf": "",
+            "x": "the printing industry/trade"
+          },
+          {
+            "cf": "",
+            "x": "production and printing costs"
+          },
+          {
+            "cf": "",
+            "x": "They used 108 different printing characters."
+          }
+        ]
+      },
+      {
+        "definition": "the act of printing a number of copies of a book at one time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The book is in its sixth printing."
+          }
+        ]
+      },
+      {
+        "definition": "a type of writing when you write all the letters separately and do not join them together",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "processing",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proce/processing__gb_1.mp3",
+    "phonetic_text": "/ˈprəʊsesɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proce/processing__us_1.mp3",
+    "phonetic_am_text": "/ˈprɑːsesɪŋ/",
+    "senses": [
+      {
+        "definition": "the treatment of raw material, food, etc. in order to change it, preserve it, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the food processing industry"
+          },
+          {
+            "cf": "",
+            "x": "a sewage processing plant"
+          }
+        ]
+      },
+      {
+        "definition": "the process of dealing officially with a document, request, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "errors in the processing of financial transactions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "processor",
+    "level": "B2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proce/processor__gb_1.mp3",
+    "phonetic_text": "/ˈprəʊsesə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proce/processor__us_1.mp3",
+    "phonetic_am_text": "/ˈprɑːsesər/",
+    "senses": [
+      {
+        "definition": "a machine, person or company that processes things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The company is Ireland's largest dairy processor."
+          }
+        ]
+      },
+      {
+        "definition": "a part of a computer that controls all the other parts of the system",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "profile",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/profi/profile__gb_1.mp3",
+    "phonetic_text": "/ˈprəʊfaɪl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/profi/profile__us_2.mp3",
+    "phonetic_am_text": "/ˈprəʊfaɪl/",
+    "senses": [
+      {
+        "definition": "a description of somebody/something that gives useful information",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We first build up a detailed profile of our customers and their requirements."
+          },
+          {
+            "cf": "",
+            "x": "You can update your Facebook profile (= your description of yourself on a social media website)."
+          },
+          {
+            "cf": "",
+            "x": "He fits the profile of the killer."
+          },
+          {
+            "cf": "",
+            "x": "The magazine published a short profile of the new mayor."
+          },
+          {
+            "cf": "",
+            "x": "a job/employee profile"
+          },
+          {
+            "cf": "",
+            "x": "His psychological profile is revealing."
+          }
+        ]
+      },
+      {
+        "definition": "the general impression that somebody/something gives to the public and the amount of attention they receive",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her popularity has done great things for the profile of the sport."
+          },
+          {
+            "cf": "",
+            "x": "The deal will certainly raise the company's international profile."
+          },
+          {
+            "cf": "",
+            "x": "We want to improve the profile of women’s health issues."
+          },
+          {
+            "cf": "",
+            "x": "a campaign to boost the profile of the city as a cultural leader"
+          }
+        ]
+      },
+      {
+        "definition": "the outline of a person’s face when you look from the side, not the front",
+        "examples": [
+          {
+            "cf": "",
+            "x": "his strong profile"
+          },
+          {
+            "cf": "",
+            "x": "She presented her best profile to the camera."
+          },
+          {
+            "cf": "in profile",
+            "x": "a picture of the president in profile"
+          }
+        ]
+      },
+      {
+        "definition": "the edge or outline of something that you see against a background",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the profile of the tower against the sky"
+          }
+        ]
+      },
+      {
+        "definition": "the amount of attention somebody/something has from the public",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This issue has had a high profile in recent months."
+          },
+          {
+            "cf": "",
+            "x": "I advised her to keep a low profile for the next few days (= not to attract attention)."
+          },
+          {
+            "cf": "",
+            "x": "The story was given a low profile in today's papers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "program",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/progr/programme__gb_2.mp3",
+    "phonetic_text": "/ˈprəʊɡræm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/progr/program__us_1.mp3",
+    "phonetic_am_text": "/ˈprəʊɡræm/",
+    "senses": [
+      {
+        "definition": "a set of instructions in code that control the operations or functions of a computer",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You'll need to download and install the program on your computer."
+          },
+          {
+            "cf": "",
+            "x": "To run the program, simply click the icon."
+          },
+          {
+            "cf": "",
+            "x": "She uses a computer program to produce these maps."
+          }
+        ]
+      },
+      {
+        "definition": "something that people watch on television or listen to on the radio",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a TV/television/radio program"
+          },
+          {
+            "cf": "",
+            "x": "a news program"
+          },
+          {
+            "cf": "program on something",
+            "x": "Did you see that program on India last night?"
+          },
+          {
+            "cf": "program about something",
+            "x": "I watched a program about volcanoes."
+          }
+        ]
+      },
+      {
+        "definition": "a plan of things that will be done or included in the development of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the country's nuclear weapons/space program"
+          },
+          {
+            "cf": "",
+            "x": "We have recently launched a research program."
+          },
+          {
+            "cf": "",
+            "x": "Talk with your family doctor about developing a weight-loss program."
+          },
+          {
+            "cf": "program for somebody",
+            "x": "a training program for new staff members"
+          },
+          {
+            "cf": "",
+            "x": "The museum runs an art education program for inner-city children."
+          },
+          {
+            "cf": "",
+            "x": "Our centers offer training programs designed for all types of athletes."
+          },
+          {
+            "cf": "program of something",
+            "x": "The government is implementing a program of reform."
+          },
+          {
+            "cf": "program to do something",
+            "x": "The college has initiated a program to improve student retention."
+          }
+        ]
+      },
+      {
+        "definition": "a course of study",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a school/an educational program"
+          },
+          {
+            "cf": "",
+            "x": "a teacher education program"
+          },
+          {
+            "cf": "",
+            "x": "The college offers a wide variety of programs of study."
+          },
+          {
+            "cf": "program in something",
+            "x": "The department has launched a new program in creative writing."
+          },
+          {
+            "cf": "",
+            "x": "She enrolled in a Master's program in American history."
+          }
+        ]
+      },
+      {
+        "definition": "an organized order of performances or events",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The concert is the highlight of the festival's musical program."
+          },
+          {
+            "cf": "program of something",
+            "x": "a week-long program of lectures"
+          },
+          {
+            "cf": "",
+            "x": "We're planning an exciting program of events."
+          },
+          {
+            "cf": "",
+            "x": "What's the program for (= what are we planning to do) tomorrow?"
+          }
+        ]
+      },
+      {
+        "definition": "a thin book or piece of paper that gives you information about a play, a concert, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a theater program"
+          },
+          {
+            "cf": "",
+            "x": "Her name doesn't appear in the concert program."
+          }
+        ]
+      },
+      {
+        "definition": "a series of actions done by a machine, such as a washing machine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Select a cool program for woolen clothes."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody that they should change their attitude and do what they are supposed to be doing",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "programme",
+    "level": "A2",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/progr/programme__gb_2.mp3",
+    "phonetic_text": "/ˈprəʊɡræm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/progr/programme__us_1.mp3",
+    "phonetic_am_text": "/ˈprəʊɡræm/",
+    "senses": [
+      {
+        "definition": "something that people watch on television or listen to on the radio",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a news programme"
+          },
+          {
+            "cf": "",
+            "x": "a TV/television/radio programme"
+          },
+          {
+            "cf": "",
+            "x": "What time is that programme on?"
+          },
+          {
+            "cf": "programme about something",
+            "x": "I watched a programme about volcanoes."
+          },
+          {
+            "cf": "programme on something",
+            "x": "Did you see that programme on India last night?"
+          },
+          {
+            "cf": "",
+            "x": "a programme on BBC1"
+          }
+        ]
+      },
+      {
+        "definition": "a plan of things that will be done or included in the development of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the country's nuclear weapons/space programme"
+          },
+          {
+            "cf": "",
+            "x": "We have recently launched a research programme."
+          },
+          {
+            "cf": "",
+            "x": "The zoo runs several breeding programmes."
+          },
+          {
+            "cf": "programme for somebody",
+            "x": "a training programme for new staff"
+          },
+          {
+            "cf": "",
+            "x": "Our centres offer training programmes designed for all types of athletes."
+          },
+          {
+            "cf": "programme of something",
+            "x": "The government is implementing a programme of reform."
+          },
+          {
+            "cf": "programme to do something",
+            "x": "The college has initiated a programme to improve student retention."
+          }
+        ]
+      },
+      {
+        "definition": "a course of study",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a school/an educational programme"
+          },
+          {
+            "cf": "",
+            "x": "The college offers a wide variety of programmes of study."
+          },
+          {
+            "cf": "programme in something",
+            "x": "She enrolled in a Master's programme in American history."
+          }
+        ]
+      },
+      {
+        "definition": "an organized order of performances or events",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The concert is the highlight of the festival's musical programme."
+          },
+          {
+            "cf": "programme of something",
+            "x": "a week-long programme of lectures"
+          },
+          {
+            "cf": "",
+            "x": "We're planning an exciting programme of events."
+          },
+          {
+            "cf": "",
+            "x": "What's the programme for (= what are we going to do) tomorrow?"
+          }
+        ]
+      },
+      {
+        "definition": "a thin book or a piece of paper that gives you information about a play, a concert, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a theatre programme"
+          },
+          {
+            "cf": "",
+            "x": "Her name doesn't appear in the concert programme."
+          }
+        ]
+      },
+      {
+        "definition": "a series of actions done by a machine, such as a washing machine",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Select a cool programme for woollen clothes."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell somebody that they should change their attitude and do what they are supposed to be doing",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "programming",
+    "level": "B1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/progr/programming__gb_1.mp3",
+    "phonetic_text": "/ˈprəʊɡræmɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/progr/programming__us_1.mp3",
+    "phonetic_am_text": "/ˈprəʊɡræmɪŋ/",
+    "senses": [
+      {
+        "definition": "the process of writing and testing computer programs",
+        "examples": [
+          {
+            "cf": "",
+            "x": "programming languages"
+          }
+        ]
+      },
+      {
+        "definition": "the planning of which television or radio programmes to broadcast",
+        "examples": [
+          {
+            "cf": "",
+            "x": "politically balanced programming"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prompt",
+    "level": "B2",
+    "category": "technology",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/promp/prompt__gb_1.mp3",
+    "phonetic_text": "/prɒmpt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/promp/prompt__us_1.mp3",
+    "phonetic_am_text": "/prɑːmpt/",
+    "senses": [
+      {
+        "definition": "to make somebody decide to do something; to cause something to happen",
+        "examples": [
+          {
+            "cf": "prompt something",
+            "x": "The discovery of the bomb prompted an increase in security."
+          },
+          {
+            "cf": "",
+            "x": "His speech prompted an angry outburst from a man in the crowd."
+          },
+          {
+            "cf": "prompt somebody to do something",
+            "x": "Her father's struggles with mental health prompted her to pursue psychology as a career."
+          }
+        ]
+      },
+      {
+        "definition": "to encourage somebody to speak by asking them questions or suggesting words that they could say",
+        "examples": [
+          {
+            "cf": "prompt somebody",
+            "x": "She was too nervous to speak and had to be prompted."
+          },
+          {
+            "cf": "",
+            "x": "The program will prompt you to enter data where required."
+          },
+          {
+            "cf": "prompt (somebody) + speech",
+            "x": "‘And then what happened?’ he prompted."
+          }
+        ]
+      },
+      {
+        "definition": "to follow the text of a play and remind the actors what the words are if they forget their lines",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "protocol",
+    "level": "C1",
+    "category": "technology",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proto/protocol__gb_1.mp3",
+    "phonetic_text": "/ˈprəʊtəkɒl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proto/protocol__us_2_rr.mp3",
+    "phonetic_am_text": "/ˈprəʊtəkɑːl/",
+    "senses": [
+      {
+        "definition": "a system of fixed rules and formal behaviour used at official meetings, usually between governments",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a breach of protocol"
+          },
+          {
+            "cf": "",
+            "x": "the protocol of diplomatic visits"
+          }
+        ]
+      },
+      {
+        "definition": "the first or original version of an agreement, especially a treaty between countries, etc.; an extra part added to an agreement or treaty",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the first Geneva Protocol"
+          },
+          {
+            "cf": "",
+            "x": "It is set out in a legally binding protocol which forms part of the treaty."
+          },
+          {
+            "cf": "",
+            "x": "The dates were agreed under a protocol to the climate convention."
+          }
+        ]
+      },
+      {
+        "definition": "a set of rules that control the way data is sent between computers",
+        "examples": []
+      },
+      {
+        "definition": "a plan for performing a scientific experiment or medical treatment",
+        "examples": []
+      }
+    ]
+  }
+]

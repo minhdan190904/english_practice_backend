@@ -1,0 +1,747 @@
+[
+  {
+    "word": "ancestor",
+    "level": "B2",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/anc/ances/ancestor__gb_4.mp3",
+    "phonetic_text": "/ˈænsestə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/anc/ances/ancestor__us_1.mp3",
+    "phonetic_am_text": "/ˈænsestər/",
+    "senses": [
+      {
+        "definition": "a person in your family who lived a long time ago",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His ancestors had come to America from Ireland."
+          }
+        ]
+      },
+      {
+        "definition": "an animal that lived in the past that a modern animal has developed from",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a reptile that was the common ancestor of lizards and turtles"
+          }
+        ]
+      },
+      {
+        "definition": "an early form of a machine that later became more developed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The ancestor of the modern bicycle was called a penny-farthing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aunt",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aun/aunt_/aunt__gb_2.mp3",
+    "phonetic_text": "/ɑːnt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aun/aunt_/aunt__us_1_rr.mp3",
+    "phonetic_am_text": "/ænt/",
+    "senses": [
+      {
+        "definition": "the sister of your father or mother; the wife of your uncle or aunt",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Aunt Alice"
+          },
+          {
+            "cf": "",
+            "x": "My aunt lives in Canada."
+          },
+          {
+            "cf": "",
+            "x": "Great Aunt Emily"
+          },
+          {
+            "cf": "",
+            "x": "Mathilde lives with her aunt and uncle on a small farm."
+          }
+        ]
+      },
+      {
+        "definition": "used by children, with a first name, to address a woman who is a friend of their parents",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "grandfather",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grandfather__gb_1.mp3",
+    "phonetic_text": "/ˈɡrænfɑːðə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grandfather__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrænfɑːðər/",
+    "senses": [
+      {
+        "definition": "the father of your father or mother",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The firm had been founded by his grandfather."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grandmother",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grandmother__gb_1.mp3",
+    "phonetic_text": "/ˈɡrænmʌðə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grandmother__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrænmʌðər/",
+    "senses": [
+      {
+        "definition": "the mother of your father or mother",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I always loved going to visit my grandmother."
+          }
+        ]
+      },
+      {
+        "definition": "to tell or show somebody how to do something that they can already do well, and probably better than you can",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "grandparent",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grand/grandparent__gb_1.mp3",
+    "phonetic_text": "/ˈɡrænpeərənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grand/grandparent__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrænperənt/",
+    "senses": [
+      {
+        "definition": "the father or mother of your father or mother",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children are staying with their grandparents."
+          },
+          {
+            "cf": "",
+            "x": "I’ve sent photos of the children to both sets of grandparents."
+          },
+          {
+            "cf": "",
+            "x": "a present from his doting grandparents"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kid",
+    "level": "A2",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kid__/kid__gb_2.mp3",
+    "phonetic_text": "/kɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kid__/kid__us_1.mp3",
+    "phonetic_am_text": "/kɪd/",
+    "senses": [
+      {
+        "definition": "a child or young person",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do you have any kids?"
+          },
+          {
+            "cf": "",
+            "x": "How are the kids (= your children)?"
+          },
+          {
+            "cf": "",
+            "x": "A bunch of kids were hanging around outside."
+          },
+          {
+            "cf": "",
+            "x": "a gang/group of kids"
+          },
+          {
+            "cf": "",
+            "x": "college/school kids"
+          },
+          {
+            "cf": "",
+            "x": "street kids who rely on their ingenuity to keep alive"
+          },
+          {
+            "cf": "",
+            "x": "You're acting like a little kid!"
+          },
+          {
+            "cf": "as a kid",
+            "x": "I remember reading with my grandmother as a young kid of 6."
+          },
+          {
+            "cf": "",
+            "x": "I'm looking forward to getting home to the wife and kids."
+          },
+          {
+            "cf": "",
+            "x": "Here are some fun ways to teach your kids about healthy eating."
+          },
+          {
+            "cf": "",
+            "x": "The kids love playing outside in the mud."
+          },
+          {
+            "cf": "",
+            "x": "The game is aimed at kids of all ages."
+          }
+        ]
+      },
+      {
+        "definition": "a young goat",
+        "examples": []
+      },
+      {
+        "definition": "soft leather made from the skin of a young goat",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pair of white kid gloves"
+          }
+        ]
+      },
+      {
+        "definition": "to deal with somebody in a very careful way so that you do not offend or upset them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Treat her with kid gloves—she's very sensitive."
+          }
+        ]
+      },
+      {
+        "definition": "something that is so easy to do or understand that it is thought to be not very serious or only suitable for children",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That was kids' stuff compared with what lies ahead."
+          },
+          {
+            "cf": "",
+            "x": "The movie is pure kids' stuff from beginning to end."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is new to a place, an organization, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Despite his six years in politics, he was still regarded by many as the new kid on the block."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marriage",
+    "level": "A2",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marri/marriage__gb_1.mp3",
+    "phonetic_text": "/ˈmærɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marri/marriage__us_1.mp3",
+    "phonetic_am_text": "/ˈmærɪdʒ/",
+    "senses": [
+      {
+        "definition": "the legal relationship between two people who are married to each other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a happy/an unhappy marriage"
+          },
+          {
+            "cf": "",
+            "x": "All of her children's marriages ended in divorce."
+          },
+          {
+            "cf": "",
+            "x": "She has two children by a previous marriage."
+          },
+          {
+            "cf": "",
+            "x": "This is his second marriage."
+          },
+          {
+            "cf": "",
+            "x": "Same-sex marriages are now recognized in many countries."
+          }
+        ]
+      },
+      {
+        "definition": "the state of being married",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They don't believe in marriage."
+          },
+          {
+            "cf": "",
+            "x": "My parents are celebrating 30 years of marriage."
+          },
+          {
+            "cf": "",
+            "x": "Most of the public now support gay marriage."
+          },
+          {
+            "cf": "before/outside marriage",
+            "x": "They strongly disapprove of sex outside marriage."
+          }
+        ]
+      },
+      {
+        "definition": "the ceremony in which two people marry each other",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their marriage took place in a local church."
+          }
+        ]
+      },
+      {
+        "definition": "a combination of two things",
+        "examples": [
+          {
+            "cf": "marriage of A and B",
+            "x": "The new collection is a marriage of fashion and technology."
+          },
+          {
+            "cf": "marriage between A and B",
+            "x": "the marriage between a young team and an experienced coach"
+          }
+        ]
+      },
+      {
+        "definition": "when somebody is related to you by marriage, they are married to somebody in your family, or you are married to somebody in their family",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Jane and I are related by marriage."
+          }
+        ]
+      },
+      {
+        "definition": "permission to marry somebody, especially a woman",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He asked the general for his daughter's hand in marriage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "married",
+    "level": "A1",
+    "category": "family",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marri/married__gb_1.mp3",
+    "phonetic_text": "/ˈmærid/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marri/married__us_4.mp3",
+    "phonetic_am_text": "/ˈmærid/",
+    "senses": [
+      {
+        "definition": "having a husband or wife",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a married man/woman "
+          },
+          {
+            "cf": "",
+            "x": "Is he married?"
+          },
+          {
+            "cf": "",
+            "x": "a happily/an unhappily married couple"
+          },
+          {
+            "cf": "married to somebody",
+            "x": "She's married to John."
+          },
+          {
+            "cf": "",
+            "x": "Sam and Chris are getting married on Saturday."
+          },
+          {
+            "cf": "",
+            "x": "How long have you been married?"
+          }
+        ]
+      },
+      {
+        "definition": "connected with marriage",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are you enjoying married life?"
+          },
+          {
+            "cf": "",
+            "x": "Her married name (= the family name of her husband) is Jones."
+          }
+        ]
+      },
+      {
+        "definition": "very involved in something so that you have no time for other activities or interests",
+        "examples": [
+          {
+            "cf": "",
+            "x": "My brother is married to his job."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marry",
+    "level": "A2",
+    "category": "family",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marry/marry__gb_1.mp3",
+    "phonetic_text": "/ˈmæri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marry/marry__us_2.mp3",
+    "phonetic_am_text": "/ˈmæri/",
+    "senses": [
+      {
+        "definition": "to become the husband or wife of somebody; to get married to somebody",
+        "examples": [
+          {
+            "cf": "marry (somebody)",
+            "x": "She married a German."
+          },
+          {
+            "cf": "",
+            "x": "He was 36 when he married Viv."
+          },
+          {
+            "cf": "",
+            "x": "I don't want to marry Robert."
+          },
+          {
+            "cf": "",
+            "x": "We got married in a small village church."
+          },
+          {
+            "cf": "",
+            "x": "Dali and Gala were married in a civil ceremony in Paris."
+          },
+          {
+            "cf": "",
+            "x": "He never married."
+          },
+          {
+            "cf": "",
+            "x": "I guess I'm not the marrying kind (= the kind of person who wants to get married)."
+          },
+          {
+            "cf": "+ adj.",
+            "x": "They married young."
+          }
+        ]
+      },
+      {
+        "definition": "to perform a ceremony in which two people get married",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They were married by the local priest."
+          }
+        ]
+      },
+      {
+        "definition": "to find a husband or wife for somebody, especially your daughter or son",
+        "examples": []
+      },
+      {
+        "definition": "to combine two different things, ideas, etc. successfully",
+        "examples": [
+          {
+            "cf": "marry A and B ",
+            "x": "The music business marries art and commerce."
+          },
+          {
+            "cf": "marry A with/to B",
+            "x": "The focus for business should be how to marry economic efficiency with social justice."
+          }
+        ]
+      },
+      {
+        "definition": "people who marry quickly, without really getting to know each other, may discover later that they have made a mistake",
+        "examples": []
+      },
+      {
+        "definition": "to marry a rich person",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mot/mothe/mother__gb_2.mp3",
+    "phonetic_text": "/ˈmʌðə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mot/mothe/mother__us_1.mp3",
+    "phonetic_am_text": "/ˈmʌðər/",
+    "senses": [
+      {
+        "definition": "a female parent of a child or animal; a person who is acting as a mother to a child",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I want to buy a present for my mother and father."
+          },
+          {
+            "cf": "",
+            "x": "the relationship between mother and baby"
+          },
+          {
+            "cf": "",
+            "x": "She's the mother of twins."
+          },
+          {
+            "cf": "",
+            "x": "a mother of three (= with three children)"
+          },
+          {
+            "cf": "",
+            "x": "a young/new/single mother"
+          },
+          {
+            "cf": "",
+            "x": "an expectant (= pregnant) mother"
+          },
+          {
+            "cf": "",
+            "x": "Jenny is a stay-at-home mother of three."
+          },
+          {
+            "cf": "",
+            "x": "Affordable childcare is critical for working mothers."
+          },
+          {
+            "cf": "",
+            "x": "She was a wonderful mother to both her natural and adopted children."
+          },
+          {
+            "cf": "",
+            "x": "the mother chimpanzee caring for her young"
+          }
+        ]
+      },
+      {
+        "definition": "the title of a woman who is head of a convent (= a community of nuns)",
+        "examples": []
+      },
+      {
+        "definition": "when you were very young",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I learnt these songs at my mother's knee."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that something is very large, unpleasant, important, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I got stuck in the mother of all traffic jams."
+          }
+        ]
+      },
+      {
+        "definition": "a difficult new problem forces people to think of a solution to it",
+        "examples": []
+      },
+      {
+        "definition": "very much older than somebody (especially used to suggest that a romantic or sexual relationship between the two people is not appropriate)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mum",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mum/mum_1/mum_1_gb_1.mp3",
+    "phonetic_text": "/mʌm/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mum/mum__/mum__us_1.mp3",
+    "phonetic_am_text": "/mʌm/",
+    "senses": [
+      {
+        "definition": "a mother",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Call your mum."
+          },
+          {
+            "cf": "",
+            "x": "My mum says I can't go."
+          },
+          {
+            "cf": "",
+            "x": "Happy Birthday, Mum."
+          },
+          {
+            "cf": "",
+            "x": "A lot of mums and dads have the same worries."
+          },
+          {
+            "cf": "",
+            "x": "She's a single mum with two kids."
+          },
+          {
+            "cf": "",
+            "x": "expectant/new/young/teenage mums"
+          },
+          {
+            "cf": "",
+            "x": "stay-at-home/working mums"
+          }
+        ]
+      },
+      {
+        "definition": "financial support from your parents, especially when you are an adult",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Without support from the Bank of Mum and Dad, they could find themselves locked out of the housing market."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "parent",
+    "level": "A1",
+    "category": "family",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paren/parent__gb_1.mp3",
+    "phonetic_text": "/ˈpeərənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paren/parent__us_1.mp3",
+    "phonetic_am_text": "/ˈperənt/",
+    "senses": [
+      {
+        "definition": "a person’s father or mother",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He's still living with his parents."
+          },
+          {
+            "cf": "",
+            "x": "Sue and Ben have recently become parents."
+          },
+          {
+            "cf": "",
+            "x": "It can be difficult to be a good parent."
+          },
+          {
+            "cf": "",
+            "x": "her adoptive parents (= who have legally adopted her as their child)"
+          },
+          {
+            "cf": "",
+            "x": "It's not easy being a foster parent (= who looks after a child for a period of time without legally adopting him/her) to these children."
+          },
+          {
+            "cf": "",
+            "x": "his biological/birth parents (= natural parents, not ones who adopt or foster)"
+          },
+          {
+            "cf": "",
+            "x": "Emma is a lone parent with two children."
+          },
+          {
+            "cf": "",
+            "x": "More childcare options and more paid leave will improve the lives of working parents."
+          }
+        ]
+      },
+      {
+        "definition": "an animal or a plant which produces other animals or plants",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the parent bird/tree"
+          }
+        ]
+      },
+      {
+        "definition": "an organization that produces and owns or controls smaller organizations of the same type",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a parent bank and its subsidiaries"
+          },
+          {
+            "cf": "",
+            "x": "The subsidiary eventually outgrew its parent company and took it over."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "parental",
+    "level": "B2",
+    "category": "family",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/paren/parental__gb_1.mp3",
+    "phonetic_text": "/pəˈrentl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/paren/parental__us_1.mp3",
+    "phonetic_am_text": "/pəˈrentl/",
+    "senses": [
+      {
+        "definition": "connected with a parent or parents",
+        "examples": [
+          {
+            "cf": "",
+            "x": "parental responsibility/rights"
+          },
+          {
+            "cf": "",
+            "x": "parental choice in education"
+          },
+          {
+            "cf": "",
+            "x": "the parental home"
+          }
+        ]
+      }
+    ]
+  }
+]

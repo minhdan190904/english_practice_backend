@@ -1,0 +1,5879 @@
+[
+  {
+    "word": "academic",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aca/acade/academic__gb_2.mp3",
+    "phonetic_text": "/ˌækəˈdemɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aca/acade/academic__us_2.mp3",
+    "phonetic_am_text": "/ˌækəˈdemɪk/",
+    "senses": [
+      {
+        "definition": "connected with education, especially studying in schools and universities",
+        "examples": [
+          {
+            "cf": "",
+            "x": "high/low academic standards"
+          },
+          {
+            "cf": "",
+            "x": "She had a brilliant academic career."
+          },
+          {
+            "cf": "",
+            "x": "one of this country's most prestigious academic institutions"
+          },
+          {
+            "cf": "",
+            "x": "improving the academic achievement of all students "
+          },
+          {
+            "cf": "",
+            "x": "The university is renowned throughout the world for its academic excellence."
+          },
+          {
+            "cf": "",
+            "x": "academic research/researchers"
+          },
+          {
+            "cf": "",
+            "x": "We are deeply committed to safeguarding academic freedom. "
+          }
+        ]
+      },
+      {
+        "definition": "involving a lot of reading and studying rather than practical or technical skills",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a mixture of vocational and academic courses"
+          },
+          {
+            "cf": "",
+            "x": "people whose skills are practical rather than academic"
+          },
+          {
+            "cf": "",
+            "x": "academic qualifications/subjects"
+          }
+        ]
+      },
+      {
+        "definition": "good at subjects involving a lot of reading and studying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She wasn't very academic and hated school."
+          }
+        ]
+      },
+      {
+        "definition": "not connected to a real or practical situation and therefore not important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's a purely academic question."
+          },
+          {
+            "cf": "",
+            "x": "The whole thing's academic now—we can't win anyway."
+          },
+          {
+            "cf": "",
+            "x": "Most of his questions were of an academic nature."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "academy",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aca/acade/academy__gb_1.mp3",
+    "phonetic_text": "/əˈkædəmi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aca/acade/academy__us_1.mp3",
+    "phonetic_am_text": "/əˈkædəmi/",
+    "senses": [
+      {
+        "definition": "a school or college for special training",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She trained at the Royal Academy of Music."
+          },
+          {
+            "cf": "",
+            "x": "a police/military academy"
+          }
+        ]
+      },
+      {
+        "definition": "a type of official organization that aims to encourage and develop art, literature, science, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Royal Academy of Arts"
+          }
+        ]
+      },
+      {
+        "definition": "a secondary school in Scotland",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He went to Ayr Academy."
+          }
+        ]
+      },
+      {
+        "definition": "a private school in the US",
+        "examples": []
+      },
+      {
+        "definition": "a school in England that is independent of local authority control",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "admission",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adm/admis/admission__gb_1.mp3",
+    "phonetic_text": "/ədˈmɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/adm/admis/admission__us_1.mp3",
+    "phonetic_am_text": "/ədˈmɪʃn/",
+    "senses": [
+      {
+        "definition": "the act of accepting somebody into an institution, organization, etc.; the right to enter a place or to join an institution or organization",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hospital admission is not necessary in most cases."
+          },
+          {
+            "cf": "",
+            "x": "Hospital admissions for asthma attacks have doubled."
+          },
+          {
+            "cf": "",
+            "x": "the university admissions policy/office"
+          },
+          {
+            "cf": "",
+            "x": "They tried to get into the club but were refused admission."
+          },
+          {
+            "cf": "",
+            "x": "She failed to gain admission to the university of her choice."
+          },
+          {
+            "cf": "",
+            "x": "Is there any charge for admission?"
+          },
+          {
+            "cf": "",
+            "x": "There was a steady decline in cinema admissions during the 1960s."
+          },
+          {
+            "cf": "admission to something",
+            "x": "countries applying for admission to the European Union"
+          },
+          {
+            "cf": "",
+            "x": "Last admissions to the park are at 4 p.m."
+          }
+        ]
+      },
+      {
+        "definition": "a statement in which somebody admits that something is true, especially something wrong or bad that they have done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is a thief by his own admission (= he has admitted it)."
+          },
+          {
+            "cf": "admission of something",
+            "x": "an admission of guilt/failure/defeat"
+          },
+          {
+            "cf": "admission that…",
+            "x": "The minister's resignation was an admission that she had lied."
+          }
+        ]
+      },
+      {
+        "definition": "the amount of money that you pay to go into a building or to an event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "admission charges/prices"
+          },
+          {
+            "cf": "",
+            "x": "£5 admission"
+          },
+          {
+            "cf": "",
+            "x": "What's the admission?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "assessment",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/asses/assessment__gb_2.mp3",
+    "phonetic_text": "/əˈsesmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/asses/assessment__us_1.mp3",
+    "phonetic_am_text": "/əˈsesmənt/",
+    "senses": [
+      {
+        "definition": "an opinion or a judgement about somebody/something that has been thought about very carefully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a detailed assessment of the risks involved"
+          },
+          {
+            "cf": "",
+            "x": "An adequate environmental impact assessment was not carried out on the bypass project."
+          },
+          {
+            "cf": "",
+            "x": "We conducted the initial assessments defining the scope of work."
+          },
+          {
+            "cf": "",
+            "x": "The city hired them to do a structural assessment of the damage."
+          },
+          {
+            "cf": "",
+            "x": "his assessment of the situation"
+          }
+        ]
+      },
+      {
+        "definition": "the act of judging or forming an opinion about somebody/something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Objective assessment of the severity of the problem was difficult."
+          },
+          {
+            "cf": "",
+            "x": "Needs assessment is crucial if the hospital is to deliver effective healthcare."
+          }
+        ]
+      },
+      {
+        "definition": "the process of testing students and making a judgement about their knowledge, ability or progress",
+        "examples": [
+          {
+            "cf": "",
+            "x": "written exams and other forms of assessment"
+          }
+        ]
+      },
+      {
+        "definition": "an amount that has been calculated and that must be paid",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a tax assessment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "assignment",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assig/assignment__gb_2.mp3",
+    "phonetic_text": "/əˈsaɪnmənt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/assig/assignment__us_1.mp3",
+    "phonetic_am_text": "/əˈsaɪnmənt/",
+    "senses": [
+      {
+        "definition": "a task or piece of work that somebody is given to do, usually as part of their job or studies",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Students are required to complete all homework assignments."
+          },
+          {
+            "cf": "",
+            "x": "You will need to complete three written assignments per semester."
+          },
+          {
+            "cf": "",
+            "x": "a business/special assignment "
+          },
+          {
+            "cf": "",
+            "x": "I had set myself a tough assignment."
+          },
+          {
+            "cf": "on an assignment",
+            "x": "She is in Greece on an assignment for a media company."
+          },
+          {
+            "cf": "on assignment",
+            "x": "one of our reporters on assignment in China"
+          }
+        ]
+      },
+      {
+        "definition": "the act of giving something to somebody; the act of giving somebody a particular task",
+        "examples": [
+          {
+            "cf": "",
+            "x": "his assignment to other duties in the same company"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "geography",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/geo/geogr/geography__gb_1.mp3",
+    "phonetic_text": "/dʒiˈɒɡrəfi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/geo/geogr/geography__us_1.mp3",
+    "phonetic_am_text": "/dʒiˈɑːɡrəfi/",
+    "senses": [
+      {
+        "definition": "the scientific study of the earth’s surface, physical features, divisions, products, population, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "recent work in economic geography"
+          },
+          {
+            "cf": "",
+            "x": "cultural/historical/political geography"
+          },
+          {
+            "cf": "",
+            "x": "a geography lesson/class/teacher "
+          },
+          {
+            "cf": "",
+            "x": "a degree in geography"
+          }
+        ]
+      },
+      {
+        "definition": "the way in which the physical features of a place are arranged",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These streets had a very particular geography."
+          },
+          {
+            "cf": "",
+            "x": "the geography of New York City"
+          },
+          {
+            "cf": "",
+            "x": "Kim knew the geography of the building and strode along the corridor."
+          }
+        ]
+      },
+      {
+        "definition": "the way in which a particular aspect of life or society is influenced by geography or varies according to geography",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The geography of poverty and the geography of voting are connected."
+          }
+        ]
+      },
+      {
+        "definition": "a country, area or region",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We are now operational across multiple geographies."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "grade",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grade/grade__gb_1.mp3",
+    "phonetic_text": "/ɡreɪd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grade/grade__us_1.mp3",
+    "phonetic_am_text": "/ɡreɪd/",
+    "senses": [
+      {
+        "definition": "a mark given in an exam or for a piece of school work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She got good grades in her exams."
+          },
+          {
+            "cf": "",
+            "x": "She got good grades on her exams."
+          },
+          {
+            "cf": "",
+            "x": "70 per cent of students achieved Grade C or above."
+          }
+        ]
+      },
+      {
+        "definition": "(in the US school system) one of the levels in a school with children of similar age",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Sam is in (the) second grade."
+          }
+        ]
+      },
+      {
+        "definition": "the quality of a particular product or material",
+        "examples": [
+          {
+            "cf": "",
+            "x": "All the materials used were of the highest grade."
+          }
+        ]
+      },
+      {
+        "definition": "a level of ability or rank that somebody has in an organization",
+        "examples": [
+          {
+            "cf": "",
+            "x": "salary/pay grades (= levels of pay)"
+          },
+          {
+            "cf": "",
+            "x": "She's still only on an entry grade."
+          }
+        ]
+      },
+      {
+        "definition": "how serious an illness is",
+        "examples": [
+          {
+            "cf": "",
+            "x": "low/high grade fever"
+          }
+        ]
+      },
+      {
+        "definition": "a slope on a road or railway; the degree to which the ground slopes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The hill has a grade of 25 per cent."
+          },
+          {
+            "cf": "",
+            "x": "We hiked up a short steep grade."
+          }
+        ]
+      },
+      {
+        "definition": "a level of exam in musical skill",
+        "examples": [
+          {
+            "cf": "",
+            "x": "grade 6 piano"
+          }
+        ]
+      },
+      {
+        "definition": "to be a decision or an area of work that somebody does not have the authority or expert knowledge to deal with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This decision is above my pay grade."
+          }
+        ]
+      },
+      {
+        "definition": "to reach the necessary standard; to succeed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "About 10 per cent of trainees fail to make the grade."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "graduate",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/gradu/graduate__gb_4.mp3",
+    "phonetic_text": "/ˈɡrædʒuət/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/gradu/graduate__us_1.mp3",
+    "phonetic_am_text": "/ˈɡrædʒuət/",
+    "senses": [
+      {
+        "definition": "a person who has a university degree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "job prospects for graduates"
+          },
+          {
+            "cf": "",
+            "x": "a university/college graduate"
+          },
+          {
+            "cf": "",
+            "x": "a recent graduate from Coventry University"
+          },
+          {
+            "cf": "",
+            "x": "an Oxford/a Yale graduate"
+          },
+          {
+            "cf": "graduate of something",
+            "x": "a graduate of Oxford/Yale"
+          },
+          {
+            "cf": "",
+            "x": "engineering/science graduates"
+          },
+          {
+            "cf": "graduate in something",
+            "x": "a graduate in history"
+          },
+          {
+            "cf": "",
+            "x": "a graduate student"
+          },
+          {
+            "cf": "",
+            "x": "graduate programs/degrees/studies"
+          }
+        ]
+      },
+      {
+        "definition": "a person who has completed their school studies",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a high school graduate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "guidance",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gui/guida/guidance__gb_2.mp3",
+    "phonetic_text": "/ˈɡaɪdns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gui/guida/guidance__us_1.mp3",
+    "phonetic_am_text": "/ˈɡaɪdns/",
+    "senses": [
+      {
+        "definition": "help or advice that is given to somebody, especially by somebody older or with more experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "guidance for teachers on how to use video in the classroom"
+          },
+          {
+            "cf": "under the guidance of somebody",
+            "x": "Activities all take place under the guidance of an experienced tutor."
+          },
+          {
+            "cf": "",
+            "x": "The helpline was set up for young people in need of guidance and support."
+          }
+        ]
+      },
+      {
+        "definition": "the process of controlling the direction of a rocket, etc., using electronic equipment",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a missile guidance system"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "knowledge",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knowl/knowledge__gb_3.mp3",
+    "phonetic_text": "/ˈnɒlɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knowl/knowledge__us_2.mp3",
+    "phonetic_am_text": "/ˈnɑːlɪdʒ/",
+    "senses": [
+      {
+        "definition": "the information, understanding and skills that you gain through education or experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "scientific/technical knowledge and skills"
+          },
+          {
+            "cf": "",
+            "x": "intimate/first-hand/basic knowledge"
+          },
+          {
+            "cf": "",
+            "x": "a thirst for knowledge"
+          },
+          {
+            "cf": "",
+            "x": "It will be an opportunity to gain knowledge and experience."
+          },
+          {
+            "cf": "knowledge of something",
+            "x": "She has acquired a detailed knowledge of the subject."
+          },
+          {
+            "cf": "",
+            "x": "They enjoy sharing their knowledge of the business."
+          },
+          {
+            "cf": "",
+            "x": "He had no prior knowledge of the language before visiting the country."
+          },
+          {
+            "cf": "",
+            "x": "He has a wide knowledge of painting and music."
+          },
+          {
+            "cf": "knowledge about something",
+            "x": "There is a lack of knowledge about the tax system."
+          }
+        ]
+      },
+      {
+        "definition": "the state of knowing about a particular fact or situation",
+        "examples": [
+          {
+            "cf": "knowledge (of something)",
+            "x": "He denied all knowledge of the affair."
+          },
+          {
+            "cf": "without somebody's knowledge",
+            "x": "She sent the letter without my knowledge."
+          },
+          {
+            "cf": "with somebody's knowledge",
+            "x": "The film was made with the Prince's full knowledge and approval."
+          },
+          {
+            "cf": "in the knowledge that…",
+            "x": "I was happy in the knowledge that I had done my best."
+          },
+          {
+            "cf": "",
+            "x": "I went to sleep secure in the knowledge that I was not alone in the house."
+          },
+          {
+            "cf": "",
+            "x": "They could relax safe in the knowledge that they had the funding for the project."
+          },
+          {
+            "cf": "",
+            "x": "Their delight in the win was tempered by the knowledge that the competition would only get fiercer."
+          }
+        ]
+      },
+      {
+        "definition": "information, considered as a resource to be used and supplied in industry, rather than producing goods",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the shift toward a knowledge economy"
+          },
+          {
+            "cf": "",
+            "x": "Knowledge workers are driving our economy today."
+          },
+          {
+            "cf": "",
+            "x": "the emergence of consultancy as a knowledge industry"
+          },
+          {
+            "cf": "",
+            "x": "knowledge capital/assets"
+          },
+          {
+            "cf": "",
+            "x": "The successful candidate will have experience in data and knowledge management."
+          }
+        ]
+      },
+      {
+        "definition": "to be something that everyone knows, especially in a particular community or group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their relationship is common knowledge."
+          }
+        ]
+      },
+      {
+        "definition": "to become known by somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It has come to our knowledge that you have been taking time off without permission."
+          }
+        ]
+      },
+      {
+        "definition": "as far as you know",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He never made a will, to the best of my knowledge."
+          }
+        ]
+      },
+      {
+        "definition": "from the information you have, although you may not know everything",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘Are they divorced?’ ‘Not to my knowledge.’"
+          },
+          {
+            "cf": "",
+            "x": "She never, to my knowledge, considered resigning."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "learn",
+    "level": "A1",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/learn/learn__gb_1.mp3",
+    "phonetic_text": "/lɜːn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/learn/learn__us_1.mp3",
+    "phonetic_am_text": "/lɜːrn/",
+    "senses": [
+      {
+        "definition": "to gain knowledge or skill by studying, from experience, from being taught, etc.",
+        "examples": [
+          {
+            "cf": "learn something",
+            "x": "to learn a language/skill/trade"
+          },
+          {
+            "cf": "",
+            "x": "He had the opportunity to learn English in Australia."
+          },
+          {
+            "cf": "learn (something) from somebody/something",
+            "x": "I learned a lot from my father."
+          },
+          {
+            "cf": "",
+            "x": "Everyone in the class had the opportunity to learn from each other. "
+          },
+          {
+            "cf": "learn (something) from doing something",
+            "x": "You can learn a great deal just from watching other players."
+          },
+          {
+            "cf": "learn (about something)",
+            "x": "She's very keen to learn about Japanese culture."
+          },
+          {
+            "cf": "",
+            "x": "The book is about how children learn."
+          },
+          {
+            "cf": "",
+            "x": "She received no training but quickly learnt on the job (= while doing the job)."
+          },
+          {
+            "cf": "learn to do something",
+            "x": "He's learning to play the trumpet."
+          },
+          {
+            "cf": "",
+            "x": "Most people learn to read as children."
+          },
+          {
+            "cf": "learn how to do something",
+            "x": "Today we learnt how to use the new software."
+          },
+          {
+            "cf": "learn what, where, etc…",
+            "x": "Students need to learn what to do in an emergency."
+          }
+        ]
+      },
+      {
+        "definition": "to study and repeat something in order to be able to remember it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I learnt the poem by heart."
+          },
+          {
+            "cf": "",
+            "x": "We have to learn one of Hamlet's speeches for school tomorrow."
+          },
+          {
+            "cf": "",
+            "x": "You'll have to learn your lines by next week."
+          }
+        ]
+      },
+      {
+        "definition": "to gradually change your attitudes about something so that you behave in a different way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Some people never learn, do they?"
+          },
+          {
+            "cf": "learn from something",
+            "x": "I'm sure she'll learn from her mistakes."
+          },
+          {
+            "cf": "",
+            "x": "Why do people so often fail to learn from experience?"
+          },
+          {
+            "cf": "learn (that)…",
+            "x": "He’ll just have to learn (that) he can’t always have his own way."
+          },
+          {
+            "cf": "",
+            "x": "They quickly learn that bad behaviour is a sure-fire way of getting attention."
+          },
+          {
+            "cf": "learn to do something",
+            "x": "They eventually learned to love living in the countryside."
+          },
+          {
+            "cf": "",
+            "x": "I soon learned not to ask too many questions."
+          }
+        ]
+      },
+      {
+        "definition": "to become aware of something by hearing about it from somebody else",
+        "examples": [
+          {
+            "cf": "learn of something",
+            "x": "I first learnt of his death many years later."
+          },
+          {
+            "cf": "learn about something",
+            "x": "We only learned about the problems in May of this year."
+          },
+          {
+            "cf": "learn (that)…",
+            "x": "We were very surprised to learn (that) she had got married again."
+          },
+          {
+            "cf": "learn who, what, etc…",
+            "x": "We only learned who the new teacher was a few days ago."
+          },
+          {
+            "cf": "learn something",
+            "x": "How did they react when they learned the news?"
+          },
+          {
+            "cf": "it is learned that…",
+            "x": "It has been learned that 500 jobs are to be lost at the factory."
+          }
+        ]
+      },
+      {
+        "definition": "to know something because of something unpleasant that has happened to you",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She is a tough competitor, as I know to my cost."
+          }
+        ]
+      },
+      {
+        "definition": "to find out how to behave by learning from your mistakes or from unpleasant experiences, rather than from being told",
+        "examples": []
+      },
+      {
+        "definition": "to learn what to do or not to do in the future because you have had a bad experience in the past",
+        "examples": []
+      },
+      {
+        "definition": "to show somebody/know/learn how a particular job should be done",
+        "examples": []
+      },
+      {
+        "definition": "used to express surprise at something new or unexpected you have been told",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "learning",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/learn/learning__gb_1.mp3",
+    "phonetic_text": "/ˈlɜːnɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/learn/learning__us_1.mp3",
+    "phonetic_am_text": "/ˈlɜːrnɪŋ/",
+    "senses": [
+      {
+        "definition": "the process of learning something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "adult learning"
+          },
+          {
+            "cf": "",
+            "x": "new methods to facilitate language learning "
+          },
+          {
+            "cf": "",
+            "x": "Field trips provide an opportunity for experiential learning."
+          },
+          {
+            "cf": "",
+            "x": "teaching and learning"
+          },
+          {
+            "cf": "",
+            "x": "The school aims to provide a supportive learning environment."
+          },
+          {
+            "cf": "",
+            "x": "Last season was a learning experience for the team."
+          },
+          {
+            "cf": "",
+            "x": "The learning process is slightly different in each individual."
+          },
+          {
+            "cf": "",
+            "x": "A large part of children's learning takes place in the home."
+          }
+        ]
+      },
+      {
+        "definition": "knowledge that you get from reading and studying",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a woman of great learning"
+          }
+        ]
+      },
+      {
+        "definition": "something that you learn, especially from your experience of working on something ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We will be sharing key learnings from our project."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lec/lectu/lecture__gb_2.mp3",
+    "phonetic_text": "/ˈlektʃə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lec/lectu/lecture__us_1.mp3",
+    "phonetic_am_text": "/ˈlektʃər/",
+    "senses": [
+      {
+        "definition": "a talk that is given to a group of people to teach them about a particular subject, often as part of a university or college course",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to go to/attend a lecture"
+          },
+          {
+            "cf": "",
+            "x": "to give/deliver a lecture"
+          },
+          {
+            "cf": "",
+            "x": "I have a lecture at nine tomorrow."
+          },
+          {
+            "cf": "lecture on something",
+            "x": "a series of lectures on Jane Austen"
+          },
+          {
+            "cf": "",
+            "x": "a course of lectures on art history"
+          },
+          {
+            "cf": "lecture about something",
+            "x": "an illustrated lecture about the planet Mars"
+          },
+          {
+            "cf": "lecture to somebody",
+            "x": "a book based on her lectures to students"
+          },
+          {
+            "cf": "",
+            "x": "a lecture to the Darwin Society"
+          },
+          {
+            "cf": "lecture by somebody",
+            "x": "a lecture by Professor Snow"
+          },
+          {
+            "cf": "in a lecture",
+            "x": "She spoke about the environmental problems of the future in a lecture at Georgetown University."
+          },
+          {
+            "cf": "at a lecture",
+            "x": "There were very few students at his lecture that morning."
+          }
+        ]
+      },
+      {
+        "definition": "a long, angry talk that somebody gives to one person or a group of people because they have done something wrong",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I know I should eat more healthily—don't give me a lecture about it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lesson",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/les/lesso/lesson__gb_1.mp3",
+    "phonetic_text": "/ˈlesn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/les/lesso/lesson__us_4.mp3",
+    "phonetic_am_text": "/ˈlesn/",
+    "senses": [
+      {
+        "definition": "a period of time in which somebody is taught something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She gives piano lessons."
+          },
+          {
+            "cf": "",
+            "x": "I’m having driving lessons."
+          },
+          {
+            "cf": "lesson in something",
+            "x": "He took lessons in Thai cookery."
+          },
+          {
+            "cf": "lesson on something",
+            "x": "a history lesson on the Roman Empire"
+          },
+          {
+            "cf": "lesson with somebody",
+            "x": "Beethoven's lessons with Haydn continued until 1794."
+          },
+          {
+            "cf": "lesson from somebody",
+            "x": "His parents paid for lessons from local dance teachers."
+          },
+          {
+            "cf": "lesson for somebody",
+            "x": "Lessons for beginners can be arranged."
+          },
+          {
+            "cf": "",
+            "x": "Our first lesson on Tuesdays is French."
+          },
+          {
+            "cf": "",
+            "x": "What did we do last lesson?"
+          }
+        ]
+      },
+      {
+        "definition": "something that is intended to be learned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The coursebook is divided into 30 lessons."
+          },
+          {
+            "cf": "lesson on something",
+            "x": "Other countries can teach us a lesson or two on industrial policy."
+          }
+        ]
+      },
+      {
+        "definition": "an experience, especially an unpleasant one, that somebody can learn from so that it does not happen again in the future",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The accident taught me a lesson I'll never forget."
+          },
+          {
+            "cf": "",
+            "x": "They decided to teach him a lesson (= punish him) for telling lies about them."
+          },
+          {
+            "cf": "",
+            "x": "There are lessons to be learned from this mistake."
+          },
+          {
+            "cf": "",
+            "x": "It is dangerous to ignore the lessons of history."
+          },
+          {
+            "cf": "lesson to somebody",
+            "x": "Let that be a lesson to you (= so that you do not make the same mistake again)."
+          },
+          {
+            "cf": "",
+            "x": "Their openness was a terrific lesson to me."
+          },
+          {
+            "cf": "lesson on/about something",
+            "x": "The film offers an important lesson on the value of friendship."
+          },
+          {
+            "cf": "lesson on/about doing something",
+            "x": "That's one of the lessons about being in a relationship that I hope not to forget."
+          },
+          {
+            "cf": "lesson in something",
+            "x": "He said that the election results were a lesson in humility for the party."
+          },
+          {
+            "cf": "lesson in doing something",
+            "x": "This experience has provided many valuable lessons in caring for the marine habitat."
+          },
+          {
+            "cf": "lesson for somebody",
+            "x": "The lesson for the leaders of Western governments is clear."
+          }
+        ]
+      },
+      {
+        "definition": "a passage from the Bible that is read to people during a church service in the Church of England",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The first lesson is taken from St John’s Gospel."
+          }
+        ]
+      },
+      {
+        "definition": "to learn what to do or not to do in the future because you have had a bad experience in the past",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "level",
+    "level": "A2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lev/level/level__gb_2.mp3",
+    "phonetic_text": "/ˈlevl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lev/level/level__us_2.mp3",
+    "phonetic_am_text": "/ˈlevl/",
+    "senses": [
+      {
+        "definition": "having a flat surface that does not slope",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Pitch the tent on level ground."
+          },
+          {
+            "cf": "",
+            "x": "Add a level tablespoon of flour (= enough to fill the spoon but not so much that it goes above the level of the edge of the spoon)."
+          }
+        ]
+      },
+      {
+        "definition": "having the same height, position, value, etc. as something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are these pictures level?"
+          },
+          {
+            "cf": "",
+            "x": "The unemployment rate remained level in November."
+          },
+          {
+            "cf": "level with something",
+            "x": "This latest rise is intended to keep wages level with inflation."
+          },
+          {
+            "cf": "",
+            "x": "He bent down so that his eyes were nearly level with hers."
+          },
+          {
+            "cf": "",
+            "x": "She drew level with (= came beside) the police car."
+          },
+          {
+            "cf": "",
+            "x": "The water came level with the top of her boots."
+          }
+        ]
+      },
+      {
+        "definition": "having the same score as somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A good second round brought him level with the tournament leader."
+          },
+          {
+            "cf": "",
+            "x": "England fought well to stay on level terms."
+          },
+          {
+            "cf": "",
+            "x": "France took an early lead but Wales soon drew level (= scored the same number of points)."
+          }
+        ]
+      },
+      {
+        "definition": "not showing any emotion; steady",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a level gaze"
+          }
+        ]
+      },
+      {
+        "definition": "to have an equal or even score",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The contestants were level pegging after round 3."
+          },
+          {
+            "cf": "",
+            "x": " Five minutes later it was level pegging when Kane banged in the equalizer."
+          }
+        ]
+      },
+      {
+        "definition": "to do as much as you can to try to achieve something",
+        "examples": []
+      },
+      {
+        "definition": "a situation in which everyone has the same opportunities",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "library",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lib/libra/library__gb_1.mp3",
+    "phonetic_text": "/ˈlaɪbrəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lib/libra/library__us_1.mp3",
+    "phonetic_am_text": "/ˈlaɪbreri/",
+    "senses": [
+      {
+        "definition": "a building in which collections of books, newspapers, etc. and sometimes films and recorded music are kept for people to read, study or borrow",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a public/university/school library"
+          },
+          {
+            "cf": "",
+            "x": "a library book"
+          },
+          {
+            "cf": "",
+            "x": "a toy library (= for borrowing toys from)"
+          },
+          {
+            "cf": "",
+            "x": "How often do you go to the library?"
+          },
+          {
+            "cf": "",
+            "x": "You can borrow it from your local library."
+          },
+          {
+            "cf": "",
+            "x": "I got this very interesting book out of the library."
+          },
+          {
+            "cf": "",
+            "x": "Councillors have made a commitment that no library services will be lost in the county."
+          }
+        ]
+      },
+      {
+        "definition": "a collection of books, newspapers, films, recorded music, etc. held in a library or stored in digital form",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a music/photo library"
+          },
+          {
+            "cf": "",
+            "x": "The Media Centre houses a digital library of radio and television programmes."
+          }
+        ]
+      },
+      {
+        "definition": "a room in a large house where most of the books are kept",
+        "examples": []
+      },
+      {
+        "definition": "a personal collection of books, music recordings, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a new edition to add to your library"
+          },
+          {
+            "cf": "",
+            "x": "The family possessed an extensive library."
+          },
+          {
+            "cf": "",
+            "x": "She had built up an impressive library of art books."
+          },
+          {
+            "cf": "",
+            "x": "a personal library of over 1 000 volumes"
+          }
+        ]
+      },
+      {
+        "definition": "a series of books, recordings, etc. produced by the same company and similar in appearance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a library of children’s classics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lifelong",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lif/lifel/lifelong__gb_1.mp3",
+    "phonetic_text": "/ˈlaɪflɒŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lif/lifel/lifelong__us_3.mp3",
+    "phonetic_am_text": "/ˈlaɪflɔːŋ/",
+    "senses": [
+      {
+        "definition": "lasting or existing all through your life",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Paul became his lifelong friend."
+          },
+          {
+            "cf": "",
+            "x": "Her lifelong ambition had been to learn how to fly."
+          },
+          {
+            "cf": "",
+            "x": "He has been a lifelong supporter of the club."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "literacy",
+    "level": "C1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lit/liter/literacy__gb_2.mp3",
+    "phonetic_text": "/ˈlɪtərəsi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lit/liter/literacy__us_1.mp3",
+    "phonetic_am_text": "/ˈlɪtərəsi/",
+    "senses": [
+      {
+        "definition": "the ability to read and write",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a campaign to promote adult literacy"
+          },
+          {
+            "cf": "",
+            "x": "basic literacy skills"
+          },
+          {
+            "cf": "",
+            "x": "Most of the students here need help with literacy and numeracy."
+          }
+        ]
+      },
+      {
+        "definition": "knowledge or skills in a specific area",
+        "examples": [
+          {
+            "cf": "",
+            "x": "financial/health literacy"
+          },
+          {
+            "cf": "",
+            "x": "We’re looking to hire an assistant with a high level of digital literacy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "logic",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/log/logic/logic__gb_1.mp3",
+    "phonetic_text": "/ˈlɒdʒɪk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/log/logic/logic__us_1.mp3",
+    "phonetic_am_text": "/ˈlɑːdʒɪk/",
+    "senses": [
+      {
+        "definition": "a way of thinking or explaining something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I fail to see the logic behind his argument."
+          },
+          {
+            "cf": "",
+            "x": "The two parts of the plan were governed by the same logic."
+          }
+        ]
+      },
+      {
+        "definition": "sensible reasons for doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Linking the proposals in a single package did have a certain logic."
+          },
+          {
+            "cf": "",
+            "x": "a strategy based on sound commercial logic"
+          },
+          {
+            "cf": "logic to/in something",
+            "x": "There is no logic in any of their claims."
+          }
+        ]
+      },
+      {
+        "definition": "the science of thinking about or explaining the reason for something using formal methods",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the rules of logic"
+          },
+          {
+            "cf": "",
+            "x": "Philosophers use logic to prove their arguments."
+          }
+        ]
+      },
+      {
+        "definition": "a system or set of principles used in preparing a computer or electronic device to perform a particular task",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "logical",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/log/logic/logical__gb_2.mp3",
+    "phonetic_text": "/ˈlɒdʒɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/log/logic/logical__us_2.mp3",
+    "phonetic_am_text": "/ˈlɑːdʒɪkl/",
+    "senses": [
+      {
+        "definition": "seeming natural, reasonable or sensible",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It was a logical conclusion from the child's point of view."
+          },
+          {
+            "cf": "",
+            "x": "Each of them having their own room was the logical solution."
+          },
+          {
+            "cf": "",
+            "x": "There may be a perfectly logical explanation for her absences."
+          },
+          {
+            "cf": "",
+            "x": "a logical thing to do in the circumstances"
+          },
+          {
+            "cf": "",
+            "x": "What 's the next logical step?"
+          }
+        ]
+      },
+      {
+        "definition": "following or able to follow the rules of logic in which ideas or facts are based on other true ideas or facts",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a logical argument"
+          },
+          {
+            "cf": "",
+            "x": "Computer programming needs someone with a logical mind."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mark",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/mark_/mark__gb_1.mp3",
+    "phonetic_text": "/mɑːk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/mark_/mark__us_1.mp3",
+    "phonetic_am_text": "/mɑːrk/",
+    "senses": [
+      {
+        "definition": "a written or printed symbol that is used as a sign of something, for example the quality of something or who made or owns it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I put a mark in the margin to remind me to check the figure."
+          },
+          {
+            "cf": "",
+            "x": "Any piece of silver bearing his mark is extremely valuable."
+          },
+          {
+            "cf": "",
+            "x": "A faint pencil mark showed where the house was on the map."
+          },
+          {
+            "cf": "",
+            "x": "Every image is made up of hundreds of brush marks."
+          }
+        ]
+      },
+      {
+        "definition": "a number or letter that is given to show the standard of somebody’s work or performance or is given to somebody for answering something correctly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to get a good/poor mark in English"
+          },
+          {
+            "cf": "",
+            "x": "to give somebody a high/low mark"
+          },
+          {
+            "cf": "",
+            "x": "What's the pass mark (= the mark you need in order to pass)?"
+          }
+        ]
+      },
+      {
+        "definition": "a point given for a correct answer in an exam or competition",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You get two marks for each correct answer."
+          },
+          {
+            "cf": "",
+            "x": "You will lose marks for bad grammar."
+          },
+          {
+            "cf": "",
+            "x": "I got full marks (= all the possible points) in the spelling test."
+          },
+          {
+            "cf": "",
+            "x": "‘You're wearing a tie!’ ‘Full marks for observation.’"
+          }
+        ]
+      },
+      {
+        "definition": "a small area of dirt, a spot or a cut on a surface that makes it look less good",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children left dirty marks all over the kitchen floor."
+          },
+          {
+            "cf": "",
+            "x": "There was a red mark on his arm."
+          },
+          {
+            "cf": "",
+            "x": "a burn/scratch mark"
+          },
+          {
+            "cf": "",
+            "x": "Detectives found no marks on the body."
+          }
+        ]
+      },
+      {
+        "definition": "a spot or area of colour on the body of a person or an animal that helps you to recognize them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a horse with a white mark on its head"
+          },
+          {
+            "cf": "",
+            "x": "He was about six feet tall, with no distinguishing marks."
+          },
+          {
+            "cf": "",
+            "x": "Look for a bird with a blue mark on its wings."
+          }
+        ]
+      },
+      {
+        "definition": "a sign that a quality or feeling exists",
+        "examples": [
+          {
+            "cf": "",
+            "x": "On the day of the funeral businesses remained closed as a mark of respect."
+          },
+          {
+            "cf": "",
+            "x": "Such coolness under pressure is the mark of a champion."
+          }
+        ]
+      },
+      {
+        "definition": "a level or point that something reaches that is thought to be important",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Unemployment has passed the four million mark."
+          },
+          {
+            "cf": "",
+            "x": "Ratings had soared towards the 20 million mark."
+          },
+          {
+            "cf": "",
+            "x": "The needle was flickering around the 80 mark."
+          },
+          {
+            "cf": "",
+            "x": "She was leading at the halfway mark."
+          }
+        ]
+      },
+      {
+        "definition": "a particular type or model of a machine or vehicle",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Mark II engine"
+          }
+        ]
+      },
+      {
+        "definition": "a particular level of temperature in a gas oven",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Preheat the oven to gas Mark 6."
+          }
+        ]
+      },
+      {
+        "definition": "a cross made on a document instead of a signature by somebody who is not able to write their name",
+        "examples": []
+      },
+      {
+        "definition": "a target",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Of the blows delivered, barely half found their mark."
+          },
+          {
+            "cf": "",
+            "x": "to hit/miss the mark"
+          },
+          {
+            "cf": "",
+            "x": "Shock tactics often fall wide of their mark (= are not successful)."
+          }
+        ]
+      },
+      {
+        "definition": "the former unit of money in Germany (replaced in 2002 by the euro)",
+        "examples": []
+      },
+      {
+        "definition": "to be fairly accurate in a guess, statement, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Such guesses are thought to be close to the mark."
+          },
+          {
+            "cf": "",
+            "x": "‘The Times’ was nearer the mark when it said…"
+          }
+        ]
+      },
+      {
+        "definition": "not to be accurate in a guess, statement, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "No, you're way off the mark."
+          }
+        ]
+      },
+      {
+        "definition": "to be accurate or correct",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That estimate was right on the mark."
+          },
+          {
+            "cf": "",
+            "x": "I think that your idea is right on the mark."
+          }
+        ]
+      },
+      {
+        "definition": "to fail to reach the standard that you expected or need",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Taylor's solution falls short of the mark."
+          }
+        ]
+      },
+      {
+        "definition": "to start scoring in a game or sport",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Stewart got off the mark with a four."
+          }
+        ]
+      },
+      {
+        "definition": "to succeed/fail in achieving or guessing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He blushed furiously and Robyn knew she had hit the mark."
+          },
+          {
+            "cf": "",
+            "x": "The film misses the mark because it just isn't believable."
+          }
+        ]
+      },
+      {
+        "definition": "to have an effect on something/somebody, especially a bad one, that lasts for a long time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Such a traumatic experience was bound to leave its mark on the children."
+          },
+          {
+            "cf": "",
+            "x": "War has left its mark on the country."
+          },
+          {
+            "cf": "",
+            "x": "She left a permanent mark on racing history."
+          },
+          {
+            "cf": "",
+            "x": "The experience left a deep mark on his memory."
+          }
+        ]
+      },
+      {
+        "definition": "to become famous and successful in a particular area",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has already made his mark on the music industry."
+          },
+          {
+            "cf": "",
+            "x": "She quickly made her mark as a film director."
+          },
+          {
+            "cf": "",
+            "x": "Women are continuing to make their mark in business."
+          }
+        ]
+      },
+      {
+        "definition": "not to feel as well or lively as usual",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I’m not feeling up to the mark at the moment."
+          }
+        ]
+      },
+      {
+        "definition": "used to tell runners in a race to get ready and then to start",
+        "examples": []
+      },
+      {
+        "definition": "to behave in a way that people think is not acceptable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She realized she had overstepped the mark and quickly apologized."
+          }
+        ]
+      },
+      {
+        "definition": "fast/slow in reacting to a situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If you’re quick off the mark in answering these questions, you could win a prize."
+          },
+          {
+            "cf": "",
+            "x": "The government was slow off the mark in responding to the crisis."
+          }
+        ]
+      },
+      {
+        "definition": "to say or do what somebody in authority tells you to say or do, even if you do not share the same opinions, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "One or two of them refused to toe the mark."
+          },
+          {
+            "cf": "",
+            "x": "They rarely fail to toe the mark."
+          }
+        ]
+      },
+      {
+        "definition": "as good as it/they should be",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Your work isn't really up to the mark."
+          }
+        ]
+      },
+      {
+        "definition": "not accurate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Their predictions turned out to be wide of the mark."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marker",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mar/marke/marker__gb_1.mp3",
+    "phonetic_text": "/ˈmɑːkə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/marker__us_1.mp3",
+    "phonetic_am_text": "/ˈmɑːrkər/",
+    "senses": [
+      {
+        "definition": "an object or a sign that shows the position of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a boundary marker"
+          },
+          {
+            "cf": "",
+            "x": "He placed a marker where the ball had landed."
+          }
+        ]
+      },
+      {
+        "definition": "a sign that something exists or that shows what it is like",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Price is not always an accurate marker of quality."
+          }
+        ]
+      },
+      {
+        "definition": "a pen with a thick felt tip",
+        "examples": []
+      },
+      {
+        "definition": "a person who marks students’ work or exam papers",
+        "examples": []
+      },
+      {
+        "definition": "a player who stays close to a player on the other team in order to stop them getting the ball",
+        "examples": []
+      },
+      {
+        "definition": "to do something that sets a standard for your competitors or shows what you intend to do or achieve in the future",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The reigning champions laid down a marker with a 36–0 defeat of their opponents."
+          },
+          {
+            "cf": "",
+            "x": "The prime minister has put down a marker for a Washington visit in May."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "master",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mas/maste/master__gb_1.mp3",
+    "phonetic_text": "/ˈmɑːstə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mas/maste/master__us_2.mp3",
+    "phonetic_am_text": "/ˈmæstər/",
+    "senses": [
+      {
+        "definition": "a man who has people working for him, often as servants in his home",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They lived in fear of their master."
+          },
+          {
+            "cf": "",
+            "x": "Their relationship was one of master and servant."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is in charge of an organization or group",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police had to obey their political masters."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is able to control something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was no longer master of her own future."
+          }
+        ]
+      },
+      {
+        "definition": "a person who shows a lot of skill at something",
+        "examples": [
+          {
+            "cf": "master of something",
+            "x": "a master of disguise"
+          },
+          {
+            "cf": "",
+            "x": "a master of her craft"
+          },
+          {
+            "cf": "",
+            "x": "a master of the serve-and-volley game"
+          },
+          {
+            "cf": "master at doing something",
+            "x": "a master at managing money"
+          }
+        ]
+      },
+      {
+        "definition": "a famous painter who lived in the past",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an exhibition of work by the French master, Monet"
+          },
+          {
+            "cf": "",
+            "x": "the great masters of Impressionism"
+          },
+          {
+            "cf": "",
+            "x": "This portrait is the work of an acknowledged master."
+          }
+        ]
+      },
+      {
+        "definition": "a second university degree, or, in Scotland, a first university degree, such as an MA",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has a Master's in Business Administration."
+          },
+          {
+            "cf": "",
+            "x": "She holds a master's degree in journalism."
+          }
+        ]
+      },
+      {
+        "definition": "a person who has a master’s degree",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a Master of Arts/Science"
+          }
+        ]
+      },
+      {
+        "definition": "the owner of an animal, especially a dog or horse",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The dog saved its master's life."
+          },
+          {
+            "cf": "",
+            "x": "Even the animals knew their masters were excited."
+          },
+          {
+            "cf": "",
+            "x": "The horses watched their masters placidly."
+          }
+        ]
+      },
+      {
+        "definition": "a male teacher at a school, especially a private school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the physics master"
+          },
+          {
+            "cf": "",
+            "x": "He was ballet master at several dance schools."
+          }
+        ]
+      },
+      {
+        "definition": "the captain of a ship that transports goods",
+        "examples": []
+      },
+      {
+        "definition": "a version of a recording from which copies are made",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the master copy"
+          }
+        ]
+      },
+      {
+        "definition": "a title used when speaking to or about a boy who is too young to be called Mr (also used in front of the name on an envelope, etc.)",
+        "examples": []
+      },
+      {
+        "definition": "(in the UK) the title of the head of some schools and university colleges",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the Master of Wolfson College"
+          }
+        ]
+      },
+      {
+        "definition": "a title used for speaking to or about some religious teachers or leaders",
+        "examples": []
+      },
+      {
+        "definition": "to be free to make your own decisions rather than being told what to do by somebody else",
+        "examples": []
+      },
+      {
+        "definition": "to support two different parties, principles, etc. at the same time",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "mathematical",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mathe/mathematical__gb_1.mp3",
+    "phonetic_text": "/ˌmæθəˈmætɪkl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mathe/mathematical__us_1.mp3",
+    "phonetic_am_text": "/ˌmæθəˈmætɪkl/",
+    "senses": [
+      {
+        "definition": "connected with or involving mathematics",
+        "examples": [
+          {
+            "cf": "",
+            "x": "mathematical calculations/problems/models"
+          },
+          {
+            "cf": "",
+            "x": "to assess children’s mathematical ability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mathematics",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/mathe/mathematics__gb_1.mp3",
+    "phonetic_text": "/ˌmæθəˈmætɪks/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/mathe/mathematics__us_1.mp3",
+    "phonetic_am_text": "/ˌmæθəˈmætɪks/",
+    "senses": [
+      {
+        "definition": "the study of numbers and shapes. Branches of mathematics include arithmetic, algebra, geometry and trigonometry.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the school mathematics curriculum"
+          },
+          {
+            "cf": "",
+            "x": "applied/pure mathematics"
+          }
+        ]
+      },
+      {
+        "definition": "the process of calculating using numbers",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He worked out the very difficult mathematics in great detail."
+          },
+          {
+            "cf": "",
+            "x": "Her proof is a remarkable piece of mathematics."
+          },
+          {
+            "cf": "",
+            "x": "The mathematics of baseball is/are very interesting."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maths",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mat/maths/maths__gb_3.mp3",
+    "phonetic_text": "/mæθs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mat/maths/maths__us_3.mp3",
+    "phonetic_am_text": "/mæθs/",
+    "senses": [
+      {
+        "definition": "mathematics, especially as a subject in school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The core subjects are English, maths and science."
+          },
+          {
+            "cf": "",
+            "x": "a maths teacher"
+          }
+        ]
+      },
+      {
+        "definition": "the process of calculating using numbers",
+        "examples": [
+          {
+            "cf": "",
+            "x": "If my maths is/are right, the answer is 142."
+          },
+          {
+            "cf": "",
+            "x": "The class was struggling to find the solution to a maths problem."
+          },
+          {
+            "cf": "",
+            "x": "Working out the quantities of the ingredients involved some complicated maths."
+          }
+        ]
+      },
+      {
+        "definition": "to think carefully about something before doing it so that you know all the relevant facts or figures",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Do the maths before you take on more debt."
+          },
+          {
+            "cf": "",
+            "x": "If only someone had done the maths!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "meaning",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mea/meani/meaning__gb_1.mp3",
+    "phonetic_text": "/ˈmiːnɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meani/meaning__us_3.mp3",
+    "phonetic_am_text": "/ˈmiːnɪŋ/",
+    "senses": [
+      {
+        "definition": "the thing or idea that a sound, word, sign, etc. represents",
+        "examples": [
+          {
+            "cf": "",
+            "x": "What's the meaning of this word?"
+          },
+          {
+            "cf": "",
+            "x": "Words often have several meanings."
+          },
+          {
+            "cf": "",
+            "x": "I am using the word with its original meaning."
+          },
+          {
+            "cf": "",
+            "x": "The literal meaning of China is ‘the country at the centre’."
+          },
+          {
+            "cf": "",
+            "x": "‘Honesty’? He doesn't know the meaning of the word!"
+          }
+        ]
+      },
+      {
+        "definition": "the things or ideas that somebody wishes to communicate to you by what they say or do",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is important to make your meaning clear."
+          },
+          {
+            "cf": "",
+            "x": "I don't quite get your meaning (= understand what you mean to say)."
+          },
+          {
+            "cf": "",
+            "x": "What's the meaning of this? I explicitly told you not to leave the room."
+          }
+        ]
+      },
+      {
+        "definition": "the real importance of a feeling or an experience",
+        "examples": [
+          {
+            "cf": "",
+            "x": "With Anna he learned the meaning of love."
+          },
+          {
+            "cf": "",
+            "x": "The story explores the true meaning of freedom."
+          },
+          {
+            "cf": "",
+            "x": "It is difficult to grasp the meaning of these events."
+          }
+        ]
+      },
+      {
+        "definition": "the ideas that a writer, artist, etc. wishes to communicate through a book, painting, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "several layers of meaning"
+          },
+          {
+            "cf": "",
+            "x": "There are, of course, deeper meanings in the poem."
+          },
+          {
+            "cf": "",
+            "x": "This chapter is important if the reader is to understand the full meaning of this novel."
+          }
+        ]
+      },
+      {
+        "definition": "the quality or sense of purpose that makes you feel that your life is valuable",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her life seemed to have lost all meaning."
+          },
+          {
+            "cf": "",
+            "x": "Having a child gave new meaning to their lives."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mentor",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/mento/mentor__gb_1.mp3",
+    "phonetic_text": "/ˈmentɔː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/men/mento/mentor__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈmentɔːr/",
+    "senses": [
+      {
+        "definition": "an experienced person who advises and helps somebody with less experience over a period of time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was a friend and mentor to many young actors."
+          },
+          {
+            "cf": "",
+            "x": "His former coach had remained his mentor throughout his career."
+          }
+        ]
+      },
+      {
+        "definition": "an experienced person in a company, university, etc. who trains and advises new employees or students",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Regular meetings between mentor and trainee help guide young engineers through their early years."
+          },
+          {
+            "cf": "",
+            "x": "The company runs a mentor programme."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "merit",
+    "level": "C1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mer/merit/merit__gb_1.mp3",
+    "phonetic_text": "/ˈmerɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/merit/merit__us_1.mp3",
+    "phonetic_am_text": "/ˈmerɪt/",
+    "senses": [
+      {
+        "definition": "the quality of being good and of deserving praise or reward",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a work of outstanding artistic merit"
+          },
+          {
+            "cf": "without merit",
+            "x": "The plan is entirely without merit."
+          },
+          {
+            "cf": "on merit",
+            "x": "I want to get the job on merit."
+          },
+          {
+            "cf": "",
+            "x": "He was awarded a certificate of merit for his piano playing."
+          }
+        ]
+      },
+      {
+        "definition": "a good feature that deserves praise or reward",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We will consider each case on its (own) merits (= without considering any other issues, feelings, etc.)."
+          },
+          {
+            "cf": "",
+            "x": "They weighed up the relative merits of the four candidates."
+          }
+        ]
+      },
+      {
+        "definition": "a grade in an exam or for a piece of work at school or university that is very good",
+        "examples": []
+      },
+      {
+        "definition": "a special mark or award given as a reward for good behaviour at school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Other schools already have merit systems in place that reward good behaviour and attitudes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "method",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metho/method__gb_2.mp3",
+    "phonetic_text": "/ˈmeθəd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metho/method__us_1.mp3",
+    "phonetic_am_text": "/ˈmeθəd/",
+    "senses": [
+      {
+        "definition": "a particular way of doing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Which method is the most effective?"
+          },
+          {
+            "cf": "",
+            "x": "traditional/alternative methods"
+          },
+          {
+            "cf": "method of something",
+            "x": "a scientific method of data analysis"
+          },
+          {
+            "cf": "method of doing something",
+            "x": "a reliable method of measuring blood pressure"
+          },
+          {
+            "cf": "method for (doing) something",
+            "x": "the best method for arriving at an accurate prediction of the costs"
+          },
+          {
+            "cf": "method to do something",
+            "x": "Developing new methods to keep insects out of food packages is critical."
+          },
+          {
+            "cf": "",
+            "x": "to use/employ/apply a method"
+          },
+          {
+            "cf": "",
+            "x": "to devise/propose/adopt a method"
+          },
+          {
+            "cf": "",
+            "x": "He's quite critical of modern teaching methods."
+          }
+        ]
+      },
+      {
+        "definition": "the quality of being well planned and organized",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There's very little method in his approach."
+          },
+          {
+            "cf": "",
+            "x": "We have to apply some method to this investigation."
+          }
+        ]
+      },
+      {
+        "definition": "there is a reason for somebody’s behaviour and it is not as strange or as stupid as it seems",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "methodology",
+    "level": "C1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/met/metho/methodology__gb_2.mp3",
+    "phonetic_text": "/ˌmeθəˈdɒlədʒi/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/met/metho/methodology__us_1.mp3",
+    "phonetic_am_text": "/ˌmeθəˈdɑːlədʒi/",
+    "senses": [
+      {
+        "definition": "a set of methods and principles used to perform a particular activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "recent changes in the methodology of language teaching"
+          },
+          {
+            "cf": "",
+            "x": "research methodologies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "multiply",
+    "level": "B1",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/mul/multi/multiply__gb_4.mp3",
+    "phonetic_text": "/ˈmʌltɪplaɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mul/multi/multiply__us_3.mp3",
+    "phonetic_am_text": "/ˈmʌltɪplaɪ/",
+    "senses": [
+      {
+        "definition": "to add a number to itself a particular number of times",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The children are already learning to multiply and divide."
+          },
+          {
+            "cf": "multiply A by B",
+            "x": "2 multiplied by 4 is/equals/makes 8 (= 2 × 4  =  8)."
+          },
+          {
+            "cf": "",
+            "x": "Multiply the length by the width."
+          },
+          {
+            "cf": "multiply A and B (together)",
+            "x": "Multiply 2 and 6 together and you get 12."
+          },
+          {
+            "cf": "multiply something up",
+            "x": "If you are cooking for more people, just multiply up the quantities."
+          }
+        ]
+      },
+      {
+        "definition": "to increase or make something increase very much in number or amount",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Our problems have multiplied since last year."
+          },
+          {
+            "cf": "multiply something",
+            "x": "Cigarette smoking multiplies the risk of cancer."
+          }
+        ]
+      },
+      {
+        "definition": "to produce young animals, bacteria, etc. in large numbers",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Rabbits multiply rapidly."
+          },
+          {
+            "cf": "",
+            "x": " Protected reserves help tigers survive and multiply."
+          },
+          {
+            "cf": "",
+            "x": "microorganisms that multiply rapidly"
+          },
+          {
+            "cf": "multiply something",
+            "x": "It is possible to multiply these bacteria in the laboratory."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "note",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/note_/note__gb_2.mp3",
+    "phonetic_text": "/nəʊt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/note_/note__us_1.mp3",
+    "phonetic_am_text": "/nəʊt/",
+    "senses": [
+      {
+        "definition": "a short piece of writing to help you remember something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Please make a note of the dates."
+          },
+          {
+            "cf": "",
+            "x": "She made a mental note (= decided that she must remember) to ask Alan about it."
+          },
+          {
+            "cf": "",
+            "x": "Note to self (= a mental instruction): book more holidays."
+          }
+        ]
+      },
+      {
+        "definition": "a short informal letter",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Just a quick note to say thank you for a wonderful evening."
+          },
+          {
+            "cf": "",
+            "x": "She left a note for Ben on the kitchen table."
+          },
+          {
+            "cf": "",
+            "x": "He wrote a note to his parents saying he was leaving."
+          }
+        ]
+      },
+      {
+        "definition": "information that you write down when somebody is speaking, or when you are reading a book, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He sat taking notes of everything that was said."
+          },
+          {
+            "cf": "",
+            "x": "Can I borrow your lecture notes?"
+          }
+        ]
+      },
+      {
+        "definition": "detailed information that is kept about a particular person, topic or situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Patients' medical notes have gone missing."
+          },
+          {
+            "cf": "notes on something",
+            "x": "He kept notes on the birds, mammals, reptiles and plants he saw on walks."
+          }
+        ]
+      },
+      {
+        "definition": "information about a performance, an actor’s career, a piece of music, etc. printed in a special book or on a record cover, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The booklet has full notes on each artist."
+          },
+          {
+            "cf": "",
+            "x": "The catalogue contains detailed notes on each painting."
+          },
+          {
+            "cf": "",
+            "x": "The sleeve notes include a short biography of the performers on this recording."
+          }
+        ]
+      },
+      {
+        "definition": "a short comment on a word or passage in a book",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a new edition of ‘Hamlet’, with explanatory notes"
+          },
+          {
+            "cf": "",
+            "x": "See note 3, page 259."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of paper money",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a £5 note"
+          },
+          {
+            "cf": "",
+            "x": "We only exchange notes and traveller's cheques."
+          },
+          {
+            "cf": "",
+            "x": "a thick wad of notes"
+          }
+        ]
+      },
+      {
+        "definition": "a single sound of a particular length and pitch (= how high or low a sound is), made by the voice or a musical instrument; the written or printed sign for a musical note",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He played the first few notes of the tune."
+          },
+          {
+            "cf": "",
+            "x": "high/low notes"
+          },
+          {
+            "cf": "",
+            "x": "I played a lot of wrong notes because I was so nervous."
+          }
+        ]
+      },
+      {
+        "definition": "a particular quality in something, for example in somebody’s voice or the atmosphere at an event; a comment on something with a particular quality",
+        "examples": [
+          {
+            "cf": "note of something",
+            "x": "There was a note of amusement in his voice."
+          },
+          {
+            "cf": "on a… note",
+            "x": "It's good to finish on a positive note."
+          },
+          {
+            "cf": "",
+            "x": "On a more serious note (= speaking more seriously)…"
+          },
+          {
+            "cf": "",
+            "x": "On a slightly different note (= changing the subject slightly), let’s talk about…"
+          },
+          {
+            "cf": "",
+            "x": "The year ended on an optimistic note."
+          },
+          {
+            "cf": "",
+            "x": "As a side note, the entire festival is free. "
+          }
+        ]
+      },
+      {
+        "definition": "an official document with a particular purpose",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sick note from your doctor"
+          },
+          {
+            "cf": "",
+            "x": "The buyer has to sign a delivery note as proof of receipt."
+          },
+          {
+            "cf": "",
+            "x": "Students returning to school after absence must bring a note from their parents."
+          }
+        ]
+      },
+      {
+        "definition": "an official letter from the representative of one government to another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an exchange of diplomatic notes"
+          }
+        ]
+      },
+      {
+        "definition": "if two or more people compare notes, they each say what they think about the same event, situation, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We saw the play separately and compared notes afterwards."
+          },
+          {
+            "cf": "",
+            "x": "Let's compare notes on our experiences."
+          }
+        ]
+      },
+      {
+        "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It is a bizarre tale and the author hits just the right note of horror and disbelief."
+          },
+          {
+            "cf": "",
+            "x": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
+          }
+        ]
+      },
+      {
+        "definition": "of importance or of great interest",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a scientist of note"
+          },
+          {
+            "cf": "",
+            "x": "The museum contains nothing of great note."
+          }
+        ]
+      },
+      {
+        "definition": "to express feelings or opinions of a particular kind",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She sounded a note of warning in her speech."
+          },
+          {
+            "cf": "",
+            "x": "The touch of cynicism struck a slightly sour note."
+          }
+        ]
+      },
+      {
+        "definition": "to pay attention to something and be sure to remember it",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Take note of what he says."
+          },
+          {
+            "cf": "",
+            "x": "Under the new rules the penalty for illegal play is increased. Players take note."
+          },
+          {
+            "cf": "",
+            "x": "He took careful note of the suspicious-looking man in the corner of the bar."
+          }
+        ]
+      },
+      {
+        "definition": "worth paying attention to",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The frescoes are worthy of note."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "notebook",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/noteb/notebook__gb_1.mp3",
+    "phonetic_text": "/ˈnəʊtbʊk/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/noteb/notebook__us_1.mp3",
+    "phonetic_am_text": "/ˈnəʊtbʊk/",
+    "senses": [
+      {
+        "definition": "a small book of plain paper for writing notes in",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The police officer wrote the details down in his notebook."
+          },
+          {
+            "cf": "",
+            "x": "She kept a notebook (= wrote notes in it) during the trip."
+          }
+        ]
+      },
+      {
+        "definition": "a small book for students to write their work in",
+        "examples": []
+      },
+      {
+        "definition": "a small computer that can work with a battery and be easily carried",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "notion",
+    "level": "C1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notio/notion__gb_1.mp3",
+    "phonetic_text": "/ˈnəʊʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notio/notion__us_1.mp3",
+    "phonetic_am_text": "/ˈnəʊʃn/",
+    "senses": [
+      {
+        "definition": "an idea, a belief or an understanding of something",
+        "examples": [
+          {
+            "cf": "notion of something",
+            "x": "a political system based on the notions of equality and liberty"
+          },
+          {
+            "cf": "",
+            "x": "She had only a vague notion of what might happen."
+          },
+          {
+            "cf": "",
+            "x": "He has no notion of the difficulty of the problem."
+          },
+          {
+            "cf": "",
+            "x": "The author challenges preconceived notions of storytelling."
+          },
+          {
+            "cf": "",
+            "x": "She dismissed the very notion of compromise."
+          },
+          {
+            "cf": "notion that…",
+            "x": "I have to reject the notion that greed can be a good thing."
+          },
+          {
+            "cf": "notion how, what, why, etc…",
+            "x": "I haven't the faintest notion how to get there."
+          },
+          {
+            "cf": "notion about something",
+            "x": "I don't have any romantic notions about rural living."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nursery",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nur/nurse/nursery__gb_1.mp3",
+    "phonetic_text": "/ˈnɜːsəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nur/nurse/nursery__us_1.mp3",
+    "phonetic_am_text": "/ˈnɜːrsəri/",
+    "senses": [
+      {
+        "definition": "a place where young children are cared for while their parents are at work; a day nursery or nursery school",
+        "examples": [
+          {
+            "cf": "at nursery",
+            "x": "Her youngest child is at nursery now."
+          },
+          {
+            "cf": "",
+            "x": "The children are at nursery three days a week."
+          }
+        ]
+      },
+      {
+        "definition": "a room in a house where a baby sleeps",
+        "examples": []
+      },
+      {
+        "definition": "a room in a house where young children can play",
+        "examples": []
+      },
+      {
+        "definition": "a place where young plants and trees are grown for sale or for planting somewhere else",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "page",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pag/page_/page__gb_1.mp3",
+    "phonetic_text": "/peɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pag/page_/page__us_1.mp3",
+    "phonetic_am_text": "/peɪdʒ/",
+    "senses": [
+      {
+        "definition": "one side or both sides of a sheet of paper in a book, magazine, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Turn to page 64."
+          },
+          {
+            "cf": "",
+            "x": "Someone has torn a page out of this book."
+          },
+          {
+            "cf": "",
+            "x": "She slowly turned the pages of the album."
+          },
+          {
+            "cf": "",
+            "x": "a blank page"
+          },
+          {
+            "cf": "",
+            "x": "the title/index page"
+          },
+          {
+            "cf": "",
+            "x": "the sports/news pages of the newspaper"
+          },
+          {
+            "cf": "",
+            "x": "the letters/opinion page"
+          },
+          {
+            "cf": "",
+            "x": "Some newspapers devoted several pages to the scandal."
+          },
+          {
+            "cf": "on a page",
+            "x": "The photograph was on the front page of every newspaper."
+          },
+          {
+            "cf": "",
+            "x": "on the opposite/facing/next page"
+          },
+          {
+            "cf": "over the page",
+            "x": "The address is over the page (= on the next page)."
+          }
+        ]
+      },
+      {
+        "definition": "a section of data or information that can be shown on a computer screen at any one time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to visit/view a page"
+          },
+          {
+            "cf": "",
+            "x": "to load/update a page"
+          },
+          {
+            "cf": "",
+            "x": "Press F5 to refresh the page."
+          },
+          {
+            "cf": "",
+            "x": "The page was really slow to load."
+          },
+          {
+            "cf": "",
+            "x": "an X/Instagram page"
+          },
+          {
+            "cf": "on a page",
+            "x": "The message was posted on the company's official Facebook page. "
+          },
+          {
+            "cf": "",
+            "x": "This photo will no longer appear on your profile page."
+          }
+        ]
+      },
+      {
+        "definition": "an important event or period of history",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a glorious page of Arab history"
+          }
+        ]
+      },
+      {
+        "definition": "a small boy who helps or follows a bride during a marriage ceremony",
+        "examples": []
+      },
+      {
+        "definition": "a boy or young man, usually in uniform, employed in a hotel to open doors, deliver messages for people, etc.",
+        "examples": []
+      },
+      {
+        "definition": "a student who works as an assistant to a member of the US Congress",
+        "examples": []
+      },
+      {
+        "definition": "a boy or young man who worked for a knight while training to be a knight himself",
+        "examples": []
+      },
+      {
+        "definition": "if two or more people or groups are on the same page, they agree about what they are trying to achieve",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Are employers and employees on the same page when it comes to retirement benefits?"
+          },
+          {
+            "cf": "",
+            "x": "It was an effort to get us all on the same page."
+          }
+        ]
+      },
+      {
+        "definition": "what is published in books, newspapers, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the power of the printed word"
+          }
+        ]
+      },
+      {
+        "definition": "to begin doing things in a different way and thinking in a more positive way after a period of difficulties",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It’s time to turn the page and make a fresh start."
+          },
+          {
+            "cf": "",
+            "x": "He turned the page on that chapter in his life a long time ago."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "paper",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pap/paper/paper__gb_1.mp3",
+    "phonetic_text": "/ˈpeɪpə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pap/paper/paper__us_3.mp3",
+    "phonetic_am_text": "/ˈpeɪpər/",
+    "senses": [
+      {
+        "definition": "the thin material that you write and draw on and that is also used for wrapping and packing things",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a piece/sheet of paper"
+          },
+          {
+            "cf": "",
+            "x": "She wrote her name and address on a slip (= a small piece) of paper."
+          },
+          {
+            "cf": "",
+            "x": "He scribbled the number on a scrap of paper."
+          },
+          {
+            "cf": "",
+            "x": "a package wrapped in brown paper"
+          },
+          {
+            "cf": "",
+            "x": "recycled paper"
+          },
+          {
+            "cf": "",
+            "x": "Make sure you have pen and paper handy."
+          },
+          {
+            "cf": "on/onto paper",
+            "x": "The image is copied onto paper."
+          },
+          {
+            "cf": "",
+            "x": "He brought his lunch in a brown paper bag."
+          },
+          {
+            "cf": "",
+            "x": "a paper cup/plate/napkin"
+          },
+          {
+            "cf": "",
+            "x": "This journal is available in paper and electronic form."
+          },
+          {
+            "cf": "",
+            "x": "Experience is more important for this job than paper qualifications (= that exist as official documents but may not have any real value)."
+          },
+          {
+            "cf": "",
+            "x": "paper losses/profits (= that are shown in accounts but which may not exist in reality)"
+          }
+        ]
+      },
+      {
+        "definition": "a newspaper",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the daily/morning paper"
+          },
+          {
+            "cf": "",
+            "x": "the local paper"
+          },
+          {
+            "cf": "",
+            "x": "Have you seen today's paper?"
+          },
+          {
+            "cf": "",
+            "x": "He sat down to read the paper."
+          },
+          {
+            "cf": "in the paper",
+            "x": "I read about it in the paper."
+          },
+          {
+            "cf": "",
+            "x": "She put an ad in the paper pleading for the dog's return."
+          },
+          {
+            "cf": "",
+            "x": "The papers (= newspapers in general) soon got hold of the story."
+          }
+        ]
+      },
+      {
+        "definition": "pieces of paper with writing on them, such as letters, pieces of work or private documents",
+        "examples": [
+          {
+            "cf": "",
+            "x": "His desk was covered with books and papers."
+          },
+          {
+            "cf": "",
+            "x": "a stack/pile of papers"
+          },
+          {
+            "cf": "",
+            "x": "I found these documents among my father's papers after his death."
+          },
+          {
+            "cf": "",
+            "x": "He increasingly confined himself to his study, surrounded by books and papers."
+          },
+          {
+            "cf": "",
+            "x": "It's hard to work if there's a stack of papers on your desk."
+          },
+          {
+            "cf": "",
+            "x": "She was sorting through a big pile of papers."
+          },
+          {
+            "cf": "",
+            "x": "She was clutching her file full of papers."
+          },
+          {
+            "cf": "",
+            "x": "He didn't leave behind much in the way of memoirs, letters, or other personal papers."
+          },
+          {
+            "cf": "",
+            "x": "He destroyed all his personal papers relating to the period."
+          },
+          {
+            "cf": "",
+            "x": "She had access to all of Karen Blixen's private papers."
+          },
+          {
+            "cf": "",
+            "x": "In his private papers he recorded the news of Napoleon's death."
+          },
+          {
+            "cf": "",
+            "x": "Papers found in the palace only confirmed suspicions about his treachery. "
+          },
+          {
+            "cf": "",
+            "x": "The poems were printed from papers found in his rooms by his housekeeper. "
+          },
+          {
+            "cf": "",
+            "x": "The archive includes papers and correspondence belonging to the late musician."
+          },
+          {
+            "cf": "",
+            "x": "I found some papers relating to the case in his desk."
+          }
+        ]
+      },
+      {
+        "definition": "official documents that prove your identity, give you permission to do something, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "identity papers"
+          },
+          {
+            "cf": "",
+            "x": "The couple filed divorce papers at Los Angeles court on Monday."
+          },
+          {
+            "cf": "",
+            "x": "Teresa signed the adoption papers."
+          },
+          {
+            "cf": "",
+            "x": "Immigration officials will ask to see your papers."
+          }
+        ]
+      },
+      {
+        "definition": "a set of exam questions on a particular subject; the answers that people write to the questions",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The geography paper was hard."
+          },
+          {
+            "cf": "",
+            "x": "She spent the evening marking exam papers."
+          }
+        ]
+      },
+      {
+        "definition": "an academic article about a particular subject that is written by and for specialists",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a recent paper in the Journal of Medicine"
+          },
+          {
+            "cf": "paper on something",
+            "x": "He has published a research paper on the topic."
+          },
+          {
+            "cf": "",
+            "x": "a consultation/discussion paper "
+          },
+          {
+            "cf": "",
+            "x": "She was invited to give a paper (= a talk) at an international scientific congress."
+          }
+        ]
+      },
+      {
+        "definition": "a piece of written work done by a student",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Your grade will be based on four papers and a final exam."
+          },
+          {
+            "cf": "paper on something",
+            "x": "I'm writing a paper on ‘Macbeth’."
+          }
+        ]
+      },
+      {
+        "definition": "paper that you use to cover and decorate the walls of a room",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The room was damp and the paper was peeling off."
+          }
+        ]
+      },
+      {
+        "definition": "having no value, especially legally, or because one of the people involved has no intention of doing what they said they would",
+        "examples": []
+      },
+      {
+        "definition": "when you put something on paper, you write it down",
+        "examples": []
+      },
+      {
+        "definition": "judged from written information only, but not proved in practice",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The idea looks good on paper."
+          }
+        ]
+      },
+      {
+        "definition": "to write or start to write something",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "paragraph",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/parag/paragraph__gb_3.mp3",
+    "phonetic_text": "/ˈpærəɡrɑːf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parag/paragraph__us_1.mp3",
+    "phonetic_am_text": "/ˈpærəɡræf/",
+    "senses": [
+      {
+        "definition": "a section of a piece of writing, usually consisting of several sentences dealing with a single subject. The first sentence of a paragraph starts on a new line.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an opening/introductory paragraph"
+          },
+          {
+            "cf": "",
+            "x": "Write a paragraph on each of the topics given below."
+          },
+          {
+            "cf": "",
+            "x": "See paragraph 15 of the handbook."
+          },
+          {
+            "cf": "",
+            "x": "The basic idea is summarized in the following paragraphs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "participate",
+    "level": "B1",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/par/parti/participate__gb_3.mp3",
+    "phonetic_text": "/pɑːˈtɪsɪpeɪt/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parti/participate__us_1.mp3",
+    "phonetic_am_text": "/pɑːrˈtɪsɪpeɪt/",
+    "senses": [
+      {
+        "definition": "to take part in or become involved in an activity",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Anyone who wishes to participate is welcome."
+          },
+          {
+            "cf": "participate in something",
+            "x": "She didn't participate in the discussion."
+          },
+          {
+            "cf": "",
+            "x": "to participate in a study/programme"
+          },
+          {
+            "cf": "",
+            "x": "to participate in an activity/event"
+          },
+          {
+            "cf": "",
+            "x": "We encourage students to participate fully in the running of the college."
+          },
+          {
+            "cf": "",
+            "x": "The women actively participated in the creation of the artwork."
+          },
+          {
+            "cf": "",
+            "x": "Other countries were invited to participate in the project."
+          },
+          {
+            "cf": "",
+            "x": "All employees at least 21 years old are eligible to participate."
+          },
+          {
+            "cf": "",
+            "x": "Details of the competition are available at all participating stores."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "passage",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pas/passa/passage__gb_1.mp3",
+    "phonetic_text": "/ˈpæsɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/passa/passage__us_5.mp3",
+    "phonetic_am_text": "/ˈpæsɪdʒ/",
+    "senses": [
+      {
+        "definition": "a long narrow area with walls on either side that connects one room or place with another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "A dark narrow passage led to the main hall."
+          },
+          {
+            "cf": "",
+            "x": "a secret underground passage"
+          }
+        ]
+      },
+      {
+        "definition": "a tube in the body through which air, liquid, etc. passes",
+        "examples": [
+          {
+            "cf": "",
+            "x": "blocked nasal passages"
+          }
+        ]
+      },
+      {
+        "definition": "a short section from a book, piece of music, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Read the following passage and answer the questions below."
+          },
+          {
+            "cf": "",
+            "x": "I have quoted this passage at length."
+          },
+          {
+            "cf": "passage from/in something",
+            "x": "a passage from the Bible "
+          }
+        ]
+      },
+      {
+        "definition": "the process of time passing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her confidence grew with the passage of time."
+          },
+          {
+            "cf": "",
+            "x": "rituals which mark the passage of the seasons"
+          }
+        ]
+      },
+      {
+        "definition": "the process of discussing a bill in a parliament so that it can become law",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The bill is now guaranteed an easy passage through the House of Representatives."
+          }
+        ]
+      },
+      {
+        "definition": "a journey from one place to another by ship",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her grandfather had worked his passage (= worked on a ship to pay for the journey) to America."
+          }
+        ]
+      },
+      {
+        "definition": "a way through something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The officers forced a passage through the crowd."
+          }
+        ]
+      },
+      {
+        "definition": "the action of going across, through or past something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Large trees may obstruct the passage of light."
+          }
+        ]
+      },
+      {
+        "definition": "the permission to travel across a particular area of land",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were promised (a) speedy passage through the border."
+          },
+          {
+            "cf": "",
+            "x": "If the law were passed, EU nationals would no longer enjoy free passage through member states."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "passive",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pas/passi/passive__gb_1.mp3",
+    "phonetic_text": "/ˈpæsɪv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/passi/passive__us_1.mp3",
+    "phonetic_am_text": "/ˈpæsɪv/",
+    "senses": [
+      {
+        "definition": "accepting what happens or what people do without trying to change anything or oppose them",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He played a passive role in the relationship."
+          },
+          {
+            "cf": "",
+            "x": "a passive observer of events"
+          },
+          {
+            "cf": "",
+            "x": "She wore a passive expression on her face as if she didn’t care what happened."
+          }
+        ]
+      },
+      {
+        "definition": "connected with the form of a verb used when the subject is affected by the action of the verb, for example He was bitten by a dog.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "pathway",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/pathw/pathway__gb_1.mp3",
+    "phonetic_text": "/ˈpɑːθweɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/pathw/pathway__us_1.mp3",
+    "phonetic_am_text": "/ˈpæθweɪ/",
+    "senses": [
+      {
+        "definition": "a track that serves as a path",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They came out of the woods and onto a pathway."
+          }
+        ]
+      },
+      {
+        "definition": "a plan of action or way of achieving something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We help students define and develop a clear career pathway."
+          }
+        ]
+      },
+      {
+        "definition": "a route formed by a chain of nerve cells along which electrical signals travel from one part of the body to another",
+        "examples": [
+          {
+            "cf": "",
+            "x": "neural pathways"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pattern",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pat/patte/pattern__gb_2.mp3",
+    "phonetic_text": "/ˈpætn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pat/patte/pattern__us_3.mp3",
+    "phonetic_am_text": "/ˈpætərn/",
+    "senses": [
+      {
+        "definition": "the regular way in which something happens or is done",
+        "examples": [
+          {
+            "cf": "",
+            "x": "changing patterns of urban life"
+          },
+          {
+            "cf": "",
+            "x": "We have no way of predicting next year's weather patterns."
+          },
+          {
+            "cf": "",
+            "x": "behaviour/sleep/growth patterns"
+          },
+          {
+            "cf": "",
+            "x": "stress/intonation/speech patterns"
+          },
+          {
+            "cf": "",
+            "x": "Wages in both sectors have followed a similar pattern."
+          },
+          {
+            "cf": "",
+            "x": "The studies show different patterns of distribution. "
+          },
+          {
+            "cf": "",
+            "x": "The music contains repeated rhythmic patterns."
+          }
+        ]
+      },
+      {
+        "definition": "an excellent example to copy",
+        "examples": [
+          {
+            "cf": "",
+            "x": "This system sets the pattern for others to follow."
+          }
+        ]
+      },
+      {
+        "definition": "a regular arrangement of lines, shapes, colours, etc. for example as a design on material, carpets, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pattern of diamonds and squares"
+          },
+          {
+            "cf": "",
+            "x": "a shirt with a floral pattern"
+          },
+          {
+            "cf": "",
+            "x": "complex geometric patterns"
+          }
+        ]
+      },
+      {
+        "definition": "a design, set of instructions or shape to cut around that you use in order to make something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a knitting pattern"
+          },
+          {
+            "cf": "",
+            "x": "She bought a dress pattern and some material."
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of material, paper, etc. that helps you choose the design of something ",
+        "examples": [
+          {
+            "cf": "",
+            "x": "wallpaper patterns"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pen",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pen/pen__/pen__gb_2.mp3",
+    "phonetic_text": "/pen/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pen/pen__/pen__us_1.mp3",
+    "phonetic_am_text": "/pen/",
+    "senses": [
+      {
+        "definition": "an instrument made of plastic or metal used for writing with ink (= coloured liquid for writing, etc.)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "an ink pen"
+          },
+          {
+            "cf": "",
+            "x": "Let me grab a pen."
+          },
+          {
+            "cf": "",
+            "x": "to use pen and paper"
+          },
+          {
+            "cf": "",
+            "x": "pen and ink"
+          },
+          {
+            "cf": "in pen",
+            "x": "a message written in red pen (= using a red pen)"
+          },
+          {
+            "cf": "from the pen of somebody",
+            "x": "a new book from the pen of (= written by) Zadie Smith"
+          }
+        ]
+      },
+      {
+        "definition": "a small piece of land surrounded by a fence in which farm animals are kept",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a sheep pen"
+          }
+        ]
+      },
+      {
+        "definition": "a penitentiary (= a prison)",
+        "examples": []
+      },
+      {
+        "definition": "a penalty (= a chance to score a goal without any defending players, except the goalkeeper, trying to stop it)",
+        "examples": [
+          {
+            "cf": "",
+            "x": "That was a terrible pen."
+          }
+        ]
+      },
+      {
+        "definition": "people who write books, poems, etc. have a greater effect on history and human affairs than soldiers and wars",
+        "examples": []
+      },
+      {
+        "definition": "to write or start to write something",
+        "examples": []
+      },
+      {
+        "definition": "a small mistake in something that you write or say",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Sorry, it was a slip of the pen—I meant to write ‘pheasants’, not ‘peasants’."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pencil",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pen/penci/pencil__gb_1.mp3",
+    "phonetic_text": "/ˈpensl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pen/penci/pencil__us_1.mp3",
+    "phonetic_am_text": "/ˈpensl/",
+    "senses": [
+      {
+        "definition": "a narrow piece of wood, or a metal or plastic case, containing a black or coloured substance, used for drawing or writing",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'll get a pencil and paper."
+          },
+          {
+            "cf": "",
+            "x": "coloured pencils"
+          },
+          {
+            "cf": "",
+            "x": "I need to sharpen my pencil."
+          },
+          {
+            "cf": "in pencil",
+            "x": "She scribbled a note in pencil."
+          },
+          {
+            "cf": "",
+            "x": "margin notes in pencil"
+          },
+          {
+            "cf": "",
+            "x": "Each picture was carefully drawn with pencil and then colour was added. "
+          },
+          {
+            "cf": "",
+            "x": "a pencil drawing/sketch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "perceive",
+    "level": "C1",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perce/perceive__gb_1.mp3",
+    "phonetic_text": "/pəˈsiːv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/perce/perceive__us_1.mp3",
+    "phonetic_am_text": "/pərˈsiːv/",
+    "senses": [
+      {
+        "definition": "to understand or think of somebody/something in a particular way",
+        "examples": [
+          {
+            "cf": "perceive somebody/something/yourself (as something)",
+            "x": "This discovery was perceived as a major breakthrough."
+          },
+          {
+            "cf": "",
+            "x": "I do not perceive myself as an expert."
+          },
+          {
+            "cf": "",
+            "x": "A science degree and artistic interests are often perceived as incompatible."
+          },
+          {
+            "cf": "perceive somebody/something to be/have something",
+            "x": "They were widely perceived to have been unlucky."
+          }
+        ]
+      },
+      {
+        "definition": "to notice or become aware of something",
+        "examples": [
+          {
+            "cf": "perceive something",
+            "x": "I perceived a change in his behaviour."
+          },
+          {
+            "cf": "perceive that…",
+            "x": "She perceived that all was not well."
+          },
+          {
+            "cf": "perceive somebody/something to be/have something",
+            "x": "The patient was perceived to have difficulty in breathing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "percentage",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perce/percentage__gb_2.mp3",
+    "phonetic_text": "/pəˈsentɪdʒ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/perce/percentage__us_2.mp3",
+    "phonetic_am_text": "/pərˈsentɪdʒ/",
+    "senses": [
+      {
+        "definition": "the number, amount or rate of something, expressed as if it is part of a total that is 100; a part or share of a whole",
+        "examples": [
+          {
+            "cf": "percentage of something/somebody",
+            "x": "What percentage of the population is/are overweight?"
+          },
+          {
+            "cf": "",
+            "x": "A high percentage of the female staff are part-time workers."
+          },
+          {
+            "cf": "",
+            "x": "a large/small/low percentage"
+          },
+          {
+            "cf": "as a percentage",
+            "x": "The figure is expressed as a percentage."
+          },
+          {
+            "cf": "",
+            "x": "The results were analysed in percentage terms."
+          },
+          {
+            "cf": "",
+            "x": "Interest rates are expected to rise by one percentage point (= a unit of one per cent)."
+          }
+        ]
+      },
+      {
+        "definition": "a share of the profits of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He gets a percentage for every car sold."
+          },
+          {
+            "cf": "",
+            "x": "The artist's agent receives commission on a percentage basis."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "perception",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perce/perception__gb_2.mp3",
+    "phonetic_text": "/pəˈsepʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/perce/perception__us_1.mp3",
+    "phonetic_am_text": "/pərˈsepʃn/",
+    "senses": [
+      {
+        "definition": "an idea, a belief or an image you have as a result of how you see or understand something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a campaign to change public perception of the police"
+          },
+          {
+            "cf": "perception that…",
+            "x": "There is a general public perception that standards in schools are falling."
+          }
+        ]
+      },
+      {
+        "definition": "the way you notice things, especially with the senses",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Everyone's perception of reality is slightly different."
+          },
+          {
+            "cf": "",
+            "x": "visual perception"
+          }
+        ]
+      },
+      {
+        "definition": "the ability to understand the true nature of something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She showed great perception in her assessment of the family situation."
+          },
+          {
+            "cf": "",
+            "x": "They have little perception of how ordinary people live their lives."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "perspective",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/persp/perspective__gb_2.mp3",
+    "phonetic_text": "/pəˈspektɪv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/per/persp/perspective__us_2.mp3",
+    "phonetic_am_text": "/pərˈspektɪv/",
+    "senses": [
+      {
+        "definition": "a particular attitude towards something; a way of thinking about something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a global perspective"
+          },
+          {
+            "cf": "",
+            "x": "A historical perspective may help us understand the issue."
+          },
+          {
+            "cf": "",
+            "x": "Recent events seem less serious when put into an international perspective."
+          },
+          {
+            "cf": "",
+            "x": "The aim is to offer a fresh perspective."
+          },
+          {
+            "cf": "from a… perspective",
+            "x": "Try to see the issue from a different perspective."
+          },
+          {
+            "cf": "from the perspective of somebody/something",
+            "x": "a report that looks at the education system from the perspective of deaf people"
+          },
+          {
+            "cf": "perspective on something",
+            "x": "The exhibition provides us with a unique perspective on her work."
+          }
+        ]
+      },
+      {
+        "definition": "the ability to think about problems and decisions in a reasonable way without making them seem worse or more important than they really are",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was aware that she was losing all sense of perspective."
+          },
+          {
+            "cf": "",
+            "x": "Try to keep these issues in perspective."
+          },
+          {
+            "cf": "",
+            "x": "Talking to others can often help to put your own problems into perspective."
+          },
+          {
+            "cf": "",
+            "x": "It is important not to let things get out of perspective."
+          }
+        ]
+      },
+      {
+        "definition": "the art of creating an effect of depth and distance in a picture by representing people and things that are far away as being smaller than those that are nearer the front",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The artist plays with perspective to confuse the eye."
+          },
+          {
+            "cf": "in perspective",
+            "x": "We learnt how to draw buildings in perspective."
+          },
+          {
+            "cf": "out of perspective",
+            "x": "The tree on the left is out of perspective."
+          }
+        ]
+      },
+      {
+        "definition": "a view, especially one in which you can see far into the distance",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a perspective of the whole valley"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "phrase",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/phr/phras/phrase__gb_1.mp3",
+    "phonetic_text": "/freɪz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/phr/phras/phrase__us_1.mp3",
+    "phonetic_am_text": "/freɪz/",
+    "senses": [
+      {
+        "definition": "a group of words that have a particular meaning when used together",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a memorable/catchy phrase"
+          },
+          {
+            "cf": "",
+            "x": "‘Start slowly’ is the key phrase for the first-time marathon runner."
+          },
+          {
+            "cf": "",
+            "x": "She was, in her own favourite phrase, ‘a woman without a past’."
+          },
+          {
+            "cf": "",
+            "x": "colourful words and phrases "
+          }
+        ]
+      },
+      {
+        "definition": "a small group of words (usually without a finite verb) that together have a particular meaning and that typically form part of a sentence. ‘the green car’ and ‘on Friday morning’ are phrases.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a two-word phrase"
+          }
+        ]
+      },
+      {
+        "definition": "a short series of notes that form a unit within a longer passage in a piece of music",
+        "examples": []
+      },
+      {
+        "definition": "used to introduce a well-known expression that you have changed slightly in order to be funny",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Tasting is believing, to coin a phrase! (= the usual phrase is ‘seeing is believing’)."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you are aware that you are using an expression that is not new",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Oh well, no news is good news, to coin a phrase."
+          }
+        ]
+      },
+      {
+        "definition": "a particular way of describing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He is meticulous in his choice of words and turns of phrase."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "practice",
+    "level": "A2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pra/pract/practice__gb_2.mp3",
+    "phonetic_text": "/ˈpræktɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pra/pract/practice__us_2.mp3",
+    "phonetic_am_text": "/ˈpræktɪs/",
+    "senses": [
+      {
+        "definition": "doing an activity or training regularly so that you can improve your skill; the time you spend doing this",
+        "examples": [
+          {
+            "cf": "",
+            "x": "conversation practice"
+          },
+          {
+            "cf": "",
+            "x": "It takes a lot of practice to play the violin well."
+          },
+          {
+            "cf": "",
+            "x": "There's a basketball practice every Friday evening."
+          },
+          {
+            "cf": "",
+            "x": "She does an hour's piano practice every day."
+          },
+          {
+            "cf": "with practice",
+            "x": "With practice you will become more skilled."
+          },
+          {
+            "cf": "practice in doing something",
+            "x": "I've had a lot of practice in saying ‘no’ recently!"
+          },
+          {
+            "cf": "",
+            "x": "It takes years of practice to get it right."
+          },
+          {
+            "cf": "",
+            "x": "We had an extra practice session on Friday."
+          }
+        ]
+      },
+      {
+        "definition": "action rather than ideas",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the theory and practice of teaching"
+          },
+          {
+            "cf": "",
+            "x": "She's determined to put her new ideas into practice."
+          },
+          {
+            "cf": "in practice",
+            "x": "the complications that arise in actual practice"
+          }
+        ]
+      },
+      {
+        "definition": "a way of doing something that is the usual or expected way in a particular organization or situation",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Wearing gloves should be standard practice when handling pesticides."
+          },
+          {
+            "cf": "",
+            "x": "These methods remain current practice."
+          },
+          {
+            "cf": "",
+            "x": "It is a common practice to include recommendations for further action in such reports."
+          },
+          {
+            "cf": "",
+            "x": "Everyone knows it is good business practice to listen to your customers."
+          },
+          {
+            "cf": "",
+            "x": "childcare policy and practice"
+          },
+          {
+            "cf": "",
+            "x": "a review of pay and working practices "
+          },
+          {
+            "cf": "",
+            "x": "Religious practices differ from group to group."
+          },
+          {
+            "cf": "",
+            "x": "I am constantly adopting new practices on my farm."
+          },
+          {
+            "cf": "",
+            "x": "The government has changed its accounting practices."
+          },
+          {
+            "cf": "practice of doing something",
+            "x": "We will follow the practice of going in alphabetical order."
+          },
+          {
+            "cf": "",
+            "x": "The company has ended its practice of pumping raw sewage out to sea."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that is done regularly; a habit or a custom",
+        "examples": [
+          {
+            "cf": "practice of doing something",
+            "x": "the German practice of giving workers a say in how their company is run"
+          },
+          {
+            "cf": "it is somebody's practice to do something",
+            "x": "It is his practice to read several books a week."
+          }
+        ]
+      },
+      {
+        "definition": "the work or the business of some professional people such as doctors, dentists and lawyers; the place where they work",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the practice of medicine"
+          },
+          {
+            "cf": "",
+            "x": "clinical/medical practice"
+          },
+          {
+            "cf": "",
+            "x": "Students should have prior experience of veterinary practice."
+          },
+          {
+            "cf": "in practice",
+            "x": "My solicitor is no longer in practice."
+          },
+          {
+            "cf": "",
+            "x": "a successful medical/dental/law practice"
+          }
+        ]
+      },
+      {
+        "definition": "to be/become less good at doing something than you were because you have not spent time doing it recently",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Don't ask me to speak French! I'm out of practice."
+          },
+          {
+            "cf": "",
+            "x": "If you don't play regularly you soon get out of practice."
+          }
+        ]
+      },
+      {
+        "definition": "in reality",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Prisoners have legal rights, but in practice these rights are not always respected."
+          },
+          {
+            "cf": "",
+            "x": "The idea sounds fine in theory, but would it work in practice?"
+          }
+        ]
+      },
+      {
+        "definition": "a way of encouraging people by telling them that if you do an activity regularly and try to improve your skill, you will become very good at it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "practise",
+    "level": "A2",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pra/pract/practice__gb_2.mp3",
+    "phonetic_text": "/ˈpræktɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pra/pract/practise__us_1.mp3",
+    "phonetic_am_text": "/ˈpræktɪs/",
+    "senses": [
+      {
+        "definition": "to do an activity or train regularly so that you can improve your skill",
+        "examples": [
+          {
+            "cf": "",
+            "x": "You need to practise every day."
+          },
+          {
+            "cf": "practise for something",
+            "x": "She's practising for her piano exam."
+          },
+          {
+            "cf": "practise something",
+            "x": "I've been practising my serve for weeks."
+          },
+          {
+            "cf": "",
+            "x": "She diligently practised her violin every day."
+          },
+          {
+            "cf": "practise something on somebody/something",
+            "x": "He usually wants to practise his English on me."
+          },
+          {
+            "cf": "practise on somebody/something",
+            "x": "I learned hairdressing by practising on my sister."
+          },
+          {
+            "cf": "practise doing something",
+            "x": "Practise reversing the car into the garage."
+          }
+        ]
+      },
+      {
+        "definition": "to work as a doctor, lawyer, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "There are over 50 000 solicitors practising in England and Wales."
+          },
+          {
+            "cf": "practise as something",
+            "x": "She practised as a barrister for many years."
+          },
+          {
+            "cf": "practise something",
+            "x": "He was banned from practising medicine."
+          },
+          {
+            "cf": "",
+            "x": "She practised law for more than a decade."
+          }
+        ]
+      },
+      {
+        "definition": "to do something regularly as part of your normal behaviour",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to practise self-restraint/safe sex"
+          },
+          {
+            "cf": "",
+            "x": "Do you still practise your religion?"
+          }
+        ]
+      },
+      {
+        "definition": "to do the things yourself that you tell other people to do",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "precise",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preci/precise__gb_2.mp3",
+    "phonetic_text": "/prɪˈsaɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preci/precise__us_1.mp3",
+    "phonetic_am_text": "/prɪˈsaɪs/",
+    "senses": [
+      {
+        "definition": "clear and accurate",
+        "examples": [
+          {
+            "cf": "",
+            "x": "precise details/instructions/measurements"
+          },
+          {
+            "cf": "",
+            "x": "Can you give a more precise definition of the word?"
+          },
+          {
+            "cf": "",
+            "x": "I can be reasonably precise about the time of the incident."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that something happens at a particular time or in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "We were just talking about her when, at that precise moment, she walked in."
+          },
+          {
+            "cf": "",
+            "x": "Doctors found it hard to establish the precise nature of her illness."
+          }
+        ]
+      },
+      {
+        "definition": "taking care to be exact and accurate, especially about small details",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a skilled and precise worker"
+          },
+          {
+            "cf": "",
+            "x": "small, precise movements"
+          },
+          {
+            "cf": "",
+            "x": "We've tried to make the process as precise as possible."
+          },
+          {
+            "cf": "",
+            "x": "She's rather prim and precise."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you are giving more detailed and accurate information about something you have just mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The shelf is about a metre long—well, 98cm, to be precise."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "precisely",
+    "level": "B2",
+    "category": "education",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preci/precisely__gb_1.mp3",
+    "phonetic_text": "/prɪˈsaɪsli/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preci/precisely__us_1.mp3",
+    "phonetic_am_text": "/prɪˈsaɪsli/",
+    "senses": [
+      {
+        "definition": "exactly",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They look precisely the same to me."
+          },
+          {
+            "cf": "",
+            "x": "That's precisely what I meant."
+          },
+          {
+            "cf": "",
+            "x": "It's not clear precisely how the accident happened."
+          },
+          {
+            "cf": "",
+            "x": "The meeting starts at 2 o'clock precisely."
+          }
+        ]
+      },
+      {
+        "definition": "accurately; carefully",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to describe something precisely"
+          },
+          {
+            "cf": "",
+            "x": "She pronounced the word very slowly and precisely."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that something is very true or obvious",
+        "examples": [
+          {
+            "cf": "",
+            "x": "It's precisely because I care about you that I don't like you staying out late."
+          },
+          {
+            "cf": "",
+            "x": "The children are precisely the ones who will suffer if they get divorced."
+          }
+        ]
+      },
+      {
+        "definition": "used to emphasize that you agree with a statement, especially because you think it is obvious or is similar to what you have just said",
+        "examples": [
+          {
+            "cf": "",
+            "x": "‘It's not that easy, is it?’ ‘No, precisely.’"
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you are giving more detailed and accurate information about something you have just mentioned",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The problem is due to discipline, or, more precisely, the lack of discipline, in schools."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "preliminary",
+    "level": "C1",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/preli/preliminary__gb_2.mp3",
+    "phonetic_text": "/prɪˈlɪmɪnəri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/preli/preliminary__us_1.mp3",
+    "phonetic_am_text": "/prɪˈlɪmɪneri/",
+    "senses": [
+      {
+        "definition": "happening before a more important action or event",
+        "examples": [
+          {
+            "cf": "",
+            "x": "After a few preliminary remarks he announced the winners."
+          },
+          {
+            "cf": "",
+            "x": "preliminary results/findings/enquiries"
+          },
+          {
+            "cf": "",
+            "x": "the preliminary rounds of the contest"
+          },
+          {
+            "cf": "preliminary to something",
+            "x": "pilot studies preliminary to a full-scale study"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "premise",
+    "level": "C1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/premi/premise__gb_3.mp3",
+    "phonetic_text": "/ˈpremɪs/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/premi/premise__us_1.mp3",
+    "phonetic_am_text": "/ˈpremɪs/",
+    "senses": [
+      {
+        "definition": "a statement or an idea that forms the basis for a reasonable line of argument",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the basic premise of her argument"
+          },
+          {
+            "cf": "",
+            "x": "The argument rests on a false premise."
+          },
+          {
+            "cf": "",
+            "x": "His reasoning is based on the premise that all people are equally capable of good and evil."
+          },
+          {
+            "cf": "",
+            "x": "The premise on which they worked was that there would always be enough natural resources to support them."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "preparation",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prepa/preparation__gb_1.mp3",
+    "phonetic_text": "/ˌprepəˈreɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/prepa/preparation__us_2.mp3",
+    "phonetic_am_text": "/ˌprepəˈreɪʃn/",
+    "senses": [
+      {
+        "definition": "the act or process of getting ready for something or making something ready",
+        "examples": [
+          {
+            "cf": "",
+            "x": "food preparation"
+          },
+          {
+            "cf": "preparation for something",
+            "x": "Preparation for the party started early."
+          },
+          {
+            "cf": "",
+            "x": "Careful preparation for the exam is essential."
+          },
+          {
+            "cf": "",
+            "x": "No athlete would dream of entering a big race without adequate preparation."
+          },
+          {
+            "cf": "",
+            "x": "Did you get any chance to do any preparation?"
+          },
+          {
+            "cf": "in preparation",
+            "x": "The third book in the series is currently in preparation."
+          },
+          {
+            "cf": "in preparation for something",
+            "x": "The team has been training hard in preparation for the big game."
+          },
+          {
+            "cf": "preparation of something",
+            "x": "She helped in the preparation of several of his manuscripts. "
+          }
+        ]
+      },
+      {
+        "definition": "things that you do to get ready for something or make something ready",
+        "examples": [
+          {
+            "cf": "preparation for something",
+            "x": "The country is making preparations for war."
+          },
+          {
+            "cf": "",
+            "x": "Was going to college a good preparation for your career?"
+          },
+          {
+            "cf": "preparation to do something",
+            "x": "We made preparations to move to new offices."
+          },
+          {
+            "cf": "",
+            "x": "wedding preparations"
+          },
+          {
+            "cf": "",
+            "x": "She flew in from Paris to oversee the final preparations."
+          }
+        ]
+      },
+      {
+        "definition": "a substance that has been specially prepared for use as a medicine, cosmetic, etc.",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a pharmaceutical preparation"
+          },
+          {
+            "cf": "",
+            "x": "preparations for the hair and skin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "presentation",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prese/presentation__gb_2.mp3",
+    "phonetic_text": "/ˌpreznˈteɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/prese/presentation__us_1.mp3",
+    "phonetic_am_text": "/ˌpriːznˈteɪʃn/",
+    "senses": [
+      {
+        "definition": "a meeting at which something, especially a new product or idea, or piece of work, is shown to a group of people",
+        "examples": [
+          {
+            "cf": "presentation on/about somebody/something",
+            "x": "The sales manager will give a presentation on the new products."
+          },
+          {
+            "cf": "",
+            "x": "Several speakers will be making short presentations. "
+          },
+          {
+            "cf": "",
+            "x": "The conference will begin with a keynote presentation by a leading industry figure."
+          },
+          {
+            "cf": "",
+            "x": "a slide/video/multimedia presentation"
+          }
+        ]
+      },
+      {
+        "definition": "the act of showing something or of giving something to somebody",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The trial was adjourned following the presentation of new evidence to the court."
+          },
+          {
+            "cf": "",
+            "x": "The presentation of prizes began after the speeches."
+          },
+          {
+            "cf": "",
+            "x": "The Mayor will make the presentation (= hand over the gift) herself."
+          },
+          {
+            "cf": "on presentation of something",
+            "x": "Members will be admitted on presentation of a membership card."
+          },
+          {
+            "cf": "",
+            "x": "a presentation copy (= a free book given by the author or publisher)"
+          },
+          {
+            "cf": "",
+            "x": "a presentation ceremony/evening"
+          }
+        ]
+      },
+      {
+        "definition": "the way in which something is offered, shown, explained, etc. to others",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Improving the product's presentation (= the way it is wrapped, advertised, etc.) should increase sales."
+          },
+          {
+            "cf": "",
+            "x": "I admire the clear, logical presentation of her arguments."
+          },
+          {
+            "cf": "",
+            "x": "The main emphasis of the training will be on presentation skills."
+          }
+        ]
+      },
+      {
+        "definition": "the series of computer slides (= images) that are shown with the talk when somebody gives a presentation at a meeting",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I've put my presentation on a memory stick."
+          }
+        ]
+      },
+      {
+        "definition": "a ceremony or formal occasion during which a gift or prize is given",
+        "examples": [
+          {
+            "cf": "",
+            "x": "the school's annual presentation evening"
+          }
+        ]
+      },
+      {
+        "definition": "a performance of a play, etc. in a theatre",
+        "examples": []
+      },
+      {
+        "definition": "the position in which a baby is lying in the mother’s body just before birth",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "primary",
+    "level": "B1",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pri/prima/primary__gb_3.mp3",
+    "phonetic_text": "/ˈpraɪməri/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/prima/primary__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈpraɪmeri/",
+    "senses": [
+      {
+        "definition": "connected with the education of children between the ages of about five and eleven",
+        "examples": [
+          {
+            "cf": "",
+            "x": "primary teachers"
+          },
+          {
+            "cf": "",
+            "x": "primary education"
+          }
+        ]
+      },
+      {
+        "definition": "main; most important; basic",
+        "examples": [
+          {
+            "cf": "",
+            "x": "our primary objective/goal/purpose"
+          },
+          {
+            "cf": "",
+            "x": "The primary aim of this course is to improve your spoken English."
+          },
+          {
+            "cf": "",
+            "x": "Our primary concern must be the children."
+          },
+          {
+            "cf": "",
+            "x": "Good healthcare is of primary importance."
+          },
+          {
+            "cf": "",
+            "x": "The film's primary focus is on two families. "
+          },
+          {
+            "cf": "",
+            "x": "What is the primary reason for global warming? "
+          }
+        ]
+      },
+      {
+        "definition": "developing or happening first; earliest",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Researchers are conducting studies to determine the primary causes of this phenomenon."
+          },
+          {
+            "cf": "",
+            "x": "The disease is still in its primary stage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "principal",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pri/princ/principal__gb_3.mp3",
+    "phonetic_text": "/ˈprɪnsəpl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principal__us_1.mp3",
+    "phonetic_am_text": "/ˈprɪnsəpl/",
+    "senses": [
+      {
+        "definition": "most important; main",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The principal reason for this omission is lack of time."
+          },
+          {
+            "cf": "",
+            "x": "New roads will link the principal cities of the area."
+          },
+          {
+            "cf": "",
+            "x": "Tourist revenue is now our principal source of wealth."
+          },
+          {
+            "cf": "",
+            "x": "My principal concern is to get the job done fast."
+          },
+          {
+            "cf": "",
+            "x": "The violins have the principal tune."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "principle",
+    "level": "B2",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pri/princ/principal__gb_3.mp3",
+    "phonetic_text": "/ˈprɪnsəpl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principle__us_2.mp3",
+    "phonetic_am_text": "/ˈprɪnsəpl/",
+    "senses": [
+      {
+        "definition": "a moral rule or a strong belief that influences your actions",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He has high moral principles."
+          },
+          {
+            "cf": "",
+            "x": "Stick to your principles and tell him you won't do it."
+          },
+          {
+            "cf": "against your principles ",
+            "x": "I refuse to lie about it; it's against my principles."
+          },
+          {
+            "cf": "on principle",
+            "x": "He doesn't invest in the arms industry on principle."
+          },
+          {
+            "cf": "",
+            "x": "She refuses to allow her family to help her as a matter of principle."
+          }
+        ]
+      },
+      {
+        "definition": "a law, a rule or a theory that something is based on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The same principles apply to both humans and animals."
+          },
+          {
+            "cf": "",
+            "x": "an important legal principle"
+          },
+          {
+            "cf": "",
+            "x": "‘You learn general principles from studying particular things,’ he asserts."
+          },
+          {
+            "cf": "principle of something",
+            "x": "the basic principles of car maintenance"
+          },
+          {
+            "cf": "",
+            "x": "There are three fundamental principles of teamwork."
+          },
+          {
+            "cf": "",
+            "x": "to learn the basic/general principles of something"
+          },
+          {
+            "cf": "",
+            "x": "the principles of justice/law"
+          },
+          {
+            "cf": "principle of doing something",
+            "x": "the principles and practice of writing reports"
+          },
+          {
+            "cf": "principle for something",
+            "x": "draft principles for the management of shared natural resources"
+          },
+          {
+            "cf": "principle for doing something",
+            "x": "a document setting out principles for resolving the dispute"
+          },
+          {
+            "cf": "principle behind something",
+            "x": "The principle behind it is very simple."
+          },
+          {
+            "cf": "",
+            "x": "Discussing all these details will get us nowhere; we must get back to first principles (= the most basic rules)."
+          },
+          {
+            "cf": "",
+            "x": "The court derived a set of principles from this general rule."
+          }
+        ]
+      },
+      {
+        "definition": "a belief that is accepted as a reason for acting or thinking in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "The welfare of the child is the guiding principle of the family courts."
+          },
+          {
+            "cf": "",
+            "x": "They were accused of violating the principles of democracy."
+          },
+          {
+            "cf": "",
+            "x": "The principle of equality is enshrined in the Constitution."
+          },
+          {
+            "cf": "principle that…",
+            "x": "the application of the principle that men and women should receive equal pay for equal work"
+          },
+          {
+            "cf": "",
+            "x": "The UN declaration sought to establish the principle that everyone is entitled to the same basic rights"
+          },
+          {
+            "cf": "",
+            "x": "the principle that free education should be available for all children"
+          },
+          {
+            "cf": "in accordance with a principle",
+            "x": "Ethical behaviour entails acting in accordance with established principles of right and wrong"
+          }
+        ]
+      },
+      {
+        "definition": "a general or scientific law that explains how something works or why something happens",
+        "examples": [
+          {
+            "cf": "",
+            "x": "O'Sullivan was among the first chemists to apply scientific principles to brewing beer."
+          },
+          {
+            "cf": "principle that…",
+            "x": "the principle that heat rises"
+          },
+          {
+            "cf": "in principle",
+            "x": "A tidal current turbine is similar in principle to a windmill."
+          }
+        ]
+      },
+      {
+        "definition": "if something can be done in principle, there is no good reason why it should not be done although it has not yet been done and there may be some difficulties",
+        "examples": [
+          {
+            "cf": "",
+            "x": "In principle there is nothing that a human can do that a machine might not be able to do one day."
+          }
+        ]
+      },
+      {
+        "definition": "in general but not in detail",
+        "examples": [
+          {
+            "cf": "",
+            "x": "They have agreed to the proposal in principle but we still have to negotiate the terms."
+          },
+          {
+            "cf": "",
+            "x": "I agree with you in principle, but we'll need to discuss the details."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "professor",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/profe/professor__gb_2.mp3",
+    "phonetic_text": "/prəˈfesə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/profe/professor__us_4.mp3",
+    "phonetic_am_text": "/prəˈfesər/",
+    "senses": [
+      {
+        "definition": "a university teacher of the highest rank",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Professor (Ann) Williams"
+          },
+          {
+            "cf": "professor of something",
+            "x": "to be appointed professor of economics at Cambridge"
+          },
+          {
+            "cf": "",
+            "x": "He was made (a) professor at the age of 40."
+          }
+        ]
+      },
+      {
+        "definition": "a teacher at a university or college",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a university/college professor"
+          },
+          {
+            "cf": "",
+            "x": "a chemistry/law professor"
+          },
+          {
+            "cf": "professor of something",
+            "x": "a professor of psychology/political science"
+          },
+          {
+            "cf": "",
+            "x": "She was my professor when I was a grad student."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "progress",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/progr/progress__gb_4.mp3",
+    "phonetic_text": "/ˈprəʊɡres/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/progr/progress__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈprɑːɡres/",
+    "senses": [
+      {
+        "definition": "the process of improving or developing, or of getting nearer to achieving or completing something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I think we're making progress."
+          },
+          {
+            "cf": "",
+            "x": "We will continue to monitor progress over the next few months."
+          },
+          {
+            "cf": "",
+            "x": "economic/scientific/technological progress"
+          },
+          {
+            "cf": "",
+            "x": "rapid/good progress"
+          },
+          {
+            "cf": "",
+            "x": "We hope to see some real progress by March."
+          },
+          {
+            "cf": "progress in something",
+            "x": "James is making steady progress in his recovery."
+          },
+          {
+            "cf": "progress in doing something",
+            "x": "Police are making significant progress in fighting computer crime."
+          },
+          {
+            "cf": "",
+            "x": "The two sides have made very slow progress in resolving the dispute."
+          },
+          {
+            "cf": "progress on something",
+            "x": "There's been no sign of progress on this issue."
+          },
+          {
+            "cf": "progress towards something",
+            "x": "The company is making progress towards this target."
+          },
+          {
+            "cf": "",
+            "x": "They asked for a progress report on the building work."
+          }
+        ]
+      },
+      {
+        "definition": "movement forwards or towards a place",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She watched his slow progress down the steep slope."
+          },
+          {
+            "cf": "",
+            "x": "There wasn't much traffic so we made good progress."
+          },
+          {
+            "cf": "",
+            "x": "We watched the ship's stately progress out of the docks."
+          }
+        ]
+      },
+      {
+        "definition": "happening at this time",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Work on the new offices is now in progress."
+          },
+          {
+            "cf": "",
+            "x": "Please be quiet—examination in progress."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pronounce",
+    "level": "A2",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prono/pronounce__gb_1.mp3",
+    "phonetic_text": "/prəˈnaʊns/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prono/pronounce__us_2.mp3",
+    "phonetic_am_text": "/prəˈnaʊns/",
+    "senses": [
+      {
+        "definition": "to make the sound of a word or letter in a particular way",
+        "examples": [
+          {
+            "cf": "",
+            "x": "to pronounce a word/syllable/vowel/consonant"
+          },
+          {
+            "cf": "",
+            "x": "Very few people can pronounce my name correctly."
+          },
+          {
+            "cf": "",
+            "x": "The ‘b’ in lamb is not pronounced."
+          },
+          {
+            "cf": "",
+            "x": "I found it difficult to pronounce the name of the port. "
+          }
+        ]
+      },
+      {
+        "definition": "to give a judgement, opinion or statement formally, officially or publicly",
+        "examples": [
+          {
+            "cf": "pronounce something",
+            "x": "to pronounce an opinion"
+          },
+          {
+            "cf": "",
+            "x": "The judge will pronounce sentence today."
+          },
+          {
+            "cf": "",
+            "x": "I hesitate to pronounce judgement in such a case."
+          },
+          {
+            "cf": "pronounce somebody/something + noun",
+            "x": "She pronounced him the winner of the competition."
+          },
+          {
+            "cf": "",
+            "x": "I now pronounce you husband and wife (= in a marriage ceremony)."
+          },
+          {
+            "cf": "pronounce somebody/something + adj.",
+            "x": "She was pronounced dead on arrival at the hospital."
+          },
+          {
+            "cf": "",
+            "x": "The jury pronounced him guilty of first-degree murder."
+          },
+          {
+            "cf": "pronounce somebody/something to be/have something",
+            "x": "He pronounced the country to be in a state of war."
+          },
+          {
+            "cf": "pronounce that…",
+            "x": "She pronounced that an error had been made."
+          },
+          {
+            "cf": "+ speech",
+            "x": "‘It's pneumonia,’ he pronounced gravely."
+          },
+          {
+            "cf": "pronounce in favour of somebody/something",
+            "x": "The committee has pronounced in favour of the merger."
+          },
+          {
+            "cf": "pronounce for somebody/something",
+            "x": "The judge pronounced for (= in favour of) the defendant."
+          },
+          {
+            "cf": "pronounce against somebody/something",
+            "x": "My opinion in this case is that I must pronounce against this claim."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pronounced",
+    "level": "B2",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prono/pronounced__gb_1.mp3",
+    "phonetic_text": "/prəˈnaʊnst/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prono/pronounced__us_1.mp3",
+    "phonetic_am_text": "/prəˈnaʊnst/",
+    "senses": [
+      {
+        "definition": "very obvious, easy to notice or strongly expressed",
+        "examples": [
+          {
+            "cf": "",
+            "x": "He walked with a pronounced limp."
+          },
+          {
+            "cf": "",
+            "x": "She has very pronounced views on art."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "proof",
+    "level": "B1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proof/proof__gb_1.mp3",
+    "phonetic_text": "/pruːf/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proof/proof__us_1.mp3",
+    "phonetic_am_text": "/pruːf/",
+    "senses": [
+      {
+        "definition": "information, documents, etc. that show that something is true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "conclusive/definitive/scientific proof"
+          },
+          {
+            "cf": "",
+            "x": "The police suspected him of dealing drugs, but they didn't have any proof."
+          },
+          {
+            "cf": "",
+            "x": "to require/need proof"
+          },
+          {
+            "cf": "proof of something",
+            "x": "Can you provide any proof of identity?"
+          },
+          {
+            "cf": "",
+            "x": "Keep the receipt as proof of purchase."
+          },
+          {
+            "cf": "",
+            "x": "These results are a further proof of his outstanding ability."
+          },
+          {
+            "cf": "proof (that)…",
+            "x": "There is no proof that the knife belonged to her."
+          },
+          {
+            "cf": "",
+            "x": "Today's unemployment figures are proof positive the government's economic plan isn't working."
+          },
+          {
+            "cf": "",
+            "x": "In criminal cases the burden of proof (= requirement to provide proof) is on the prosecution."
+          },
+          {
+            "cf": "",
+            "x": "plans to lower the standard of proof required to convict people of crimes under the Terrorism Act"
+          }
+        ]
+      },
+      {
+        "definition": "the process of testing whether something is true or a fact",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Is the claim capable of proof?"
+          }
+        ]
+      },
+      {
+        "definition": "a way of proving that a statement is true or that what you have calculated is correct",
+        "examples": []
+      },
+      {
+        "definition": "a copy of printed material which is produced so that mistakes can be corrected",
+        "examples": [
+          {
+            "cf": "",
+            "x": "She was checking the proofs of her latest novel."
+          }
+        ]
+      },
+      {
+        "definition": "a standard used to measure the strength of alcoholic drinks",
+        "examples": []
+      },
+      {
+        "definition": "to show by your actions or qualities that a particular fact is true",
+        "examples": [
+          {
+            "cf": "",
+            "x": "These figures are living proof of the government's incompetence."
+          },
+          {
+            "cf": "",
+            "x": "He is living proof that age is no barrier to new challenges."
+          }
+        ]
+      },
+      {
+        "definition": "you can only judge if something is good or bad when you have tried it",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "proposition",
+    "level": "C1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/propo/proposition__gb_1.mp3",
+    "phonetic_text": "/ˌprɒpəˈzɪʃn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/propo/proposition__us_1.mp3",
+    "phonetic_am_text": "/ˌprɑːpəˈzɪʃn/",
+    "senses": [
+      {
+        "definition": "an idea or a plan of action that is suggested, especially in business",
+        "examples": [
+          {
+            "cf": "",
+            "x": "I'd like to put a business proposition to you."
+          },
+          {
+            "cf": "",
+            "x": "He was trying to make it look like an attractive proposition."
+          }
+        ]
+      },
+      {
+        "definition": "a thing that you intend to do; a problem, task or person to be dealt with",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Getting a work permit in the UK is not always a simple proposition."
+          }
+        ]
+      },
+      {
+        "definition": "(in the US) a suggested change to the law that people can vote on",
+        "examples": [
+          {
+            "cf": "",
+            "x": "How did you vote on Proposition 8?"
+          }
+        ]
+      },
+      {
+        "definition": "a statement that expresses an opinion",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her assessment is based on the proposition that power corrupts."
+          },
+          {
+            "cf": "",
+            "x": "The book puts forward a number of extreme propositions about the nature of language."
+          }
+        ]
+      },
+      {
+        "definition": "a statement of a theorem, and an explanation of how it can be proved",
+        "examples": [
+          {
+            "cf": "",
+            "x": "First of all we need to examine whether this proposition is true."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prove",
+    "level": "B1",
+    "category": "education",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prove/prove__gb_2.mp3",
+    "phonetic_text": "/pruːv/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prove/prove__us_1.mp3",
+    "phonetic_am_text": "/pruːv/",
+    "senses": [
+      {
+        "definition": "to use facts, evidence, etc. to show that something is true",
+        "examples": [
+          {
+            "cf": "prove something",
+            "x": "They hope this new evidence will prove her innocence."
+          },
+          {
+            "cf": "",
+            "x": "‘I know you're lying.’ ‘Prove it!’"
+          },
+          {
+            "cf": "",
+            "x": "He felt he needed to prove his point (= show other people that he was right)."
+          },
+          {
+            "cf": "",
+            "x": "Are you just doing this to prove a point?"
+          },
+          {
+            "cf": "",
+            "x": "What are you trying to prove?"
+          },
+          {
+            "cf": "",
+            "x": "I certainly don't have anything to prove—my record speaks for itself."
+          },
+          {
+            "cf": "",
+            "x": "The prosecution has failed to prove its case."
+          },
+          {
+            "cf": "",
+            "x": "She continued to prove her worth to the team."
+          },
+          {
+            "cf": "prove something to somebody",
+            "x": "Just give me a chance and I'll prove it to you."
+          },
+          {
+            "cf": "prove (that)…",
+            "x": "This proves (that) I was right."
+          },
+          {
+            "cf": "prove somebody/something/yourself + adj./noun",
+            "x": "She was determined to prove everyone wrong."
+          },
+          {
+            "cf": "",
+            "x": "In this country, you are innocent until proven guilty."
+          },
+          {
+            "cf": "prove somebody/something/yourself to be/have something",
+            "x": "You've just proved yourself to be a liar."
+          },
+          {
+            "cf": "prove what, how, etc…",
+            "x": "This just proves what I have been saying for some time."
+          },
+          {
+            "cf": "it is proved that…",
+            "x": "Can it be proved that he did commit these offences?"
+          }
+        ]
+      },
+      {
+        "definition": "if something proves dangerous, expensive, etc. or if it proves to be dangerous, etc., you discover that it is dangerous, etc. over a period of time",
+        "examples": [
+          {
+            "cf": "+ adj.",
+            "x": "The strategy has proved successful."
+          },
+          {
+            "cf": "",
+            "x": "The new system has proved popular with our clients."
+          },
+          {
+            "cf": "",
+            "x": "It was proving extremely difficult to establish the truth."
+          },
+          {
+            "cf": "",
+            "x": "I have some information that may prove useful."
+          },
+          {
+            "cf": "",
+            "x": "The opposition proved too strong for him."
+          },
+          {
+            "cf": "+ noun",
+            "x": "The play proved a great success."
+          },
+          {
+            "cf": "",
+            "x": "Shares in the industry proved a poor investment."
+          },
+          {
+            "cf": "",
+            "x": "His lack of experience may prove a problem in a crisis."
+          },
+          {
+            "cf": "prove to be something",
+            "x": "The promotion proved to be a turning point in her career."
+          },
+          {
+            "cf": "",
+            "x": "Their fears proved to be groundless."
+          }
+        ]
+      },
+      {
+        "definition": "to show other people how good you are at doing something or that you are capable of doing something",
+        "examples": [
+          {
+            "cf": "prove yourself to somebody",
+            "x": "He constantly feels he has to prove himself to others."
+          },
+          {
+            "cf": "prove yourself",
+            "x": "She wants a chance to prove herself."
+          }
+        ]
+      },
+      {
+        "definition": "to show other people that you are a particular type of person or that you have a particular quality",
+        "examples": [
+          {
+            "cf": "prove yourself + adj./noun",
+            "x": "He proved himself determined to succeed."
+          },
+          {
+            "cf": "prove yourself to be something",
+            "x": "She proved herself to be a skilful negotiator."
+          }
+        ]
+      },
+      {
+        "definition": "to swell (= become larger or rounder) before being baked because of the action of yeast; to leave bread dough to prove",
+        "examples": [
+          {
+            "cf": "",
+            "x": "While the dough is proving, crumble the feta and chop the olives."
+          },
+          {
+            "cf": "prove something",
+            "x": "Prove the dough until it has doubled in size."
+          }
+        ]
+      },
+      {
+        "definition": "people say that something is the exception that proves the rule when they are stating something that seems to be different from the normal situation, but they mean that the normal situation remains true in general",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Most electronics companies have not done well this year, but ours is the exception that proves the rule."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pupil",
+    "level": "A1",
+    "category": "education",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pup/pupil/pupil__gb_1.mp3",
+    "phonetic_text": "/ˈpjuːpl/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pup/pupil/pupil__us_1.mp3",
+    "phonetic_am_text": "/ˈpjuːpl/",
+    "senses": [
+      {
+        "definition": "a person who is being taught, especially a child in a school",
+        "examples": [
+          {
+            "cf": "",
+            "x": "school pupils"
+          },
+          {
+            "cf": "",
+            "x": "a former/past pupil"
+          },
+          {
+            "cf": "",
+            "x": "How many pupils does the school have?"
+          },
+          {
+            "cf": "",
+            "x": "She now teaches only private pupils."
+          },
+          {
+            "cf": "",
+            "x": "Spending per pupil will rise."
+          }
+        ]
+      },
+      {
+        "definition": "a person who is taught artistic, musical, etc. skills by an expert",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Charpentier took pupils and taught them composition and accompanying."
+          },
+          {
+            "cf": "pupil of somebody",
+            "x": "The painting is by a pupil of Rembrandt."
+          }
+        ]
+      },
+      {
+        "definition": "the small round black area at the centre of the eye",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Her pupils were dilated."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thought-provoking",
+    "level": "C1",
+    "category": "education",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoug/thought_provoking_1_gb_1.mp3",
+    "phonetic_text": "/ˈθɔːt prəvəʊkɪŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tho/thoug/thought_provoking_1_us_1.mp3",
+    "phonetic_am_text": "/ˈθɔːt prəvəʊkɪŋ/",
+    "senses": [
+      {
+        "definition": "making people think seriously about a particular subject or issue",
+        "examples": [
+          {
+            "cf": "",
+            "x": "a brilliant and thought-provoking play"
+          }
+        ]
+      }
+    ]
+  }
+]
