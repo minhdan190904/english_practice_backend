@@ -19,7 +19,7 @@ import java.util.List;
 @Slf4j
 public class CategoryVocabularyServiceImpl implements CategoryVocabularyService {
 
-    private final ObjectMapper objectMapper;
+    private final ObjectMapper objectMapper = new ObjectMapper();
 
     @Override
     public List<CategorySummaryResponse> getCategories() {
