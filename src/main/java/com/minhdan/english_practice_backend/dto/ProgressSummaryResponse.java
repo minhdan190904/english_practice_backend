@@ -1,0 +1,12 @@
+package com.minhdan.english_practice_backend.dto;
+
+import lombok.Builder;
+import lombok.Data;
+
+@Data
+@Builder
+public class ProgressSummaryResponse {
+    private Integer totalTimeSpentSeconds;
+    private Integer totalWordsLearned;
+    private Integer totalLessonsCompleted;
+}
