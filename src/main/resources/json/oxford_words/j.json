@@ -22,15 +22,21 @@
             "cf": "in a jacket",
             "x": "a man in a black jacket and grey trousers"
           }
-        ]
+        ],
+        "short_meaning_vi": "áo khoác",
+        "definition_vi": "một mảnh quần áo mặc ở nửa trên cơ thể, bên ngoài áo sơ mi, v.v., có tay và cài phía trước; một chiếc áo khoác ngắn, nhẹ"
       },
       {
         "definition": "a loose paper cover for a book, usually with a design or picture on it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bìa sách",
+        "definition_vi": "một lớp vỏ giấy lỏng cho một cuốn sách, thường có thiết kế hoặc hình ảnh trên đó"
       },
       {
         "definition": "an outer cover around a hot water pipe, etc., for example to reduce loss of heat",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vỏ bọc",
+        "definition_vi": "một lớp vỏ ngoài bao quanh ống nước nóng, v.v., ví dụ để giảm mất nhiệt"
       },
       {
         "definition": "the skin of a baked potato",
@@ -39,11 +45,15 @@
             "cf": "",
             "x": "potatoes baked in their jackets"
           }
-        ]
+        ],
+        "short_meaning_vi": "vỏ khoai tây",
+        "definition_vi": "vỏ của khoai tây nướng"
       },
       {
         "definition": "a stiff paper or thick card cover for a record",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bìa đĩa",
+        "definition_vi": "một bìa cứng hoặc bìa giấy dày cho một đĩa nhạc"
       }
     ]
   },
@@ -74,7 +84,9 @@
             "cf": "",
             "x": "Britain’s overcrowded jails"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà tù",
+        "definition_vi": "một nhà tù"
       }
     ]
   },
@@ -93,7 +105,9 @@
             "cf": "be jailed (for something)",
             "x": "He was jailed for life for murder."
           }
-        ]
+        ],
+        "short_meaning_vi": "bỏ tù",
+        "definition_vi": "đưa ai đó vào tù"
       }
     ]
   },
@@ -124,7 +138,9 @@
             "cf": "",
             "x": "a jam doughnut"
           }
-        ]
+        ],
+        "short_meaning_vi": "mứt",
+        "definition_vi": "một chất ngọt đặc làm bằng cách đun sôi trái cây với đường, thường được bán trong lọ và phết lên bánh mì"
       },
       {
         "definition": "a situation in which it is difficult or impossible to move because there are so many people or vehicles in one particular place",
@@ -141,7 +157,9 @@
             "cf": "",
             "x": "We were stuck in a jam for an hour."
           }
-        ]
+        ],
+        "short_meaning_vi": "tắc nghẽn",
+        "definition_vi": "một tình huống mà việc di chuyển trở nên khó khăn hoặc không thể vì có quá nhiều người hoặc phương tiện ở một địa điểm cụ thể"
       },
       {
         "definition": "a situation in which a machine does not work because something is stuck in one position",
@@ -150,7 +168,9 @@
             "cf": "",
             "x": "There's a paper jam in the photocopier."
           }
-        ]
+        ],
+        "short_meaning_vi": "kẹt",
+        "definition_vi": "một tình huống mà máy móc không hoạt động vì có thứ gì đó bị kẹt ở một vị trí"
       },
       {
         "definition": "used by the media to describe people who do not have much money to live on (the abbreviation for just about managing)",
@@ -159,11 +179,15 @@
             "cf": "",
             "x": "JAMs may be in work, but are struggling to pay for essentials such as food, heating or rent."
           }
-        ]
+        ],
+        "short_meaning_vi": "vừa đủ sống",
+        "definition_vi": "được truyền thông sử dụng để mô tả những người không có nhiều tiền để sinh sống (viết tắt của just about managing)"
       },
       {
         "definition": "to be in a difficult situation",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gặp khó khăn",
+        "definition_vi": "ở trong một tình huống khó khăn"
       },
       {
         "definition": "good things that are promised for the future but never happen",
@@ -172,7 +196,9 @@
             "cf": "",
             "x": "They refused to settle for a promise of jam tomorrow."
           }
-        ]
+        ],
+        "short_meaning_vi": "hứa hão",
+        "definition_vi": "những điều tốt đẹp được hứa hẹn cho tương lai nhưng không bao giờ xảy ra"
       },
       {
         "definition": "money that is earned very easily, for something that needs little effort",
@@ -181,7 +207,9 @@
             "cf": "",
             "x": "The job only took about an hour—it was money for jam."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền dễ kiếm",
+        "definition_vi": "tiền kiếm được rất dễ dàng, cho một thứ gì đó cần ít nỗ lực"
       }
     ]
   },
@@ -228,7 +256,9 @@
             "cf": "",
             "x": "It was a cold January morning."
           }
-        ]
+        ],
+        "short_meaning_vi": "tháng Giêng",
+        "definition_vi": "tháng thứ 1 trong năm, giữa tháng 12 và tháng 2"
       }
     ]
   },
@@ -259,7 +289,9 @@
             "cf": "",
             "x": "the rising stars of the New York jazz scene"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhạc jazz",
+        "definition_vi": "một loại nhạc có nhịp điệu mạnh, trong đó người chơi thường ngẫu hứng (= tự sáng tác nhạc khi đang chơi), ban đầu được tạo ra bởi các nhạc sĩ người Mỹ gốc Phi vào đầu thế kỷ 20"
       },
       {
         "definition": "and things like that",
@@ -268,7 +300,9 @@
             "cf": "",
             "x": "How's it going? You know—love, life and all that jazz."
           }
-        ]
+        ],
+        "short_meaning_vi": "vân vân",
+        "definition_vi": "và những thứ tương tự"
       }
     ]
   },
@@ -303,7 +337,9 @@
             "cf": "in jeans",
             "x": "a young man in jeans and a T-shirt"
           }
-        ]
+        ],
+        "short_meaning_vi": "quần jeans",
+        "definition_vi": "quần làm bằng vải denim (= một loại bông bền)"
       }
     ]
   },
@@ -330,7 +366,9 @@
             "cf": "",
             "x": "He flew to Bermuda in his private jet."
           }
-        ]
+        ],
+        "short_meaning_vi": "máy bay phản lực",
+        "definition_vi": "máy bay được điều khiển bằng động cơ phản lực"
       },
       {
         "definition": "a strong narrow stream of gas, liquid or flame that comes very quickly out of a small opening. The opening is also called a jet.",
@@ -347,7 +385,9 @@
             "cf": "",
             "x": "Little jets of steam spurted from the engine."
           }
-        ]
+        ],
+        "short_meaning_vi": "vòi phun",
+        "definition_vi": "một luồng khí, chất lỏng hoặc lửa mạnh, hẹp phun ra rất nhanh từ một lỗ nhỏ. Lỗ đó cũng được gọi là vòi phun."
       },
       {
         "definition": "a hard black mineral that can be polished and is used in jewellery",
@@ -356,7 +396,9 @@
             "cf": "",
             "x": "jet beads"
           }
-        ]
+        ],
+        "short_meaning_vi": "đá jet",
+        "definition_vi": "một khoáng chất màu đen cứng có thể đánh bóng và được sử dụng trong trang sức"
       }
     ]
   },
@@ -399,7 +441,9 @@
             "cf": "",
             "x": "a jewelry store"
           }
-        ]
+        ],
+        "short_meaning_vi": "trang sức",
+        "definition_vi": "các vật dụng như nhẫn và vòng cổ mà mọi người đeo để trang trí"
       }
     ]
   },
@@ -518,7 +562,9 @@
             "cf": "",
             "x": "The closure of the factory will mean the loss of over 800 jobs."
           }
-        ]
+        ],
+        "short_meaning_vi": "công việc",
+        "definition_vi": "công việc mà bạn nhận được thanh toán thường xuyên"
       },
       {
         "definition": "a particular task or piece of work that you have to do",
@@ -539,7 +585,9 @@
             "cf": "job of doing something",
             "x": "She's taken on the job of organizing the Christmas party."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhiệm vụ",
+        "definition_vi": "một nhiệm vụ hoặc một phần công việc cụ thể mà bạn phải làm"
       },
       {
         "definition": "a responsibility or duty",
@@ -556,7 +604,9 @@
             "cf": "",
             "x": "It's the job of the press to expose wrongdoing."
           }
-        ]
+        ],
+        "short_meaning_vi": "trách nhiệm",
+        "definition_vi": "một trách nhiệm hoặc nghĩa vụ"
       },
       {
         "definition": "a crime, especially stealing",
@@ -577,7 +627,9 @@
             "cf": "",
             "x": "The gang bungled the job and got caught."
           }
-        ]
+        ],
+        "short_meaning_vi": "vụ trộm",
+        "definition_vi": "một tội phạm, đặc biệt là trộm cắp"
       },
       {
         "definition": "a particular kind of thing",
@@ -586,7 +638,9 @@
             "cf": "",
             "x": "It's real wood—not one of those plastic jobs."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại việc",
+        "definition_vi": "một loại sự vật cụ thể"
       },
       {
         "definition": "an item of work that is done by a computer as a single unit",
@@ -595,7 +649,9 @@
             "cf": "",
             "x": "The job can be processed overnight."
           }
-        ]
+        ],
+        "short_meaning_vi": "tác vụ máy tính",
+        "definition_vi": "một mục công việc được máy tính thực hiện như một đơn vị duy nhất"
       },
       {
         "definition": "not paying enough attention to what you need to do",
@@ -612,7 +668,9 @@
             "cf": "",
             "x": "Somebody must have been asleep at the switch to allow this to happen."
           }
-        ]
+        ],
+        "short_meaning_vi": "lơ là",
+        "definition_vi": "không chú ý đầy đủ đến những gì bạn cần làm"
       },
       {
         "definition": "unemployed for a short time. People say ‘between jobs’ to avoid saying ‘unemployed’.",
@@ -621,7 +679,9 @@
             "cf": "",
             "x": "He's between jobs at the moment so he's using the time to do some voluntary work. "
           }
-        ]
+        ],
+        "short_meaning_vi": "thất nghiệp tạm thời",
+        "definition_vi": "thất nghiệp trong một thời gian ngắn. Người ta nói ‘giữa các công việc’ để tránh nói ‘thất nghiệp’."
       },
       {
         "definition": "a very difficult or unpleasant job or time",
@@ -630,7 +690,9 @@
             "cf": "",
             "x": "I've had a devil of a job finding you."
           }
-        ]
+        ],
+        "short_meaning_vi": "thời kỳ khó khăn",
+        "definition_vi": "một công việc hoặc thời gian rất khó khăn hoặc khó chịu"
       },
       {
         "definition": "to do something well, badly, etc.",
@@ -647,7 +709,9 @@
             "cf": "",
             "x": "We haven’t done a very good job on the publicity for the show."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm tốt/tệ",
+        "definition_vi": "làm một cái gì đó tốt, tệ, v.v."
       },
       {
         "definition": "to be effective or successful in doing what you want",
@@ -660,7 +724,9 @@
             "cf": "",
             "x": "Try wedging it open—that should do the job."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "có hiệu quả hoặc thành công trong việc làm những gì bạn muốn"
       },
       {
         "definition": "to cause somebody/yourself to lose their/your job because the role is no longer required",
@@ -669,15 +735,21 @@
             "cf": "",
             "x": "Our aim as a charity is to help people so successfully that we do ourselves out of a job."
           }
-        ]
+        ],
+        "short_meaning_vi": "sa thải",
+        "definition_vi": "khiến ai đó/chính bạn mất việc vì vai trò đó không còn cần thiết"
       },
       {
         "definition": "to decide to stop trying to help somebody or to do something because there is no hope of success",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bỏ cuộc",
+        "definition_vi": "quyết định ngừng cố gắng giúp đỡ ai đó hoặc làm điều gì đó vì không còn hy vọng thành công"
       },
       {
         "definition": "used to tell somebody that they have done well at something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm tốt lắm",
+        "definition_vi": "được sử dụng để nói với ai đó rằng họ đã làm tốt một việc gì đó"
       },
       {
         "definition": "used to say that you are pleased about a situation or that somebody is lucky that something happened",
@@ -686,7 +758,9 @@
             "cf": "",
             "x": "It's a good job you were there to help."
           }
-        ]
+        ],
+        "short_meaning_vi": "may mắn",
+        "definition_vi": "được sử dụng để nói rằng bạn hài lòng về một tình huống hoặc ai đó may mắn vì điều gì đó đã xảy ra"
       },
       {
         "definition": "to have difficulty doing something",
@@ -699,7 +773,9 @@
             "cf": "",
             "x": "He had a hard job to make himself heard."
           }
-        ]
+        ],
+        "short_meaning_vi": "gặp khó khăn",
+        "definition_vi": "gặp khó khăn khi làm điều gì đó"
       },
       {
         "definition": "work that you are paid to do or that must be done",
@@ -708,11 +784,15 @@
             "cf": "",
             "x": "There was a job of work waiting for him that he was not looking forward to."
           }
-        ]
+        ],
+        "short_meaning_vi": "công việc phải làm",
+        "definition_vi": "công việc mà bạn được trả tiền để làm hoặc phải làm"
       },
       {
         "definition": "people use the expression jobs for the boys when they are criticizing the fact that somebody in power has given work to friends or relatives",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ch Chuyện bè phái",
+        "definition_vi": "người ta sử dụng cụm từ 'jobs for the boys' khi họ chỉ trích việc ai đó có quyền đã giao việc cho bạn bè hoặc người thân"
       },
       {
         "definition": "exactly what is needed in a particular situation",
@@ -721,11 +801,15 @@
             "cf": "",
             "x": "That cup of tea was just the job."
           }
-        ]
+        ],
+        "short_meaning_vi": "công việc phù hợp",
+        "definition_vi": "chính xác những gì cần thiết trong một tình huống cụ thể"
       },
       {
         "definition": "to accept a bad or difficult situation and do as well as you can",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chấp nhận tình huống",
+        "definition_vi": "chấp nhận một tình huống tồi tệ hoặc khó khăn và làm tốt nhất có thể"
       },
       {
         "definition": "not worth doing because it is against the rules or because it might cause you to lose your job",
@@ -734,7 +818,9 @@
             "cf": "",
             "x": "It's more than my job's worth to let you in without a ticket."
           }
-        ]
+        ],
+        "short_meaning_vi": "không đáng làm",
+        "definition_vi": "không đáng làm vì nó trái với quy tắc hoặc vì nó có thể khiến bạn mất việc"
       },
       {
         "definition": "while doing a particular job",
@@ -747,15 +833,21 @@
             "cf": "",
             "x": "on-the-job training"
           }
-        ]
+        ],
+        "short_meaning_vi": "trong khi làm việc",
+        "definition_vi": "trong khi làm một công việc cụ thể"
       },
       {
         "definition": "having sex",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quan hệ tình dục",
+        "definition_vi": "có quan hệ tình dục"
       },
       {
         "definition": "to stop working in order to go on strike",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bắt đầu đình công",
+        "definition_vi": "ngừng làm việc để đình công"
       }
     ]
   },
@@ -798,7 +890,9 @@
             "cf": "",
             "x": "How do these two pieces join?"
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "để cố định hoặc kết nối hai hoặc nhiều thứ lại với nhau"
       },
       {
         "definition": "if two things or groups join, or if one thing or group joins another, they come together to form one thing or group",
@@ -819,7 +913,9 @@
             "cf": "join with somebody/something",
             "x": "They have joined with six other groups to lobby the government to end child poverty."
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp nhất",
+        "definition_vi": "nếu hai thứ hoặc hai nhóm hợp nhất, hoặc nếu một thứ hoặc một nhóm hợp nhất với một thứ hoặc nhóm khác, chúng sẽ kết hợp lại để tạo thành một thứ hoặc một nhóm"
       },
       {
         "definition": "to become a member of an organization, a company, a club, etc.",
@@ -852,7 +948,9 @@
             "cf": "",
             "x": "It costs £20 to join."
           }
-        ]
+        ],
+        "short_meaning_vi": "tham gia",
+        "definition_vi": "trở thành thành viên của một tổ chức, một công ty, một câu lạc bộ, v.v."
       },
       {
         "definition": "to take part in something that somebody else is doing or to go somewhere with them",
@@ -885,19 +983,27 @@
             "cf": "join somebody in doing something",
             "x": "I'm sure you'll all join me in wishing Ted and Laura a very happy marriage."
           }
-        ]
+        ],
+        "short_meaning_vi": "tham gia cùng",
+        "definition_vi": "tham gia vào một việc gì đó mà người khác đang làm hoặc đi đâu đó cùng họ"
       },
       {
         "definition": "if you join a train, plane, etc. you get on it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lên tàu/máy bay",
+        "definition_vi": "nếu bạn lên một chuyến tàu, máy bay, v.v. thì bạn lên đó"
       },
       {
         "definition": "if you join a road or a line of people, you start to travel along it, or move into it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gia nhập đường/hàng",
+        "definition_vi": "nếu bạn gia nhập một con đường hoặc một hàng người, bạn bắt đầu đi dọc theo nó, hoặc di chuyển vào đó"
       },
       {
         "definition": "if you cannot defeat somebody or be as successful as they are, then it is more sensible to join them in what they are doing and perhaps get some advantage for yourself by doing so",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "về phe",
+        "definition_vi": "nếu bạn không thể đánh bại ai đó hoặc không thành công như họ, thì hợp lý hơn là về phe họ trong những gì họ đang làm và có lẽ sẽ có được một số lợi thế cho bản thân bằng cách đó"
       },
       {
         "definition": "to begin fighting somebody",
@@ -910,7 +1016,9 @@
             "cf": "",
             "x": "Local residents have joined battle with the council over the lack of parking facilities."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu chiến đấu",
+        "definition_vi": "bắt đầu chiến đấu với ai đó"
       },
       {
         "definition": "used when something bad that has happened to somebody else has also happened to you",
@@ -919,7 +1027,9 @@
             "cf": "",
             "x": "So you didn't get a job either? Join the club!"
           }
-        ]
+        ],
+        "short_meaning_vi": "cũng gặp phải",
+        "definition_vi": "được sử dụng khi một điều tồi tệ đã xảy ra với người khác cũng đã xảy ra với bạn"
       },
       {
         "definition": "to work together in order to achieve a shared aim",
@@ -932,11 +1042,15 @@
             "cf": "",
             "x": "The two companies have joined forces to form a new consortium."
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp tác",
+        "definition_vi": "làm việc cùng nhau để đạt được một mục tiêu chung"
       },
       {
         "definition": "if two people join hands, they hold each other’s hands",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nắm tay",
+        "definition_vi": "nếu hai người nắm tay nhau, họ sẽ giữ tay nhau"
       },
       {
         "definition": "to work together in doing something",
@@ -945,7 +1059,9 @@
             "cf": "",
             "x": "Education has been reluctant to join hands with business."
           }
-        ]
+        ],
+        "short_meaning_vi": "cùng làm",
+        "definition_vi": "làm việc cùng nhau trong việc làm một cái gì đó"
       }
     ]
   },
@@ -976,7 +1092,9 @@
             "cf": "",
             "x": "They were joint owners of the house (= they owned it together)."
           }
-        ]
+        ],
+        "short_meaning_vi": "chung",
+        "definition_vi": "liên quan đến hai hoặc nhiều người cùng nhau"
       }
     ]
   },
@@ -999,7 +1117,9 @@
             "cf": "",
             "x": "My joints are really stiff this morning."
           }
-        ]
+        ],
+        "short_meaning_vi": "khớp xương",
+        "definition_vi": "một nơi mà hai xương được nối với nhau trong cơ thể theo cách cho phép chúng uốn cong và di chuyển"
       },
       {
         "definition": "a place where two or more parts of an object are joined together, especially to form a corner",
@@ -1008,7 +1128,9 @@
             "cf": "",
             "x": "a joint between two lengths of copper"
           }
-        ]
+        ],
+        "short_meaning_vi": "mối nối",
+        "definition_vi": "một nơi mà hai hoặc nhiều bộ phận của một vật thể được nối với nhau, đặc biệt là để tạo thành một góc"
       },
       {
         "definition": "a piece of roast meat",
@@ -1021,7 +1143,9 @@
             "cf": "",
             "x": "the Sunday joint (= one traditionally eaten on a Sunday)"
           }
-        ]
+        ],
+        "short_meaning_vi": "thịt quay",
+        "definition_vi": "một miếng thịt quay"
       },
       {
         "definition": "a place where people meet to eat, drink, dance, etc., especially one that is cheap",
@@ -1034,15 +1158,21 @@
             "cf": "",
             "x": "The joint was jumping (= full of people and activity)."
           }
-        ]
+        ],
+        "short_meaning_vi": "quán ăn uống",
+        "definition_vi": "một nơi mọi người gặp nhau để ăn, uống, nhảy, v.v., đặc biệt là một nơi rẻ tiền"
       },
       {
         "definition": "a cigarette containing marijuana (= an illegal drug)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "điếu cần",
+        "definition_vi": "một điếu thuốc chứa cần sa (= một loại ma túy bất hợp pháp)"
       },
       {
         "definition": "to look carefully around a building in order to plan how to steal things from it at a later time",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khảo sát để trộm",
+        "definition_vi": "nhìn xung quanh một tòa nhà một cách cẩn thận để lên kế hoạch cách lấy cắp đồ từ đó vào thời điểm sau"
       },
       {
         "definition": "pushed out of its correct position",
@@ -1051,7 +1181,9 @@
             "cf": "",
             "x": "She put her hip out of joint in the accident."
           }
-        ]
+        ],
+        "short_meaning_vi": "trật khớp",
+        "definition_vi": "bị đẩy ra khỏi vị trí đúng của nó"
       },
       {
         "definition": "not working or behaving in the normal way",
@@ -1060,11 +1192,15 @@
             "cf": "",
             "x": "Time is thrown completely out of joint in the opening chapters."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất thường",
+        "definition_vi": "không hoạt động hoặc cư xử theo cách bình thường"
       },
       {
         "definition": "to upset or annoy somebody, especially by not giving them enough attention",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm phiền",
+        "definition_vi": "làm phiền hoặc khó chịu ai đó, đặc biệt là bằng cách không chú ý đủ đến họ"
       }
     ]
   },
@@ -1115,7 +1251,9 @@
             "cf": "joke about somebody/something",
             "x": "Have you heard the joke about the elephant and the mouse?"
           }
-        ]
+        ],
+        "short_meaning_vi": "trò đùa",
+        "definition_vi": "một điều bạn nói hoặc làm để khiến mọi người cười, ví dụ như một câu chuyện cười bạn kể"
       },
       {
         "definition": "a person, thing or situation that is silly or annoying and cannot be taken seriously",
@@ -1128,7 +1266,9 @@
             "cf": "",
             "x": "This can't really be happening—it must be some kind of cruel joke."
           }
-        ]
+        ],
+        "short_meaning_vi": "trò hề",
+        "definition_vi": "một người, một vật hoặc một tình huống ngớ ngẩn hoặc khó chịu và không thể được coi trọng"
       },
       {
         "definition": "to become annoying and no longer acceptable",
@@ -1137,7 +1277,9 @@
             "cf": "",
             "x": "His teasing is getting beyond a joke."
           }
-        ]
+        ],
+        "short_meaning_vi": "trở nên khó chịu",
+        "definition_vi": "trở nên khó chịu và không còn chấp nhận được nữa"
       },
       {
         "definition": "to be difficult or unpleasant",
@@ -1146,7 +1288,9 @@
             "cf": "",
             "x": "It's no joke trying to find a job these days."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó khăn",
+        "definition_vi": "khó khăn hoặc khó chịu"
       },
       {
         "definition": "used to say that somebody who tried to make another person look silly now looks silly instead",
@@ -1155,7 +1299,9 @@
             "cf": "",
             "x": "I thought I'd play a trick on them, but in the end the joke was on me."
           }
-        ]
+        ],
+        "short_meaning_vi": "người bị chế giễu",
+        "definition_vi": "được sử dụng để nói rằng người đã cố gắng làm cho người khác trông ngớ ngẩn giờ lại trông ngớ ngẩn thay"
       },
       {
         "definition": "to laugh about something that is serious or should be taken seriously",
@@ -1164,7 +1310,9 @@
             "cf": "",
             "x": "We tried to make a joke of our situation, but it wasn't really funny."
           }
-        ]
+        ],
+        "short_meaning_vi": "chế nhạo điều nghiêm túc",
+        "definition_vi": "cười về một điều gì đó nghiêm túc hoặc đáng lẽ phải được coi trọng"
       },
       {
         "definition": "to be able to laugh at a joke against yourself",
@@ -1173,7 +1321,9 @@
             "cf": "",
             "x": "The trouble with her is she can't take a joke."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự cười nhạo",
+        "definition_vi": "có thể cười về một trò đùa về bản thân"
       }
     ]
   },
@@ -1204,7 +1354,9 @@
             "cf": "+ speech",
             "x": "‘I cooked it myself, so be careful!’ he joked."
           }
-        ]
+        ],
+        "short_meaning_vi": "kể chuyện cười",
+        "definition_vi": "nói điều gì đó để khiến mọi người cười; kể một câu chuyện cười"
       },
       {
         "definition": "to say something that is not true because you think it is funny",
@@ -1225,11 +1377,15 @@
             "cf": "joke that…",
             "x": "She joked that she only loved him for his money."
           }
-        ]
+        ],
+        "short_meaning_vi": "nói đùa",
+        "definition_vi": "nói điều gì đó không đúng sự thật vì bạn nghĩ rằng điều đó hài hước"
       },
       {
         "definition": "used to show that you are now being serious after you have said something funny",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hết đùa",
+        "definition_vi": "được sử dụng để cho biết rằng bạn đang nghiêm túc sau khi bạn đã nói điều gì đó hài hước"
       },
       {
         "definition": "used to show that you are very surprised at what somebody has just said",
@@ -1242,7 +1398,9 @@
             "cf": "",
             "x": "No way am I doing that. You must be joking!"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngạc nhiên",
+        "definition_vi": "được sử dụng để cho biết rằng bạn rất ngạc nhiên về những gì ai đó vừa nói"
       }
     ]
   },
@@ -1285,7 +1443,9 @@
             "cf": "in a journal",
             "x": "The results of the study are expected to be published in a peer-reviewed journal next month."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạp chí chuyên ngành",
+        "definition_vi": "một tờ báo hoặc tạp chí đề cập đến một chủ đề hoặc nghề nghiệp cụ thể"
       },
       {
         "definition": "used in the title of some newspapers",
@@ -1294,7 +1454,9 @@
             "cf": "",
             "x": "the Wall Street Journal"
           }
-        ]
+        ],
+        "short_meaning_vi": "tạp chí",
+        "definition_vi": "được sử dụng trong tiêu đề của một số tờ báo"
       },
       {
         "definition": "a written record of the things you do, see, etc. every day",
@@ -1311,7 +1473,9 @@
             "cf": "",
             "x": "Her journal entry for that day describes a thunderstorm."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhật ký",
+        "definition_vi": "một bản ghi chép về những điều bạn làm, nhìn thấy, v.v. mỗi ngày"
       }
     ]
   },
@@ -1334,7 +1498,9 @@
             "cf": "",
             "x": "This story was a good piece of investigative journalism."
           }
-        ]
+        ],
+        "short_meaning_vi": "báo chí",
+        "definition_vi": "công việc thu thập và viết tin tức cho báo chí, tạp chí, đài phát thanh, truyền hình hoặc các trang tin tức trực tuyến; các câu chuyện tin tức được viết"
       }
     ]
   },
@@ -1361,7 +1527,9 @@
             "cf": "",
             "x": "The minister told journalists he was not going to resign."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà báo",
+        "definition_vi": "một người có công việc thu thập và viết tin tức cho báo chí, tạp chí, đài phát thanh, truyền hình hoặc các trang tin tức trực tuyến"
       }
     ]
   },
@@ -1432,7 +1600,9 @@
             "cf": "",
             "x": "Bye! Safe journey! (= used when somebody is beginning a journey)"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyến đi",
+        "definition_vi": "một hành động đi từ nơi này đến nơi khác, đặc biệt là khi chúng ở xa nhau"
       },
       {
         "definition": "a long and often difficult process of personal change and development",
@@ -1445,7 +1615,9 @@
             "cf": "journey (from something) (to something)",
             "x": "The book describes a spiritual journey from despair to happiness."
           }
-        ]
+        ],
+        "short_meaning_vi": "hành trình",
+        "definition_vi": "một quá trình dài và thường khó khăn của sự thay đổi và phát triển cá nhân"
       }
     ]
   },
@@ -1508,7 +1680,9 @@
             "cf": "joy in doing something",
             "x": "Her joy in playing the violin was obvious."
           }
-        ]
+        ],
+        "short_meaning_vi": "niềm vui",
+        "definition_vi": "một cảm giác hạnh phúc lớn lao"
       },
       {
         "definition": "a person or thing that causes you to feel very happy",
@@ -1521,7 +1695,9 @@
             "cf": "",
             "x": "The game was a joy to watch."
           }
-        ]
+        ],
+        "short_meaning_vi": "niềm vui",
+        "definition_vi": "một người hoặc một thứ gì đó khiến bạn cảm thấy rất hạnh phúc"
       },
       {
         "definition": "success or satisfaction",
@@ -1534,11 +1710,15 @@
             "cf": "",
             "x": "‘Any joy at the shops?’ ‘No, they didn't have what I wanted.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "thành công hoặc sự hài lòng"
       },
       {
         "definition": "very cheerful",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vui vẻ",
+        "definition_vi": "rất vui vẻ"
       },
       {
         "definition": "a person or thing that causes somebody to feel very pleased or satisfied",
@@ -1551,7 +1731,9 @@
             "cf": "",
             "x": "He loves that boat—it's his pride and joy."
           }
-        ]
+        ],
+        "short_meaning_vi": "niềm vui",
+        "definition_vi": "một người hoặc một thứ gì đó khiến ai đó cảm thấy rất vui hoặc hài lòng"
       }
     ]
   },
@@ -1598,7 +1780,9 @@
             "cf": "",
             "x": "The judge ruled that the evidence was inadmissible."
           }
-        ]
+        ],
+        "short_meaning_vi": "thẩm phán",
+        "definition_vi": "một người trong tòa án có thẩm quyền quyết định hình phạt đối với tội phạm hoặc đưa ra các quyết định pháp lý"
       },
       {
         "definition": "a person who decides who has won a competition",
@@ -1615,7 +1799,9 @@
             "cf": "",
             "x": "He was invited to be a judge in a cookery competition."
           }
-        ]
+        ],
+        "short_meaning_vi": "giám khảo",
+        "definition_vi": "một người quyết định ai đã thắng một cuộc thi"
       },
       {
         "definition": "a person who has the necessary knowledge or skills to give their opinion about the value or quality of somebody/something",
@@ -1636,7 +1822,9 @@
             "cf": "",
             "x": "‘I'm not sure that's a good way to do it.’ ‘Let me be the judge of that.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "người đánh giá",
+        "definition_vi": "một người có kiến thức hoặc kỹ năng cần thiết để đưa ra ý kiến về giá trị hoặc chất lượng của ai đó/cái gì đó"
       }
     ]
   },
@@ -1699,7 +1887,9 @@
             "cf": "judge how, what, etc…",
             "x": "It was hard to judge how great the risk was."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh giá",
+        "definition_vi": "để hình thành một ý kiến về ai đó/cái gì đó, dựa trên thông tin bạn có"
       },
       {
         "definition": "to guess the size, amount, etc. of something",
@@ -1716,7 +1906,9 @@
             "cf": "judge somebody/something to be/do something",
             "x": "I judged him to be about 50."
           }
-        ]
+        ],
+        "short_meaning_vi": "ước lượng",
+        "definition_vi": "để đoán kích thước, số lượng, v.v. của một cái gì đó"
       },
       {
         "definition": "to decide the result of a competition; to be the judge in a competition",
@@ -1733,7 +1925,9 @@
             "cf": "judge somebody/something + adj",
             "x": "Their garden was judged the best in Wales by a TV viewers' poll."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm trọng tài",
+        "definition_vi": "để quyết định kết quả của một cuộc thi; để làm trọng tài trong một cuộc thi"
       },
       {
         "definition": "to give your opinion about somebody, especially when you think they are bad",
@@ -1746,7 +1940,9 @@
             "cf": "",
             "x": "I'm not one to judge, but that's no way to behave."
           }
-        ]
+        ],
+        "short_meaning_vi": "phán xét",
+        "definition_vi": "để đưa ra ý kiến của bạn về ai đó, đặc biệt là khi bạn nghĩ rằng họ là người xấu"
       },
       {
         "definition": "to decide whether somebody is guilty or innocent in a court",
@@ -1759,11 +1955,15 @@
             "cf": "judge somebody + adj.",
             "x": "to judge somebody guilty/not guilty"
           }
-        ]
+        ],
+        "short_meaning_vi": "xét xử",
+        "definition_vi": "để quyết định xem ai đó có tội hay vô tội trong tòa án"
       },
       {
         "definition": "used to say that you should not form an opinion about somebody/something from their appearance only",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đừng vội phán xét",
+        "definition_vi": "được sử dụng để nói rằng bạn không nên hình thành ý kiến về ai đó/cái gì đó chỉ dựa trên vẻ ngoài của họ"
       }
     ]
   },
@@ -1798,7 +1998,9 @@
             "cf": "",
             "x": "The accident was caused by an error of judgement on the part of the pilot."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả năng phán đoán",
+        "definition_vi": "khả năng đưa ra các quyết định hợp lý sau khi đã cân nhắc cẩn thận điều tốt nhất cần làm"
       },
       {
         "definition": "an opinion that you form about something after thinking about it carefully; the act of making this opinion known to others",
@@ -1831,7 +2033,9 @@
             "cf": "",
             "x": "I did it against my better judgement (= although I thought it was perhaps the wrong thing to do)."
           }
-        ]
+        ],
+        "short_meaning_vi": "ý kiến",
+        "definition_vi": "một ý kiến mà bạn hình thành về một cái gì đó sau khi suy nghĩ cẩn thận về nó; hành động đưa ý kiến này cho người khác biết"
       },
       {
         "definition": "the decision of a court or a judge",
@@ -1848,11 +2052,15 @@
             "cf": "",
             "x": "The court has yet to pass judgment (= say what its decision is) in this case."
           }
-        ]
+        ],
+        "short_meaning_vi": "phán quyết",
+        "definition_vi": "quyết định của tòa án hoặc thẩm phán"
       },
       {
         "definition": "something bad that happens to somebody that is thought to be a punishment from God",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sự trừng phạt",
+        "definition_vi": "một điều tồi tệ xảy ra với ai đó mà được cho là sự trừng phạt từ Chúa"
       },
       {
         "definition": "to not decide or make a judgement about something until a later time",
@@ -1865,7 +2073,9 @@
             "cf": "",
             "x": "Three judges have decided to reserve their decision until a later date."
           }
-        ]
+        ],
+        "short_meaning_vi": "chưa quyết định",
+        "definition_vi": "không quyết định hoặc đưa ra phán xét về một điều gì đó cho đến một thời điểm sau này"
       },
       {
         "definition": "to decide whether somebody’s behaviour is right or wrong, especially when you have no right to do this",
@@ -1874,7 +2084,9 @@
             "cf": "",
             "x": "How dare you sit in judgement on me?"
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh giá đạo đức",
+        "definition_vi": "để quyết định xem hành vi của ai đó có đúng hay sai không, đặc biệt là khi bạn không có quyền làm điều đó"
       }
     ]
   },
@@ -1905,7 +2117,9 @@
             "cf": "",
             "x": "The Supreme Court ordered a judicial inquiry into the deaths."
           }
-        ]
+        ],
+        "short_meaning_vi": "tư pháp",
+        "definition_vi": "liên quan đến tòa án, thẩm phán hoặc phán quyết pháp lý"
       }
     ]
   },
@@ -1940,7 +2154,9 @@
             "cf": "",
             "x": "Two orange juices, please."
           }
-        ]
+        ],
+        "short_meaning_vi": "nước ép",
+        "definition_vi": "chất lỏng từ trái cây hoặc rau quả; đồ uống làm từ đó"
       },
       {
         "definition": "the liquid that comes out of a piece of meat when it is cooked",
@@ -1949,7 +2165,9 @@
             "cf": "",
             "x": "Use the juices of the meat to make gravy."
           }
-        ]
+        ],
+        "short_meaning_vi": "nước thịt",
+        "definition_vi": "chất lỏng chảy ra từ một miếng thịt khi nó được nấu chín"
       },
       {
         "definition": "the liquid in the stomach that helps you to digest food",
@@ -1958,7 +2176,9 @@
             "cf": "",
             "x": "digestive/gastric juices"
           }
-        ]
+        ],
+        "short_meaning_vi": "dịch tiêu hóa",
+        "definition_vi": "chất lỏng trong dạ dày giúp bạn tiêu hóa thức ăn"
       },
       {
         "definition": "electrical energy",
@@ -1967,11 +2187,15 @@
             "cf": "",
             "x": "My phone has run out of juice."
           }
-        ]
+        ],
+        "short_meaning_vi": "điện",
+        "definition_vi": "năng lượng điện"
       },
       {
         "definition": "petrol",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "xăng",
+        "definition_vi": "xăng"
       },
       {
         "definition": "power to influence people or influence what happens",
@@ -1980,7 +2204,9 @@
             "cf": "",
             "x": "She has a lot of juice with city hall."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức ảnh hưởng",
+        "definition_vi": "sức mạnh để tác động đến mọi người hoặc ảnh hưởng đến những gì xảy ra"
       },
       {
         "definition": "alcoholic drink",
@@ -1989,11 +2215,15 @@
             "cf": "",
             "x": "He had been on the juice all weekend and was in a bad way."
           }
-        ]
+        ],
+        "short_meaning_vi": "rượu",
+        "definition_vi": "đồ uống có cồn"
       },
       {
         "definition": "anabolic steroids (= chemical substances taken by people to increase the size of their muscles)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "steroid đồng hóa",
+        "definition_vi": "steroid đồng hóa (= các chất hóa học mà mọi người dùng để tăng kích thước cơ bắp của họ)"
       },
       {
         "definition": "a liquid containing nicotine that is used in a device for vaping",
@@ -2006,11 +2236,15 @@
             "cf": "",
             "x": "He needed some juice for his vape."
           }
-        ]
+        ],
+        "short_meaning_vi": "tinh dầu thuốc lá điện tử",
+        "definition_vi": "một chất lỏng chứa nicotine được sử dụng trong thiết bị vaping"
       },
       {
         "definition": "to leave somebody to worry and suffer the unpleasant effects of their own actions",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bỏ mặc",
+        "definition_vi": "để ai đó phải lo lắng và chịu đựng những hậu quả khó chịu từ hành động của chính họ"
       }
     ]
   },
@@ -2053,7 +2287,9 @@
             "cf": "",
             "x": "It was a sunny July afternoon."
           }
-        ]
+        ],
+        "short_meaning_vi": "tháng Bảy",
+        "definition_vi": "tháng thứ 7 trong năm, giữa tháng 6 và tháng 8"
       }
     ]
   },
@@ -2080,7 +2316,9 @@
             "cf": "jump from something",
             "x": "Somehow he survived the jump from the third floor of the building."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú nhảy",
+        "definition_vi": "một hành động nhảy"
       },
       {
         "definition": "a barrier like a narrow fence that a horse or a runner has to jump over in a race or competition",
@@ -2089,7 +2327,9 @@
             "cf": "",
             "x": "The horse fell at the last jump."
           }
-        ]
+        ],
+        "short_meaning_vi": "chướng ngại vật",
+        "definition_vi": "một rào cản giống như hàng rào hẹp mà ngựa hoặc vận động viên phải nhảy qua trong một cuộc đua hoặc cuộc thi"
       },
       {
         "definition": "a sudden increase in amount, price or value",
@@ -2102,7 +2342,9 @@
             "cf": "jump in something",
             "x": "a 20 per cent jump in pre-tax profits"
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng đột ngột",
+        "definition_vi": "một sự gia tăng đột ngột về số lượng, giá cả hoặc giá trị"
       },
       {
         "definition": "a large or sudden change",
@@ -2123,7 +2365,9 @@
             "cf": "",
             "x": "The new law is a jump into the unknown."
           }
-        ]
+        ],
+        "short_meaning_vi": "thay đổi lớn",
+        "definition_vi": "một sự thay đổi lớn hoặc đột ngột"
       },
       {
         "definition": "a sudden movement caused by shock or surprise",
@@ -2136,7 +2380,9 @@
             "cf": "",
             "x": "Her heart gave a little jump at his smile."
           }
-        ]
+        ],
+        "short_meaning_vi": "giật mình",
+        "definition_vi": "một chuyển động đột ngột do sốc hoặc ngạc nhiên"
       },
       {
         "definition": "to be going to be severely punished",
@@ -2145,7 +2391,9 @@
             "cf": "",
             "x": "If I catch you cheating, you’ll be for the high jump."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị trừng phạt nặng",
+        "definition_vi": "sẽ bị trừng phạt nghiêm khắc"
       },
       {
         "definition": "used to tell somebody in a rude way to go away",
@@ -2154,11 +2402,15 @@
             "cf": "",
             "x": "Why didn’t you just tell him to take a running jump?"
           }
-        ]
+        ],
+        "short_meaning_vi": "biến đi",
+        "definition_vi": "được dùng để bảo ai đó đi chỗ khác một cách thô lỗ"
       },
       {
         "definition": "to keep your advantage over somebody, especially your competitors, by taking action before they do or by making sure you know more than they do",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giữ lợi thế",
+        "definition_vi": "giữ lợi thế của bạn so với người khác, đặc biệt là đối thủ cạnh tranh, bằng cách hành động trước họ hoặc bằng cách đảm bảo bạn biết nhiều hơn họ"
       }
     ]
   },
@@ -2205,7 +2457,9 @@
             "cf": "jump + noun",
             "x": "She has jumped 2.2 metres."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhảy lên",
+        "definition_vi": "di chuyển nhanh chóng khỏi mặt đất hoặc cách xa một bề mặt bằng cách đẩy mình bằng chân"
       },
       {
         "definition": "to pass over something by jumping",
@@ -2230,7 +2484,9 @@
             "cf": "jump something over something",
             "x": "I jumped my horse over all the fences."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhảy qua",
+        "definition_vi": "vượt qua một cái gì đó bằng cách nhảy"
       },
       {
         "definition": "to move quickly and suddenly",
@@ -2255,7 +2511,9 @@
             "cf": "",
             "x": "When she heard the news, she immediately jumped on a plane to France."
           }
-        ]
+        ],
+        "short_meaning_vi": "di chuyển nhanh",
+        "definition_vi": "di chuyển nhanh chóng và đột ngột"
       },
       {
         "definition": "to make a sudden movement because of surprise, fear or excitement",
@@ -2268,7 +2526,9 @@
             "cf": "",
             "x": "Her heart jumped when she heard the news."
           }
-        ]
+        ],
+        "short_meaning_vi": "giật mình",
+        "definition_vi": "thực hiện một chuyển động đột ngột vì ngạc nhiên, sợ hãi hoặc phấn khích"
       },
       {
         "definition": "to rise suddenly by a large amount",
@@ -2289,7 +2549,9 @@
             "cf": "jump + noun",
             "x": "The FTSE 100 benchmark index jumped 199.9 points."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng vọt",
+        "definition_vi": "tăng đột ngột với số lượng lớn"
       },
       {
         "definition": "to change suddenly from one subject to another",
@@ -2302,7 +2564,9 @@
             "cf": "",
             "x": "The story then jumps from her childhood in New York to her first visit to London."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyển chủ đề",
+        "definition_vi": "thay đổi đột ngột từ chủ đề này sang chủ đề khác"
       },
       {
         "definition": "to leave out something and pass to a further point or stage",
@@ -2311,7 +2575,9 @@
             "cf": "",
             "x": "You seem to have jumped several steps in the argument."
           }
-        ]
+        ],
+        "short_meaning_vi": "bỏ qua",
+        "definition_vi": "bỏ qua một cái gì đó và chuyển sang một điểm hoặc giai đoạn xa hơn"
       },
       {
         "definition": "to move suddenly and unexpectedly, especially out of the correct position",
@@ -2320,7 +2586,9 @@
             "cf": "",
             "x": "The needle jumped across the dial."
           }
-        ]
+        ],
+        "short_meaning_vi": "lệch vị trí",
+        "definition_vi": "di chuyển đột ngột và bất ngờ, đặc biệt là ra khỏi vị trí đúng"
       },
       {
         "definition": "to attack somebody suddenly",
@@ -2329,7 +2597,9 @@
             "cf": "",
             "x": "The thieves jumped him in a dark alleyway."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấn công",
+        "definition_vi": "tấn công ai đó đột ngột"
       },
       {
         "definition": "to get on a vehicle very quickly, especially in a way that is dangerous or illegal",
@@ -2338,15 +2608,21 @@
             "cf": "",
             "x": "to jump a train"
           }
-        ]
+        ],
+        "short_meaning_vi": "leo lên xe",
+        "definition_vi": "lên xe rất nhanh, đặc biệt là theo cách nguy hiểm hoặc bất hợp pháp"
       },
       {
         "definition": "to start the engine of a car by connecting the battery to the battery of another car with jump leads",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khởi động xe",
+        "definition_vi": "khởi động động cơ xe hơi bằng cách nối ắc quy với ắc quy của xe khác bằng dây câu bình"
       },
       {
         "definition": "to put a lot of energy into starting a process or an activity or into making it start more quickly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thúc đẩy",
+        "definition_vi": "đặt nhiều năng lượng vào việc bắt đầu một quá trình hoặc hoạt động hoặc làm cho nó bắt đầu nhanh hơn"
       },
       {
         "definition": "to be very lively",
@@ -2355,7 +2631,9 @@
             "cf": "",
             "x": "The club's jumping tonight."
           }
-        ]
+        ],
+        "short_meaning_vi": "sống động",
+        "definition_vi": "rất sôi nổi"
       },
       {
         "definition": "to be very angry or excited about something",
@@ -2364,7 +2642,9 @@
             "cf": "",
             "x": "The local residents are jumping up and down complaining about the noise."
           }
-        ]
+        ],
+        "short_meaning_vi": "hào hứng",
+        "definition_vi": "rất tức giận hoặc phấn khích về điều gì đó"
       },
       {
         "definition": "to join others in doing something that is becoming fashionable because you hope to become popular or successful yourself",
@@ -2373,7 +2653,9 @@
             "cf": "",
             "x": "politicians eager to jump on the environmental bandwagon"
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt chước",
+        "definition_vi": "tham gia cùng người khác trong việc làm điều gì đó đang trở nên thời thượng vì bạn hy vọng sẽ trở nên nổi tiếng hoặc thành công"
       },
       {
         "definition": "to fail to appear at your trial after you have paid money to be allowed to go free until the trial",
@@ -2382,7 +2664,9 @@
             "cf": "",
             "x": "He skipped bail and went on the run for two weeks."
           }
-        ]
+        ],
+        "short_meaning_vi": "bỏ trốn",
+        "definition_vi": "không xuất hiện tại phiên tòa của bạn sau khi bạn đã trả tiền để được tự do cho đến phiên tòa"
       },
       {
         "definition": "to start or be made to start a new and difficult activity that you are not prepared for",
@@ -2395,19 +2679,27 @@
             "cf": "",
             "x": "The company believes in throwing new employees in at the deep end with no training."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu đột ngột",
+        "definition_vi": "bắt đầu hoặc bị buộc phải bắt đầu một hoạt động mới và khó khăn mà bạn không chuẩn bị"
       },
       {
         "definition": "to react very angrily to somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phản ứng dữ dội",
+        "definition_vi": "phản ứng rất tức giận với ai đó"
       },
       {
         "definition": "to do something too soon, before the right time",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hành động quá sớm",
+        "definition_vi": "làm điều gì đó quá sớm, trước thời điểm thích hợp"
       },
       {
         "definition": "to fail to stop at a red traffic light",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vượt đèn đỏ",
+        "definition_vi": "không dừng lại ở đèn giao thông đỏ"
       },
       {
         "definition": "to move violently because of a sudden shock",
@@ -2416,7 +2708,9 @@
             "cf": "",
             "x": "She nearly jumped out of her skin when she saw me."
           }
-        ]
+        ],
+        "short_meaning_vi": "giật nảy",
+        "definition_vi": "di chuyển mạnh vì một cú sốc đột ngột"
       },
       {
         "definition": "to go to the front of a line of people without waiting for your turn",
@@ -2429,11 +2723,15 @@
             "cf": "",
             "x": "Because he had money, he was able to jump the queue and get treatment that was not available to other people."
           }
-        ]
+        ],
+        "short_meaning_vi": "chen hàng",
+        "definition_vi": "đi lên phía trước trong một hàng người mà không cần chờ đến lượt"
       },
       {
         "definition": "to leave the track suddenly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trật bánh",
+        "definition_vi": "rời khỏi đường ray đột ngột"
       },
       {
         "definition": "(used especially about a television series, etc.) to include something that is very hard to believe as an attempt to keep people watching, usually a sign that the show is not as good as it used to be ",
@@ -2442,15 +2740,21 @@
             "cf": "",
             "x": "Has the show finally jumped the shark?"
           }
-        ]
+        ],
+        "short_meaning_vi": "kịch tính hóa",
+        "definition_vi": "(đặc biệt dùng cho phim truyền hình, v.v.) đưa vào một cái gì đó rất khó tin như một nỗ lực để giữ chân người xem, thường là dấu hiệu cho thấy chương trình không còn hay như trước"
       },
       {
         "definition": "to leave the ship on which you are serving, without permission",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhảy tàu",
+        "definition_vi": "rời khỏi tàu mà bạn đang phục vụ, không có sự cho phép"
       },
       {
         "definition": "to leave an organization that you belong to, suddenly and unexpectedly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rời bỏ",
+        "definition_vi": "rời khỏi một tổ chức mà bạn thuộc về, đột ngột và bất ngờ"
       },
       {
         "definition": "to do something difficult or complicated in order to achieve something",
@@ -2459,7 +2763,9 @@
             "cf": "",
             "x": "You have to jump through so many hoops to get a job like this."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt qua",
+        "definition_vi": "làm điều gì đó khó khăn hoặc phức tạp để đạt được điều gì đó"
       },
       {
         "definition": "to make a decision about somebody/something too quickly, before you know or have thought about all the facts",
@@ -2468,11 +2774,15 @@
             "cf": "",
             "x": "There I go again—jumping to conclusions."
           }
-        ]
+        ],
+        "short_meaning_vi": "vội vàng phán xét",
+        "definition_vi": "đưa ra quyết định về ai đó/điều gì đó quá nhanh, trước khi bạn biết hoặc đã suy nghĩ về tất cả các sự thật"
       },
       {
         "definition": "used to tell somebody to hurry and do something quickly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhanh lên",
+        "definition_vi": "được dùng để bảo ai đó nhanh chóng làm điều gì đó"
       }
     ]
   },
@@ -2503,7 +2813,9 @@
             "cf": "",
             "x": "In the 19th century the town became an important railway junction."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngã ba",
+        "definition_vi": "nơi hai hoặc nhiều đường hoặc đường sắt gặp nhau"
       },
       {
         "definition": "a place where two or more cables, rivers or other things meet or are joined",
@@ -2516,7 +2828,9 @@
             "cf": "",
             "x": "the junction between nerves and muscles"
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp lưu",
+        "definition_vi": "nơi hai hoặc nhiều cáp, sông hoặc các thứ khác gặp nhau hoặc được nối với nhau"
       }
     ]
   },
@@ -2559,11 +2873,15 @@
             "cf": "",
             "x": "the June edition of the newsletter"
           }
-        ]
+        ],
+        "short_meaning_vi": "tháng Sáu",
+        "definition_vi": "tháng thứ 6 trong năm, giữa tháng 5 và tháng 7"
       },
       {
         "definition": "a first name for girls",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tên riêng",
+        "definition_vi": "một tên riêng cho các cô gái"
       }
     ]
   },
@@ -2586,7 +2904,9 @@
             "cf": "junior to somebody",
             "x": "She is junior to me."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấp dưới",
+        "definition_vi": "có thứ hạng thấp trong một tổ chức hoặc một nghề nghiệp"
       },
       {
         "definition": "connected with young people below a particular age, rather than with adults, especially in sports",
@@ -2599,11 +2919,15 @@
             "cf": "",
             "x": "the world junior tennis championships"
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ tuổi",
+        "definition_vi": "liên quan đến những người trẻ tuổi dưới một độ tuổi nhất định, thay vì người lớn, đặc biệt là trong thể thao"
       },
       {
         "definition": "(especially in the US) used after the name of a man who has the same name as his father, to make it clear who is being referred to",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "con",
+        "definition_vi": "(đặc biệt ở Mỹ) dùng sau tên của một người đàn ông có cùng tên với cha của mình, để làm rõ người đang được đề cập đến"
       },
       {
         "definition": "for children under the age of 11 or 13",
@@ -2612,7 +2936,9 @@
             "cf": "",
             "x": "the junior section of the school"
           }
-        ]
+        ],
+        "short_meaning_vi": "thiếu nhi",
+        "definition_vi": "dành cho trẻ em dưới 11 hoặc 13 tuổi"
       },
       {
         "definition": "connected with the year before the last year in a high school or college",
@@ -2621,7 +2947,9 @@
             "cf": "",
             "x": "I spent my junior year in France."
           }
-        ]
+        ],
+        "short_meaning_vi": "năm cuối",
+        "definition_vi": "liên quan đến năm học trước năm cuối cấp ở trường trung học hoặc đại học"
       }
     ]
   },
@@ -2648,7 +2976,9 @@
             "cf": "within/outside somebody's jurisdiction",
             "x": "These matters do not fall within our jurisdiction."
           }
-        ]
+        ],
+        "short_meaning_vi": "thẩm quyền",
+        "definition_vi": "quyền hạn mà một tổ chức chính thức có để đưa ra các quyết định pháp lý về ai đó/cái gì đó"
       },
       {
         "definition": "an area or a country in which a particular system of laws has authority",
@@ -2657,7 +2987,9 @@
             "cf": "",
             "x": "Practice varies between different European jurisdictions."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực pháp lý",
+        "definition_vi": "một khu vực hoặc một quốc gia mà trong đó một hệ thống luật pháp cụ thể có thẩm quyền"
       }
     ]
   },
@@ -2688,7 +3020,9 @@
             "cf": "by jury",
             "x": "the right to trial by jury "
           }
-        ]
+        ],
+        "short_meaning_vi": "bồi thẩm đoàn",
+        "definition_vi": "một nhóm thành viên công chúng lắng nghe các tình tiết của một vụ án tại tòa án và quyết định xem ai đó có tội với một tội danh hay không, hoặc liệu một yêu cầu có được chứng minh hay không"
       },
       {
         "definition": "a group of people who decide who is the winner of a competition",
@@ -2697,7 +3031,9 @@
             "cf": "on a jury",
             "x": "He was on the jury for this year's Booker Prize."
           }
-        ]
+        ],
+        "short_meaning_vi": "ban giám khảo",
+        "definition_vi": "một nhóm người quyết định ai là người chiến thắng trong một cuộc thi"
       },
       {
         "definition": "used when you are saying that something is still not certain",
@@ -2706,7 +3042,9 @@
             "cf": "",
             "x": "The jury is still out on whether this is a good idea or not."
           }
-        ]
+        ],
+        "short_meaning_vi": "chưa chắc chắn",
+        "definition_vi": "được sử dụng khi bạn nói rằng một điều gì đó vẫn chưa chắc chắn"
       }
     ]
   },
@@ -2725,11 +3063,15 @@
             "cf": "",
             "x": "a just decision/law/society"
           }
-        ]
+        ],
+        "short_meaning_vi": "công bằng",
+        "definition_vi": "mà hầu hết mọi người coi là đúng đắn về mặt đạo đức và hợp lý"
       },
       {
         "definition": "people who are just",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người công bằng",
+        "definition_vi": "những người công bằng"
       },
       {
         "definition": "appropriate in a particular situation",
@@ -2746,7 +3088,9 @@
             "cf": "",
             "x": "They're campaigning for a just settlement."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích hợp",
+        "definition_vi": "phù hợp trong một tình huống cụ thể"
       }
     ]
   },
@@ -2777,7 +3121,9 @@
             "cf": "",
             "x": "‘Can I help you?’ ‘No thanks, I'm just looking.’ (= in a shop)"
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ",
+        "definition_vi": "duy nhất"
       },
       {
         "definition": "simply",
@@ -2850,7 +3196,9 @@
             "cf": "",
             "x": "They just never give up."
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn giản",
+        "definition_vi": "chỉ"
       },
       {
         "definition": "by a small amount",
@@ -2891,7 +3239,9 @@
             "cf": "just short of something",
             "x": "They're now the largest party, through just short of an overall majority."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ một chút",
+        "definition_vi": "chỉ với một lượng nhỏ"
       },
       {
         "definition": "used to say that you/somebody did something or something happened very recently",
@@ -2920,7 +3270,9 @@
             "cf": "",
             "x": "Just last week it was snowing and now it's 25 degrees."
           }
-        ]
+        ],
+        "short_meaning_vi": "vừa mới",
+        "definition_vi": "được sử dụng để nói rằng bạn/ai đó vừa mới làm điều gì đó hoặc điều gì đó vừa mới xảy ra"
       },
       {
         "definition": "at this/that moment; now",
@@ -2937,7 +3289,9 @@
             "cf": "",
             "x": "I'm just off (= I am leaving now)."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngay bây giờ",
+        "definition_vi": "tại thời điểm này/lúc đó; bây giờ"
       },
       {
         "definition": "exactly",
@@ -2978,7 +3332,9 @@
             "cf": "just on something",
             "x": "It's just on six (= exactly six o'clock)."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "chính xác"
       },
       {
         "definition": "at the same moment as",
@@ -2987,7 +3343,9 @@
             "cf": "",
             "x": "The clock struck six just as I arrived."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngay khi",
+        "definition_vi": "cùng lúc với"
       },
       {
         "definition": "no less than; equally",
@@ -3000,7 +3358,9 @@
             "cf": "",
             "x": "You can get there just as cheaply by plane."
           }
-        ]
+        ],
+        "short_meaning_vi": "bằng",
+        "definition_vi": "không kém hơn; tương đương"
       },
       {
         "definition": "going to do something only a few moments from now or then",
@@ -3013,7 +3373,9 @@
             "cf": "just going to do something",
             "x": "I was just going to tell you when you interrupted."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp",
+        "definition_vi": "sẽ làm điều gì đó chỉ vài khoảnh khắc nữa hoặc lúc đó"
       },
       {
         "definition": "really; completely",
@@ -3034,7 +3396,9 @@
             "cf": "",
             "x": "I can just imagine his reaction."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn",
+        "definition_vi": "thực sự; hoàn toàn"
       },
       {
         "definition": "used in orders to get somebody’s attention, give permission, etc.",
@@ -3047,7 +3411,9 @@
             "cf": "",
             "x": "Just help yourselves."
           }
-        ]
+        ],
+        "short_meaning_vi": "hãy",
+        "definition_vi": "được sử dụng trong các mệnh lệnh để thu hút sự chú ý của ai đó, cho phép, v.v."
       },
       {
         "definition": "used to make a polite request, excuse, etc.",
@@ -3060,7 +3426,9 @@
             "cf": "",
             "x": "I've just got a few things to do first."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm ơn",
+        "definition_vi": "được sử dụng để đưa ra một yêu cầu lịch sự, lời bào chữa, v.v."
       },
       {
         "definition": "used to show a slight possibility that something is true or will happen",
@@ -3069,7 +3437,9 @@
             "cf": "",
             "x": "Try asking Mike—he might just know the answer."
           }
-        ]
+        ],
+        "short_meaning_vi": "có lẽ",
+        "definition_vi": "được sử dụng để chỉ ra một khả năng nhỏ rằng điều gì đó là đúng hoặc sẽ xảy ra"
       },
       {
         "definition": "used to agree with somebody",
@@ -3078,7 +3448,9 @@
             "cf": "",
             "x": "‘He's very pompous.’ ‘Isn't he just?’"
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng ý",
+        "definition_vi": "được sử dụng để đồng ý với ai đó"
       },
       {
         "definition": "used to say that you/somebody would have been in the same position if you had done something else, because you got little benefit or pleasure from what you did do",
@@ -3087,7 +3459,9 @@
             "cf": "",
             "x": "The weather was so bad we might just as well have stayed at home."
           }
-        ]
+        ],
+        "short_meaning_vi": "chẳng khác nào",
+        "definition_vi": "được sử dụng để nói rằng bạn/ai đó cũng sẽ ở trong tình huống tương tự nếu bạn làm điều gì đó khác, bởi vì bạn nhận được ít lợi ích hoặc niềm vui từ những gì bạn đã làm"
       },
       {
         "definition": "because of the possibility of something happening",
@@ -3104,7 +3478,9 @@
             "cf": "",
             "x": "In case (= if it is true that) you’re wondering why Jo’s here—let me explain…"
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ vì",
+        "definition_vi": "vì khả năng xảy ra điều gì đó"
       },
       {
         "definition": "it is a good thing",
@@ -3113,7 +3489,9 @@
             "cf": "",
             "x": "It is just as well that we didn't leave any later or we'd have missed him."
           }
-        ]
+        ],
+        "short_meaning_vi": "tốt",
+        "definition_vi": "là một điều tốt"
       },
       {
         "definition": "used to say that you would equally well like to do something as do something else that has been suggested",
@@ -3122,7 +3500,9 @@
             "cf": "",
             "x": "I'd just as soon stay at home as go out tonight."
           }
-        ]
+        ],
+        "short_meaning_vi": "cũng",
+        "definition_vi": "được sử dụng để nói rằng bạn cũng muốn làm điều gì đó như làm điều gì đó khác đã được đề xuất"
       },
       {
         "definition": "almost; very nearly",
@@ -3135,7 +3515,9 @@
             "cf": "",
             "x": "‘Did you reach your sales target?’ ‘Just about.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "gần như",
+        "definition_vi": "hầu như; rất gần"
       },
       {
         "definition": "approximately",
@@ -3144,11 +3526,15 @@
             "cf": "",
             "x": "She should be arriving just about now."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoảng",
+        "definition_vi": "xấp xỉ"
       },
       {
         "definition": "suddenly, without warning or explanation",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đột ngột",
+        "definition_vi": "đột ngột, không báo trước hoặc không giải thích"
       },
       {
         "definition": "used to ask somebody to wait for a short time",
@@ -3157,7 +3543,9 @@
             "cf": "",
             "x": "‘Is Mr Burns available?’ ‘Just a second, please—I'll check.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "chờ một chút",
+        "definition_vi": "được sử dụng để yêu cầu ai đó đợi một thời gian ngắn"
       },
       {
         "definition": "at this moment",
@@ -3166,7 +3554,9 @@
             "cf": "",
             "x": "Come and see me later—I'm busy just now."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngay lúc này",
+        "definition_vi": "tại thời điểm này"
       },
       {
         "definition": "during this present period",
@@ -3175,7 +3565,9 @@
             "cf": "",
             "x": "Business is good just now."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiện tại",
+        "definition_vi": "trong giai đoạn hiện tại này"
       },
       {
         "definition": "only a short time ago",
@@ -3184,11 +3576,15 @@
             "cf": "",
             "x": "I saw her just now."
           }
-        ]
+        ],
+        "short_meaning_vi": "vừa mới đây",
+        "definition_vi": "chỉ một thời gian ngắn trước đây"
       },
       {
         "definition": "later; in a short period of time",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chẳng bao lâu",
+        "definition_vi": "sau đó; trong một khoảng thời gian ngắn"
       },
       {
         "definition": "done or arranged very accurately or carefully",
@@ -3197,7 +3593,9 @@
             "cf": "",
             "x": "He liked polishing the furniture and making everything just so."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "được thực hiện hoặc sắp xếp rất chính xác hoặc cẩn thận"
       },
       {
         "definition": "at that moment",
@@ -3206,7 +3604,9 @@
             "cf": "",
             "x": "Just then, someone knocked at the front door."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngay lúc đó",
+        "definition_vi": "tại thời điểm đó"
       },
       {
         "definition": "exactly what is needed in a particular situation",
@@ -3215,7 +3615,9 @@
             "cf": "",
             "x": "That cup of tea was just the ticket. "
           }
-        ]
+        ],
+        "short_meaning_vi": "vừa đủ",
+        "definition_vi": "chính xác những gì cần thiết trong một tình huống cụ thể"
       },
       {
         "definition": "used when commenting on a situation to suggest that you could say something more or worse but prefer not to",
@@ -3224,7 +3626,9 @@
             "cf": "",
             "x": "Let's just say he wasn't very happy about the decision (= he was very unhappy or angry about it)."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ là",
+        "definition_vi": "được sử dụng khi nhận xét về một tình huống để gợi ý rằng có thể nói nhiều hơn hoặc tệ hơn nhưng thà không nói"
       },
       {
         "definition": "not now but probably quite soon",
@@ -3233,7 +3637,9 @@
             "cf": "",
             "x": "I can't give you the money just yet."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp tới",
+        "definition_vi": "không phải bây giờ nhưng có lẽ khá sớm"
       }
     ]
   },
@@ -3260,7 +3666,9 @@
             "cf": "",
             "x": "laws based on the principles of natural justice"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự công bằng",
+        "definition_vi": "sự đối xử công bằng với mọi người"
       },
       {
         "definition": "the quality of being fair or reasonable",
@@ -3273,7 +3681,9 @@
             "cf": "",
             "x": "He demanded, not without justice, that he should be allowed to express his views."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính công bằng",
+        "definition_vi": "phẩm chất của sự công bằng hoặc hợp lý"
       },
       {
         "definition": "the legal system used to punish people who have committed crimes",
@@ -3298,11 +3708,15 @@
             "cf": "",
             "x": "They were accused of attempting to obstruct justice."
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống pháp luật",
+        "definition_vi": "hệ thống pháp luật được sử dụng để trừng phạt những người đã phạm tội"
       },
       {
         "definition": "a judge in a court (also used before the name of a judge)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thẩm phán",
+        "definition_vi": "một thẩm phán trong tòa án (cũng được sử dụng trước tên của thẩm phán)"
       },
       {
         "definition": "used before the name of a judge in a court of appeal",
@@ -3311,11 +3725,15 @@
             "cf": "",
             "x": "Mr Justice Davies"
           }
-        ]
+        ],
+        "short_meaning_vi": "thẩm phán",
+        "definition_vi": "được sử dụng trước tên của thẩm phán tại tòa phúc thẩm"
       },
       {
         "definition": "to arrest somebody for a crime and put them on trial in court",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "xét xử",
+        "definition_vi": "bắt giữ ai đó vì một tội ác và đưa họ ra xét xử tại tòa"
       },
       {
         "definition": "to treat or represent somebody/something fairly, especially in a way that shows how good, attractive, etc. they are",
@@ -3332,7 +3750,9 @@
             "cf": "",
             "x": "The review did not do justice to her talents."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện công bằng",
+        "definition_vi": "đối xử hoặc đại diện cho ai đó/điều gì đó một cách công bằng, đặc biệt là theo cách thể hiện sự tốt đẹp, hấp dẫn, v.v. của họ"
       },
       {
         "definition": "to deal with somebody/something correctly and completely",
@@ -3345,7 +3765,9 @@
             "cf": "",
             "x": "I didn’t feel well and wasn’t able to do justice to the meal she had cooked (= I could not eat all the food)."
           }
-        ]
+        ],
+        "short_meaning_vi": "xử lý đúng",
+        "definition_vi": "xử lý ai đó/điều gì đó một cách chính xác và hoàn chỉnh"
       },
       {
         "definition": "to do something as well as you can in order to show other people how good you are",
@@ -3354,11 +3776,15 @@
             "cf": "",
             "x": "She didn't do herself justice in the exam."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện tài năng",
+        "definition_vi": "làm điều gì đó tốt nhất có thể để thể hiện cho người khác thấy bạn giỏi như thế nào"
       },
       {
         "definition": "to tell a lie or to do something in order to prevent the police, etc. from finding out the truth about a crime",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "che giấu",
+        "definition_vi": "nói dối hoặc làm điều gì đó để ngăn cảnh sát, v.v. khám phá ra sự thật về một tội ác"
       }
     ]
   },
@@ -3389,7 +3815,9 @@
             "cf": "without justification",
             "x": "She was arrested entirely without justification."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự biện minh",
+        "definition_vi": "một lý do chính đáng để giải thích tại sao điều gì đó tồn tại hoặc được thực hiện"
       },
       {
         "definition": "as an explanation of why something exists or why somebody has done something",
@@ -3402,7 +3830,9 @@
             "cf": "",
             "x": "the argument which he put forward in justification"
           }
-        ]
+        ],
+        "short_meaning_vi": "lý do giải thích",
+        "definition_vi": "như một lời giải thích tại sao điều gì đó tồn tại hoặc tại sao ai đó đã làm điều gì đó"
       }
     ]
   },
@@ -3429,7 +3859,9 @@
             "cf": "justify something",
             "x": "Her success had justified the faith her teachers had put in her."
           }
-        ]
+        ],
+        "short_meaning_vi": "biện minh",
+        "definition_vi": "chứng tỏ rằng ai đó/điều gì đó là đúng hoặc hợp lý"
       },
       {
         "definition": "to give an explanation or excuse for something or for doing something",
@@ -3454,11 +3886,15 @@
             "cf": "justify somebody/something doing something",
             "x": "The press release was intended to justify them sacking her."
           }
-        ]
+        ],
+        "short_meaning_vi": "giải thích",
+        "definition_vi": "đưa ra một lời giải thích hoặc bào chữa cho điều gì đó hoặc cho việc làm điều gì đó"
       },
       {
         "definition": "to arrange lines of printed text so that one or both edges are straight",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "căn lề",
+        "definition_vi": "sắp xếp các dòng văn bản in sao cho một hoặc cả hai lề thẳng hàng"
       },
       {
         "definition": "bad or unfair methods of doing something are acceptable if the result of that action is good or positive",
@@ -3471,7 +3907,9 @@
             "cf": "",
             "x": "That's only OK if you believe that the end justifies the means."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi ích lớn hơn",
+        "definition_vi": "các phương pháp làm việc xấu hoặc không công bằng được chấp nhận nếu kết quả của hành động đó tốt hoặc tích cực"
       }
     ]
   }

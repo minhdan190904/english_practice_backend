@@ -30,16 +30,48 @@ public class UserServiceImpl implements UserService {
     public User getOrCreateUserFromToken(FirebaseToken token) {
         String firebaseUid = token.getUid();
         return userRepository.findByFirebaseUid(firebaseUid)
+                .map(existingUser -> updateUserIfNeeded(existingUser, token))
                 .orElseGet(() -> createNewUser(token));
     }
 
+    private User updateUserIfNeeded(User user, FirebaseToken token) {
+        boolean updated = false;
+
+        // When user links Google account, token will now have email/name/picture
+        if (token.getEmail() != null && !token.getEmail().equals(user.getEmail())) {
+            user.setEmail(token.getEmail());
+            updated = true;
+        }
+        if (token.getName() != null && !token.getName().equals(user.getDisplayName())) {
+            user.setDisplayName(token.getName());
+            updated = true;
+        }
+        if (token.getPicture() != null && !token.getPicture().equals(user.getAvatarUrl())) {
+            user.setAvatarUrl(token.getPicture());
+            updated = true;
+        }
+
+        // If user now has email, they are no longer anonymous
+        if (token.getEmail() != null && user.getIsAnonymous()) {
+            user.setIsAnonymous(false);
+            updated = true;
+        }
+
+        if (updated) {
+            user = userRepository.save(user);
+        }
+        return user;
+    }
+
     private User createNewUser(FirebaseToken token) {
+        boolean isAnonymous = token.getEmail() == null;
         User newUser = User.builder()
                 .firebaseUid(token.getUid())
                 .email(token.getEmail())
                 .displayName(token.getName())
                 .avatarUrl(token.getPicture())
                 .role(Role.USER)
+                .isAnonymous(isAnonymous)
                 .build();
         
         newUser = userRepository.save(newUser);
@@ -77,6 +109,7 @@ public class UserServiceImpl implements UserService {
                 .displayName(currentUser.getDisplayName())
                 .avatarUrl(currentUser.getAvatarUrl())
                 .role(currentUser.getRole())
+                .isAnonymous(currentUser.getIsAnonymous())
                 .dailyGoal(setting.getDailyGoal())
                 .isNotificationEnabled(setting.getIsNotificationEnabled())
                 .currentStreak(streak.getCurrentStreak())

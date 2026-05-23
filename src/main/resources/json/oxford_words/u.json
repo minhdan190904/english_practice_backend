@@ -26,7 +26,9 @@
             "cf": "",
             "x": "The team returns this season with a new car and a new line-up of drivers."
           }
-        ]
+        ],
+        "short_meaning_vi": "danh sách tham gia",
+        "definition_vi": "những người sẽ tham gia vào một sự kiện cụ thể"
       },
       {
         "definition": "a set of items, events etc. arranged to follow one another",
@@ -35,7 +37,9 @@
             "cf": "",
             "x": "A horror movie completes this evening's TV line-up."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuỗi sự kiện",
+        "definition_vi": "một loạt các mục, sự kiện, v.v. được sắp xếp để diễn ra nối tiếp nhau"
       },
       {
         "definition": "a row of people, including one person who is suspected of a crime, who are shown to a witness to see if they can recognize the suspect",
@@ -44,7 +48,9 @@
             "cf": "",
             "x": "He was identified in an April 21 police line-up."
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng người nhận dạng",
+        "definition_vi": "một hàng người, bao gồm một người bị nghi ngờ phạm tội, được cho nhân chứng xem để xem họ có thể nhận dạng nghi phạm hay không"
       }
     ]
   },
@@ -83,7 +89,9 @@
             "cf": "",
             "x": "publicity photos of the actor in make-up (= wearing make-up) for the role"
           }
-        ]
+        ],
+        "short_meaning_vi": "trang điểm",
+        "definition_vi": "các chất màu dùng trên da để làm cho bản thân trông hấp dẫn hơn hoặc thay đổi ngoại hình"
       },
       {
         "definition": "the different qualities that combine to form somebody’s character or being",
@@ -104,7 +112,9 @@
             "cf": "",
             "x": "The report studies the psychological make-up of a serial killer."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính cách",
+        "definition_vi": "những phẩm chất khác nhau kết hợp để tạo nên tính cách hoặc bản chất của một người"
       },
       {
         "definition": "the different things, people, etc. that combine to form something; the way in which they combine",
@@ -121,11 +131,15 @@
             "cf": "",
             "x": "the page make-up of a text (= the way in which the words and pictures are arranged on a page)"
           }
-        ]
+        ],
+        "short_meaning_vi": "cấu thành",
+        "definition_vi": "những thứ, con người, v.v. khác nhau kết hợp để tạo thành một cái gì đó; cách chúng kết hợp"
       },
       {
         "definition": "a special exam taken by students who missed or failed an earlier one",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thi lại",
+        "definition_vi": "một kỳ thi đặc biệt dành cho sinh viên đã bỏ lỡ hoặc trượt một kỳ thi trước đó"
       }
     ]
   },
@@ -148,7 +162,9 @@
             "cf": "",
             "x": "What’s the set-up in your family—who does the cooking?"
           }
-        ]
+        ],
+        "short_meaning_vi": "cấu trúc",
+        "definition_vi": "một cách tổ chức một cái gì đó; một hệ thống"
       },
       {
         "definition": "a situation in which somebody tricks you or makes it seem as if you have done something wrong",
@@ -157,7 +173,9 @@
             "cf": "",
             "x": "He didn't steal the goods. It was a set-up."
           }
-        ]
+        ],
+        "short_meaning_vi": "bẫy",
+        "definition_vi": "một tình huống mà ai đó lừa bạn hoặc làm cho bạn có vẻ như đã làm điều gì đó sai trái"
       }
     ]
   },
@@ -192,7 +210,9 @@
             "cf": "",
             "x": "Why do some of our government buildings look ugly? "
           }
-        ]
+        ],
+        "short_meaning_vi": "xấu xí",
+        "definition_vi": "khó coi"
       },
       {
         "definition": "unpleasant or dangerous; involving threats or violence",
@@ -221,7 +241,9 @@
             "cf": "",
             "x": "Very quickly, the mood turned ugly."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguy hiểm",
+        "definition_vi": "khó chịu hoặc nguy hiểm; liên quan đến đe dọa hoặc bạo lực"
       }
     ]
   },
@@ -248,7 +270,9 @@
             "cf": "",
             "x": "The ultimate decision lies with the parents."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuối cùng",
+        "definition_vi": "xảy ra vào cuối một quá trình dài"
       },
       {
         "definition": "most extreme; best, worst, greatest, most important, etc.",
@@ -265,7 +289,9 @@
             "cf": "",
             "x": "Nuclear weapons are the ultimate deterrent."
           }
-        ]
+        ],
+        "short_meaning_vi": "tột đỉnh",
+        "definition_vi": "cực đoan nhất; tốt nhất, tệ nhất, vĩ đại nhất, quan trọng nhất, v.v."
       },
       {
         "definition": "from which something originally comes",
@@ -278,7 +304,9 @@
             "cf": "",
             "x": "We could not trace the ultimate source of the rumours."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguồn gốc",
+        "definition_vi": "từ đó một cái gì đó ban đầu đến"
       }
     ]
   },
@@ -317,7 +345,9 @@
             "cf": "",
             "x": "The economic changes ultimately proved successful."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuối cùng",
+        "definition_vi": "cuối cùng; cuối cùng"
       },
       {
         "definition": "at the most basic and important level",
@@ -330,7 +360,9 @@
             "cf": "",
             "x": "Ultimately, however, films come down to their stories and characters."
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ bản nhất",
+        "definition_vi": "ở cấp độ cơ bản và quan trọng nhất"
       }
     ]
   },
@@ -369,7 +401,9 @@
             "cf": "",
             "x": "an umbrella stand (= for putting umbrellas in when they are not being used)"
           }
-        ]
+        ],
+        "short_meaning_vi": "ô",
+        "definition_vi": "một vật có khung tròn có thể gập lại bằng những thanh kim loại dài, thẳng được phủ bằng vật liệu, mà bạn sử dụng để bảo vệ bản thân khỏi mưa hoặc nắng gắt"
       },
       {
         "definition": "a thing that contains or includes many different parts or elements",
@@ -386,7 +420,9 @@
             "cf": "",
             "x": "‘Contact sports’ is an umbrella term for a variety of different sports."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổng thể",
+        "definition_vi": "một thứ chứa hoặc bao gồm nhiều bộ phận hoặc yếu tố khác nhau"
       },
       {
         "definition": "a country or system that protects people",
@@ -395,7 +431,9 @@
             "cf": "",
             "x": "the American nuclear umbrella over Europe"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự bảo hộ",
+        "definition_vi": "một quốc gia hoặc hệ thống bảo vệ mọi người"
       }
     ]
   },
@@ -470,7 +508,9 @@
             "cf": "",
             "x": "The accident left him unable to walk."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thể",
+        "definition_vi": "không có kỹ năng, sức mạnh, thời gian, kiến thức, v.v. để làm điều gì đó"
       }
     ]
   },
@@ -493,7 +533,9 @@
             "cf": "",
             "x": "Noise from the factory has reached an unacceptable level."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thể chấp nhận",
+        "definition_vi": "tệ đến mức bạn nghĩ rằng nó không nên được phép"
       }
     ]
   },
@@ -516,7 +558,9 @@
             "cf": "",
             "x": "He had an air of uncertainty about him."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự không chắc chắn",
+        "definition_vi": "tình trạng không chắc chắn"
       },
       {
         "definition": "something that you cannot be sure about; a situation that makes you not be or feel certain",
@@ -529,7 +573,9 @@
             "cf": "",
             "x": "the uncertainties of war"
           }
-        ]
+        ],
+        "short_meaning_vi": "điều không chắc chắn",
+        "definition_vi": "một điều mà bạn không thể chắc chắn về; một tình huống khiến bạn không chắc chắn hoặc cảm thấy không chắc chắn"
       }
     ]
   },
@@ -572,11 +618,15 @@
             "cf": "",
             "x": "The celebrant of the Mass was Rev. Martin Doyle, uncle of the bride."
           }
-        ]
+        ],
+        "short_meaning_vi": "chú",
+        "definition_vi": "anh trai của mẹ hoặc cha bạn; chồng của dì hoặc chú của bạn"
       },
       {
         "definition": "used by children, with a first name, to address a man who is a close friend of their parents",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chú",
+        "definition_vi": "được trẻ em sử dụng, kèm theo tên gọi, để xưng hô với một người đàn ông là bạn thân của cha mẹ chúng"
       },
       {
         "definition": "used as a polite way of addressing or referring to an older man",
@@ -585,7 +635,9 @@
             "cf": "",
             "x": "The uncle who lives opposite my parents is always so warm and friendly."
           }
-        ]
+        ],
+        "short_meaning_vi": "ông",
+        "definition_vi": "được sử dụng như một cách lịch sự để xưng hô hoặc đề cập đến một người đàn ông lớn tuổi"
       },
       {
         "definition": "used to say how easy and quick it is to do a particular task",
@@ -594,7 +646,9 @@
             "cf": "",
             "x": "Press here and Bob's your uncle! It's disappeared."
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ dàng",
+        "definition_vi": "được sử dụng để nói về việc một nhiệm vụ cụ thể dễ dàng và nhanh chóng như thế nào"
       }
     ]
   },
@@ -625,7 +679,9 @@
             "cf": "",
             "x": "I find these chairs incredibly uncomfortable."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó chịu",
+        "definition_vi": "không cho phép bạn cảm thấy thoải mái về thể chất; khó chịu khi mặc, ngồi, v.v."
       },
       {
         "definition": "not feeling physically relaxed, warm, etc.",
@@ -646,7 +702,9 @@
             "cf": "",
             "x": "Sharp stones on the path made walking barefoot rather uncomfortable."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thoải mái",
+        "definition_vi": "không cảm thấy thư giãn, ấm áp, v.v. về thể chất"
       },
       {
         "definition": "anxious, embarrassed or afraid and unable to relax; making you feel like this",
@@ -687,7 +745,9 @@
             "cf": "it is uncomfortable to do something",
             "x": "It is very uncomfortable to have to admit that we might share some responsibility for the situation."
           }
-        ]
+        ],
+        "short_meaning_vi": "bối rối",
+        "definition_vi": "lo lắng, bối rối hoặc sợ hãi và không thể thư giãn; làm cho bạn cảm thấy như vậy"
       },
       {
         "definition": "unpleasant or difficult to deal with",
@@ -704,7 +764,9 @@
             "cf": "",
             "x": "Her letter was an uncomfortable reminder of responsibilities I preferred to forget about."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó khăn",
+        "definition_vi": "khó chịu hoặc khó giải quyết"
       }
     ]
   },
@@ -735,7 +797,9 @@
             "cf": "",
             "x": "It was a powerful sedative that would render them unconscious within minutes."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất tỉnh",
+        "definition_vi": "ở trạng thái giống như ngủ do bị thương hoặc bệnh, và không thể sử dụng các giác quan của mình"
       },
       {
         "definition": "existing or happening without you realizing or being aware; not deliberate ",
@@ -756,7 +820,9 @@
             "cf": "",
             "x": "The brochure is full of unconscious humour."
           }
-        ]
+        ],
+        "short_meaning_vi": "vô thức",
+        "definition_vi": "tồn tại hoặc xảy ra mà bạn không nhận ra hoặc không biết; không cố ý"
       },
       {
         "definition": "not aware of somebody/something; not noticing something; not conscious",
@@ -777,7 +843,9 @@
             "cf": "",
             "x": "He made his way down the street, unconscious of the people, cars and buildings around him."
           }
-        ]
+        ],
+        "short_meaning_vi": "không nhận thức",
+        "definition_vi": "không nhận thức về ai đó/cái gì đó; không nhận thấy điều gì đó; không tỉnh táo"
       }
     ]
   },
@@ -796,7 +864,9 @@
             "cf": "",
             "x": "He pulled up the covers and crawled under."
           }
-        ]
+        ],
+        "short_meaning_vi": "bên dưới",
+        "definition_vi": "bên dưới một cái gì đó"
       },
       {
         "definition": "below the surface of water",
@@ -809,7 +879,9 @@
             "cf": "",
             "x": "The boat was going under fast."
           }
-        ]
+        ],
+        "short_meaning_vi": "dưới nước",
+        "definition_vi": "dưới bề mặt nước"
       },
       {
         "definition": "less; younger",
@@ -822,7 +894,9 @@
             "cf": "",
             "x": "children aged 12 and under"
           }
-        ]
+        ],
+        "short_meaning_vi": "ít hơn",
+        "definition_vi": "ít hơn; trẻ hơn"
       },
       {
         "definition": "in or into an unconscious state",
@@ -831,7 +905,9 @@
             "cf": "",
             "x": "He felt himself going under."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất tỉnh",
+        "definition_vi": "ở hoặc vào một trạng thái vô thức"
       }
     ]
   },
@@ -858,7 +934,9 @@
             "cf": "",
             "x": "The dog squeezed under the gate and ran into the road."
           }
-        ]
+        ],
+        "short_meaning_vi": "bên dưới",
+        "definition_vi": "ở, đến hoặc qua một vị trí bên dưới một cái gì đó"
       },
       {
         "definition": "below the surface of something; covered by something",
@@ -867,7 +945,9 @@
             "cf": "",
             "x": "The boat lay under several feet of water."
           }
-        ]
+        ],
+        "short_meaning_vi": "bên dưới",
+        "definition_vi": "bên dưới bề mặt của một cái gì đó; được bao phủ bởi một cái gì đó"
       },
       {
         "definition": "less than; younger than",
@@ -888,7 +968,9 @@
             "cf": "",
             "x": "Nobody under 18 is allowed to buy alcohol."
           }
-        ]
+        ],
+        "short_meaning_vi": "dưới mức",
+        "definition_vi": "ít hơn; trẻ hơn"
       },
       {
         "definition": "affected by something",
@@ -909,7 +991,9 @@
             "cf": "",
             "x": "You'll be under anaesthetic, so you won't feel a thing."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu ảnh hưởng",
+        "definition_vi": "bị ảnh hưởng bởi cái gì đó"
       },
       {
         "definition": "used to say who or what controls, governs or manages somebody/something",
@@ -930,7 +1014,9 @@
             "cf": "",
             "x": "Under its new conductor, the orchestra has established an international reputation."
           }
-        ]
+        ],
+        "short_meaning_vi": "dưới sự quản lý",
+        "definition_vi": "được dùng để nói ai hoặc cái gì kiểm soát, cai quản hoặc quản lý ai đó/cái gì đó"
       },
       {
         "definition": "according to an agreement, a law or a system",
@@ -947,7 +1033,9 @@
             "cf": "",
             "x": "Is the television still under guarantee?"
           }
-        ]
+        ],
+        "short_meaning_vi": "theo thỏa thuận",
+        "definition_vi": "theo một thỏa thuận, một luật hoặc một hệ thống"
       },
       {
         "definition": "experiencing a particular process",
@@ -960,7 +1048,9 @@
             "cf": "",
             "x": "The matter is under investigation."
           }
-        ]
+        ],
+        "short_meaning_vi": "trải qua",
+        "definition_vi": "đang trải qua một quá trình cụ thể"
       },
       {
         "definition": "using a particular name",
@@ -969,7 +1059,9 @@
             "cf": "",
             "x": "She also wrote under the pseudonym of Barbara Vine."
           }
-        ]
+        ],
+        "short_meaning_vi": "dưới tên gọi",
+        "definition_vi": "sử dụng một cái tên cụ thể"
       },
       {
         "definition": "found in a particular part of a book, list, etc.",
@@ -978,7 +1070,9 @@
             "cf": "",
             "x": "If it's not under ‘sports’, try looking under ‘games’."
           }
-        ]
+        ],
+        "short_meaning_vi": "trong phần",
+        "definition_vi": "được tìm thấy trong một phần cụ thể của sách, danh sách, v.v."
       }
     ]
   },
@@ -1009,7 +1103,9 @@
             "cf": "",
             "x": "The drug is currently undergoing trials in America."
           }
-        ]
+        ],
+        "short_meaning_vi": "trải qua",
+        "definition_vi": "trải qua điều gì đó, đặc biệt là một sự thay đổi hoặc điều gì đó không dễ chịu"
       }
     ]
   },
@@ -1044,7 +1140,9 @@
             "cf": "",
             "x": "memoirs of his undergraduate career at the University of Toronto"
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh viên đại học",
+        "definition_vi": "một sinh viên đại học hoặc cao đẳng đang học để lấy bằng đầu tiên"
       }
     ]
   },
@@ -1083,7 +1181,9 @@
             "cf": "",
             "x": "They carried out a series of underground nuclear tests."
           }
-        ]
+        ],
+        "short_meaning_vi": "dưới lòng đất",
+        "definition_vi": "dưới bề mặt của mặt đất"
       },
       {
         "definition": "operating secretly and often illegally, especially against a government",
@@ -1100,7 +1200,9 @@
             "cf": "",
             "x": "The party was originally formed as an underground organization in 1987."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoạt động bí mật",
+        "definition_vi": "hoạt động bí mật và thường là bất hợp pháp, đặc biệt là chống lại chính phủ"
       }
     ]
   },
@@ -1131,7 +1233,9 @@
             "cf": "",
             "x": "a network of pipelines running underground"
           }
-        ]
+        ],
+        "short_meaning_vi": "dưới lòng đất",
+        "definition_vi": "dưới bề mặt của mặt đất"
       },
       {
         "definition": "in or into a secret place in order to hide from the police, the government, etc.",
@@ -1148,7 +1252,9 @@
             "cf": "",
             "x": "Opposition groups have been driven underground."
           }
-        ]
+        ],
+        "short_meaning_vi": "ẩn náu",
+        "definition_vi": "ở hoặc vào một nơi bí mật để trốn cảnh sát, chính phủ, v.v."
       }
     ]
   },
@@ -1171,7 +1277,9 @@
             "cf": "",
             "x": "Unemployment may be an underlying cause of the rising crime rate."
           }
-        ]
+        ],
+        "short_meaning_vi": "ẩn giấu",
+        "definition_vi": "quan trọng trong một tình huống nhưng không phải lúc nào cũng dễ dàng nhận thấy hoặc nói rõ ràng"
       },
       {
         "definition": "existing under the surface of something else",
@@ -1180,7 +1288,9 @@
             "cf": "",
             "x": "the underlying rock formation"
           }
-        ]
+        ],
+        "short_meaning_vi": "nằm dưới",
+        "definition_vi": "tồn tại dưới bề mặt của cái gì đó khác"
       }
     ]
   },
@@ -1215,11 +1325,15 @@
             "cf": "",
             "x": "It's all a plot to undermine me."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm suy yếu",
+        "definition_vi": "làm cho điều gì đó, đặc biệt là sự tự tin hoặc quyền lực của ai đó, dần dần yếu hơn hoặc kém hiệu quả hơn"
       },
       {
         "definition": "to make something weaker at the base, for example by digging under it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "xói mòn",
+        "definition_vi": "làm cho cái gì đó yếu hơn ở phần chân đế, ví dụ bằng cách đào bên dưới nó"
       }
     ]
   },
@@ -1262,7 +1376,9 @@
             "cf": "understand what…",
             "x": "I don't understand what he's saying."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiểu",
+        "definition_vi": "biết hoặc nhận ra ý nghĩa của từ ngữ, một ngôn ngữ, những gì ai đó nói, v.v."
       },
       {
         "definition": "to know or realize how or why something happens, how it works or why it is important",
@@ -1311,7 +1427,9 @@
             "cf": "be understood as something",
             "x": "The national housing market is better understood as a collection of small, local housing markets."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiểu",
+        "definition_vi": "biết hoặc nhận ra cách thức hoặc lý do tại sao điều gì đó xảy ra, cách nó hoạt động hoặc tại sao nó quan trọng"
       },
       {
         "definition": "to know somebody’s character, how they feel and why they behave in the way they do",
@@ -1352,7 +1470,9 @@
             "cf": "",
             "x": "I quite understand your needing some time alone."
           }
-        ]
+        ],
+        "short_meaning_vi": "thấu hiểu",
+        "definition_vi": "biết tính cách của ai đó, cảm xúc của họ và lý do tại sao họ hành xử theo cách đó"
       },
       {
         "definition": "to think or believe that something is true because you have been told that it is",
@@ -1373,7 +1493,9 @@
             "cf": "it is understood that…",
             "x": "It is understood that the band are working on their next album."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin rằng",
+        "definition_vi": "nghĩ hoặc tin rằng điều gì đó là đúng vì bạn đã được cho biết như vậy"
       },
       {
         "definition": "to agree something with somebody without it needing to be said",
@@ -1382,7 +1504,9 @@
             "cf": "",
             "x": "I thought it was understood that my expenses would be paid."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngầm hiểu",
+        "definition_vi": "đồng ý điều gì đó với ai đó mà không cần phải nói ra"
       },
       {
         "definition": "to realize that a word in a phrase or sentence is not expressed and to supply it in your mind",
@@ -1391,7 +1515,9 @@
             "cf": "",
             "x": "In the sentence ‘I can't drive’, the object ‘a car’ is understood."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiểu ngầm",
+        "definition_vi": "nhận ra rằng một từ trong một cụm từ hoặc câu không được diễn đạt và tự bổ sung nó trong tâm trí"
       },
       {
         "definition": "to make somebody believe/understand something",
@@ -1400,7 +1526,9 @@
             "cf": "",
             "x": "I was given to understand that she had resigned."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm cho hiểu",
+        "definition_vi": "làm cho ai đó tin/hiểu điều gì đó"
       },
       {
         "definition": "to make your meaning clear, especially in another language",
@@ -1409,7 +1537,9 @@
             "cf": "",
             "x": "He doesn't speak much Japanese but he can make himself understood."
           }
-        ]
+        ],
+        "short_meaning_vi": "diễn đạt",
+        "definition_vi": "làm cho ý của bạn rõ ràng, đặc biệt là bằng một ngôn ngữ khác"
       }
     ]
   },
@@ -1464,7 +1594,9 @@
             "cf": "",
             "x": "The existence of God is beyond human understanding (= humans cannot know whether God exists or not)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hiểu biết",
+        "definition_vi": "kiến thức mà ai đó có về một chủ đề hoặc tình huống cụ thể"
       },
       {
         "definition": "the ability to understand why people behave in a particular way and to forgive them when they do something wrong",
@@ -1489,7 +1621,9 @@
             "cf": "understanding between A and B",
             "x": "We are looking for a better understanding between the two nations."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thấu cảm",
+        "definition_vi": "khả năng hiểu tại sao mọi người hành xử theo một cách cụ thể và tha thứ cho họ khi họ làm điều gì đó sai"
       },
       {
         "definition": "an informal agreement",
@@ -1506,7 +1640,9 @@
             "cf": "understanding with somebody",
             "x": "I think I've reached an understanding with my mother."
           }
-        ]
+        ],
+        "short_meaning_vi": "thỏa thuận",
+        "definition_vi": "một thỏa thuận không chính thức"
       },
       {
         "definition": "the particular way in which somebody understands something",
@@ -1527,7 +1663,9 @@
             "cf": "",
             "x": "The statement is open to various understandings."
           }
-        ]
+        ],
+        "short_meaning_vi": "cách hiểu",
+        "definition_vi": "cách cụ thể mà ai đó hiểu điều gì đó"
       },
       {
         "definition": "used to introduce a condition that must be agreed before something else can happen",
@@ -1540,7 +1678,9 @@
             "cf": "",
             "x": "I thought you gave me the book on the understanding that I could keep it."
           }
-        ]
+        ],
+        "short_meaning_vi": "với điều kiện",
+        "definition_vi": "được sử dụng để giới thiệu một điều kiện phải được đồng ý trước khi điều gì đó khác có thể xảy ra"
       }
     ]
   },
@@ -1567,7 +1707,9 @@
             "cf": "",
             "x": "The company has announced that it will undertake a full investigation into the accident."
           }
-        ]
+        ],
+        "short_meaning_vi": "đảm nhận",
+        "definition_vi": "tự chịu trách nhiệm về điều gì đó và bắt đầu thực hiện nó"
       },
       {
         "definition": "to agree or promise that you will do something",
@@ -1576,7 +1718,9 @@
             "cf": "",
             "x": "He undertook to finish the job by Friday."
           }
-        ]
+        ],
+        "short_meaning_vi": "cam kết",
+        "definition_vi": "đồng ý hoặc hứa rằng bạn sẽ làm điều gì đó"
       }
     ]
   },
@@ -1611,7 +1755,9 @@
             "cf": "in your underwear",
             "x": "He was getting cold standing around in his underwear."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồ lót",
+        "definition_vi": "quần áo bạn mặc bên trong quần áo khác và tiếp xúc với da"
       }
     ]
   },
@@ -1630,7 +1776,9 @@
             "cf": "",
             "x": "There is undoubtedly a great deal of truth in what he says."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng điều gì đó tồn tại hoặc chắc chắn đúng"
       }
     ]
   },
@@ -1673,7 +1821,9 @@
             "cf": "",
             "x": "Thousands of labourers became unemployed with no alternative employment. "
           }
-        ]
+        ],
+        "short_meaning_vi": "thất nghiệp",
+        "definition_vi": "không có việc làm mặc dù có khả năng làm việc"
       }
     ]
   },
@@ -1732,7 +1882,9 @@
             "cf": "",
             "x": "He applied for unemployment insurance and was approved."
           }
-        ]
+        ],
+        "short_meaning_vi": "tình trạng thất nghiệp",
+        "definition_vi": "việc một số người không có việc làm; số lượng người không có việc làm"
       },
       {
         "definition": "the state of not having a job",
@@ -1753,7 +1905,9 @@
             "cf": "",
             "x": "a study of male/female unemployment"
           }
-        ]
+        ],
+        "short_meaning_vi": "thất nghiệp",
+        "definition_vi": "trạng thái không có việc làm"
       },
       {
         "definition": "money paid by the government to somebody who is unemployed",
@@ -1762,7 +1916,9 @@
             "cf": "",
             "x": "Since losing his job, Mike has been collecting unemployment."
           }
-        ]
+        ],
+        "short_meaning_vi": "trợ cấp thất nghiệp",
+        "definition_vi": "tiền do chính phủ trả cho người đang thất nghiệp"
       }
     ]
   },
@@ -1809,7 +1965,9 @@
             "cf": "",
             "x": "The attack came from a totally unexpected direction."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất ngờ",
+        "definition_vi": "nếu một điều gì đó là bất ngờ, nó làm bạn ngạc nhiên vì bạn không mong đợi nó"
       }
     ]
   },
@@ -1872,7 +2030,9 @@
             "cf": "",
             "x": "Life seems so unfair sometimes."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất công",
+        "definition_vi": "không đúng hoặc không công bằng theo một bộ quy tắc hoặc nguyên tắc; không đối xử bình đẳng với mọi người"
       }
     ]
   },
@@ -1895,7 +2055,9 @@
             "cf": "",
             "x": "She unfolded her arms."
           }
-        ]
+        ],
+        "short_meaning_vi": "mở ra",
+        "definition_vi": "làm cho cái gì đó đã được gấp lại trở nên trải phẳng ra; trở nên mở và phẳng."
       },
       {
         "definition": "to be gradually made known; to gradually make something known to other people",
@@ -1912,7 +2074,9 @@
             "cf": "unfold something (to somebody)",
             "x": "She unfolded her tale to us."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiết lộ",
+        "definition_vi": "dần dần được biết đến; dần dần làm cho ai đó biết điều gì đó."
       }
     ]
   },
@@ -1939,7 +2103,9 @@
             "cf": "",
             "x": "The unfortunate animal was locked inside the house for a week."
           }
-        ]
+        ],
+        "short_meaning_vi": "không may",
+        "definition_vi": "gặp vận rủi; do vận rủi gây ra."
       },
       {
         "definition": "if you say that a situation is unfortunate, you wish that it had not happened or that it had been different",
@@ -1956,7 +2122,9 @@
             "cf": "",
             "x": "You're putting me in a most unfortunate position."
           }
-        ]
+        ],
+        "short_meaning_vi": "không may",
+        "definition_vi": "nếu bạn nói một tình huống là không may, bạn ước gì điều đó đã không xảy ra hoặc đã khác đi."
       },
       {
         "definition": "embarrassing and/or offensive",
@@ -1965,7 +2133,9 @@
             "cf": "",
             "x": "It was an unfortunate choice of words."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó xử",
+        "definition_vi": "gây bối rối và/hoặc xúc phạm."
       }
     ]
   },
@@ -2000,7 +2170,9 @@
             "cf": "",
             "x": "We wanted to have only films from Spain at this year's festival. Unfortunately, however, there weren't enough good ones."
           }
-        ]
+        ],
+        "short_meaning_vi": "không may thay",
+        "definition_vi": "được sử dụng để nói rằng một tình huống hoặc sự thật cụ thể khiến bạn buồn hoặc thất vọng, hoặc khiến bạn gặp khó khăn."
       }
     ]
   },
@@ -2035,7 +2207,9 @@
             "cf": "unhappy to do something",
             "x": "It makes me very unhappy to see you so miserable."
           }
-        ]
+        ],
+        "short_meaning_vi": "buồn",
+        "definition_vi": "không vui; buồn."
       },
       {
         "definition": "not pleased or satisfied with somebody/something",
@@ -2072,7 +2246,9 @@
             "cf": "unhappy (that)…",
             "x": "Voters are unhappy that he has failed to deliver the kind of change that he promised."
           }
-        ]
+        ],
+        "short_meaning_vi": "không hài lòng",
+        "definition_vi": "không vui hoặc không hài lòng với ai/cái gì đó."
       },
       {
         "definition": "not suitable",
@@ -2085,7 +2261,9 @@
             "cf": "",
             "x": "It was an unhappy choice of words."
           }
-        ]
+        ],
+        "short_meaning_vi": "không phù hợp",
+        "definition_vi": "không thích hợp."
       }
     ]
   },
@@ -2140,7 +2318,9 @@
             "cf": "",
             "x": "He quickly put on his uniform."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng phục",
+        "definition_vi": "bộ quần áo đặc biệt mà tất cả các thành viên của một tổ chức hoặc một nhóm tại nơi làm việc, hoặc trẻ em ở trường mặc."
       },
       {
         "definition": "the clothes worn by the members of a sports team when they are playing",
@@ -2153,7 +2333,9 @@
             "cf": "",
             "x": "the team’s away uniform (= that they use when playing games away from home)"
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng phục",
+        "definition_vi": "quần áo mà các thành viên của một đội thể thao mặc khi họ đang thi đấu."
       },
       {
         "definition": "the type of clothes that a person or group usually wears",
@@ -2170,7 +2352,9 @@
             "cf": "",
             "x": "They wore the standard uniform of the American office worker."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng phục",
+        "definition_vi": "loại quần áo mà một người hoặc một nhóm thường mặc."
       }
     ]
   },
@@ -2197,7 +2381,9 @@
             "cf": "",
             "x": "a unified transport system"
           }
-        ]
+        ],
+        "short_meaning_vi": "thống nhất",
+        "definition_vi": "kết hợp mọi người, mọi vật, các bộ phận của một quốc gia, v.v. lại với nhau để tạo thành một đơn vị duy nhất."
       }
     ]
   },
@@ -2256,7 +2442,9 @@
             "cf": "",
             "x": "a fall in union membership"
           }
-        ]
+        ],
+        "short_meaning_vi": "công đoàn",
+        "definition_vi": "một tổ chức của người lao động, thường trong một ngành công nghiệp cụ thể, tồn tại để bảo vệ lợi ích của họ, cải thiện điều kiện làm việc, v.v."
       },
       {
         "definition": "an association or a club for people or organizations with the same interest",
@@ -2265,7 +2453,9 @@
             "cf": "",
             "x": "the Scottish Rugby Union"
           }
-        ]
+        ],
+        "short_meaning_vi": "hiệp hội",
+        "definition_vi": "một hiệp hội hoặc một câu lạc bộ dành cho những người hoặc tổ chức có cùng sở thích."
       },
       {
         "definition": "a group of states or countries that have the same central government or that agree to work together",
@@ -2286,7 +2476,9 @@
             "cf": "",
             "x": "The crisis will be discussed as a meeting of African Union leaders this week."
           }
-        ]
+        ],
+        "short_meaning_vi": "liên minh",
+        "definition_vi": "một nhóm các bang hoặc quốc gia có cùng chính phủ trung ương hoặc đồng ý làm việc cùng nhau."
       },
       {
         "definition": "the US (used especially at the time of the Civil War)",
@@ -2299,7 +2491,9 @@
             "cf": "",
             "x": "the State of the Union address by the President"
           }
-        ]
+        ],
+        "short_meaning_vi": "Liên bang",
+        "definition_vi": "Hoa Kỳ (được sử dụng đặc biệt vào thời Nội chiến)."
       },
       {
         "definition": "the act of joining two or more things together; the state of being joined together",
@@ -2320,7 +2514,9 @@
             "cf": "",
             "x": "sexual union"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hợp nhất",
+        "definition_vi": "hành động kết hợp hai hoặc nhiều thứ lại với nhau; trạng thái được kết hợp với nhau."
       },
       {
         "definition": "a marriage",
@@ -2329,7 +2525,9 @@
             "cf": "",
             "x": "Their union was blessed with six children."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôn nhân",
+        "definition_vi": "một cuộc hôn nhân."
       }
     ]
   },
@@ -2360,7 +2558,9 @@
             "cf": "unique in doing something",
             "x": "Saturn's largest moon is unique in having an atmosphere made mostly of nitrogen."
           }
-        ]
+        ],
+        "short_meaning_vi": "duy nhất",
+        "definition_vi": "là loại duy nhất trong số đó."
       },
       {
         "definition": "very special or unusual",
@@ -2409,7 +2609,9 @@
             "cf": "",
             "x": "Unfortunately your situation is not unique among assistants in New York."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặc biệt",
+        "definition_vi": "rất đặc biệt hoặc khác thường."
       },
       {
         "definition": "belonging to or connected with one particular person, place or thing",
@@ -2422,7 +2624,9 @@
             "cf": "",
             "x": "The koala is unique to Australia."
           }
-        ]
+        ],
+        "short_meaning_vi": "riêng biệt",
+        "definition_vi": "thuộc về hoặc liên quan đến một người, địa điểm hoặc vật cụ thể."
       }
     ]
   },
@@ -2453,7 +2657,9 @@
             "cf": "",
             "x": "the role of the family unit in the community"
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn vị",
+        "definition_vi": "một thứ, một người hoặc một nhóm duy nhất, hoàn chỉnh nhưng cũng có thể là một phần của cái gì đó lớn hơn."
       },
       {
         "definition": "a single item of the type of product that a company sells",
@@ -2466,7 +2672,9 @@
             "cf": "",
             "x": "What's the unit cost?"
           }
-        ]
+        ],
+        "short_meaning_vi": "sản phẩm",
+        "definition_vi": "một mặt hàng duy nhất thuộc loại sản phẩm mà một công ty bán."
       },
       {
         "definition": "one of the parts into which a textbook or a series of lessons is divided",
@@ -2487,7 +2695,9 @@
             "cf": "",
             "x": "You learned this in the first unit."
           }
-        ]
+        ],
+        "short_meaning_vi": "chương",
+        "definition_vi": "một trong những phần mà một sách giáo khoa hoặc một loạt bài học được chia thành."
       },
       {
         "definition": "a group of people who work or live together, especially for a particular purpose",
@@ -2520,7 +2730,9 @@
             "cf": "in a unit",
             "x": "Soldiers in the unit are trained to survive in the snow and cold."
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn vị",
+        "definition_vi": "một nhóm người làm việc hoặc sống cùng nhau, đặc biệt là vì một mục đích cụ thể."
       },
       {
         "definition": "a department, especially in a hospital, that provides a particular type of care or treatment",
@@ -2541,7 +2753,9 @@
             "cf": "",
             "x": "patients in the psychiatric unit"
           }
-        ]
+        ],
+        "short_meaning_vi": "khoa",
+        "definition_vi": "một khoa, đặc biệt là trong bệnh viện, cung cấp một loại chăm sóc hoặc điều trị cụ thể."
       },
       {
         "definition": "a piece of furniture, especially a cupboard, that fits with and matches others of the same type",
@@ -2558,7 +2772,9 @@
             "cf": "",
             "x": "bedroom/kitchen units"
           }
-        ]
+        ],
+        "short_meaning_vi": "tủ",
+        "definition_vi": "một món đồ nội thất, đặc biệt là một cái tủ, phù hợp và khớp với những món đồ cùng loại khác."
       },
       {
         "definition": "a fixed quantity, etc. that is used as a standard measurement",
@@ -2591,7 +2807,9 @@
             "cf": "",
             "x": "The highest carbon emissions per unit of energy are from coal."
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn vị đo",
+        "definition_vi": "một số lượng cố định, v.v. được sử dụng làm thước đo tiêu chuẩn."
       },
       {
         "definition": "a small machine that has a particular purpose or is part of a larger machine",
@@ -2608,7 +2826,9 @@
             "cf": "",
             "x": "an air-conditioning unit"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ phận máy",
+        "definition_vi": "một máy nhỏ có mục đích cụ thể hoặc là một phần của máy lớn hơn."
       },
       {
         "definition": "a single flat, house or section in a building or group of buildings",
@@ -2637,7 +2857,9 @@
             "cf": "",
             "x": "an industrial unit"
           }
-        ]
+        ],
+        "short_meaning_vi": "căn hộ",
+        "definition_vi": "một căn hộ, nhà hoặc khu vực duy nhất trong một tòa nhà hoặc một nhóm tòa nhà."
       },
       {
         "definition": "any whole number from 0 to 9",
@@ -2646,7 +2868,9 @@
             "cf": "",
             "x": "a column for the tens and a column for the units"
           }
-        ]
+        ],
+        "short_meaning_vi": "chữ số",
+        "definition_vi": "bất kỳ số nguyên nào từ 0 đến 9."
       }
     ]
   },
@@ -2677,7 +2901,9 @@
             "cf": "unite behind/against somebody/something",
             "x": "Will they unite behind the new leader?"
           }
-        ]
+        ],
+        "short_meaning_vi": "đoàn kết",
+        "definition_vi": "kết hợp với những người khác để làm điều gì đó như một nhóm."
       },
       {
         "definition": "to make people or things join together to form a unit; to join together",
@@ -2702,7 +2928,9 @@
             "cf": "",
             "x": "uniting the North with the South"
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp nhất",
+        "definition_vi": "làm cho mọi người hoặc mọi vật kết hợp lại để tạo thành một đơn vị; kết hợp lại."
       }
     ]
   },
@@ -2729,7 +2957,9 @@
             "cf": "",
             "x": "a politically united federation"
           }
-        ]
+        ],
+        "short_meaning_vi": "liên hiệp",
+        "definition_vi": "được kết hợp với nhau như một đơn vị chính trị hoặc bởi các mục tiêu chung."
       },
       {
         "definition": "in agreement and working together",
@@ -2758,7 +2988,9 @@
             "cf": "united behind somebody/something",
             "x": "In contrast, the Republican Party is united behind its candidate."
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp tác",
+        "definition_vi": "thống nhất và làm việc cùng nhau."
       },
       {
         "definition": "used in the names of some teams and companies",
@@ -2771,7 +3003,9 @@
             "cf": "",
             "x": "United Biscuits"
           }
-        ]
+        ],
+        "short_meaning_vi": "liên hiệp",
+        "definition_vi": "được sử dụng trong tên của một số đội và công ty."
       },
       {
         "definition": "to show people that all members of a group have the same opinion about things",
@@ -2780,7 +3014,9 @@
             "cf": "",
             "x": "The prime minister stressed the need to present a united front."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện sự đồng lòng",
+        "definition_vi": "cho mọi người thấy rằng tất cả các thành viên của một nhóm đều có cùng ý kiến về mọi thứ."
       }
     ]
   },
@@ -2807,7 +3043,9 @@
             "cf": "",
             "x": "unity of purpose"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đoàn kết",
+        "definition_vi": "trạng thái đồng thuận và làm việc cùng nhau; trạng thái được kết hợp lại để tạo thành một đơn vị."
       },
       {
         "definition": "the quality of looking or being complete in a natural and attractive way",
@@ -2820,7 +3058,9 @@
             "cf": "",
             "x": "the organic unity of Raphael's picture"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hài hòa",
+        "definition_vi": "phẩm chất của việc trông hoặc trở nên hoàn chỉnh một cách tự nhiên và hấp dẫn."
       },
       {
         "definition": "any of the principles of classical or neoclassical theatre that limit the action of a play to a single story, day and place",
@@ -2829,7 +3069,9 @@
             "cf": "",
             "x": "the unities of action, time and place"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hợp nhất",
+        "definition_vi": "bất kỳ nguyên tắc nào của nhà hát cổ điển hoặc tân cổ điển giới hạn hành động của một vở kịch trong một câu chuyện, một ngày và một địa điểm duy nhất"
       },
       {
         "definition": "a single thing that may consist of a number of different parts",
@@ -2838,11 +3080,15 @@
             "cf": "",
             "x": "If society is to exist as a unity, its members must have shared values."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thống nhất",
+        "definition_vi": "một thứ duy nhất có thể bao gồm nhiều bộ phận khác nhau"
       },
       {
         "definition": "the number one",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "số một",
+        "definition_vi": "số một"
       }
     ]
   },
@@ -2869,7 +3115,9 @@
             "cf": "",
             "x": "universal suffrage (= the right of all the people in a country to vote)"
           }
-        ]
+        ],
+        "short_meaning_vi": "phổ biến",
+        "definition_vi": "được thực hiện bởi hoặc liên quan đến tất cả mọi người trên thế giới hoặc trong một nhóm cụ thể"
       },
       {
         "definition": "true or right at all times and in all places",
@@ -2878,7 +3126,9 @@
             "cf": "",
             "x": "universal facts about human nature"
           }
-        ]
+        ],
+        "short_meaning_vi": "phổ quát",
+        "definition_vi": "đúng hoặc đúng mọi lúc và mọi nơi"
       }
     ]
   },
@@ -2905,7 +3155,9 @@
             "cf": "",
             "x": "As far as we know, the entire universe was created in the big bang."
           }
-        ]
+        ],
+        "short_meaning_vi": "vũ trụ",
+        "definition_vi": "toàn bộ không gian và mọi thứ trong đó, bao gồm Trái đất, các hành tinh và các vì sao"
       },
       {
         "definition": "a system of stars, planets, etc. in space outside our own",
@@ -2922,7 +3174,9 @@
             "cf": "",
             "x": "A tidal pool is its own little universe, bustling with activity and life."
           }
-        ]
+        ],
+        "short_meaning_vi": "vũ trụ",
+        "definition_vi": "một hệ thống các vì sao, hành tinh, v.v. trong không gian bên ngoài của chúng ta"
       },
       {
         "definition": "a particular area of experience or activity",
@@ -2931,7 +3185,9 @@
             "cf": "",
             "x": "the moral universe"
           }
-        ]
+        ],
+        "short_meaning_vi": "lĩnh vực",
+        "definition_vi": "một lĩnh vực kinh nghiệm hoặc hoạt động cụ thể"
       }
     ]
   },
@@ -2986,7 +3242,9 @@
             "cf": "",
             "x": "The site lies on the university campus next to the lake."
           }
-        ]
+        ],
+        "short_meaning_vi": "trường đại học",
+        "definition_vi": "một tổ chức ở cấp cao nhất của giáo dục nơi bạn có thể học để lấy bằng hoặc nghiên cứu"
       },
       {
         "definition": "the experience of life thought of as giving somebody an education, instead of the person gaining formal qualifications",
@@ -2995,7 +3253,9 @@
             "cf": "",
             "x": "a degree from the university of life"
           }
-        ]
+        ],
+        "short_meaning_vi": "kinh nghiệm sống",
+        "definition_vi": "kinh nghiệm sống được coi là mang lại cho ai đó sự giáo dục, thay vì người đó đạt được bằng cấp chính thức"
       }
     ]
   },
@@ -3034,7 +3294,9 @@
             "cf": "unknown to somebody/something",
             "x": "a species of insect hitherto unknown to science"
           }
-        ]
+        ],
+        "short_meaning_vi": "không rõ",
+        "definition_vi": "không được biết hoặc xác định"
       },
       {
         "definition": "not famous or well known",
@@ -3055,7 +3317,9 @@
             "cf": "",
             "x": "an unknown actor"
           }
-        ]
+        ],
+        "short_meaning_vi": "vô danh",
+        "definition_vi": "không nổi tiếng hoặc được biết đến"
       },
       {
         "definition": "never happening or existing",
@@ -3076,11 +3340,15 @@
             "cf": "",
             "x": "a period of democratic development unknown in their country until now"
           }
-        ]
+        ],
+        "short_meaning_vi": "không tồn tại",
+        "definition_vi": "không bao giờ xảy ra hoặc tồn tại"
       },
       {
         "definition": "a person or thing whose qualities or abilities are not yet known",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người lạ",
+        "definition_vi": "một người hoặc vật có phẩm chất hoặc khả năng chưa được biết đến"
       },
       {
         "definition": "without the person mentioned being aware of it",
@@ -3089,7 +3357,9 @@
             "cf": "",
             "x": "Unknown to me, he had already signed the agreement."
           }
-        ]
+        ],
+        "short_meaning_vi": "lén lút",
+        "definition_vi": "mà người được đề cập không biết"
       }
     ]
   },
@@ -3120,7 +3390,9 @@
             "cf": "",
             "x": "He hasn't got any hobbies—unless you call watching TV a hobby."
           }
-        ]
+        ],
+        "short_meaning_vi": "trừ khi",
+        "definition_vi": "được sử dụng để nói rằng một điều gì đó chỉ có thể xảy ra hoặc đúng trong một tình huống cụ thể"
       },
       {
         "definition": "used to give the only situation in which something will not happen or be true",
@@ -3137,7 +3409,9 @@
             "cf": "",
             "x": "Have a cup of tea—unless you'd prefer a cold drink?"
           }
-        ]
+        ],
+        "short_meaning_vi": "trừ khi",
+        "definition_vi": "được sử dụng để đưa ra tình huống duy nhất mà điều gì đó sẽ không xảy ra hoặc đúng"
       }
     ]
   },
@@ -3160,7 +3434,9 @@
             "cf": "",
             "x": "The sound was not unlike that of birds singing."
           }
-        ]
+        ],
+        "short_meaning_vi": "khác biệt",
+        "definition_vi": "khác với một người hoặc vật cụ thể"
       },
       {
         "definition": "used to contrast somebody/something with another person or thing",
@@ -3169,7 +3445,9 @@
             "cf": "",
             "x": "Unlike most systems, this one is very easy to install."
           }
-        ]
+        ],
+        "short_meaning_vi": "không giống",
+        "definition_vi": "được sử dụng để đối chiếu ai đó/cái gì đó với một người hoặc vật khác"
       },
       {
         "definition": "not typical of somebody/something",
@@ -3178,7 +3456,9 @@
             "cf": "",
             "x": "It's very unlike him to be so late."
           }
-        ]
+        ],
+        "short_meaning_vi": "không điển hình",
+        "definition_vi": "không điển hình của ai đó/cái gì đó"
       }
     ]
   },
@@ -3225,7 +3505,9 @@
             "cf": "",
             "x": "In the unlikely event of a problem arising, please contact the hotel manager."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thể xảy ra",
+        "definition_vi": "không có khả năng xảy ra; không có khả năng"
       },
       {
         "definition": "not the person, thing or place that you would normally think of or expect",
@@ -3238,7 +3520,9 @@
             "cf": "",
             "x": "They have built hotels in the most unlikely places."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó tin",
+        "definition_vi": "không phải là người, vật hoặc nơi mà bạn thường nghĩ đến hoặc mong đợi"
       },
       {
         "definition": "difficult to believe",
@@ -3247,7 +3531,9 @@
             "cf": "",
             "x": "She gave me an unlikely explanation for her behaviour."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó tin",
+        "definition_vi": "khó tin"
       }
     ]
   },
@@ -3294,7 +3580,9 @@
             "cf": "",
             "x": " Antibiotics should be unnecessary for most patients with a sore throat."
           }
-        ]
+        ],
+        "short_meaning_vi": "không cần thiết",
+        "definition_vi": "không cần thiết; nhiều hơn mức cần thiết"
       },
       {
         "definition": "not needed in the situation and likely to be offensive",
@@ -3307,7 +3595,9 @@
             "cf": "",
             "x": "That was quite unnecessary and I want you to apologize."
           }
-        ]
+        ],
+        "short_meaning_vi": "không cần thiết",
+        "definition_vi": "không cần thiết trong tình huống và có khả năng gây xúc phạm"
       }
     ]
   },
@@ -3358,7 +3648,9 @@
             "cf": "",
             "x": "an unpleasant smell/odour/taste"
           }
-        ]
+        ],
+        "short_meaning_vi": "khó chịu",
+        "definition_vi": "không dễ chịu hoặc thoải mái"
       },
       {
         "definition": "not kind, friendly or polite",
@@ -3375,7 +3667,9 @@
             "cf": "",
             "x": "She said some very unpleasant things about you."
           }
-        ]
+        ],
+        "short_meaning_vi": "khó ưa",
+        "definition_vi": "không tốt bụng, thân thiện hoặc lịch sự"
       }
     ]
   },
@@ -3398,7 +3692,9 @@
             "cf": "",
             "x": "There were unprecedented scenes of violence in the city’s main square."
           }
-        ]
+        ],
+        "short_meaning_vi": "chưa từng có",
+        "definition_vi": "chưa từng xảy ra, được thực hiện hoặc được biết đến trước đây"
       }
     ]
   },
@@ -3445,7 +3741,9 @@
             "cf": "",
             "x": "You can stay on the bus until London (= until you reach London)."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho đến khi",
+        "definition_vi": "cho đến thời điểm hoặc sự kiện được đề cập"
       }
     ]
   },
@@ -3492,7 +3790,9 @@
             "cf": "",
             "x": "You can stay on the bus until London (= until you reach London)."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho đến khi",
+        "definition_vi": "cho đến thời điểm hoặc sự kiện được đề cập"
       }
     ]
   },
@@ -3535,7 +3835,9 @@
             "cf": "",
             "x": "She hadn't noticed anything unusual about Susan's behaviour. "
           }
-        ]
+        ],
+        "short_meaning_vi": "bất thường",
+        "definition_vi": "khác với những gì thường lệ hoặc bình thường"
       },
       {
         "definition": "different from other similar things and therefore interesting and attractive",
@@ -3552,7 +3854,9 @@
             "cf": "",
             "x": "their unusual mix of funk, rock, hip hop, jazz and techno"
           }
-        ]
+        ],
+        "short_meaning_vi": "độc đáo",
+        "definition_vi": "khác với những thứ tương tự khác và do đó thú vị và hấp dẫn"
       },
       {
         "definition": "a category of very severe punishment that is banned under US law",
@@ -3565,7 +3869,9 @@
             "cf": "",
             "x": "Detainees are subjected to malnutrition, forced labor, and to other cruel and unusual punishments."
           }
-        ]
+        ],
+        "short_meaning_vi": "hình phạt khắc nghiệt",
+        "definition_vi": "một loại hình phạt rất nghiêm khắc bị cấm theo luật Hoa Kỳ"
       }
     ]
   },
@@ -3584,7 +3890,9 @@
             "cf": "",
             "x": "The Queen unveiled a plaque to mark the official opening of the hospital."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiết lộ",
+        "definition_vi": "gỡ bỏ một tấm vải che hoặc rèm khỏi một bức tranh, tượng, v.v. để nó có thể được nhìn thấy trước công chúng lần đầu tiên"
       },
       {
         "definition": "to show or introduce a new plan, product, etc. to the public for the first time",
@@ -3597,7 +3905,9 @@
             "cf": "",
             "x": "The government has unveiled plans for new energy legislation."
           }
-        ]
+        ],
+        "short_meaning_vi": "ra mắt",
+        "definition_vi": "trình bày hoặc giới thiệu một kế hoạch, sản phẩm mới, v.v. với công chúng lần đầu tiên"
       }
     ]
   },
@@ -3664,7 +3974,9 @@
             "cf": "",
             "x": "She tries to stay under water but she floats back up."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên trên",
+        "definition_vi": "hướng tới hoặc ở vị trí cao hơn"
       },
       {
         "definition": "to or at a higher level",
@@ -3689,7 +4001,9 @@
             "cf": "",
             "x": "Sales are well up on last year."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên",
+        "definition_vi": "ở hoặc đến một cấp độ cao hơn"
       },
       {
         "definition": "to the place where somebody/something is",
@@ -3702,7 +4016,9 @@
             "cf": "",
             "x": "She went straight up to the door and knocked loudly."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên",
+        "definition_vi": "đến nơi mà ai đó/cái gì đó đang ở"
       },
       {
         "definition": "out of bed",
@@ -3715,7 +4031,9 @@
             "cf": "",
             "x": "He's up and about again after his illness."
           }
-        ]
+        ],
+        "short_meaning_vi": "thức dậy",
+        "definition_vi": "ra khỏi giường"
       },
       {
         "definition": "to or at an important place, especially a large city",
@@ -3728,7 +4046,9 @@
             "cf": "",
             "x": "His son's up at Oxford (= Oxford University)."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên thành phố",
+        "definition_vi": "đến hoặc đến một địa điểm quan trọng, đặc biệt là một thành phố lớn"
       },
       {
         "definition": "to a place in the north of a country; further north than somewhere else",
@@ -3749,7 +4069,9 @@
             "cf": "",
             "x": "Up here in Liverpool things are different."
           }
-        ]
+        ],
+        "short_meaning_vi": "về phía bắc",
+        "definition_vi": "đến một địa điểm ở phía bắc của một quốc gia; xa hơn về phía bắc so với một nơi nào đó"
       },
       {
         "definition": "completely",
@@ -3762,7 +4084,9 @@
             "cf": "",
             "x": "The stream has dried up."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn",
+        "definition_vi": "hoàn toàn"
       },
       {
         "definition": "so as to be finished or closed",
@@ -3775,7 +4099,9 @@
             "cf": "",
             "x": "Do your coat up; it's cold."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết thúc",
+        "definition_vi": "cho đến khi kết thúc hoặc đóng cửa"
       },
       {
         "definition": "into pieces or parts",
@@ -3792,7 +4118,9 @@
             "cf": "",
             "x": "How shall we divide up the work?"
           }
-        ]
+        ],
+        "short_meaning_vi": "thành mảnh vụn",
+        "definition_vi": "thành từng mảnh hoặc bộ phận"
       },
       {
         "definition": "so as to be formed or brought together",
@@ -3805,7 +4133,9 @@
             "cf": "",
             "x": "She gathered up her belongings."
           }
-        ]
+        ],
+        "short_meaning_vi": "hình thành",
+        "definition_vi": "cho đến khi được hình thành hoặc tập hợp lại"
       },
       {
         "definition": "finished; over",
@@ -3814,7 +4144,9 @@
             "cf": "",
             "x": "Time's up. Stop writing and hand in your papers."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết thúc",
+        "definition_vi": "kết thúc; hết"
       },
       {
         "definition": "used to say that something is happening, especially something unusual or unpleasant",
@@ -3835,7 +4167,9 @@
             "cf": "",
             "x": "Is anything up? You can tell me."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang xảy ra",
+        "definition_vi": "được sử dụng để nói rằng một điều gì đó đang xảy ra, đặc biệt là điều gì đó bất thường hoặc khó chịu"
       },
       {
         "definition": "about to happen, be discussed, etc.",
@@ -3848,7 +4182,9 @@
             "cf": "",
             "x": "Up after the break we will be introducing our mystery guest!"
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp xảy ra",
+        "definition_vi": "sắp xảy ra, sắp được thảo luận, v.v."
       },
       {
         "definition": "to be somebody’s duty or responsibility; to be for somebody to decide",
@@ -3861,7 +4197,9 @@
             "cf": "",
             "x": "Shall we eat out or stay in? It's up to you."
           }
-        ]
+        ],
+        "short_meaning_vi": "trách nhiệm",
+        "definition_vi": "là nhiệm vụ hoặc trách nhiệm của ai đó; là do ai đó quyết định"
       },
       {
         "definition": "to be of poor quality; to not be very good",
@@ -3870,7 +4208,9 @@
             "cf": "",
             "x": "His work isn't up to much."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất lượng kém",
+        "definition_vi": "có chất lượng kém; không tốt lắm"
       },
       {
         "definition": "facing problems or opposition",
@@ -3883,7 +4223,9 @@
             "cf": "",
             "x": "She's really up against it (= in a difficult situation)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đối mặt khó khăn",
+        "definition_vi": "đang đối mặt với vấn đề hoặc sự phản đối"
       },
       {
         "definition": "moving upwards and downwards",
@@ -3892,7 +4234,9 @@
             "cf": "",
             "x": "The boat bobbed up and down on the water."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên xuống",
+        "definition_vi": "di chuyển lên và xuống"
       },
       {
         "definition": "in one direction and then in the opposite direction",
@@ -3901,7 +4245,9 @@
             "cf": "",
             "x": "She was pacing up and down in front of her desk."
           }
-        ]
+        ],
+        "short_meaning_vi": "qua lại",
+        "definition_vi": "theo một hướng rồi theo hướng ngược lại"
       },
       {
         "definition": "sometimes good and sometimes bad",
@@ -3910,11 +4256,15 @@
             "cf": "",
             "x": "My relationship with him was up and down."
           }
-        ]
+        ],
+        "short_meaning_vi": "lúc tốt lúc xấu",
+        "definition_vi": "đôi khi tốt và đôi khi xấu"
       },
       {
         "definition": "if you swear up and down that something is true, you say that it is definitely true",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thề sống thề chết",
+        "definition_vi": "nếu bạn thề sống thề chết rằng điều gì đó là đúng, bạn nói rằng điều đó chắc chắn là đúng"
       },
       {
         "definition": "working; being used",
@@ -3923,7 +4273,9 @@
             "cf": "",
             "x": "By that time the new system should be up and running."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang hoạt động",
+        "definition_vi": "đang hoạt động; đang được sử dụng"
       },
       {
         "definition": "appearing in front of somebody in authority for a judgement to be made about something that you have done",
@@ -3932,7 +4284,9 @@
             "cf": "",
             "x": "He came up before the local magistrate for speeding."
           }
-        ]
+        ],
+        "short_meaning_vi": "ra tòa",
+        "definition_vi": "xuất hiện trước mặt ai đó có thẩm quyền để đưa ra phán quyết về điều gì đó bạn đã làm"
       },
       {
         "definition": "on offer for something",
@@ -3941,7 +4295,9 @@
             "cf": "",
             "x": "The house is up for sale."
           }
-        ]
+        ],
+        "short_meaning_vi": "được chào bán",
+        "definition_vi": "được chào bán cho một cái gì đó"
       },
       {
         "definition": "being considered for something, especially as a candidate",
@@ -3950,7 +4306,9 @@
             "cf": "",
             "x": "Two candidates are up for election."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang được xem xét",
+        "definition_vi": "đang được xem xét cho một cái gì đó, đặc biệt là với tư cách là một ứng cử viên"
       },
       {
         "definition": "willing to take part in a particular activity",
@@ -3959,7 +4317,9 @@
             "cf": "",
             "x": "We're going clubbing tonight. Are you up for it?"
           }
-        ]
+        ],
+        "short_meaning_vi": "sẵn sàng tham gia",
+        "definition_vi": "sẵn sàng tham gia vào một hoạt động cụ thể"
       },
       {
         "definition": "among or almost the best, worst, most important, etc.",
@@ -3976,7 +4336,9 @@
             "cf": "",
             "x": "These people can’t live without the internet—it’s up there with air and water."
           }
-        ]
+        ],
+        "short_meaning_vi": "trong số những người giỏi nhất",
+        "definition_vi": "trong số hoặc gần như là tốt nhất, tệ nhất, quan trọng nhất, v.v."
       },
       {
         "definition": "as far as a particular number, level, etc.",
@@ -3989,7 +4351,9 @@
             "cf": "",
             "x": "The temperature went up to 35°C."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên đến",
+        "definition_vi": "cho đến một số, cấp độ, v.v. cụ thể"
       },
       {
         "definition": "not further or later than something; until something",
@@ -4002,7 +4366,9 @@
             "cf": "",
             "x": "Up to now he's been very quiet."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho đến khi",
+        "definition_vi": "không xa hơn hoặc muộn hơn một cái gì đó; cho đến khi một cái gì đó"
       },
       {
         "definition": "as high or as good as something",
@@ -4011,7 +4377,9 @@
             "cf": "",
             "x": "Her latest book isn't up to her usual standard."
           }
-        ]
+        ],
+        "short_meaning_vi": "tương đương với",
+        "definition_vi": "cao hoặc tốt bằng một cái gì đó"
       },
       {
         "definition": "physically or mentally capable of something",
@@ -4024,7 +4392,9 @@
             "cf": "",
             "x": "I don't feel up to going to work today."
           }
-        ]
+        ],
+        "short_meaning_vi": "có khả năng",
+        "definition_vi": "có khả năng về thể chất hoặc tinh thần để làm điều gì đó"
       },
       {
         "definition": "doing something, especially something bad",
@@ -4041,7 +4411,9 @@
             "cf": "",
             "x": "I'm sure he's up to no good (= doing something bad)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang làm điều xấu",
+        "definition_vi": "đang làm điều gì đó, đặc biệt là điều gì đó xấu"
       }
     ]
   },
@@ -4064,7 +4436,9 @@
             "cf": "",
             "x": "The village is further up the valley."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên trên",
+        "definition_vi": "ở một vị trí cao hơn ở đâu đó"
       },
       {
         "definition": "along or further along a road or street",
@@ -4073,7 +4447,9 @@
             "cf": "",
             "x": "We live just up the road, past the post office."
           }
-        ]
+        ],
+        "short_meaning_vi": "dọc theo đường",
+        "definition_vi": "dọc theo hoặc xa hơn dọc theo một con đường hoặc đường phố"
       },
       {
         "definition": "towards the place where a river starts",
@@ -4082,7 +4458,9 @@
             "cf": "",
             "x": "a cruise up the Rhine"
           }
-        ]
+        ],
+        "short_meaning_vi": "về thượng nguồn",
+        "definition_vi": "hướng về nơi bắt đầu của một con sông"
       },
       {
         "definition": "in one direction and then in the opposite direction along something",
@@ -4091,11 +4469,15 @@
             "cf": "",
             "x": "I looked up and down the corridor."
           }
-        ]
+        ],
+        "short_meaning_vi": "qua lại",
+        "definition_vi": "theo một hướng rồi theo hướng ngược lại dọc theo một cái gì đó"
       },
       {
         "definition": "an offensive way of being rude to somebody, for example because they have said something that makes you angry",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "xúc phạm",
+        "definition_vi": "một cách xúc phạm để thô lỗ với ai đó, ví dụ vì họ đã nói điều gì đó khiến bạn tức giận"
       }
     ]
   },
@@ -4118,7 +4500,9 @@
             "cf": "",
             "x": "a single from the band’s upcoming album"
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp tới",
+        "definition_vi": "sắp xảy ra sớm"
       }
     ]
   },
@@ -4165,7 +4549,9 @@
             "cf": "",
             "x": "We will bring you more updates as soon as possible"
           }
-        ]
+        ],
+        "short_meaning_vi": "bản cập nhật",
+        "definition_vi": "một báo cáo hoặc chương trình phát sóng cung cấp thông tin mới nhất về một điều gì đó; một phiên bản mới của một cái gì đó chứa thông tin mới nhất"
       },
       {
         "definition": "the most recent improvements to a computer program that are sent to users of the program",
@@ -4190,7 +4576,9 @@
             "cf": "update to something",
             "x": "the most recent update to the software"
           }
-        ]
+        ],
+        "short_meaning_vi": "bản cập nhật phần mềm",
+        "definition_vi": "những cải tiến mới nhất cho một chương trình máy tính được gửi đến người dùng chương trình"
       }
     ]
   },
@@ -4213,7 +4601,9 @@
             "cf": "",
             "x": "It's about time we updated our software."
           }
-        ]
+        ],
+        "short_meaning_vi": "cập nhật",
+        "definition_vi": "làm cho một cái gì đó hiện đại hơn bằng cách thêm các bộ phận mới, v.v."
       },
       {
         "definition": "to give somebody the most recent information about something; to add the most recent information to something",
@@ -4242,7 +4632,9 @@
             "cf": "update something with something",
             "x": "The files are constantly updated with new information."
           }
-        ]
+        ],
+        "short_meaning_vi": "cập nhật thông tin",
+        "definition_vi": "cung cấp cho ai đó thông tin mới nhất về một điều gì đó; thêm thông tin mới nhất vào một cái gì đó"
       }
     ]
   },
@@ -4261,7 +4653,9 @@
             "cf": "",
             "x": "instructions for installing an upgrade to the existing system"
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cấp hệ thống",
+        "definition_vi": "hành động làm cho máy móc, hệ thống máy tính, v.v. mạnh mẽ và hiệu quả hơn; máy móc, hệ thống máy tính, v.v. mạnh mẽ và hiệu quả hơn"
       },
       {
         "definition": "the act of improving the condition of a building, etc. in order to provide a better service",
@@ -4270,7 +4664,9 @@
             "cf": "",
             "x": "The building urgently needs an upgrade."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cấp tòa nhà",
+        "definition_vi": "hành động cải thiện tình trạng của một tòa nhà, v.v. để cung cấp dịch vụ tốt hơn"
       },
       {
         "definition": "the act of giving somebody a better seat on a plane, room in a hotel, etc. than the one that they paid for; the seat, room, etc. itself ",
@@ -4279,7 +4675,9 @@
             "cf": "",
             "x": "Frequent flyers qualify for a free upgrade."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cấp chỗ ngồi",
+        "definition_vi": "hành động tặng ai đó một chỗ ngồi tốt hơn trên máy bay, phòng khách sạn, v.v. so với chỗ họ đã trả tiền; chỗ ngồi, phòng, v.v. đó"
       }
     ]
   },
@@ -4306,7 +4704,9 @@
             "cf": "",
             "x": "Users can easily upgrade to the new version."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cấp máy móc",
+        "definition_vi": "làm cho máy móc, hệ thống máy tính, v.v. mạnh mẽ và hiệu quả hơn; bắt đầu sử dụng một phiên bản mới và tốt hơn của máy móc, hệ thống, v.v."
       },
       {
         "definition": "to improve the condition of a building, etc. in order to provide a better service",
@@ -4319,7 +4719,9 @@
             "cf": "",
             "x": "The towpath was upgraded for use by cyclists."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cấp",
+        "definition_vi": "cải thiện tình trạng của một tòa nhà, v.v. để cung cấp dịch vụ tốt hơn"
       },
       {
         "definition": "to give somebody a better seat on a plane, room in a hotel, etc. than the one that they have paid for",
@@ -4328,11 +4730,15 @@
             "cf": "be upgraded (to something)",
             "x": "On the flight back, we were upgraded to business class."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cấp",
+        "definition_vi": "cho ai đó một chỗ ngồi tốt hơn trên máy bay, phòng khách sạn, v.v. so với chỗ mà họ đã trả tiền"
       },
       {
         "definition": "to give somebody a more important job",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thăng chức",
+        "definition_vi": "cho ai đó một công việc quan trọng hơn"
       }
     ]
   },
@@ -4359,7 +4765,9 @@
             "cf": "",
             "x": "We are determined to uphold the law."
           }
-        ]
+        ],
+        "short_meaning_vi": "ủng hộ",
+        "definition_vi": "ủng hộ điều gì đó mà bạn cho là đúng và đảm bảo rằng điều đó tiếp tục tồn tại"
       },
       {
         "definition": "to agree that a previous decision was correct or that a request is reasonable",
@@ -4368,7 +4776,9 @@
             "cf": "",
             "x": "to uphold a conviction/an appeal/a complaint"
           }
-        ]
+        ],
+        "short_meaning_vi": "giữ nguyên",
+        "definition_vi": "đồng ý rằng một quyết định trước đó là đúng hoặc một yêu cầu là hợp lý"
       }
     ]
   },
@@ -4391,7 +4801,9 @@
             "cf": "",
             "x": "thousands upon thousands of letters"
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng có một số lượng lớn hoặc một khối lượng lớn của một cái gì đó"
       },
       {
         "definition": "used, especially at the beginning of stories, to mean ‘a long time ago in the past’",
@@ -4400,7 +4812,9 @@
             "cf": "",
             "x": "Once upon a time there was a beautiful princess."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngày xửa",
+        "definition_vi": "được sử dụng, đặc biệt là ở đầu các câu chuyện, để có nghĩa là 'cách đây rất lâu trong quá khứ'"
       },
       {
         "definition": "if something in the future is almost upon you, it is going to arrive or happen very soon",
@@ -4409,7 +4823,9 @@
             "cf": "",
             "x": "The summer season was almost upon them again."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp đến",
+        "definition_vi": "nếu một điều gì đó trong tương lai gần như sắp đến với bạn, điều đó có nghĩa là nó sắp xảy ra hoặc đến rất sớm"
       }
     ]
   },
@@ -4436,7 +4852,9 @@
             "cf": "",
             "x": "the upper deck"
           }
-        ]
+        ],
+        "short_meaning_vi": "phía trên",
+        "definition_vi": "nằm phía trên một cái gì đó khác, đặc biệt là một cái gì đó cùng loại hoặc cái kia trong một cặp"
       },
       {
         "definition": "at or near the top of something",
@@ -4473,7 +4891,9 @@
             "cf": "",
             "x": "salaries at the upper end of the pay scale"
           }
-        ]
+        ],
+        "short_meaning_vi": "phía trên",
+        "definition_vi": "ở hoặc gần đỉnh của một cái gì đó"
       },
       {
         "definition": "located away from the coast, on high ground or towards the north of an area",
@@ -4482,11 +4902,15 @@
             "cf": "",
             "x": "the upper reaches of the river"
           }
-        ]
+        ],
+        "short_meaning_vi": "vùng thượng",
+        "definition_vi": "nằm cách xa bờ biển, trên vùng đất cao hoặc về phía bắc của một khu vực"
       },
       {
         "definition": "to get an advantage over somebody so that you are in control of a particular situation",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chiếm ưu thế",
+        "definition_vi": "giành lợi thế hơn ai đó để bạn kiểm soát một tình huống cụ thể"
       },
       {
         "definition": "to keep calm and hide your feelings when you are in pain or in a difficult situation",
@@ -4499,7 +4923,9 @@
             "cf": "",
             "x": "Their reaction contrasts sharply with the stiff upper lip of the English."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiềm chế",
+        "definition_vi": "giữ bình tĩnh và che giấu cảm xúc của bạn khi bạn đang bị đau hoặc trong một tình huống khó khăn"
       }
     ]
   },
@@ -4538,7 +4964,9 @@
             "cf": "upset with somebody",
             "x": "I think she may be a bit upset with you."
           }
-        ]
+        ],
+        "short_meaning_vi": "buồn bã",
+        "definition_vi": "không vui hoặc thất vọng vì một điều gì đó khó chịu đã xảy ra"
       },
       {
         "definition": "an illness in the stomach that makes you feel sick (= want to vomit) or have diarrhoea",
@@ -4547,7 +4975,9 @@
             "cf": "",
             "x": "I've been off work with an upset stomach."
           }
-        ]
+        ],
+        "short_meaning_vi": "đau bụng",
+        "definition_vi": "một chứng bệnh ở dạ dày khiến bạn cảm thấy buồn nôn (= muốn nôn) hoặc bị tiêu chảy"
       }
     ]
   },
@@ -4586,7 +5016,9 @@
             "cf": "it upsets somebody to do something",
             "x": "It upsets me to think of her all alone in that big house."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm phiền",
+        "definition_vi": "làm cho ai đó/chính bạn cảm thấy không vui, lo lắng hoặc khó chịu"
       },
       {
         "definition": "to make a plan, situation, etc. go wrong",
@@ -4595,11 +5027,15 @@
             "cf": "",
             "x": "He arrived an hour late and upset all our arrangements."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm hỏng",
+        "definition_vi": "làm cho một kế hoạch, tình huống, v.v. bị sai lệch"
       },
       {
         "definition": "to make somebody feel sick (= want to vomit) after they have eaten or drunk something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm buồn nôn",
+        "definition_vi": "làm cho ai đó cảm thấy buồn nôn (= muốn nôn) sau khi họ đã ăn hoặc uống thứ gì đó"
       },
       {
         "definition": "to make something fall over by hitting it by accident",
@@ -4608,11 +5044,15 @@
             "cf": "",
             "x": "She stood up suddenly, upsetting a glass of water."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm đổ",
+        "definition_vi": "làm cho một cái gì đó bị đổ bằng cách vô tình va vào nó"
       },
       {
         "definition": "to cause problems for somebody or cause their plans, arrangements, etc. to fail",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gây rối",
+        "definition_vi": "gây rắc rối cho ai đó hoặc làm hỏng kế hoạch, sự sắp xếp, v.v. của họ"
       }
     ]
   },
@@ -4643,7 +5083,9 @@
             "cf": "",
             "x": "The restaurant has a great upstairs bar with very comfortable seating."
           }
-        ]
+        ],
+        "short_meaning_vi": "tầng trên",
+        "definition_vi": "ở một tầng của ngôi nhà hoặc tòa nhà khác cao hơn tầng bạn đang ở"
       }
     ]
   },
@@ -4678,7 +5120,9 @@
             "cf": "",
             "x": "I turned and walked back upstairs."
           }
-        ]
+        ],
+        "short_meaning_vi": "lên tầng trên",
+        "definition_vi": "lên cầu thang; ở hoặc lên một tầng của ngôi nhà hoặc tòa nhà khác cao hơn tầng bạn đang ở"
       }
     ]
   },
@@ -4713,7 +5157,9 @@
             "cf": "",
             "x": "The corners of her mouth curved upwards in amusement."
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng lên",
+        "definition_vi": "hướng tới một nơi hoặc vị trí cao hơn"
       },
       {
         "definition": "towards a higher amount or price",
@@ -4726,7 +5172,9 @@
             "cf": "",
             "x": "The budget has been revised upwards."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng lên",
+        "definition_vi": "hướng tới một số tiền hoặc giá cao hơn"
       },
       {
         "definition": "more than the amount or number mentioned",
@@ -4735,7 +5183,9 @@
             "cf": "",
             "x": "You should expect to pay upwards of £50 for a hotel room."
           }
-        ]
+        ],
+        "short_meaning_vi": "hơn",
+        "definition_vi": "nhiều hơn số lượng hoặc con số được đề cập"
       }
     ]
   },
@@ -4798,7 +5248,9 @@
             "cf": "",
             "x": "key principles of urban design "
           }
-        ]
+        ],
+        "short_meaning_vi": "thành thị",
+        "definition_vi": "liên quan đến một thị trấn hoặc thành phố"
       },
       {
         "definition": "connected with types of music such as rhythm and blues, reggae, soul, etc. that are played by black musicians",
@@ -4811,7 +5263,9 @@
             "cf": "",
             "x": "urban radio shows"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhạc urban",
+        "definition_vi": "liên quan đến các thể loại nhạc như rhythm and blues, reggae, soul, v.v. được chơi bởi các nhạc sĩ da đen"
       }
     ]
   },
@@ -4866,7 +5320,9 @@
             "cf": "urge (somebody) + speech",
             "x": "‘Why not give it a try?’ she urged (him)."
           }
-        ]
+        ],
+        "short_meaning_vi": "thúc giục",
+        "definition_vi": "khuyên hoặc cố gắng thuyết phục ai đó làm điều gì đó"
       },
       {
         "definition": "to recommend something strongly",
@@ -4887,7 +5343,9 @@
             "cf": "",
             "x": "He urged a tax increase upon congress as a way of damping down consumer spending."
           }
-        ]
+        ],
+        "short_meaning_vi": "khuyến khích",
+        "definition_vi": "mạnh mẽ đề xuất một điều gì đó"
       },
       {
         "definition": "to make a person or an animal move more quickly and/or in a particular direction, especially by pushing or forcing them",
@@ -4896,7 +5354,9 @@
             "cf": "",
             "x": "He urged his horse forward."
           }
-        ]
+        ],
+        "short_meaning_vi": "thúc đẩy",
+        "definition_vi": "làm cho một người hoặc động vật di chuyển nhanh hơn và/hoặc theo một hướng nhất định, đặc biệt là bằng cách đẩy hoặc ép họ"
       }
     ]
   },
@@ -4939,7 +5399,9 @@
             "cf": "",
             "x": "It is urgent that the law be changed."
           }
-        ]
+        ],
+        "short_meaning_vi": "khẩn cấp",
+        "definition_vi": "cần được giải quyết hoặc xảy ra ngay lập tức"
       },
       {
         "definition": "showing that you think that something needs to be dealt with immediately",
@@ -4952,7 +5414,9 @@
             "cf": "",
             "x": "Her voice sounded urgent on the phone."
           }
-        ]
+        ],
+        "short_meaning_vi": "khẩn thiết",
+        "definition_vi": "cho thấy rằng bạn nghĩ rằng một điều gì đó cần được giải quyết ngay lập tức"
       }
     ]
   },
@@ -4979,7 +5443,9 @@
             "cf": "",
             "x": "Hello, it's us back again."
           }
-        ]
+        ],
+        "short_meaning_vi": "chúng tôi",
+        "definition_vi": "được sử dụng khi người nói hoặc người viết và người khác là đối tượng của một động từ hoặc giới từ, hoặc sau động từ 'be'"
       },
       {
         "definition": "me",
@@ -4988,7 +5454,9 @@
             "cf": "",
             "x": "Give us the newspaper, will you?"
           }
-        ]
+        ],
+        "short_meaning_vi": "chúng tôi",
+        "definition_vi": "tôi"
       }
     ]
   },
@@ -5011,7 +5479,9 @@
             "cf": "",
             "x": "It's not a word in common usage."
           }
-        ]
+        ],
+        "short_meaning_vi": "cách dùng",
+        "definition_vi": "cách các từ được sử dụng trong một ngôn ngữ"
       },
       {
         "definition": "the fact of something being used; how much something is used",
@@ -5024,7 +5494,9 @@
             "cf": "",
             "x": "Car usage is predicted to increase."
           }
-        ]
+        ],
+        "short_meaning_vi": "việc sử dụng",
+        "definition_vi": "việc một cái gì đó được sử dụng; mức độ sử dụng của một cái gì đó"
       }
     ]
   },
@@ -5067,7 +5539,9 @@
             "cf": "for the use of somebody",
             "x": "The bar is for the use of members only."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự sử dụng",
+        "definition_vi": "hành động sử dụng một cái gì đó; trạng thái được sử dụng"
       },
       {
         "definition": "a purpose for which something is used; a way in which something is or can be used",
@@ -5092,7 +5566,9 @@
             "cf": "",
             "x": "What use is a mouse without a computer?"
           }
-        ]
+        ],
+        "short_meaning_vi": "mục đích sử dụng",
+        "definition_vi": "một mục đích mà một cái gì đó được sử dụng; một cách mà một cái gì đó được hoặc có thể được sử dụng"
       },
       {
         "definition": "the right or opportunity to use something, for example something that belongs to somebody else",
@@ -5101,7 +5577,9 @@
             "cf": "",
             "x": "I have the use of the car this week."
           }
-        ]
+        ],
+        "short_meaning_vi": "quyền sử dụng",
+        "definition_vi": "quyền hoặc cơ hội sử dụng một cái gì đó, ví dụ như một cái gì đó thuộc về người khác"
       },
       {
         "definition": "the ability to use your mind or body",
@@ -5110,7 +5588,9 @@
             "cf": "",
             "x": "He lost the use of his legs (= became unable to walk) in an accident."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả năng sử dụng",
+        "definition_vi": "khả năng sử dụng tâm trí hoặc cơ thể của bạn"
       },
       {
         "definition": "a particular word or phrase, used with a particular meaning",
@@ -5119,7 +5599,9 @@
             "cf": "",
             "x": "The phrase ‘all told’ comes from an old use of the verb ‘tell’, meaning ‘to count’."
           }
-        ]
+        ],
+        "short_meaning_vi": "cách dùng từ",
+        "definition_vi": "một từ hoặc cụm từ cụ thể, được sử dụng với một ý nghĩa cụ thể"
       },
       {
         "definition": "to not be useful or helpful",
@@ -5132,7 +5614,9 @@
             "cf": "",
             "x": "It's of no practical use to me."
           }
-        ]
+        ],
+        "short_meaning_vi": "vô ích",
+        "definition_vi": "không hữu ích hoặc không giúp ích"
       },
       {
         "definition": "to be useful",
@@ -5145,7 +5629,9 @@
             "cf": "",
             "x": "Could this old coat be of use to you?"
           }
-        ]
+        ],
+        "short_meaning_vi": "hữu ích",
+        "definition_vi": "hữu ích"
       },
       {
         "definition": "to start/stop being used",
@@ -5158,7 +5644,9 @@
             "cf": "",
             "x": "These pesticides are gradually going out of use."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu/ngừng sử dụng",
+        "definition_vi": "bắt đầu/ngừng được sử dụng"
       },
       {
         "definition": "to dislike somebody",
@@ -5167,7 +5655,9 @@
             "cf": "",
             "x": "I've no use for people who don't make an effort."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghét ai đó",
+        "definition_vi": "ghét ai đó"
       },
       {
         "definition": "to not need something",
@@ -5180,7 +5670,9 @@
             "cf": "",
             "x": "I have no use for my golf clubs any more."
           }
-        ]
+        ],
+        "short_meaning_vi": "không cần",
+        "definition_vi": "không cần một cái gì đó"
       },
       {
         "definition": "to be useful sometimes",
@@ -5189,7 +5681,9 @@
             "cf": "",
             "x": "I know you don't like him, but he has his uses."
           }
-        ]
+        ],
+        "short_meaning_vi": "thỉnh thoảng hữu ích",
+        "definition_vi": "hữu ích đôi khi"
       },
       {
         "definition": "used to say that there is no point in doing something because it will not be successful or have a good result",
@@ -5202,7 +5696,9 @@
             "cf": "",
             "x": "It's no use—I can't persuade her."
           }
-        ]
+        ],
+        "short_meaning_vi": "vô ích khi làm gì",
+        "definition_vi": "được dùng để nói rằng không có ích gì khi làm điều gì đó vì nó sẽ không thành công hoặc không mang lại kết quả tốt"
       },
       {
         "definition": "to use something/somebody, especially in order to get an advantage",
@@ -5219,7 +5715,9 @@
             "cf": "",
             "x": "You should make use of your contacts."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi dụng",
+        "definition_vi": "sử dụng một cái gì đó/ai đó, đặc biệt là để đạt được lợi thế"
       },
       {
         "definition": "to be able to use something for a purpose, and get an advantage from doing so",
@@ -5232,7 +5730,9 @@
             "cf": "",
             "x": "Don't throw that box away—I'm sure I could put it to some use."
           }
-        ]
+        ],
+        "short_meaning_vi": "tận dụng",
+        "definition_vi": "có thể sử dụng một cái gì đó cho một mục đích và đạt được lợi thế từ việc đó"
       }
     ]
   },
@@ -5315,7 +5815,9 @@
             "cf": "use something in something",
             "x": "The drug is also used in the treatment of cancer."
           }
-        ]
+        ],
+        "short_meaning_vi": "sử dụng cho mục đích",
+        "definition_vi": "làm một việc gì đó với một máy móc, phương pháp, đồ vật, v.v. cho một mục đích cụ thể"
       },
       {
         "definition": "to take a particular amount of a liquid, substance, etc. in order to achieve or make something",
@@ -5332,7 +5834,9 @@
             "cf": "",
             "x": "This paint is very expensive, so please use it sparingly."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấy một lượng",
+        "definition_vi": "lấy một lượng chất lỏng, chất, v.v. để đạt được hoặc tạo ra một cái gì đó"
       },
       {
         "definition": "to say or write particular words or a particular type of language",
@@ -5357,7 +5861,9 @@
             "cf": "use something to do something",
             "x": "‘Pop art’ is a term used to describe a movement that began in the 1950s."
           }
-        ]
+        ],
+        "short_meaning_vi": "dùng từ ngữ",
+        "definition_vi": "nói hoặc viết các từ hoặc loại ngôn ngữ cụ thể"
       },
       {
         "definition": "to be kind, friendly, etc. to somebody with the intention of getting an advantage for yourself from them",
@@ -5370,7 +5876,9 @@
             "cf": "",
             "x": "I felt used."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi dụng lòng tốt",
+        "definition_vi": "tốt bụng, thân thiện, v.v. với ai đó với ý định giành được lợi thế cho bản thân từ họ"
       },
       {
         "definition": "to take illegal drugs",
@@ -5387,7 +5895,9 @@
             "cf": "",
             "x": "the factors that make people likely to use heroin"
           }
-        ]
+        ],
+        "short_meaning_vi": "sử dụng ma túy",
+        "definition_vi": "sử dụng ma túy bất hợp pháp"
       },
       {
         "definition": "used to say that you would like to have something very much",
@@ -5396,7 +5906,9 @@
             "cf": "",
             "x": "I think we could all use a drink after that!"
           }
-        ]
+        ],
+        "short_meaning_vi": "rất muốn có",
+        "definition_vi": "được dùng để nói rằng bạn muốn có một cái gì đó rất nhiều"
       },
       {
         "definition": "used to tell somebody to think about something, especially when they have asked for your opinion or said something stupid",
@@ -5405,7 +5917,9 @@
             "cf": "",
             "x": "‘Why don't you want to see him again?’ ‘Oh, use your head!’"
           }
-        ]
+        ],
+        "short_meaning_vi": "suy nghĩ đi",
+        "definition_vi": "được dùng để yêu cầu ai đó suy nghĩ về điều gì đó, đặc biệt là khi họ đã yêu cầu ý kiến của bạn hoặc nói điều gì đó ngu ngốc"
       }
     ]
   },
@@ -5448,7 +5962,9 @@
             "cf": "",
             "x": "She had gradually grown used to him."
           }
-        ]
+        ],
+        "short_meaning_vi": "quen với",
+        "definition_vi": "quen với điều gì đó vì bạn làm hoặc trải nghiệm nó thường xuyên"
       }
     ]
   },
@@ -5527,7 +6043,9 @@
             "cf": "",
             "x": "Some products can be recycled at the end of their useful life."
           }
-        ]
+        ],
+        "short_meaning_vi": "hữu ích",
+        "definition_vi": "có thể giúp bạn làm hoặc đạt được những gì bạn muốn"
       },
       {
         "definition": "good; of the right standard",
@@ -5536,7 +6054,9 @@
             "cf": "",
             "x": "He's a very useful player."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất lượng tốt",
+        "definition_vi": "tốt; đạt tiêu chuẩn"
       }
     ]
   },
@@ -5575,7 +6095,9 @@
             "cf": "",
             "x": "She tried to work, but it was useless (= she wasn't able to)."
           }
-        ]
+        ],
+        "short_meaning_vi": "vô dụng",
+        "definition_vi": "không hữu ích; không làm hoặc đạt được những gì cần thiết hoặc mong muốn"
       },
       {
         "definition": "not very good at something; not able to do things well",
@@ -5596,7 +6118,9 @@
             "cf": "",
             "x": "Don't ask her to help. She's useless."
           }
-        ]
+        ],
+        "short_meaning_vi": "kém cỏi",
+        "definition_vi": "không giỏi lắm trong một việc gì đó; không có khả năng làm tốt mọi việc"
       }
     ]
   },
@@ -5671,11 +6195,15 @@
             "cf": "user of something",
             "x": "The main users of this service are government departments."
           }
-        ]
+        ],
+        "short_meaning_vi": "người dùng",
+        "definition_vi": "một người hoặc vật sử dụng một cái gì đó"
       },
       {
         "definition": "a person who uses illegal drugs",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người nghiện",
+        "definition_vi": "một người sử dụng ma túy bất hợp pháp"
       }
     ]
   },
@@ -5738,11 +6266,15 @@
             "cf": "usual in somebody/something",
             "x": "This kind of behaviour is far from usual in children of this age."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông thường",
+        "definition_vi": "xảy ra hoặc được thực hiện hầu hết thời gian hoặc trong hầu hết các trường hợp"
       },
       {
         "definition": "what usually happens; what you usually have, especially the drink that you usually have",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thứ thường có",
+        "definition_vi": "điều thường xảy ra; những gì bạn thường có, đặc biệt là đồ uống bạn thường uống"
       },
       {
         "definition": "in the way that is normal or usual; as often happens",
@@ -5751,7 +6283,9 @@
             "cf": "",
             "x": "Everyone blamed me as per usual."
           }
-        ]
+        ],
+        "short_meaning_vi": "như thường lệ",
+        "definition_vi": "theo cách bình thường hoặc thông thường; như thường xảy ra"
       },
       {
         "definition": "in the same way as what happens most of the time or in most cases",
@@ -5772,7 +6306,9 @@
             "cf": "",
             "x": "Despite the problems staff arrived for work as usual."
           }
-        ]
+        ],
+        "short_meaning_vi": "như mọi khi",
+        "definition_vi": "theo cách giống như những gì xảy ra hầu hết thời gian hoặc trong hầu hết các trường hợp"
       },
       {
         "definition": "a way of saying that things will continue as normal despite a difficult situation",
@@ -5781,7 +6317,9 @@
             "cf": "",
             "x": "It's business as usual at the factory, even while investigators sift through the bomb wreckage."
           }
-        ]
+        ],
+        "short_meaning_vi": "mọi thứ vẫn vậy",
+        "definition_vi": "một cách nói rằng mọi thứ sẽ tiếp tục như bình thường bất chấp một tình huống khó khăn"
       },
       {
         "definition": "the people you would usually expect to do something or be included in something",
@@ -5790,7 +6328,9 @@
             "cf": "",
             "x": "She thanked all the usual suspects in her acceptance speech: her family, the director, the cast and the crew."
           }
-        ]
+        ],
+        "short_meaning_vi": "những người thường",
+        "definition_vi": "những người bạn thường mong đợi làm điều gì đó hoặc được bao gồm trong điều gì đó"
       }
     ]
   },
@@ -5853,7 +6393,9 @@
             "cf": "",
             "x": "These two words usually occur together."
           }
-        ]
+        ],
+        "short_meaning_vi": "thường xuyên",
+        "definition_vi": "theo cách thông thường hoặc bình thường; hầu hết thời gian"
       }
     ]
   },
@@ -5880,7 +6422,9 @@
             "cf": "",
             "x": "Legislation will be introduced to regulate the privatized utilities."
           }
-        ]
+        ],
+        "short_meaning_vi": "dịch vụ công cộng",
+        "definition_vi": "một dịch vụ được cung cấp cho công chúng, ví dụ như cung cấp điện, nước hoặc gas"
       },
       {
         "definition": "the quality of being useful",
@@ -5889,11 +6433,15 @@
             "cf": "",
             "x": "This information is of the highest utility to a historian."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính hữu dụng",
+        "definition_vi": "phẩm chất hữu ích"
       },
       {
         "definition": "a piece of computer software that performs a particular task",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiện ích máy tính",
+        "definition_vi": "một phần mềm máy tính thực hiện một tác vụ cụ thể"
       }
     ]
   },
@@ -5920,7 +6468,9 @@
             "cf": "",
             "x": "Vitamin C helps the body utilize the iron present in your body."
           }
-        ]
+        ],
+        "short_meaning_vi": "sử dụng",
+        "definition_vi": "sử dụng một cái gì đó, đặc biệt là cho một mục đích thực tế"
       }
     ]
   },
@@ -5943,7 +6493,9 @@
             "cf": "",
             "x": "She utterly failed to convince them."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn",
+        "definition_vi": "hoàn toàn"
       }
     ]
   }

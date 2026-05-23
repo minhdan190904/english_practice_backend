@@ -30,7 +30,9 @@
             "cf": "keen on doing something",
             "x": "I wasn't too keen on going to the party."
           }
-        ]
+        ],
+        "short_meaning_vi": "mong muốn",
+        "definition_vi": "rất muốn làm điều gì đó hoặc muốn điều gì đó xảy ra"
       },
       {
         "definition": "enthusiastic about an activity or idea, etc.",
@@ -47,7 +49,9 @@
             "cf": "",
             "x": "She was a star pupil—keen, confident and bright."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhiệt tình",
+        "definition_vi": "nhiệt tình với một hoạt động hoặc ý tưởng, v.v."
       },
       {
         "definition": "liking somebody/something very much; very interested in somebody/something",
@@ -72,7 +76,9 @@
             "cf": "keen on doing something",
             "x": "She's not keen on being told what to do."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích thú",
+        "definition_vi": "rất thích ai đó/điều gì đó; rất quan tâm đến ai đó/điều gì đó"
       },
       {
         "definition": "quick to understand",
@@ -81,7 +87,9 @@
             "cf": "",
             "x": "a keen mind/intellect"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhạy bén",
+        "definition_vi": "nhanh chóng hiểu"
       },
       {
         "definition": "strong or deep",
@@ -94,7 +102,9 @@
             "cf": "",
             "x": "He took a keen interest in his grandson's education."
           }
-        ]
+        ],
+        "short_meaning_vi": "sâu sắc",
+        "definition_vi": "mạnh mẽ hoặc sâu sắc"
       },
       {
         "definition": "highly developed",
@@ -107,7 +117,9 @@
             "cf": "",
             "x": "My friend has a keen eye for (= is good at noticing) a bargain."
           }
-        ]
+        ],
+        "short_meaning_vi": "phát triển cao",
+        "definition_vi": "phát triển cao"
       },
       {
         "definition": "involving people competing very hard with each other for something",
@@ -124,7 +136,9 @@
             "cf": "",
             "x": "It was the subject of keen debate."
           }
-        ]
+        ],
+        "short_meaning_vi": "cạnh tranh gay gắt",
+        "definition_vi": "liên quan đến việc mọi người cạnh tranh rất gay gắt với nhau vì điều gì đó"
       },
       {
         "definition": "kept low in order to compete with other prices",
@@ -133,19 +147,27 @@
             "cf": "",
             "x": "The company hopes its keen pricing policy will increase sales."
           }
-        ]
+        ],
+        "short_meaning_vi": "giá thấp",
+        "definition_vi": "giữ ở mức thấp để cạnh tranh với các mức giá khác"
       },
       {
         "definition": "extremely cold",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rất lạnh",
+        "definition_vi": "cực kỳ lạnh"
       },
       {
         "definition": "having a sharp edge or point",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sắc bén",
+        "definition_vi": "có cạnh hoặc điểm sắc bén"
       },
       {
         "definition": "wanting very much to do well at something; enthusiastic",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ham học hỏi",
+        "definition_vi": "rất muốn làm tốt một điều gì đó; nhiệt tình"
       },
       {
         "definition": "liking something/somebody very much; very interested in something",
@@ -154,7 +176,9 @@
             "cf": "",
             "x": "He's mad keen on planes."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất thích",
+        "definition_vi": "rất thích điều gì đó/ai đó; rất quan tâm đến điều gì đó"
       }
     ]
   },
@@ -181,7 +205,9 @@
             "cf": "",
             "x": "Always keep a backup of the file."
           }
-        ]
+        ],
+        "short_meaning_vi": "giữ lại",
+        "definition_vi": "tiếp tục có thứ gì đó và không trả lại hoặc vứt bỏ nó"
       },
       {
         "definition": "to put or store something in a particular place",
@@ -190,7 +216,9 @@
             "cf": "",
             "x": "Keep your passport in a safe place."
           }
-        ]
+        ],
+        "short_meaning_vi": "cất giữ",
+        "definition_vi": "đặt hoặc cất giữ thứ gì đó ở một nơi cụ thể"
       },
       {
         "definition": "to save something for somebody",
@@ -207,7 +235,9 @@
             "cf": "keep somebody something",
             "x": "Please keep me a seat."
           }
-        ]
+        ],
+        "short_meaning_vi": "để dành",
+        "definition_vi": "cất giữ thứ gì đó cho ai đó"
       },
       {
         "definition": "to stay in a particular condition or position; to make somebody/something do this",
@@ -260,7 +290,9 @@
             "cf": "keep somebody/something doing something",
             "x": "I'm very sorry to keep you waiting."
           }
-        ]
+        ],
+        "short_meaning_vi": "duy trì",
+        "definition_vi": "ở trong một tình trạng hoặc vị trí cụ thể; làm cho ai đó/điều gì đó làm như vậy"
       },
       {
         "definition": "to continue doing something; to do something repeatedly",
@@ -281,7 +313,9 @@
             "cf": "keep on doing something",
             "x": "Don't keep on interrupting me!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếp tục",
+        "definition_vi": "tiếp tục làm điều gì đó; làm điều gì đó lặp đi lặp lại"
       },
       {
         "definition": "to know something and not tell it to anyone",
@@ -294,7 +328,9 @@
             "cf": "",
             "x": "She kept her past secret from us all."
           }
-        ]
+        ],
+        "short_meaning_vi": "giữ bí mật",
+        "definition_vi": "biết điều gì đó và không nói cho bất kỳ ai"
       },
       {
         "definition": "to do what you have promised to do; to go where you have agreed to go",
@@ -311,7 +347,9 @@
             "cf": "",
             "x": "He failed to keep his appointment at the clinic."
           }
-        ]
+        ],
+        "short_meaning_vi": "giữ lời hứa",
+        "definition_vi": "làm những gì bạn đã hứa; đi đến nơi bạn đã đồng ý đến"
       },
       {
         "definition": "to write down something as a record",
@@ -332,7 +370,9 @@
             "cf": "",
             "x": "I kept a weekly account of my workload and activities."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi lại",
+        "definition_vi": "ghi lại điều gì đó như một bản ghi nhớ"
       },
       {
         "definition": "to own and care for animals",
@@ -349,7 +389,9 @@
             "cf": "",
             "x": "Residents are not allowed to keep pets."
           }
-        ]
+        ],
+        "short_meaning_vi": "nuôi",
+        "definition_vi": "sở hữu và chăm sóc động vật"
       },
       {
         "definition": "to own and manage a shop or restaurant",
@@ -358,7 +400,9 @@
             "cf": "",
             "x": "Her father kept a grocer's shop."
           }
-        ]
+        ],
+        "short_meaning_vi": "kinh doanh",
+        "definition_vi": "sở hữu và quản lý một cửa hàng hoặc nhà hàng"
       },
       {
         "definition": "to provide what is necessary for somebody to live; to support somebody by paying for food, etc.",
@@ -367,7 +411,9 @@
             "cf": "",
             "x": "He scarcely earns enough to keep himself and his family."
           }
-        ]
+        ],
+        "short_meaning_vi": "cung cấp",
+        "definition_vi": "cung cấp những gì cần thiết cho ai đó để sống; hỗ trợ ai đó bằng cách chi trả thức ăn, v.v."
       },
       {
         "definition": "to delay somebody",
@@ -380,7 +426,9 @@
             "cf": "",
             "x": "I won't keep you long. I've just got a couple of quick questions."
           }
-        ]
+        ],
+        "short_meaning_vi": "trì hoãn",
+        "definition_vi": "làm ai đó chậm trễ"
       },
       {
         "definition": "used to ask or talk about somebody’s health",
@@ -393,7 +441,9 @@
             "cf": "",
             "x": "We're all keeping well."
           }
-        ]
+        ],
+        "short_meaning_vi": "hỏi thăm sức khỏe",
+        "definition_vi": "được sử dụng để hỏi hoặc nói về sức khỏe của ai đó"
       },
       {
         "definition": "to remain in good condition",
@@ -410,7 +460,9 @@
             "cf": "",
             "x": "‘I'd love to hear about it, but I'm late already.’ ‘That's OK—it'll keep (= I can tell you about it later).’"
           }
-        ]
+        ],
+        "short_meaning_vi": "bền tốt",
+        "definition_vi": "duy trì tình trạng tốt"
       },
       {
         "definition": "to protect somebody from something",
@@ -423,11 +475,15 @@
             "cf": "keep somebody from something",
             "x": "His only thought was to keep the boy from harm."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ ai đó khỏi điều gì đó"
       },
       {
         "definition": "to guard or protect the goal or wicket",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thủ môn",
+        "definition_vi": "bảo vệ hoặc che chắn khung thành hoặc wicket"
       },
       {
         "definition": "to make an effort to live normally when you are in a difficult situation or when you have experienced great pain and difficulty",
@@ -436,7 +492,9 @@
             "cf": "",
             "x": "You just have to keep yourself busy and keep going."
           }
-        ]
+        ],
+        "short_meaning_vi": "cố gắng sống",
+        "definition_vi": "nỗ lực sống bình thường khi bạn đang ở trong một tình huống khó khăn hoặc khi bạn đã trải qua nỗi đau và khó khăn lớn"
       },
       {
         "definition": "used to encourage somebody to continue doing something",
@@ -445,7 +503,9 @@
             "cf": "",
             "x": "Keep going, Sarah—you're nearly there."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếp tục đi",
+        "definition_vi": "được sử dụng để khuyến khích ai đó tiếp tục làm điều gì đó"
       },
       {
         "definition": "to be enough for somebody until they get what they are waiting for",
@@ -454,7 +514,9 @@
             "cf": "",
             "x": "Have an apple to keep you going till dinner time."
           }
-        ]
+        ],
+        "short_meaning_vi": "đủ dùng",
+        "definition_vi": "đủ cho ai đó cho đến khi họ nhận được thứ họ đang chờ đợi"
       }
     ]
   },
@@ -505,7 +567,9 @@
             "cf": "key to doing something",
             "x": "Better training for our staff has been key to improving the service."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan trọng nhất",
+        "definition_vi": "quan trọng nhất; thiết yếu"
       }
     ]
   },
@@ -552,7 +616,9 @@
             "cf": "key for doing something",
             "x": "There's a special key for winding up this clock."
           }
-        ]
+        ],
+        "short_meaning_vi": "chìa khóa",
+        "definition_vi": "một miếng kim loại có hình dạng đặc biệt dùng để khóa cửa, khởi động xe hơi, v.v."
       },
       {
         "definition": "a thing that makes you able to understand or achieve something",
@@ -581,7 +647,9 @@
             "cf": "",
             "x": "The key is, how long can the federal government control the inflation rate?"
           }
-        ]
+        ],
+        "short_meaning_vi": "yếu tố quyết định",
+        "definition_vi": "một thứ khiến bạn có thể hiểu hoặc đạt được điều gì đó"
       },
       {
         "definition": "any of the buttons that you press to operate a computer, phone or typewriter",
@@ -598,7 +666,9 @@
             "cf": "",
             "x": "He began tapping on the keys of his laptop."
           }
-        ]
+        ],
+        "short_meaning_vi": "nút bấm",
+        "definition_vi": "bất kỳ nút nào bạn nhấn để vận hành máy tính, điện thoại hoặc máy đánh chữ"
       },
       {
         "definition": "any of the wooden or metal parts that you press to play a piano and some other musical instruments",
@@ -607,7 +677,9 @@
             "cf": "",
             "x": "His hands flew over the piano keys."
           }
-        ]
+        ],
+        "short_meaning_vi": "phím đàn",
+        "definition_vi": "bất kỳ bộ phận bằng gỗ hoặc kim loại nào bạn nhấn để chơi piano và một số nhạc cụ khác"
       },
       {
         "definition": "a set of related notes, based on a particular note. Pieces of music are usually written mainly using a particular key.",
@@ -620,7 +692,9 @@
             "cf": "",
             "x": "This piece changes key many times."
           }
-        ]
+        ],
+        "short_meaning_vi": "gam nhạc",
+        "definition_vi": "một tập hợp các nốt nhạc liên quan, dựa trên một nốt nhạc cụ thể. Các bản nhạc thường được viết chủ yếu bằng một gam nhạc cụ thể."
       },
       {
         "definition": "a set of answers to exercises or problems",
@@ -629,7 +703,9 @@
             "cf": "",
             "x": "Check your answers in the key at the back of the book."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáp án",
+        "definition_vi": "một tập hợp các câu trả lời cho các bài tập hoặc vấn đề"
       },
       {
         "definition": "an explanation of the symbols used on a map or plan",
@@ -638,7 +714,9 @@
             "cf": "",
             "x": "You can find the symbols in the key at the bottom of the page."
           }
-        ]
+        ],
+        "short_meaning_vi": "chú giải",
+        "definition_vi": "một lời giải thích về các ký hiệu được sử dụng trên bản đồ hoặc kế hoạch"
       },
       {
         "definition": "locked up safely somewhere; in prison",
@@ -655,7 +733,9 @@
             "cf": "",
             "x": "Prisoners are kept under lock and key 24 hours a day."
           }
-        ]
+        ],
+        "short_meaning_vi": "trong tù",
+        "definition_vi": "bị khóa an toàn ở đâu đó; trong tù"
       }
     ]
   },
@@ -682,11 +762,15 @@
             "cf": "key something into something",
             "x": "The information is then keyed into a computer."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhập liệu",
+        "definition_vi": "đưa thông tin vào máy tính bằng cách sử dụng bàn phím"
       },
       {
         "definition": "to deliberately damage a car by scratching it with a key",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cào xe",
+        "definition_vi": "cố tình làm hỏng xe bằng cách cào bằng chìa khóa"
       }
     ]
   },
@@ -709,7 +793,9 @@
             "cf": "",
             "x": "keyboard shortcuts"
           }
-        ]
+        ],
+        "short_meaning_vi": "bàn phím",
+        "definition_vi": "bộ các phím để vận hành máy tính hoặc máy chữ, hoặc bộ các chữ cái bạn có thể chạm vào để viết trên điện thoại thông minh hoặc máy tính bảng"
       },
       {
         "definition": "the set of black and white keys on a piano or other musical instrument",
@@ -718,7 +804,9 @@
             "cf": "",
             "x": "a piano keyboard"
           }
-        ]
+        ],
+        "short_meaning_vi": "bàn phím đàn",
+        "definition_vi": "bộ các phím đen và trắng trên đàn piano hoặc nhạc cụ khác"
       },
       {
         "definition": "an electronic musical instrument that has keys like a piano and can be made to play in different styles or to sound like different instruments",
@@ -739,7 +827,9 @@
             "cf": "at a keyboard",
             "x": "She sat down at the keyboard and started to play."
           }
-        ]
+        ],
+        "short_meaning_vi": "đàn phím điện tử",
+        "definition_vi": "một nhạc cụ điện tử có các phím giống như đàn piano và có thể được điều chỉnh để chơi theo nhiều phong cách khác nhau hoặc để phát ra âm thanh giống như các nhạc cụ khác"
       }
     ]
   },
@@ -774,7 +864,9 @@
             "cf": "",
             "x": "He aimed a kick at the dog."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đá",
+        "definition_vi": "một chuyển động bằng chân hoặc cẳng chân, thường là để đánh vào cái gì đó bằng chân"
       },
       {
         "definition": "a strong feeling of excitement and pleasure",
@@ -791,7 +883,9 @@
             "cf": "for kicks ",
             "x": "What do you do for kicks?"
           }
-        ]
+        ],
+        "short_meaning_vi": "cảm giác phấn khích",
+        "definition_vi": "một cảm giác mạnh mẽ về sự phấn khích và niềm vui"
       },
       {
         "definition": "the strong effect that a drug or an alcoholic drink has",
@@ -800,7 +894,9 @@
             "cf": "",
             "x": "This drink has quite a kick."
           }
-        ]
+        ],
+        "short_meaning_vi": "tác dụng của thuốc",
+        "definition_vi": "tác dụng mạnh mẽ của một loại thuốc hoặc đồ uống có cồn"
       },
       {
         "definition": "a soft shoe that you wear for sports or as informal clothing",
@@ -809,11 +905,15 @@
             "cf": "",
             "x": "The actor wore denim, a simple tee and a nice pair of kicks."
           }
-        ]
+        ],
+        "short_meaning_vi": "giày thể thao",
+        "definition_vi": "một đôi giày mềm bạn đi khi chơi thể thao hoặc quần áo thông thường"
       },
       {
         "definition": "if you think somebody needs a kick in the pants or a kick up the backside you think they need to be strongly encouraged to do something or behave better",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bị thúc ép",
+        "definition_vi": "nếu bạn nghĩ ai đó cần một cú đá vào mông hoặc một cú đá vào mông, bạn nghĩ rằng họ cần được khuyến khích mạnh mẽ để làm điều gì đó hoặc cư xử tốt hơn"
       },
       {
         "definition": "something that hurts somebody/something emotionally; a great disappointment",
@@ -822,7 +922,9 @@
             "cf": "",
             "x": "The job losses are a kick in the teeth for the union."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thất vọng",
+        "definition_vi": "điều gì đó làm tổn thương ai đó/điều gì đó về mặt cảm xúc; một sự thất vọng lớn"
       }
     ]
   },
@@ -861,7 +963,9 @@
             "cf": "kick + adv./prep.",
             "x": "She kicked at the loose pebbles by the roadside."
           }
-        ]
+        ],
+        "short_meaning_vi": "đá",
+        "definition_vi": "đánh ai đó/điều gì đó bằng chân của bạn"
       },
       {
         "definition": "to move your legs as if you were kicking something",
@@ -874,7 +978,9 @@
             "cf": "kick something",
             "x": "The dancers kicked their legs in the air."
           }
-        ]
+        ],
+        "short_meaning_vi": "vung chân",
+        "definition_vi": "di chuyển chân của bạn như thể bạn đang đá thứ gì đó"
       },
       {
         "definition": "to be annoyed with yourself because you have done something stupid, missed an opportunity, etc.",
@@ -883,7 +989,9 @@
             "cf": "",
             "x": "He'll kick himself when he finds out he could have had the job."
           }
-        ]
+        ],
+        "short_meaning_vi": "hối tiếc",
+        "definition_vi": "bực mình với bản thân vì đã làm điều gì đó ngu ngốc, bỏ lỡ cơ hội, v.v."
       },
       {
         "definition": "to score points by kicking the ball",
@@ -896,7 +1004,9 @@
             "cf": "",
             "x": "He kicked 23 points, ensuring victory for New Zealand."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi điểm bằng đá",
+        "definition_vi": "ghi điểm bằng cách đá bóng"
       },
       {
         "definition": "to stop doing something harmful that you have done for a long time",
@@ -909,7 +1019,9 @@
             "cf": "",
             "x": "to kick drugs/the booze"
           }
-        ]
+        ],
+        "short_meaning_vi": "từ bỏ thói quen",
+        "definition_vi": "ngừng làm điều gì đó có hại mà bạn đã làm trong một thời gian dài"
       },
       {
         "definition": "very active, healthy or popular",
@@ -918,7 +1030,9 @@
             "cf": "",
             "x": "My mother is still alive and kicking."
           }
-        ]
+        ],
+        "short_meaning_vi": "sôi động",
+        "definition_vi": "rất năng động, khỏe mạnh hoặc phổ biến"
       },
       {
         "definition": "to hit somebody/something very hard",
@@ -927,23 +1041,33 @@
             "cf": "",
             "x": "He was a dirty player and loved to kick hell out of the opposition."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh mạnh",
+        "definition_vi": "đánh ai đó/điều gì đó rất mạnh"
       },
       {
         "definition": "to act in a way that is aggressive or full of energy",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hành động mạnh mẽ",
+        "definition_vi": "hành động theo cách hung hăng hoặc đầy năng lượng"
       },
       {
         "definition": "to succeed or win in an impressive way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thành công vang dội",
+        "definition_vi": "thành công hoặc chiến thắng một cách ấn tượng"
       },
       {
         "definition": "to punish or defeat somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trừng phạt",
+        "definition_vi": "trừng phạt hoặc đánh bại ai đó"
       },
       {
         "definition": "to die",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chết",
+        "definition_vi": "chết"
       },
       {
         "definition": "to delay dealing with a problem",
@@ -952,7 +1076,9 @@
             "cf": "",
             "x": "This is another attempt to kick the can down the road and leave it to the next generation."
           }
-        ]
+        ],
+        "short_meaning_vi": "trì hoãn giải quyết",
+        "definition_vi": "trì hoãn việc giải quyết một vấn đề"
       },
       {
         "definition": "to have nothing to do while you are waiting for somebody/something",
@@ -961,7 +1087,9 @@
             "cf": "",
             "x": "We were kicking our heels, waiting for some customers."
           }
-        ]
+        ],
+        "short_meaning_vi": "chờ đợi",
+        "definition_vi": "không có gì để làm trong khi chờ đợi ai đó/điều gì đó"
       },
       {
         "definition": "if you drag somebody kicking and screaming to do something, they only do it with great protests because they don't really want to do it at all",
@@ -970,11 +1098,15 @@
             "cf": "",
             "x": "The president had to be dragged kicking and screaming to the signing ceremony."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị ép buộc",
+        "definition_vi": "nếu bạn kéo ai đó đang đá và la hét để làm điều gì đó, họ chỉ làm điều đó với sự phản đối lớn vì họ không thực sự muốn làm điều đó chút nào"
       },
       {
         "definition": "to treat somebody badly or fail to give them help when they need it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đối xử tệ",
+        "definition_vi": "đối xử tệ với ai đó hoặc không giúp đỡ họ khi họ cần"
       },
       {
         "definition": "to reject something or treat it as not important; to stop dealing with a problem",
@@ -983,15 +1115,21 @@
             "cf": "",
             "x": "He tends to deal with disputes by kicking them into the long grass."
           }
-        ]
+        ],
+        "short_meaning_vi": "từ chối",
+        "definition_vi": "từ chối điều gì đó hoặc coi nó không quan trọng; ngừng giải quyết một vấn đề"
       },
       {
         "definition": "to start to behave badly and refuse to accept any discipline or control",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nổi loạn",
+        "definition_vi": "bắt đầu cư xử tồi tệ và từ chối chấp nhận bất kỳ kỷ luật hoặc kiểm soát nào"
       },
       {
         "definition": "to test the quality of something to see whether it is suitable for you before you buy it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thử hàng",
+        "definition_vi": "kiểm tra chất lượng của một thứ gì đó để xem liệu nó có phù hợp với bạn trước khi bạn mua nó không"
       },
       {
         "definition": "to complain loudly about something",
@@ -1000,19 +1138,27 @@
             "cf": "",
             "x": "They’ll usually give you your money back if you threaten to kick up a stink."
           }
-        ]
+        ],
+        "short_meaning_vi": "than phiền",
+        "definition_vi": "than phiền lớn về điều gì đó"
       },
       {
         "definition": "to be relaxed and enjoy yourself",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thư giãn",
+        "definition_vi": "thư giãn và tận hưởng bản thân"
       },
       {
         "definition": "to move somebody to a job that seems to be more important but that actually has less power or influence",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chuyển công việc",
+        "definition_vi": "chuyển ai đó sang một công việc có vẻ quan trọng hơn nhưng thực tế lại có ít quyền lực hoặc ảnh hưởng hơn"
       },
       {
         "definition": "to continue to hurt somebody when they are already defeated, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiếp tục làm tổn thương",
+        "definition_vi": "tiếp tục làm tổn thương ai đó khi họ đã bị đánh bại, v.v."
       }
     ]
   },
@@ -1075,11 +1221,15 @@
             "cf": "",
             "x": "The game is aimed at kids of all ages."
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ con",
+        "definition_vi": "một đứa trẻ hoặc một người trẻ tuổi"
       },
       {
         "definition": "a young goat",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dê con",
+        "definition_vi": "một con dê non"
       },
       {
         "definition": "soft leather made from the skin of a young goat",
@@ -1088,7 +1238,9 @@
             "cf": "",
             "x": "a pair of white kid gloves"
           }
-        ]
+        ],
+        "short_meaning_vi": "da dê non",
+        "definition_vi": "da mềm làm từ da dê non"
       },
       {
         "definition": "to deal with somebody in a very careful way so that you do not offend or upset them",
@@ -1097,7 +1249,9 @@
             "cf": "",
             "x": "Treat her with kid gloves—she's very sensitive."
           }
-        ]
+        ],
+        "short_meaning_vi": "chiều chuộng",
+        "definition_vi": "đối xử với ai đó rất cẩn thận để bạn không xúc phạm hoặc làm họ buồn"
       },
       {
         "definition": "something that is so easy to do or understand that it is thought to be not very serious or only suitable for children",
@@ -1110,7 +1264,9 @@
             "cf": "",
             "x": "The movie is pure kids' stuff from beginning to end."
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ dàng",
+        "definition_vi": "điều gì đó quá dễ dàng để làm hoặc hiểu đến mức nó bị coi là không nghiêm túc hoặc chỉ phù hợp với trẻ em"
       },
       {
         "definition": "a person who is new to a place, an organization, etc.",
@@ -1119,7 +1275,9 @@
             "cf": "",
             "x": "Despite his six years in politics, he was still regarded by many as the new kid on the block."
           }
-        ]
+        ],
+        "short_meaning_vi": "người mới",
+        "definition_vi": "một người mới đến một địa điểm, một tổ chức, v.v."
       }
     ]
   },
@@ -1142,7 +1300,9 @@
             "cf": "",
             "x": "The terrorists were planning to kidnap one of the president’s sons."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt cóc",
+        "definition_vi": "đưa ai đó đi bất hợp pháp và giam giữ họ như tù nhân, đặc biệt là để lấy tiền hoặc thứ gì đó khác để trả lại họ"
       }
     ]
   },
@@ -1161,7 +1321,9 @@
             "cf": "",
             "x": "a kidney infection"
           }
-        ]
+        ],
+        "short_meaning_vi": "thận",
+        "definition_vi": "một trong hai cơ quan trong cơ thể loại bỏ các sản phẩm chất thải khỏi máu và tạo ra nước tiểu"
       },
       {
         "definition": "the kidneys of some animals that are cooked and eaten",
@@ -1170,7 +1332,9 @@
             "cf": "",
             "x": "steak and kidney pie"
           }
-        ]
+        ],
+        "short_meaning_vi": "thận động vật",
+        "definition_vi": "thận của một số động vật được nấu chín và ăn"
       }
     ]
   },
@@ -1233,7 +1397,9 @@
             "cf": "kill yourself doing something",
             "x": "Don't kill yourself trying to get the work done by tomorrow. It can wait."
           }
-        ]
+        ],
+        "short_meaning_vi": "giết",
+        "definition_vi": "làm cho ai đó/cái gì đó chết"
       },
       {
         "definition": "to destroy something or make it less good; to make something stop",
@@ -1250,7 +1416,9 @@
             "cf": "",
             "x": "The defeat last night killed the team's chances of qualifying."
           }
-        ]
+        ],
+        "short_meaning_vi": "hủy diệt",
+        "definition_vi": "phá hủy một cái gì đó hoặc làm cho nó kém tốt hơn; làm cho một cái gì đó dừng lại"
       },
       {
         "definition": "to switch off a light or engine; to stop a computer program or process",
@@ -1263,7 +1431,9 @@
             "cf": "",
             "x": "The only way to kill the process is to reboot the computer."
           }
-        ]
+        ],
+        "short_meaning_vi": "tắt",
+        "definition_vi": "tắt đèn hoặc động cơ; dừng một chương trình hoặc quy trình máy tính"
       },
       {
         "definition": "to cause somebody pain",
@@ -1272,7 +1442,9 @@
             "cf": "",
             "x": "My feet are killing me."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm đau",
+        "definition_vi": "gây đau đớn cho ai đó"
       },
       {
         "definition": "to make somebody laugh a lot",
@@ -1281,19 +1453,27 @@
             "cf": "",
             "x": "Stop it! You're killing me!"
           }
-        ]
+        ],
+        "short_meaning_vi": "làm cười",
+        "definition_vi": "làm cho ai đó cười rất nhiều"
       },
       {
         "definition": "used to tell somebody not to ask questions or try to find out about things that do not involve them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đừng hỏi",
+        "definition_vi": "dùng để bảo ai đó đừng hỏi hoặc cố gắng tìm hiểu về những điều không liên quan đến họ"
       },
       {
         "definition": "wearing the kind of clothes that will make people notice and admire you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ăn mặc nổi bật",
+        "definition_vi": "mặc loại quần áo khiến mọi người chú ý và ngưỡng mộ bạn"
       },
       {
         "definition": "to have nothing to do or not be busy",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thất nghiệp",
+        "definition_vi": "không có việc gì để làm hoặc không bận rộn"
       },
       {
         "definition": "used to describe the very angry or unpleasant way somebody is/was looking at you",
@@ -1306,11 +1486,15 @@
             "cf": "",
             "x": "I don’t know what I’ve done to upset him, but if looks could kill…"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhìn giận dữ",
+        "definition_vi": "dùng để mô tả cách ai đó nhìn bạn rất tức giận hoặc khó chịu"
       },
       {
         "definition": "to destroy something that would make you rich, successful, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phá hủy cơ hội",
+        "definition_vi": "phá hủy một cái gì đó có thể làm bạn giàu có, thành công, v.v."
       },
       {
         "definition": "to do something really well",
@@ -1323,11 +1507,15 @@
             "cf": "",
             "x": "The team has been killing it on the pitch this season!"
           }
-        ]
+        ],
+        "short_meaning_vi": "làm xuất sắc",
+        "definition_vi": "làm một cái gì đó thực sự tốt"
       },
       {
         "definition": "used to say that what you are going to do will either be very successful or fail completely",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thành công hoặc thất bại",
+        "definition_vi": "dùng để nói rằng những gì bạn sắp làm sẽ rất thành công hoặc thất bại hoàn toàn"
       },
       {
         "definition": "to spend time doing something that is not important while you are waiting for something else to happen",
@@ -1336,15 +1524,21 @@
             "cf": "",
             "x": "We killed time playing cards."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiêu thời gian",
+        "definition_vi": "dành thời gian làm những việc không quan trọng trong khi chờ đợi điều gì đó khác xảy ra"
       },
       {
         "definition": "to achieve two things at the same time with one action",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "một công đôi việc",
+        "definition_vi": "đạt được hai điều cùng một lúc bằng một hành động"
       },
       {
         "definition": "to be so kind to somebody/something that you in fact harm them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hại vì quá tốt",
+        "definition_vi": "tốt bụng với ai đó/cái gì đó đến mức thực sự làm hại họ"
       },
       {
         "definition": "to laugh a lot",
@@ -1353,7 +1547,9 @@
             "cf": "",
             "x": "He was killing himself laughing."
           }
-        ]
+        ],
+        "short_meaning_vi": "cười lớn",
+        "definition_vi": "cười rất nhiều"
       }
     ]
   },
@@ -1384,7 +1580,9 @@
             "cf": "",
             "x": "No motive for the killing has yet been established."
           }
-        ]
+        ],
+        "short_meaning_vi": "vụ giết người",
+        "definition_vi": "hành động cố ý giết ai đó"
       },
       {
         "definition": "to make a lot of money quickly",
@@ -1397,7 +1595,9 @@
             "cf": "",
             "x": "Investors are set to make a killing from the sell-off."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiếm lời lớn",
+        "definition_vi": "kiếm được nhiều tiền nhanh chóng"
       }
     ]
   },
@@ -1424,7 +1624,9 @@
             "cf": "",
             "x": "Monaco is only two square kilometres in size."
           }
-        ]
+        ],
+        "short_meaning_vi": "kilômét",
+        "definition_vi": "đơn vị đo khoảng cách; 1.000 mét"
       }
     ]
   },
@@ -1503,7 +1705,9 @@
             "cf": "",
             "x": "If an animal is badly injured, often the kindest thing to do is to destroy it painlessly."
           }
-        ]
+        ],
+        "short_meaning_vi": "tốt bụng",
+        "definition_vi": "quan tâm đến người khác; dịu dàng, thân thiện và rộng lượng"
       },
       {
         "definition": "used to make a polite request or give an order",
@@ -1512,7 +1716,9 @@
             "cf": "",
             "x": "Would you be kind enough to close the window?"
           }
-        ]
+        ],
+        "short_meaning_vi": "làm ơn",
+        "definition_vi": "dùng để đưa ra một yêu cầu lịch sự hoặc ra lệnh"
       }
     ]
   },
@@ -1587,7 +1793,9 @@
             "cf": "",
             "x": "The regions differ in size, but not in kind."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại",
+        "definition_vi": "một nhóm người hoặc vật giống nhau theo một cách nào đó; một giống hoặc loại cụ thể"
       },
       {
         "definition": "consisting of goods or services, not money",
@@ -1596,7 +1804,9 @@
             "cf": "",
             "x": "As well as his salary, he gets benefits in kind."
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng hóa",
+        "definition_vi": "bao gồm hàng hóa hoặc dịch vụ, không phải tiền"
       },
       {
         "definition": "with the same thing",
@@ -1605,7 +1815,9 @@
             "cf": "",
             "x": "She insulted him and he responded in kind."
           }
-        ]
+        ],
+        "short_meaning_vi": "cùng loại",
+        "definition_vi": "với cùng một thứ"
       },
       {
         "definition": "used to show that something you are saying is not exact",
@@ -1614,7 +1826,9 @@
             "cf": "",
             "x": "I had a kind of feeling this might happen."
           }
-        ]
+        ],
+        "short_meaning_vi": "hơi",
+        "definition_vi": "dùng để chỉ ra rằng điều bạn đang nói không hoàn toàn chính xác"
       },
       {
         "definition": "slightly; in some ways",
@@ -1627,7 +1841,9 @@
             "cf": "",
             "x": "I like him, kind of."
           }
-        ]
+        ],
+        "short_meaning_vi": "phần nào",
+        "definition_vi": "một chút; theo một số cách"
       },
       {
         "definition": "used to emphasize that the situation is very different from what has been said",
@@ -1636,7 +1852,9 @@
             "cf": "",
             "x": "‘I was terrible!’ ‘You were nothing of the kind.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn khác",
+        "definition_vi": "dùng để nhấn mạnh rằng tình huống hoàn toàn khác với những gì đã nói"
       },
       {
         "definition": "not as good as it could be",
@@ -1645,7 +1863,9 @@
             "cf": "",
             "x": "You're making progress of a kind."
           }
-        ]
+        ],
+        "short_meaning_vi": "không tốt",
+        "definition_vi": "không tốt như nó có thể có"
       },
       {
         "definition": "very similar",
@@ -1654,7 +1874,9 @@
             "cf": "",
             "x": "They're two of a kind—both workaholics!"
           }
-        ]
+        ],
+        "short_meaning_vi": "rất giống",
+        "definition_vi": "rất giống nhau"
       },
       {
         "definition": "the only one like this",
@@ -1663,7 +1885,9 @@
             "cf": "",
             "x": "My father was one of a kind—I'll never be like him."
           }
-        ]
+        ],
+        "short_meaning_vi": "duy nhất",
+        "definition_vi": "là cái duy nhất giống như thế này"
       },
       {
         "definition": "something like what has been said",
@@ -1672,7 +1896,9 @@
             "cf": "",
             "x": "‘He's resigning.’ ‘I'd suspected something of the kind.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "gần giống",
+        "definition_vi": "một cái gì đó giống như những gì đã được nói"
       }
     ]
   },
@@ -1703,7 +1929,9 @@
             "cf": "",
             "x": "King George V"
           }
-        ]
+        ],
+        "short_meaning_vi": "vua",
+        "definition_vi": "người cai trị nam của một quốc gia độc lập có hoàng gia"
       },
       {
         "definition": "a person, an animal or a thing that is thought to be the best or most important of a particular type",
@@ -1716,7 +1944,9 @@
             "cf": "",
             "x": "The lion is the king of the jungle."
           }
-        ]
+        ],
+        "short_meaning_vi": "vua (nghĩa bóng)",
+        "definition_vi": "một người, động vật hoặc vật được coi là tốt nhất hoặc quan trọng nhất của một loại cụ thể"
       },
       {
         "definition": "used in compounds with the names of animals or plants to describe a very large type of the thing mentioned",
@@ -1725,23 +1955,33 @@
             "cf": "",
             "x": "a king penguin"
           }
-        ]
+        ],
+        "short_meaning_vi": "loại lớn",
+        "definition_vi": "dùng trong các hợp chất với tên của động vật hoặc thực vật để mô tả một loại rất lớn của thứ được đề cập"
       },
       {
         "definition": "the most important piece used in the game of chess, that can move one square in any direction",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quân vua",
+        "definition_vi": "quân cờ quan trọng nhất trong trò chơi cờ vua, có thể di chuyển một ô theo bất kỳ hướng nào"
       },
       {
         "definition": "a playing card with the picture of a king on it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quân bài vua",
+        "definition_vi": "một quân bài có hình ảnh nhà vua trên đó"
       },
       {
         "definition": "a very large amount of money",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rất nhiều tiền",
+        "definition_vi": "một lượng tiền rất lớn"
       },
       {
         "definition": "the person considered to be the best, most famous or successful in a particular place or area of activity",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người giỏi nhất",
+        "definition_vi": "người được coi là tốt nhất, nổi tiếng nhất hoặc thành công nhất trong một lĩnh vực hoặc hoạt động cụ thể"
       }
     ]
   },
@@ -1764,11 +2004,15 @@
             "cf": "",
             "x": "the kingdom of God (= heaven)"
           }
-        ]
+        ],
+        "short_meaning_vi": "vương quốc",
+        "definition_vi": "một quốc gia có vua hoặc nữ hoàng làm nguyên thủ quốc gia (= lãnh đạo chính thức của đất nước)"
       },
       {
         "definition": "an area controlled by a particular person or where a particular thing or idea is important",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lãnh địa",
+        "definition_vi": "một khu vực do một người cụ thể kiểm soát hoặc nơi một thứ hoặc ý tưởng cụ thể quan trọng"
       },
       {
         "definition": "one of the three traditional divisions of the natural world",
@@ -1777,11 +2021,15 @@
             "cf": "",
             "x": "the animal, vegetable and mineral kingdoms"
           }
-        ]
+        ],
+        "short_meaning_vi": "vương quốc",
+        "definition_vi": "một trong ba bộ phận truyền thống của thế giới tự nhiên"
       },
       {
         "definition": "one of the five major groups into which all living things are organized",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vương quốc",
+        "definition_vi": "một trong năm nhóm lớn mà tất cả sinh vật sống được tổ chức"
       },
       {
         "definition": "to completely destroy somebody/something with an explosion",
@@ -1790,7 +2038,9 @@
             "cf": "",
             "x": "The truck was blown to kingdom come."
           }
-        ]
+        ],
+        "short_meaning_vi": "nổ tung",
+        "definition_vi": "hủy diệt hoàn toàn ai đó/cái gì đó bằng một vụ nổ"
       },
       {
         "definition": "forever",
@@ -1799,7 +2049,9 @@
             "cf": "",
             "x": "He’ll talk till kingdom come if you let him."
           }
-        ]
+        ],
+        "short_meaning_vi": "mãi mãi",
+        "definition_vi": "mãi mãi"
       }
     ]
   },
@@ -1830,7 +2082,9 @@
             "cf": "",
             "x": "As the train drew away he blew her a kiss (= kissed his hand and pretended to blow the kiss towards her)."
           }
-        ]
+        ],
+        "short_meaning_vi": "nụ hôn",
+        "definition_vi": "hành động hôn ai đó/cái gì đó"
       },
       {
         "definition": "an event that seems good, but is certain to make something else fail",
@@ -1843,15 +2097,21 @@
             "cf": "",
             "x": "That TV commercial was the kiss of death to his career as a serious actor."
           }
-        ]
+        ],
+        "short_meaning_vi": "thất bại",
+        "definition_vi": "một sự kiện có vẻ tốt, nhưng chắc chắn sẽ khiến điều khác thất bại"
       },
       {
         "definition": "a method of helping somebody who has stopped breathing to breathe again by placing your mouth on theirs and forcing air into their lungs",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hồi sức",
+        "definition_vi": "một phương pháp giúp ai đó đã ngừng thở thở lại bằng cách đặt miệng của bạn lên miệng họ và ép không khí vào phổi của họ"
       },
       {
         "definition": "to kiss somebody suddenly or secretly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hôn trộm",
+        "definition_vi": "hôn ai đó một cách đột ngột hoặc bí mật"
       }
     ]
   },
@@ -1890,7 +2150,9 @@
             "cf": "",
             "x": "He lifted the trophy up and kissed it."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôn",
+        "definition_vi": "chạm vào ai đó bằng môi của bạn như một dấu hiệu của tình yêu hoặc ham muốn tình dục hoặc khi chào hoặc tạm biệt"
       },
       {
         "definition": "to gently move or touch something",
@@ -1899,15 +2161,21 @@
             "cf": "",
             "x": "The sunlight kissed the warm stones."
           }
-        ]
+        ],
+        "short_meaning_vi": "chạm nhẹ",
+        "definition_vi": "di chuyển hoặc chạm nhẹ vào một cái gì đó"
       },
       {
         "definition": "a way of referring to somebody talking publicly, usually for money, about a past sexual relationship with somebody famous",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bán chuyện",
+        "definition_vi": "một cách để đề cập đến ai đó nói công khai, thường là để kiếm tiền, về một mối quan hệ tình dục trong quá khứ với người nổi tiếng"
       },
       {
         "definition": "to be very nice to somebody in order to persuade them to help you or to give you something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nịnh hót",
+        "definition_vi": "rất tử tế với ai đó để thuyết phục họ giúp bạn hoặc cho bạn thứ gì đó"
       },
       {
         "definition": "to take away the pain of an injury by kissing it",
@@ -1916,7 +2184,9 @@
             "cf": "",
             "x": "Come here and let me kiss it better."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôn xoa dịu",
+        "definition_vi": "lấy đi nỗi đau của một vết thương bằng cách hôn nó"
       },
       {
         "definition": "to accept that you will lose something or be unable to do something",
@@ -1925,7 +2195,9 @@
             "cf": "",
             "x": "Well, you can kiss goodbye to your chances of promotion."
           }
-        ]
+        ],
+        "short_meaning_vi": "chấp nhận thua",
+        "definition_vi": "chấp nhận rằng bạn sẽ mất một cái gì đó hoặc không thể làm một cái gì đó"
       }
     ]
   },
@@ -1944,7 +2216,9 @@
             "cf": "",
             "x": "a drum kit"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ dụng cụ",
+        "definition_vi": "một bộ công cụ hoặc thiết bị bạn sử dụng cho một mục đích cụ thể"
       },
       {
         "definition": "a set of parts ready to be made into something",
@@ -1957,7 +2231,9 @@
             "cf": "",
             "x": "She built the doll’s house from a kit."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ linh kiện",
+        "definition_vi": "một bộ phận sẵn sàng để chế tạo thành một cái gì đó"
       },
       {
         "definition": "a set of clothes and equipment that you use for a particular activity",
@@ -1970,11 +2246,15 @@
             "cf": "",
             "x": "The soldiers packed tents and kits to move to new positions."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ đồ",
+        "definition_vi": "một bộ quần áo và thiết bị bạn sử dụng cho một hoạt động cụ thể"
       },
       {
         "definition": "to take your clothes off",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cởi đồ",
+        "definition_vi": "cởi quần áo của bạn"
       },
       {
         "definition": "everything",
@@ -1983,7 +2263,9 @@
             "cf": "",
             "x": "I had new clothes, a new hairstyle—the whole caboodle."
           }
-        ]
+        ],
+        "short_meaning_vi": "tất cả mọi thứ",
+        "definition_vi": "tất cả mọi thứ"
       }
     ]
   },
@@ -2018,7 +2300,9 @@
             "cf": "",
             "x": "The house has a fully fitted kitchen with custom-built units."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà bếp",
+        "definition_vi": "một căn phòng nơi các bữa ăn được nấu hoặc chuẩn bị"
       },
       {
         "definition": "a very large number of things, probably more than is necessary",
@@ -2027,11 +2311,15 @@
             "cf": "",
             "x": "We seem to take everything but the kitchen sink when we go camping."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều",
+        "definition_vi": "một số lượng lớn các thứ, có lẽ nhiều hơn mức cần thiết"
       },
       {
         "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bỏ cuộc đi",
+        "definition_vi": "dùng để nói với ai đó ngừng cố gắng làm điều gì đó nếu họ thấy quá khó, đặc biệt là để gợi ý rằng họ kém cỏi hơn những người khác"
       }
     ]
   },
@@ -2082,7 +2370,9 @@
             "cf": "",
             "x": "My knees were knocking (= I was frightened)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đầu gối",
+        "definition_vi": "khớp giữa phần trên và phần dưới của chân nơi nó gập ở giữa"
       },
       {
         "definition": "the part of a piece of clothing that covers the knee",
@@ -2099,7 +2389,9 @@
             "cf": "",
             "x": "a knee patch"
           }
-        ]
+        ],
+        "short_meaning_vi": "vải che đầu gối",
+        "definition_vi": "phần của quần áo che đầu gối"
       },
       {
         "definition": "the top surface of the upper part of the legs when you are sitting down",
@@ -2108,7 +2400,9 @@
             "cf": "",
             "x": "Come and sit on Daddy's knee."
           }
-        ]
+        ],
+        "short_meaning_vi": "đùi",
+        "definition_vi": "bề mặt trên của phần trên của chân khi bạn đang ngồi"
       },
       {
         "definition": "when you were very young",
@@ -2117,7 +2411,9 @@
             "cf": "",
             "x": "I learnt these songs at my mother's knee."
           }
-        ]
+        ],
+        "short_meaning_vi": "hồi bé",
+        "definition_vi": "khi bạn còn rất trẻ"
       },
       {
         "definition": "an excellent person or thing",
@@ -2126,11 +2422,15 @@
             "cf": "",
             "x": "She thinks she's the bee's knees (= she has a very high opinion of herself)."
           }
-        ]
+        ],
+        "short_meaning_vi": "người xuất sắc",
+        "definition_vi": "một người hoặc vật xuất sắc"
       },
       {
         "definition": "to defeat somebody, especially in a war",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đánh bại",
+        "definition_vi": "đánh bại ai đó, đặc biệt là trong chiến tranh"
       },
       {
         "definition": "to badly affect an organization, etc. so that it can no longer function",
@@ -2143,7 +2443,9 @@
             "cf": "",
             "x": "The fuel shortage brought the country to its knees within weeks."
           }
-        ]
+        ],
+        "short_meaning_vi": "phá hoại",
+        "definition_vi": "ảnh hưởng xấu đến một tổ chức, v.v. đến mức nó không còn hoạt động được nữa"
       },
       {
         "definition": "if you ask for something on bended knee(s), you ask for it in a very anxious and/or humble way (= showing you think you are less important than the person you are asking)",
@@ -2152,11 +2454,15 @@
             "cf": "",
             "x": "I’d go down on bended knee if I thought she’d change her mind."
           }
-        ]
+        ],
+        "short_meaning_vi": "cầu xin",
+        "definition_vi": "nếu bạn yêu cầu điều gì đó trên đầu gối cong, bạn yêu cầu nó một cách rất lo lắng và/hoặc khiêm tốn (= thể hiện bạn nghĩ mình kém quan trọng hơn người bạn đang yêu cầu)"
       },
       {
         "definition": "to punish somebody by making them lie on top of your knee and hitting their bottom",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đánh mông",
+        "definition_vi": "trừng phạt ai đó bằng cách bắt họ nằm trên đầu gối của bạn và đánh vào mông của họ"
       },
       {
         "definition": "to kneel on one knee in public in order to protest about the unfair treatment of black people",
@@ -2165,7 +2471,9 @@
             "cf": "",
             "x": "Officers at the rally were seen taking a knee in solidarity with the demonstrators."
           }
-        ]
+        ],
+        "short_meaning_vi": "quỳ gối phản đối",
+        "definition_vi": "quỳ một gối trước công chúng để phản đối sự đối xử bất công với người da đen"
       },
       {
         "definition": "hardly able to stand because of emotion, fear, illness, etc.",
@@ -2174,7 +2482,9 @@
             "cf": "",
             "x": "His sudden smile made her go weak at the knees."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiệt sức",
+        "definition_vi": "hầu như không thể đứng dậy vì cảm xúc, sợ hãi, bệnh tật, v.v."
       }
     ]
   },
@@ -2217,7 +2527,9 @@
             "cf": "",
             "x": "She was murdered in a frenzied knife attack."
           }
-        ]
+        ],
+        "short_meaning_vi": "dao",
+        "definition_vi": "một lưỡi dao sắc bén (= cạnh kim loại) có tay cầm, dùng để cắt hoặc làm vũ khí"
       },
       {
         "definition": "the situation has become so bad that people are preparing to make one person take the blame, for example by taking away their job",
@@ -2226,15 +2538,21 @@
             "cf": "",
             "x": "The knives are out for the chancellor."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị đổ lỗi",
+        "definition_vi": "tình hình đã trở nên tồi tệ đến mức mọi người chuẩn bị để một người phải chịu trách nhiệm, ví dụ bằng cách tước bỏ công việc của họ"
       },
       {
         "definition": "easily; without meeting any difficulty",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dễ dàng",
+        "definition_vi": "dễ dàng; không gặp khó khăn gì"
       },
       {
         "definition": "to behave towards somebody in an unfriendly way and try to harm them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hãm hại",
+        "definition_vi": "hành xử với ai đó một cách không thân thiện và cố gắng làm hại họ"
       },
       {
         "definition": "to say or do something unkind deliberately; to make somebody who is unhappy feel even more unhappy",
@@ -2247,7 +2565,9 @@
             "cf": "",
             "x": "Just to twist the knife, the filmmakers have provided a surprise ending."
           }
-        ]
+        ],
+        "short_meaning_vi": "thêm dầu vào lửa",
+        "definition_vi": "nói hoặc làm điều gì đó không hay một cách cố ý; làm cho người đang buồn cảm thấy còn buồn hơn"
       },
       {
         "definition": "having a medical operation",
@@ -2256,7 +2576,9 @@
             "cf": "",
             "x": "He is to go under the surgeon's knife again on Thursday."
           }
-        ]
+        ],
+        "short_meaning_vi": "phẫu thuật",
+        "definition_vi": "được phẫu thuật y tế"
       }
     ]
   },
@@ -2279,7 +2601,9 @@
             "cf": "",
             "x": "I was startled by a loud knock on the car window."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếng gõ cửa",
+        "definition_vi": "âm thanh của ai đó gõ cửa, cửa sổ, v.v. bằng tay hoặc bằng vật cứng để thu hút sự chú ý"
       },
       {
         "definition": "a sharp hit from something hard",
@@ -2292,7 +2616,9 @@
             "cf": "",
             "x": "Knocks and scratches will lower the value of valuable furniture."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đánh",
+        "definition_vi": "một cú đánh mạnh từ vật cứng"
       },
       {
         "definition": "a bad experience that makes somebody/something less confident or successful",
@@ -2305,7 +2631,9 @@
             "cf": "",
             "x": "The company has suffered two huge knocks of late."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự suy giảm",
+        "definition_vi": "một trải nghiệm tồi tệ làm cho ai đó/thứ gì đó kém tự tin hoặc thành công hơn"
       }
     ]
   },
@@ -2332,7 +2660,9 @@
             "cf": "",
             "x": "Somebody was knocking on the window."
           }
-        ]
+        ],
+        "short_meaning_vi": "gõ cửa",
+        "definition_vi": "gõ cửa, v.v. để thu hút sự chú ý"
       },
       {
         "definition": "to hit something hard, often by accident",
@@ -2349,7 +2679,9 @@
             "cf": "knock something",
             "x": "She dropped the pile of books when he accidentally knocked her shoulder."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh mạnh",
+        "definition_vi": "đánh mạnh vào thứ gì đó, thường là do tai nạn"
       },
       {
         "definition": "to hit something so that it moves or breaks",
@@ -2378,7 +2710,9 @@
             "cf": "knock something",
             "x": "The criticism had knocked (= damaged) her self-esteem."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm vỡ",
+        "definition_vi": "đánh mạnh vào thứ gì đó để nó di chuyển hoặc bị vỡ"
       },
       {
         "definition": "to put somebody/something into a particular state by hitting them/it",
@@ -2399,7 +2733,9 @@
             "cf": "knock somebody/something + adv./prep.",
             "x": "The two rooms had been knocked into one (= the wall between them had been knocked down)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đưa vào trạng thái",
+        "definition_vi": "đưa ai đó/thứ gì đó vào một trạng thái cụ thể bằng cách đánh họ/nó"
       },
       {
         "definition": "to make a hole in something by hitting it hard",
@@ -2408,7 +2744,9 @@
             "cf": "",
             "x": "They managed to knock a hole in the wall."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm thủng",
+        "definition_vi": "tạo một lỗ trên thứ gì đó bằng cách đánh mạnh vào nó"
       },
       {
         "definition": "if your heart knocks, it beats hard; if your knees knock, they shake, for example from fear",
@@ -2417,11 +2755,15 @@
             "cf": "",
             "x": "My heart was knocking wildly."
           }
-        ]
+        ],
+        "short_meaning_vi": "tim đập mạnh",
+        "definition_vi": "nếu tim bạn đập mạnh; nếu đầu gối bạn run rẩy, ví dụ vì sợ hãi"
       },
       {
         "definition": "to make a regular sound of metal hitting metal, especially because there is something wrong",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiếng kêu kim loại",
+        "definition_vi": "tạo ra âm thanh đều đặn của kim loại va vào kim loại, đặc biệt là do có vấn đề"
       },
       {
         "definition": "to criticize somebody/something, especially when it happens unfairly",
@@ -2434,11 +2776,15 @@
             "cf": "",
             "x": "It may sound pretty childish, but don't knock it until you've tried it."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ trích",
+        "definition_vi": "chỉ trích ai đó/thứ gì đó, đặc biệt là khi nó xảy ra một cách không công bằng"
       },
       {
         "definition": "to force people to stop arguing and behave in a sensible way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "buộc ngừng tranh cãi",
+        "definition_vi": "buộc mọi người ngừng tranh cãi và hành xử một cách hợp lý"
       },
       {
         "definition": "to hit somebody very hard several times and hurt them very much",
@@ -2447,7 +2793,9 @@
             "cf": "",
             "x": "Get out or I’ll beat the living daylights out of you!"
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh đập",
+        "definition_vi": "đánh ai đó rất mạnh nhiều lần và làm họ bị thương rất nặng"
       },
       {
         "definition": "to hit somebody/something very hard",
@@ -2456,11 +2804,15 @@
             "cf": "",
             "x": "He was a dirty player and loved to kick hell out of the opposition."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh mạnh",
+        "definition_vi": "đánh mạnh ai đó/thứ gì đó"
       },
       {
         "definition": "to surprise or impress somebody very much",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gây ấn tượng",
+        "definition_vi": "làm ai đó ngạc nhiên hoặc gây ấn tượng rất mạnh"
       },
       {
         "definition": "to train somebody so that they do a particular job, task, etc. well",
@@ -2469,7 +2821,9 @@
             "cf": "",
             "x": "It took him just two weeks to knock the new recruits into shape."
           }
-        ]
+        ],
+        "short_meaning_vi": "huấn luyện",
+        "definition_vi": "huấn luyện ai đó để họ làm tốt một công việc, nhiệm vụ cụ thể, v.v."
       },
       {
         "definition": "to make something more acceptable, organized or successful",
@@ -2482,7 +2836,9 @@
             "cf": "",
             "x": "It shouldn’t take long to get the company back into shape."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm chấp nhận được",
+        "definition_vi": "làm cho thứ gì đó dễ chấp nhận hơn, có tổ chức hơn hoặc thành công hơn"
       },
       {
         "definition": "to affect somebody very deeply",
@@ -2491,11 +2847,15 @@
             "cf": "",
             "x": "The business over the lawsuit had really knocked her for six."
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh hưởng sâu sắc",
+        "definition_vi": "ảnh hưởng sâu sắc đến ai đó"
       },
       {
         "definition": "used to threaten somebody that you will hit them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đe dọa đánh",
+        "definition_vi": "dùng để đe dọa ai đó rằng bạn sẽ đánh họ"
       },
       {
         "definition": "to impress somebody very much",
@@ -2504,7 +2864,9 @@
             "cf": "",
             "x": "You look fabulous—you'll knock ’em dead tonight."
           }
-        ]
+        ],
+        "short_meaning_vi": "gây ấn tượng",
+        "definition_vi": "gây ấn tượng rất mạnh với ai đó"
       },
       {
         "definition": "to be very much better than somebody/something",
@@ -2513,7 +2875,9 @@
             "cf": "",
             "x": "She knocks the rest of the cast into a cocked hat."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt trội hơn",
+        "definition_vi": "vượt trội hơn nhiều so với ai đó/thứ gì đó"
       },
       {
         "definition": "used to tell somebody to stop making a noise, annoying you, etc.",
@@ -2522,7 +2886,9 @@
             "cf": "",
             "x": "Knock it off, kids—I’m trying to work."
           }
-        ]
+        ],
+        "short_meaning_vi": "im lặng",
+        "definition_vi": "yêu cầu ai đó ngừng gây tiếng động, làm phiền bạn, v.v."
       },
       {
         "definition": "to make somebody lose their position as somebody/something successful or admired",
@@ -2531,7 +2897,9 @@
             "cf": "",
             "x": "A lot of teams are looking to knock us off our perch."
           }
-        ]
+        ],
+        "short_meaning_vi": "hạ bệ",
+        "definition_vi": "làm cho ai đó mất vị trí là người/thứ thành công hoặc được ngưỡng mộ"
       },
       {
         "definition": "to stop something from happening; to stop doing something",
@@ -2544,7 +2912,9 @@
             "cf": "",
             "x": "By eleven o’clock we were all tired so we knocked it on the head."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngăn chặn",
+        "definition_vi": "ngăn chặn điều gì đó xảy ra; ngừng làm điều gì đó"
       },
       {
         "definition": "used when talking about your previous good luck or your hopes for the future, to avoid bringing bad luck",
@@ -2553,11 +2923,15 @@
             "cf": "",
             "x": "I've been driving for over 20 years and never had an accident—knock on wood!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tránh xui xẻo",
+        "definition_vi": "sử dụng khi nói về may mắn tốt đẹp trước đây của bạn hoặc hy vọng trong tương lai, để tránh mang lại xui xẻo"
       },
       {
         "definition": "to surprise or shock somebody so much that they are unable to react immediately",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sốc",
+        "definition_vi": "làm ai đó ngạc nhiên hoặc sốc đến mức họ không thể phản ứng ngay lập tức"
       },
       {
         "definition": "to try and persuade somebody to stop behaving in a stupid way, sometimes using rough or violent methods",
@@ -2570,7 +2944,9 @@
             "cf": "",
             "x": "Where would I be without you to knock some sense into my head?"
           }
-        ]
+        ],
+        "short_meaning_vi": "khuyên ngăn",
+        "definition_vi": "cố gắng thuyết phục ai đó ngừng hành xử ngu ngốc, đôi khi sử dụng các phương pháp thô bạo hoặc bạo lực"
       },
       {
         "definition": "to be very much better than somebody/something",
@@ -2579,15 +2955,21 @@
             "cf": "",
             "x": "She knocks spots off all the other candidates."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt trội hơn",
+        "definition_vi": "vượt trội hơn nhiều so với ai đó/thứ gì đó"
       },
       {
         "definition": "to make somebody lose their confidence and enthusiasm",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm mất tự tin",
+        "definition_vi": "làm cho ai đó mất tự tin và nhiệt huyết"
       },
       {
         "definition": "used to express surprise",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngạc nhiên",
+        "definition_vi": "dùng để bày tỏ sự ngạc nhiên"
       }
     ]
   },
@@ -2698,7 +3080,9 @@
             "cf": "",
             "x": "Strobe lights are known to cause seizures."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết",
+        "definition_vi": "có thông tin trong tâm trí do kinh nghiệm hoặc vì bạn đã học hoặc được cho biết"
       },
       {
         "definition": "to realize, understand or be aware of something",
@@ -2727,7 +3111,9 @@
             "cf": "know something",
             "x": "This case is hopeless and he knows it (= although he will not admit it)."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhận thức",
+        "definition_vi": "nhận ra, hiểu hoặc nhận thức được điều gì đó"
       },
       {
         "definition": "to feel certain about something",
@@ -2760,7 +3146,9 @@
             "cf": "",
             "x": "‘She's the worst player in the team.’ ‘Oh, I don't know (= I am not sure that I agree)—she played well yesterday.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn",
+        "definition_vi": "cảm thấy chắc chắn về điều gì đó"
       },
       {
         "definition": "to be familiar with a person, place, thing, etc.",
@@ -2809,7 +3197,9 @@
             "cf": "",
             "x": "The new rules could mean the end of football as we know it (= in the form that we are familiar with)."
           }
-        ]
+        ],
+        "short_meaning_vi": "quen thuộc",
+        "definition_vi": "quen thuộc với một người, địa điểm, vật, v.v."
       },
       {
         "definition": "to have learned a skill or language and be able to use it",
@@ -2822,7 +3212,9 @@
             "cf": "know how to do something",
             "x": "Do you know how to use spreadsheets?"
           }
-        ]
+        ],
+        "short_meaning_vi": "biết kỹ năng",
+        "definition_vi": "đã học một kỹ năng hoặc ngôn ngữ và có thể sử dụng nó"
       },
       {
         "definition": "to think that somebody/something is a particular type of person or thing or has particular characteristics",
@@ -2847,7 +3239,9 @@
             "cf": "be known to be/do something",
             "x": "He's known to be an outstanding physicist."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho là",
+        "definition_vi": "nghĩ rằng ai đó/thứ gì đó là một loại người hoặc vật cụ thể hoặc có những đặc điểm cụ thể"
       },
       {
         "definition": "to give somebody/something a particular name or title",
@@ -2872,7 +3266,9 @@
             "cf": "be known by something",
             "x": "The country was not yet known by the name of England."
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi tên",
+        "definition_vi": "đặt cho ai đó/thứ gì đó một tên hoặc danh hiệu cụ thể"
       },
       {
         "definition": "to be able to recognize somebody/something",
@@ -2885,7 +3281,9 @@
             "cf": "",
             "x": "She knows a bargain when she sees one."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhận ra",
+        "definition_vi": "có thể nhận ra ai đó/thứ gì đó"
       },
       {
         "definition": "to understand the difference between one person or thing and another",
@@ -2894,7 +3292,9 @@
             "cf": "",
             "x": "I hope we have taught our children to know right from wrong."
           }
-        ]
+        ],
+        "short_meaning_vi": "phân biệt",
+        "definition_vi": "hiểu sự khác biệt giữa người này hoặc vật này và người khác hoặc vật khác"
       },
       {
         "definition": "to have seen, heard or experienced something",
@@ -2907,7 +3307,9 @@
             "cf": "be known to do something",
             "x": "He has been known to spend all morning in the bathroom."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết",
+        "definition_vi": "đã từng thấy, nghe hoặc trải nghiệm điều gì đó"
       },
       {
         "definition": "to have personal experience of something",
@@ -2924,7 +3326,9 @@
             "cf": "",
             "x": "She thought she would never know the joy of seeing a child grow up in her care."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết",
+        "definition_vi": "có kinh nghiệm cá nhân về điều gì đó"
       },
       {
         "definition": "used to say that you think you know, remember, understand, etc. something but you cannot be completely sure, especially because you do not know all the facts",
@@ -2941,7 +3345,9 @@
             "cf": "",
             "x": "She lived in Chicago, as far as I can remember."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết",
+        "definition_vi": "được dùng để nói rằng bạn nghĩ rằng bạn biết, nhớ, hiểu, v.v. điều gì đó nhưng bạn không thể hoàn toàn chắc chắn, đặc biệt là vì bạn không biết tất cả các sự thật"
       },
       {
         "definition": "very quickly or suddenly",
@@ -2950,7 +3356,9 @@
             "cf": "",
             "x": "We were whisked off in a taxi before we knew where we were."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhanh",
+        "definition_vi": "rất nhanh hoặc đột ngột"
       },
       {
         "definition": "to have no way of realizing or being aware that you have done something wrong",
@@ -2959,11 +3367,15 @@
             "cf": "",
             "x": "‘I'm sorry, I called when you were in bed.’ ‘Don't worry—you weren't to know.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không biết",
+        "definition_vi": "không có cách nào nhận ra hoặc nhận thức được rằng bạn đã làm điều gì đó sai"
       },
       {
         "definition": "used to say that it is easier and wiser to stay in a bad situation that you know and can deal with rather than change to a new situation that may be much worse",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "an phận",
+        "definition_vi": "được dùng để nói rằng dễ dàng và khôn ngoan hơn khi ở trong một tình huống tồi tệ mà bạn biết và có thể đối phó được thay vì thay đổi sang một tình huống mới có thể tồi tệ hơn nhiều"
       },
       {
         "definition": "used to emphasize that you do not know something and that it is not important to you",
@@ -2972,7 +3384,9 @@
             "cf": "",
             "x": "She could be dead for all I know."
           }
-        ]
+        ],
+        "short_meaning_vi": "không quan tâm",
+        "definition_vi": "được dùng để nhấn mạnh rằng bạn không biết điều gì đó và điều đó không quan trọng với bạn"
       },
       {
         "definition": "used to emphasize that you do not know something",
@@ -2985,7 +3399,9 @@
             "cf": "",
             "x": "‘Where are they?’ ‘Goodness knows.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không biết",
+        "definition_vi": "được dùng để nhấn mạnh rằng bạn không biết điều gì đó"
       },
       {
         "definition": "used to emphasize the truth of what you are saying",
@@ -2994,7 +3410,9 @@
             "cf": "",
             "x": "She ought to pass the exam—goodness knows she's been working hard enough."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết rõ",
+        "definition_vi": "được dùng để nhấn mạnh sự thật của những gì bạn đang nói"
       },
       {
         "definition": "to be confident that you know something, especially when you actually do not",
@@ -3003,7 +3421,9 @@
             "cf": "",
             "x": "He thinks he knows all the answers."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự tin",
+        "definition_vi": "tự tin rằng bạn biết điều gì đó, đặc biệt là khi thực tế là không"
       },
       {
         "definition": "to know something perfectly so that you can repeat it at any time without having to think about it",
@@ -3012,7 +3432,9 @@
             "cf": "",
             "x": "He had all the answers off pat."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết thuộc lòng",
+        "definition_vi": "biết điều gì đó một cách hoàn hảo để bạn có thể lặp lại nó bất cứ lúc nào mà không cần suy nghĩ"
       },
       {
         "definition": "to be in poor condition",
@@ -3021,7 +3443,9 @@
             "cf": "",
             "x": "Our car has seen better days!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tồi tệ",
+        "definition_vi": "ở trong tình trạng tồi tệ"
       },
       {
         "definition": "used to criticize somebody’s behaviour",
@@ -3030,7 +3454,9 @@
             "cf": "",
             "x": "I don't know how you can say things like that."
           }
-        ]
+        ],
+        "short_meaning_vi": "hư",
+        "definition_vi": "được dùng để chỉ trích hành vi của ai đó"
       },
       {
         "definition": "used to tell somebody the true facts about a situation, especially when these are not known by other people",
@@ -3039,7 +3465,9 @@
             "cf": "",
             "x": "If the truth be known, I was afraid to tell anyone."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho biết sự thật",
+        "definition_vi": "được dùng để cho người khác biết sự thật về một tình huống, đặc biệt là khi những người khác không biết"
       },
       {
         "definition": "used to agree with somebody or to show sympathy",
@@ -3048,7 +3476,9 @@
             "cf": "",
             "x": "‘What a ridiculous situation!’ ‘I know.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng ý",
+        "definition_vi": "được dùng để đồng ý với ai đó hoặc để thể hiện sự cảm thông"
       },
       {
         "definition": "used to introduce a new idea or suggestion",
@@ -3057,7 +3487,9 @@
             "cf": "",
             "x": "I know, let's see what's on at the theatre."
           }
-        ]
+        ],
+        "short_meaning_vi": "đưa ra ý tưởng",
+        "definition_vi": "được dùng để giới thiệu một ý tưởng hoặc đề xuất mới"
       },
       {
         "definition": "used to criticize somebody by saying that they should realize or understand something",
@@ -3066,7 +3498,9 @@
             "cf": "",
             "x": "You know as well as I do that you're being unreasonable."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ trích",
+        "definition_vi": "được dùng để chỉ trích ai đó bằng cách nói rằng họ nên nhận ra hoặc hiểu điều gì đó"
       },
       {
         "definition": "to know somebody/something extremely well",
@@ -3075,7 +3509,9 @@
             "cf": "",
             "x": "She must know the play backwards by now."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết rất rõ",
+        "definition_vi": "biết ai đó/điều gì đó cực kỳ rõ"
       },
       {
         "definition": "to know what should be done, etc. better than other people",
@@ -3084,7 +3520,9 @@
             "cf": "",
             "x": "The doctor told you to stay in bed, and she knows best."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết rõ nhất",
+        "definition_vi": "biết những gì cần phải làm, v.v. tốt hơn những người khác"
       },
       {
         "definition": "to be sensible enough not to do something",
@@ -3093,11 +3531,15 @@
             "cf": "",
             "x": "He knows better than to judge by appearances."
           }
-        ]
+        ],
+        "short_meaning_vi": "sáng suốt",
+        "definition_vi": "đủ nhạy bén để không làm điều gì đó"
       },
       {
         "definition": "to recognize somebody without knowing them well",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhận ra",
+        "definition_vi": "nhận ra ai đó mà không biết họ rõ"
       },
       {
         "definition": "to have information or evidence that the opposite is true",
@@ -3106,7 +3548,9 @@
             "cf": "",
             "x": "He says he doesn't care about what the critics write, but I know different."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết điều ngược lại",
+        "definition_vi": "có thông tin hoặc bằng chứng cho thấy điều ngược lại là đúng"
       },
       {
         "definition": "to be very aware of a fact and unable to deny or ignore it",
@@ -3115,7 +3559,9 @@
             "cf": "",
             "x": "He knew full well what she thought of it."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhận thức rõ",
+        "definition_vi": "rất nhận thức được một sự thật và không thể phủ nhận hoặc phớt lờ nó"
       },
       {
         "definition": "to be very familiar with somebody/something",
@@ -3124,15 +3570,21 @@
             "cf": "",
             "x": "This is where I grew up. I know this area like the back of my hand."
           }
-        ]
+        ],
+        "short_meaning_vi": "quen thuộc",
+        "definition_vi": "rất quen thuộc với ai đó/điều gì đó"
       },
       {
         "definition": "to have very clear and definite ideas about what you want to do",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quyết đoán",
+        "definition_vi": "có ý tưởng rất rõ ràng và dứt khoát về những gì bạn muốn làm"
       },
       {
         "definition": "to know a lot about a particular subject or job",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "am hiểu",
+        "definition_vi": "biết nhiều về một chủ đề hoặc công việc cụ thể"
       },
       {
         "definition": "to know/tell somebody some useful, interesting or surprising information about somebody/something",
@@ -3141,7 +3593,9 @@
             "cf": "",
             "x": "She's been married five times, so she knows a thing or two about men!"
           }
-        ]
+        ],
+        "short_meaning_vi": "cho biết thông tin",
+        "definition_vi": "biết/cho ai đó biết thông tin hữu ích, thú vị hoặc đáng ngạc nhiên về ai đó/điều gì đó"
       },
       {
         "definition": "to know something because of something unpleasant that has happened to you",
@@ -3150,11 +3604,15 @@
             "cf": "",
             "x": "She is a tough competitor, as I know to my cost."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết qua trải nghiệm",
+        "definition_vi": "biết điều gì đó vì điều gì đó khó chịu đã xảy ra với bạn"
       },
       {
         "definition": "to be familiar with a place, subject, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quen thuộc",
+        "definition_vi": "quen thuộc với một địa điểm, chủ đề, v.v."
       },
       {
         "definition": "to have knowledge about something from your own experience",
@@ -3163,11 +3621,15 @@
             "cf": "",
             "x": "I worked there for 20 years, so I know what I'm talking about."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết qua kinh nghiệm",
+        "definition_vi": "có kiến thức về điều gì đó từ kinh nghiệm của bạn"
       },
       {
         "definition": "to know where you can get an advantage for yourself",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "biết lợi thế",
+        "definition_vi": "biết nơi bạn có thể tự mình đạt được lợi thế"
       },
       {
         "definition": "to make sure that people are informed about something, especially by getting somebody else to tell them",
@@ -3176,7 +3638,9 @@
             "cf": "",
             "x": "The President has let it be known that he does not intend to run for election again."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông báo",
+        "definition_vi": "đảm bảo rằng mọi người được thông báo về điều gì đó, đặc biệt là bằng cách nhờ người khác nói cho họ biết"
       },
       {
         "definition": "to tell somebody about something",
@@ -3193,7 +3657,9 @@
             "cf": "",
             "x": "Please let me know if there's anything I can do to help."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho biết",
+        "definition_vi": "cho ai đó biết về điều gì đó"
       },
       {
         "definition": "used to emphasize what you are saying",
@@ -3202,7 +3668,9 @@
             "cf": "",
             "x": "Lord knows, I tried to teach her."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn mạnh",
+        "definition_vi": "được dùng để nhấn mạnh những gì bạn đang nói"
       },
       {
         "definition": "used to say that you do not know the answer to something",
@@ -3211,7 +3679,9 @@
             "cf": "",
             "x": "‘Why did she say that?’ ‘Lord knows!’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không biết câu trả lời",
+        "definition_vi": "được dùng để nói rằng bạn không biết câu trả lời cho một điều gì đó"
       },
       {
         "definition": "to introduce yourself to somebody",
@@ -3220,7 +3690,9 @@
             "cf": "",
             "x": "I made myself known to the hotel manager."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự giới thiệu",
+        "definition_vi": "tự giới thiệu với ai đó"
       },
       {
         "definition": "to behave badly, usually because you have not been taught the correct way to behave",
@@ -3229,11 +3701,15 @@
             "cf": "",
             "x": "Don’t blame the children—they don’t know any better."
           }
-        ]
+        ],
+        "short_meaning_vi": "hư",
+        "definition_vi": "hành xử tệ, thường là vì bạn chưa được dạy cách cư xử đúng đắn"
       },
       {
         "definition": "to be very stupid; to have absolutely no skill",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngu ngốc",
+        "definition_vi": "rất ngu ngốc; hoàn toàn không có kỹ năng"
       },
       {
         "definition": "to know nothing about a subject",
@@ -3242,7 +3718,9 @@
             "cf": "",
             "x": "I don’t know beans about making movies."
           }
-        ]
+        ],
+        "short_meaning_vi": "không biết gì",
+        "definition_vi": "không biết gì về một chủ đề"
       },
       {
         "definition": "to know nothing at all about somebody/something",
@@ -3251,7 +3729,9 @@
             "cf": "",
             "x": "I’m afraid I don’t know the first thing about cars."
           }
-        ]
+        ],
+        "short_meaning_vi": "không biết gì cả",
+        "definition_vi": "không biết gì cả về ai đó/điều gì đó"
       },
       {
         "definition": "to know nothing at all about something/somebody",
@@ -3260,23 +3740,33 @@
             "cf": "",
             "x": "We’ve lived next to him for years, but we still don’t know the first thing about him."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn không biết",
+        "definition_vi": "hoàn toàn không biết gì về điều gì/ai đó"
       },
       {
         "definition": "to not know at all who somebody is",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không nhận ra ai",
+        "definition_vi": "hoàn toàn không biết ai đó là ai"
       },
       {
         "definition": "to be so surprised by something that you do not know how to react",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bất ngờ không biết phản ứng",
+        "definition_vi": "quá ngạc nhiên về điều gì đó đến nỗi không biết phải phản ứng thế nào"
       },
       {
         "definition": "to feel very embarrassed and not know how to react",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quá xấu hổ",
+        "definition_vi": "cảm thấy vô cùng xấu hổ và không biết phải phản ứng thế nào"
       },
       {
         "definition": "to be so excited or confused that you cannot behave or think in a sensible way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quá phấn khích/bối rối",
+        "definition_vi": "quá phấn khích hoặc bối rối đến nỗi không thể cư xử hoặc suy nghĩ một cách hợp lý"
       },
       {
         "definition": "to have an easy life without realizing how easy it is",
@@ -3285,7 +3775,9 @@
             "cf": "",
             "x": "You people without kids don't know you're born."
           }
-        ]
+        ],
+        "short_meaning_vi": "sống sung sướng",
+        "definition_vi": "có một cuộc sống dễ dàng mà không nhận ra nó dễ dàng như thế nào"
       },
       {
         "definition": "to take no interest in something because you do not care about it or it is too much trouble",
@@ -3298,15 +3790,21 @@
             "cf": "",
             "x": "‘How much was it?’ ‘You don't want to know’ (= it is better if you don't know)."
           }
-        ]
+        ],
+        "short_meaning_vi": "không quan tâm",
+        "definition_vi": "không quan tâm đến điều gì vì bạn không bận tâm về nó hoặc nó quá rắc rối"
       },
       {
         "definition": "old enough to behave in a more sensible way than you actually did",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đủ lớn để biết",
+        "definition_vi": "đủ lớn để cư xử một cách hợp lý hơn so với những gì bạn đã làm thực tế"
       },
       {
         "definition": "to show somebody/know/learn how a particular job should be done",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "biết cách làm",
+        "definition_vi": "chỉ cho ai đó/biết/học cách một công việc cụ thể nên được thực hiện như thế nào"
       },
       {
         "definition": "used to say that it is impossible to say what might happen",
@@ -3315,7 +3813,9 @@
             "cf": "",
             "x": "There's no knowing how he'll react."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thể nói trước",
+        "definition_vi": "được sử dụng để nói rằng không thể nói điều gì có thể xảy ra"
       },
       {
         "definition": "used to say that somebody knows nothing about the subject you are talking about",
@@ -3324,7 +3824,9 @@
             "cf": "",
             "x": "What does he know about football, anyway?"
           }
-        ]
+        ],
+        "short_meaning_vi": "không biết gì về",
+        "definition_vi": "được sử dụng để nói rằng ai đó không biết gì về chủ đề bạn đang nói đến"
       },
       {
         "definition": "used to express surprise",
@@ -3333,7 +3835,9 @@
             "cf": "",
             "x": "Well, what do you know? Look who's here!"
           }
-        ]
+        ],
+        "short_meaning_vi": "bày tỏ sự ngạc nhiên",
+        "definition_vi": "được sử dụng để bày tỏ sự ngạc nhiên"
       },
       {
         "definition": "(know) what things are useful, important, etc.",
@@ -3342,7 +3846,9 @@
             "cf": "",
             "x": "She certainly knows what's what."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết điều gì quan trọng",
+        "definition_vi": "biết những điều gì là hữu ích, quan trọng, v.v."
       },
       {
         "definition": "used when you are thinking of what to say next",
@@ -3351,7 +3857,9 @@
             "cf": "",
             "x": "Well, you know, it's difficult to explain."
           }
-        ]
+        ],
+        "short_meaning_vi": "suy nghĩ xem nói gì",
+        "definition_vi": "được sử dụng khi bạn đang suy nghĩ về những gì sẽ nói tiếp theo"
       },
       {
         "definition": "used to show that what you are referring to is known or understood by the person you are speaking to",
@@ -3364,7 +3872,9 @@
             "cf": "",
             "x": "You know that restaurant round the corner? It's closed down."
           }
-        ]
+        ],
+        "short_meaning_vi": "được biết đến",
+        "definition_vi": "được sử dụng để chỉ ra rằng những gì bạn đang đề cập được người mà bạn đang nói chuyện biết hoặc hiểu"
       },
       {
         "definition": "used to emphasize something that you are saying",
@@ -3373,7 +3883,9 @@
             "cf": "",
             "x": "I'm not stupid, you know."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn mạnh điều gì đó",
+        "definition_vi": "được sử dụng để nhấn mạnh điều gì đó bạn đang nói"
       },
       {
         "definition": "used to introduce an interesting or surprising opinion, piece of news, etc.",
@@ -3382,15 +3894,21 @@
             "cf": "",
             "x": "You know something? I've never really enjoyed Christmas."
           }
-        ]
+        ],
+        "short_meaning_vi": "giới thiệu ý kiến/tin tức",
+        "definition_vi": "được sử dụng để giới thiệu một ý kiến, tin tức thú vị hoặc đáng ngạc nhiên, v.v."
       },
       {
         "definition": "used to refer to somebody/something without mentioning a name",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ai đó/điều gì đó ẩn danh",
+        "definition_vi": "được sử dụng để chỉ ai đó/điều gì đó mà không nêu tên"
       },
       {
         "definition": "used to say that you can never be certain about what will happen in the future, especially when you are suggesting that something good might happen",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không bao giờ chắc chắn về tương lai",
+        "definition_vi": "được sử dụng để nói rằng bạn không bao giờ có thể chắc chắn về những gì sẽ xảy ra trong tương lai, đặc biệt là khi bạn gợi ý rằng điều gì đó tốt có thể xảy ra"
       }
     ]
   },
@@ -3441,7 +3959,9 @@
             "cf": "knowledge about something",
             "x": "There is a lack of knowledge about the tax system."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông tin và kỹ năng",
+        "definition_vi": "thông tin, sự hiểu biết và kỹ năng mà bạn có được thông qua giáo dục hoặc kinh nghiệm"
       },
       {
         "definition": "the state of knowing about a particular fact or situation",
@@ -3474,7 +3994,9 @@
             "cf": "",
             "x": "Their delight in the win was tempered by the knowledge that the competition would only get fiercer."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết về một sự thật",
+        "definition_vi": "trạng thái biết về một sự thật hoặc tình huống cụ thể"
       },
       {
         "definition": "information, considered as a resource to be used and supplied in industry, rather than producing goods",
@@ -3499,7 +4021,9 @@
             "cf": "",
             "x": "The successful candidate will have experience in data and knowledge management."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiến thức công nghiệp",
+        "definition_vi": "thông tin, được coi là một nguồn lực để sử dụng và cung cấp trong công nghiệp, thay vì sản xuất hàng hóa"
       },
       {
         "definition": "to be something that everyone knows, especially in a particular community or group",
@@ -3508,7 +4032,9 @@
             "cf": "",
             "x": "Their relationship is common knowledge."
           }
-        ]
+        ],
+        "short_meaning_vi": "ai cũng biết",
+        "definition_vi": "là điều mà mọi người đều biết, đặc biệt là trong một cộng đồng hoặc nhóm cụ thể"
       },
       {
         "definition": "to become known by somebody",
@@ -3517,7 +4043,9 @@
             "cf": "",
             "x": "It has come to our knowledge that you have been taking time off without permission."
           }
-        ]
+        ],
+        "short_meaning_vi": "trở nên được biết đến",
+        "definition_vi": "trở nên được ai đó biết đến"
       },
       {
         "definition": "as far as you know",
@@ -3526,7 +4054,9 @@
             "cf": "",
             "x": "He never made a will, to the best of my knowledge."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo như bạn biết",
+        "definition_vi": "theo như thông tin bạn có"
       },
       {
         "definition": "from the information you have, although you may not know everything",
@@ -3539,7 +4069,9 @@
             "cf": "",
             "x": "She never, to my knowledge, considered resigning."
           }
-        ]
+        ],
+        "short_meaning_vi": "dựa trên thông tin có",
+        "definition_vi": "dựa trên thông tin bạn có, mặc dù bạn có thể không biết mọi thứ"
       }
     ]
   }

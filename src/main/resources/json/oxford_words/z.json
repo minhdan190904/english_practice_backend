@@ -14,7 +14,9 @@
             "cf": "",
             "x": "Five, four, three, two, one, zero… We have lift-off."
           }
-        ]
+        ],
+        "short_meaning_vi": "số không",
+        "definition_vi": "0"
       },
       {
         "definition": "a temperature, pressure, etc. that is equal to zero on a scale",
@@ -27,7 +29,9 @@
             "cf": "",
             "x": "The thermometer had fallen to zero."
           }
-        ]
+        ],
+        "short_meaning_vi": "điểm không",
+        "definition_vi": "nhiệt độ, áp suất, v.v. bằng không trên một thang đo"
       },
       {
         "definition": "the lowest possible amount or level; nothing at all",
@@ -40,7 +44,9 @@
             "cf": "",
             "x": "zero inflation"
           }
-        ]
+        ],
+        "short_meaning_vi": "mức thấp nhất",
+        "definition_vi": "số lượng hoặc mức thấp nhất có thể; không có gì cả"
       }
     ]
   },
@@ -75,7 +81,9 @@
             "cf": "",
             "x": "an earthquake zone"
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực",
+        "definition_vi": "một khu vực hoặc vùng có đặc điểm hoặc mục đích sử dụng cụ thể"
       },
       {
         "definition": "one of the areas that a larger area is divided into for the purpose of organization",
@@ -84,7 +92,9 @@
             "cf": "",
             "x": "postal charges to countries in zone 2"
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực phân chia",
+        "definition_vi": "một trong những khu vực mà một khu vực lớn hơn được chia thành cho mục đích tổ chức"
       },
       {
         "definition": "an area or a part of an object, especially one that is different from everything that is around it",
@@ -97,7 +107,9 @@
             "cf": "",
             "x": "the erogenous zones of the body"
           }
-        ]
+        ],
+        "short_meaning_vi": "vùng",
+        "definition_vi": "một khu vực hoặc một phần của vật thể, đặc biệt là một phần khác biệt với mọi thứ xung quanh nó"
       },
       {
         "definition": "one of the parts that the earth’s surface is divided into by imaginary lines that are parallel to the equator",
@@ -106,7 +118,9 @@
             "cf": "",
             "x": "the northern/southern temperate zone"
           }
-        ]
+        ],
+        "short_meaning_vi": "vành đai",
+        "definition_vi": "một trong những phần mà bề mặt trái đất được chia thành bởi các đường tưởng tượng song song với xích đạo"
       },
       {
         "definition": "in a state in which you feel confident and are performing at your best",
@@ -115,7 +129,9 @@
             "cf": "",
             "x": "When I'm in the zone, writing is the most satisfying thing in the world."
           }
-        ]
+        ],
+        "short_meaning_vi": "trạng thái tập trung",
+        "definition_vi": "ở trong trạng thái mà bạn cảm thấy tự tin và đang hoạt động ở mức tốt nhất"
       },
       {
         "definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
@@ -136,7 +152,9 @@
             "cf": "",
             "x": "They lived in the twilight zone on the fringes of society."
           }
-        ]
+        ],
+        "short_meaning_vi": "vùng bí ẩn",
+        "definition_vi": "một trạng thái mà mọi thứ trở nên kỳ lạ, bí ẩn hoặc bí mật; một trạng thái tồn tại ở ranh giới giữa hai thứ"
       }
     ]
   }

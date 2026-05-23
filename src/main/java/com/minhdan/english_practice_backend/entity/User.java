@@ -32,6 +32,10 @@ public class User {
     @Column(name = "avatar_url")
     private String avatarUrl;
 
+    @Builder.Default
+    @Column(name = "is_anonymous", nullable = false)
+    private Boolean isAnonymous = true;
+
     @Enumerated(EnumType.STRING)
     @Column(name = "role", nullable = false)
     private Role role;

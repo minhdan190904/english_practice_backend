@@ -12,6 +12,7 @@ public class UserResponse {
     private String displayName;
     private String avatarUrl;
     private Role role;
+    private Boolean isAnonymous;
     private Integer dailyGoal;
     private Boolean isNotificationEnabled;
     private Integer currentStreak;

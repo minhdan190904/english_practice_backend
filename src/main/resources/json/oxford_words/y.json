@@ -18,7 +18,9 @@
             "cf": "",
             "x": "My next-door neighbor was watering her yard."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân vườn",
+        "definition_vi": "một mảnh đất liền kề hoặc xung quanh nhà bạn nơi bạn có thể trồng hoa, trái cây, rau, v.v., thường có bãi cỏ (= một khu vực cỏ)"
       },
       {
         "definition": "an area outside a building, usually with a hard surface and a surrounding wall",
@@ -31,7 +33,9 @@
             "cf": "",
             "x": "The children were playing in the yard at the front of the school."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân",
+        "definition_vi": "một khu vực bên ngoài tòa nhà, thường có bề mặt cứng và tường bao quanh"
       },
       {
         "definition": "an area of land used for a special purpose or business",
@@ -40,7 +44,9 @@
             "cf": "",
             "x": "a boat yard"
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực",
+        "definition_vi": "một khu vực đất được sử dụng cho mục đích hoặc kinh doanh đặc biệt"
       },
       {
         "definition": "a unit for measuring length, equal to 3 feet (36 inches) or 0.9144 of a metre",
@@ -57,15 +63,21 @@
             "cf": "",
             "x": "The accident happened less than 50 yards from his home."
           }
-        ]
+        ],
+        "short_meaning_vi": "thước đo",
+        "definition_vi": "một đơn vị đo chiều dài, bằng 3 feet (36 inch) hoặc 0,9144 mét"
       },
       {
         "definition": "a long piece of wood fastened to a mast that supports a sail on a boat or ship",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thanh buồm",
+        "definition_vi": "một thanh gỗ dài gắn vào cột buồm để đỡ cánh buồm trên thuyền hoặc tàu"
       },
       {
         "definition": "used to say that if you allow some people a small amount of freedom or power they will see you as weak and try to take a lot more",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cho đà",
+        "definition_vi": "được sử dụng để nói rằng nếu bạn cho phép một số người một lượng nhỏ tự do hoặc quyền lực, họ sẽ coi bạn là yếu đuối và cố gắng đòi hỏi nhiều hơn"
       },
       {
         "definition": "everything, or a situation which includes everything",
@@ -74,7 +86,9 @@
             "cf": "",
             "x": "When Dan cooks dinner he always goes the whole nine yards, with three courses and a choice of dessert."
           }
-        ]
+        ],
+        "short_meaning_vi": "tất cả mọi thứ",
+        "definition_vi": "mọi thứ, hoặc một tình huống bao gồm mọi thứ"
       }
     ]
   },
@@ -88,7 +102,9 @@
     "senses": [
       {
         "definition": "yes",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "có"
       },
       {
         "definition": "used when you are commenting on what somebody has just said",
@@ -101,7 +117,9 @@
             "cf": "",
             "x": "‘I'm going to be rich one day.’ ‘Oh yeah?’ (= I don't believe you.)"
           }
-        ]
+        ],
+        "short_meaning_vi": "ừ",
+        "definition_vi": "được sử dụng khi bạn đang nhận xét về điều ai đó vừa nói"
       },
       {
         "definition": "used to say that you do not believe what somebody has just said, disagree with it, or are not interested in it",
@@ -110,7 +128,9 @@
             "cf": "",
             "x": "‘You'll be fine.’ ‘Yeah, right.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không tin",
+        "definition_vi": "được sử dụng để nói rằng bạn không tin điều ai đó vừa nói, không đồng ý với nó, hoặc không quan tâm đến nó"
       }
     ]
   },
@@ -161,7 +181,9 @@
             "cf": "",
             "x": "The museum is open all year round (= during the whole year)."
           }
-        ]
+        ],
+        "short_meaning_vi": "năm",
+        "definition_vi": "khoảng thời gian từ ngày 1 tháng 1 đến ngày 31 tháng 12, tức là 365 hoặc 366 ngày, chia thành 12 tháng"
       },
       {
         "definition": "a period of twelve months, measured from any particular time",
@@ -218,7 +240,9 @@
             "cf": "",
             "x": "I have happy memories of my years in Poland (= the time I spent there)."
           }
-        ]
+        ],
+        "short_meaning_vi": "năm",
+        "definition_vi": "một khoảng thời gian mười hai tháng, tính từ bất kỳ thời điểm nào"
       },
       {
         "definition": "age; time of life",
@@ -247,7 +271,9 @@
             "cf": "",
             "x": "She's getting on in years (= is no longer young)."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuổi",
+        "definition_vi": "tuổi; thời gian trong đời"
       },
       {
         "definition": "a period of twelve months connected with a particular activity",
@@ -260,7 +286,9 @@
             "cf": "",
             "x": "the school year"
           }
-        ]
+        ],
+        "short_meaning_vi": "năm",
+        "definition_vi": "một khoảng thời gian mười hai tháng liên quan đến một hoạt động cụ thể"
       },
       {
         "definition": "a level that you stay in for one year; a student at a particular level",
@@ -281,7 +309,9 @@
             "cf": "",
             "x": "The first years do French."
           }
-        ]
+        ],
+        "short_meaning_vi": "lớp",
+        "definition_vi": "một cấp độ mà bạn ở trong một năm; một học sinh ở một cấp độ cụ thể"
       },
       {
         "definition": "a long time",
@@ -306,7 +336,9 @@
             "cf": "over the years",
             "x": "We've had a lot of fun over the years."
           }
-        ]
+        ],
+        "short_meaning_vi": "lâu lắm",
+        "definition_vi": "một thời gian dài"
       },
       {
         "definition": "at some time in the future",
@@ -319,11 +351,15 @@
             "cf": "",
             "x": "Will this movie still be funny a few years down the road?"
           }
-        ]
+        ],
+        "short_meaning_vi": "trong tương lai",
+        "definition_vi": "vào một thời điểm nào đó trong tương lai"
       },
       {
         "definition": "the last years of somebody’s life",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tuổi già",
+        "definition_vi": "những năm cuối đời của ai đó"
       },
       {
         "definition": "a very long time",
@@ -340,7 +376,9 @@
             "cf": "",
             "x": "This technology has been around for donkey's."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất lâu",
+        "definition_vi": "một thời gian rất dài"
       },
       {
         "definition": "a person or thing that people decide is the best in a particular field in a particular year",
@@ -349,7 +387,9 @@
             "cf": "",
             "x": "He was chosen as TV personality of the year."
           }
-        ]
+        ],
+        "short_meaning_vi": "người/vật xuất sắc",
+        "definition_vi": "một người hoặc vật mà mọi người quyết định là tốt nhất trong một lĩnh vực cụ thể trong một năm"
       },
       {
         "definition": "used to emphasize that you will/would never do something",
@@ -358,7 +398,9 @@
             "cf": "",
             "x": "I'd never have thought of that in a million years."
           }
-        ]
+        ],
+        "short_meaning_vi": "không bao giờ",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng bạn sẽ/sẽ không bao giờ làm điều gì đó"
       },
       {
         "definition": "used in polite expressions to describe somebody as ‘very old’",
@@ -371,7 +413,9 @@
             "cf": "",
             "x": "Even at my advanced age I still know how to enjoy myself!"
           }
-        ]
+        ],
+        "short_meaning_vi": "rất già",
+        "definition_vi": "được sử dụng trong các cách diễn đạt lịch sự để mô tả ai đó là ‘rất già’"
       },
       {
         "definition": "to make somebody feel or look older",
@@ -384,11 +428,15 @@
             "cf": "",
             "x": "His wife's death has put years on him."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm già đi",
+        "definition_vi": "làm cho ai đó cảm thấy hoặc trông già hơn"
       },
       {
         "definition": "the desire for new sexual experience that is thought to be felt after seven years of marriage",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngứa ngáy",
+        "definition_vi": "mong muốn có kinh nghiệm tình dục mới được cho là cảm thấy sau bảy năm kết hôn"
       },
       {
         "definition": "since a very long time ago",
@@ -397,7 +445,9 @@
             "cf": "",
             "x": "I've been going there every summer since the year dot."
           }
-        ]
+        ],
+        "short_meaning_vi": "từ lâu",
+        "definition_vi": "từ rất lâu trước đây"
       },
       {
         "definition": "to make somebody feel or look younger",
@@ -410,7 +460,9 @@
             "cf": "",
             "x": "Careful make-up and styling can take years off you."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm trẻ lại",
+        "definition_vi": "làm cho ai đó cảm thấy hoặc trông trẻ hơn"
       },
       {
         "definition": "the time when a new century/year starts",
@@ -423,7 +475,9 @@
             "cf": "",
             "x": "The team are unbeaten since the turn of the year."
           }
-        ]
+        ],
+        "short_meaning_vi": "khai mạc",
+        "definition_vi": "thời điểm bắt đầu một thế kỷ/năm mới"
       },
       {
         "definition": "every year for many years",
@@ -432,7 +486,9 @@
             "cf": "",
             "x": "People return year after year."
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng năm",
+        "definition_vi": "hàng năm trong nhiều năm"
       },
       {
         "definition": "as the years pass; each year",
@@ -441,15 +497,21 @@
             "cf": "",
             "x": "Year by year their affection for each other grew stronger."
           }
-        ]
+        ],
+        "short_meaning_vi": "mỗi năm",
+        "definition_vi": "mỗi năm, trôi qua; mỗi năm"
       },
       {
         "definition": "every year",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hàng năm",
+        "definition_vi": "hàng năm"
       },
       {
         "definition": "any particular year after the birth of Christ",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sau Công nguyên",
+        "definition_vi": "bất kỳ năm nào sau năm sinh của Chúa Kitô"
       },
       {
         "definition": "each year, compared with the last year",
@@ -462,7 +524,9 @@
             "cf": "",
             "x": "a year-on-year increase in spending"
           }
-        ]
+        ],
+        "short_meaning_vi": "so với năm trước",
+        "definition_vi": "mỗi năm, so với năm trước"
       }
     ]
   },
@@ -509,7 +573,9 @@
             "cf": "yell for something",
             "x": "He yelled for help."
           }
-        ]
+        ],
+        "short_meaning_vi": "hét lên",
+        "definition_vi": "hét lên lớn, ví dụ vì bạn đang tức giận, phấn khích, sợ hãi hoặc đau đớn"
       }
     ]
   },
@@ -544,15 +610,21 @@
             "cf": "",
             "x": "The leaves turn yellow in November."
           }
-        ]
+        ],
+        "short_meaning_vi": "màu vàng",
+        "definition_vi": "có màu của chanh hoặc bơ"
       },
       {
         "definition": "a very offensive word used to describe the light brown skin of people from some East Asian countries",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kỳ thị",
+        "definition_vi": "một từ rất xúc phạm được sử dụng để mô tả làn da màu nâu nhạt của người dân từ một số quốc gia Đông Á"
       },
       {
         "definition": "easily frightened ",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hèn nhát",
+        "definition_vi": "dễ sợ hãi"
       }
     ]
   },
@@ -579,7 +651,9 @@
             "cf": "",
             "x": "The hall is decorated in pale yellow."
           }
-        ]
+        ],
+        "short_meaning_vi": "màu vàng",
+        "definition_vi": "màu của chanh hoặc bơ"
       }
     ]
   },
@@ -602,7 +676,9 @@
             "cf": "",
             "x": "‘Are you coming? Yes or no?’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được sử dụng để trả lời một câu hỏi và nói rằng điều gì đó là đúng hoặc sự thật"
       },
       {
         "definition": "used to show that you agree with what has been said",
@@ -619,7 +695,9 @@
             "cf": "",
             "x": "In reply to his question, most of them answered yes."
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được sử dụng để cho thấy bạn đồng ý với những gì đã được nói"
       },
       {
         "definition": "used to disagree with something negative that somebody has just said",
@@ -628,7 +706,9 @@
             "cf": "",
             "x": "‘I've never met her before.’ ‘Yes, you have.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "phản đối",
+        "definition_vi": "được sử dụng để không đồng ý với một điều tiêu cực mà ai đó vừa nói"
       },
       {
         "definition": "used to agree to a request or to give permission",
@@ -641,7 +721,9 @@
             "cf": "",
             "x": "We're hoping that they will say yes to our proposals."
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để đồng ý với một yêu cầu hoặc để cho phép"
       },
       {
         "definition": "used to accept an offer or invitation",
@@ -650,7 +732,9 @@
             "cf": "",
             "x": "‘Would you like a drink?’ ‘Yes, please/thanks.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để chấp nhận một lời đề nghị hoặc lời mời"
       },
       {
         "definition": "used for asking somebody what they want",
@@ -659,7 +743,9 @@
             "cf": "",
             "x": "Yes? How can I help you?"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để hỏi ai đó muốn gì"
       },
       {
         "definition": "used for replying politely when somebody calls you",
@@ -668,7 +754,9 @@
             "cf": "",
             "x": "‘Waiter!’ ‘Yes, sir?’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để trả lời lịch sự khi ai đó gọi bạn"
       },
       {
         "definition": "used to show that you have just remembered something",
@@ -677,7 +765,9 @@
             "cf": "",
             "x": "Where did I put the keys? Oh yes—in my pocket!"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để cho thấy bạn vừa nhớ ra điều gì đó"
       },
       {
         "definition": "used to encourage somebody to continue speaking",
@@ -686,7 +776,9 @@
             "cf": "",
             "x": "‘I’m going to Paris this weekend.’ ‘Yes…’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để khuyến khích ai đó tiếp tục nói"
       },
       {
         "definition": "used to show that you do not believe what somebody has said",
@@ -695,7 +787,9 @@
             "cf": "",
             "x": "‘Sorry I'm late—the bus didn't come.’ ‘Oh yes?’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để cho thấy bạn không tin điều ai đó vừa nói"
       },
       {
         "definition": "used to emphasize what you have just said",
@@ -704,7 +798,9 @@
             "cf": "",
             "x": "Mrs Smith has just won £2 million—yes!—£2 million!"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để nhấn mạnh điều bạn vừa nói"
       },
       {
         "definition": "used to show that you are excited or extremely pleased about something that you have done or something that has happened",
@@ -713,7 +809,9 @@
             "cf": "",
             "x": "‘They've scored another goal.’ ‘Yes!!’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để cho thấy bạn rất vui hoặc cực kỳ hài lòng về điều gì đó bạn đã làm hoặc điều gì đó đã xảy ra"
       },
       {
         "definition": "used to show that you are impatient or annoyed about something",
@@ -722,7 +820,9 @@
             "cf": "",
             "x": "‘Hurry up—it's late.’ ‘Yes, yes—I'm coming.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng để cho thấy bạn thiếu kiên nhẫn hoặc khó chịu về điều gì đó"
       },
       {
         "definition": "used when you cannot give a clear answer to a question",
@@ -731,7 +831,9 @@
             "cf": "",
             "x": "‘Are you enjoying it?’ ‘Yes and no.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được dùng khi bạn không thể đưa ra câu trả lời rõ ràng cho một câu hỏi"
       }
     ]
   },
@@ -778,7 +880,9 @@
             "cf": "",
             "x": "Figures released yesterday show 4,944 people were awaiting surgery."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôm qua",
+        "definition_vi": "vào ngày trước hôm nay"
       },
       {
         "definition": "used to say that you are not stupid enough to believe what somebody is telling you",
@@ -787,7 +891,9 @@
             "cf": "",
             "x": "Oh yeah? I wasn't born yesterday, you know."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôm qua",
+        "definition_vi": "được dùng để nói rằng bạn không đủ ngu ngốc để tin những gì ai đó đang nói với bạn"
       }
     ]
   },
@@ -822,7 +928,9 @@
             "cf": "",
             "x": "He threatened to resign from the coalition if no agreement was reached by yesterday."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôm qua",
+        "definition_vi": "ngày trước hôm nay"
       },
       {
         "definition": "the recent past",
@@ -835,7 +943,9 @@
             "cf": "",
             "x": "All her yesterdays had vanished without a trace."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôm qua",
+        "definition_vi": "quá khứ gần đây"
       }
     ]
   },
@@ -870,7 +980,9 @@
             "cf": "have yet to do something",
             "x": "We have yet to decide what action to take (= We have not decided what action to take)."
           }
-        ]
+        ],
+        "short_meaning_vi": "chưa",
+        "definition_vi": "được dùng trong câu phủ định và câu hỏi để nói về điều gì đó chưa xảy ra nhưng bạn mong đợi nó sẽ xảy ra"
       },
       {
         "definition": "now; as soon as this",
@@ -883,7 +995,9 @@
             "cf": "",
             "x": "We don't need to start yet."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngay bây giờ",
+        "definition_vi": "ngay bây giờ; ngay lập tức"
       },
       {
         "definition": "used to emphasize an increase in number or amount or the number of times something happens",
@@ -900,7 +1014,9 @@
             "cf": "yet again",
             "x": "Prices were cut yet again (= once more, after many other times). "
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn",
+        "definition_vi": "được dùng để nhấn mạnh sự gia tăng về số lượng hoặc số lần một điều gì đó xảy ra"
       },
       {
         "definition": "used to emphasize that something is the best, longest, etc. thing of its kind made, produced, written, etc. until now/then",
@@ -913,7 +1029,9 @@
             "cf": "",
             "x": "It was the tallest building yet constructed anywhere."
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn",
+        "definition_vi": "được dùng để nhấn mạnh rằng điều gì đó là tốt nhất, dài nhất, v.v. trong loại của nó được thực hiện, sản xuất, viết, v.v. cho đến bây giờ/lúc đó"
       },
       {
         "definition": "from now until the period of time mentioned has passed",
@@ -926,7 +1044,9 @@
             "cf": "",
             "x": "They won't arrive for at least two hours yet."
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn",
+        "definition_vi": "tính từ bây giờ cho đến khi khoảng thời gian được đề cập trôi qua"
       },
       {
         "definition": "used to say that something could, might, etc. happen in the future, even though it seems unlikely",
@@ -939,7 +1059,9 @@
             "cf": "",
             "x": "She could yet surprise us all."
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn",
+        "definition_vi": "được dùng để nói rằng điều gì đó có thể, có lẽ, v.v. xảy ra trong tương lai, mặc dù điều đó có vẻ khó xảy ra"
       },
       {
         "definition": "used to emphasize an increase in the degree of something (= how bad, important, etc. it is)",
@@ -948,7 +1070,9 @@
             "cf": "",
             "x": "a recent and yet more improbable theory"
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn",
+        "definition_vi": "được dùng để nhấn mạnh sự gia tăng về mức độ của điều gì đó (= mức độ tệ, quan trọng, v.v.)"
       },
       {
         "definition": "until now or until a particular time in the past",
@@ -961,7 +1085,9 @@
             "cf": "",
             "x": "As yet little was known of the causes of the disease."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho đến nay",
+        "definition_vi": "cho đến bây giờ hoặc cho đến một thời điểm cụ thể trong quá khứ"
       },
       {
         "definition": "used to say that while one thing is good, another thing is even better",
@@ -974,7 +1100,9 @@
             "cf": "",
             "x": "I wanted to make my parents proud by becoming a lawyer or, better yet, a doctor."
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn",
+        "definition_vi": "được dùng để nói rằng trong khi một điều gì đó tốt, thì một điều khác còn tốt hơn"
       },
       {
         "definition": "not now but probably quite soon",
@@ -983,11 +1111,15 @@
             "cf": "",
             "x": "I can't give you the money just yet."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp",
+        "definition_vi": "không phải bây giờ nhưng có lẽ khá sớm"
       },
       {
         "definition": "used to comment on something that was almost successful but in fact failed",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "suýt nữa",
+        "definition_vi": "được dùng để nhận xét về điều gì đó đã gần thành công nhưng thực tế đã thất bại"
       }
     ]
   },
@@ -1010,7 +1142,9 @@
             "cf": "",
             "x": "He has a good job, and yet he never seems to have any money."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuy nhiên",
+        "definition_vi": "bất chấp những gì vừa được nói"
       }
     ]
   },
@@ -1037,7 +1171,9 @@
             "cf": "",
             "x": "This will give a yield of 10% on your investment."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản lượng",
+        "definition_vi": "tổng số lượng mùa màng, lợi nhuận, v.v. được sản xuất"
       }
     ]
   },
@@ -1068,7 +1204,9 @@
             "cf": "",
             "x": "The project is expected to yield good returns in future."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản xuất",
+        "definition_vi": "tạo ra hoặc cung cấp một cái gì đó, ví dụ như lợi nhuận, kết quả hoặc mùa màng"
       },
       {
         "definition": "to stop resisting something/somebody; to agree to do something that you do not want to do",
@@ -1085,7 +1223,9 @@
             "cf": "",
             "x": "I yielded to temptation and had a chocolate bar."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhượng bộ",
+        "definition_vi": "ngừng chống cự điều gì đó/ai đó; đồng ý làm điều gì đó mà bạn không muốn làm"
       },
       {
         "definition": "to allow somebody to win, have or take control of something that has been yours until now",
@@ -1102,7 +1242,9 @@
             "cf": "",
             "x": "archaeological remains which are yielding up secrets from long ago"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhường",
+        "definition_vi": "cho phép ai đó thắng, có hoặc kiểm soát thứ gì đó đã thuộc về bạn cho đến bây giờ"
       },
       {
         "definition": "to move, bend or break because of pressure",
@@ -1111,7 +1253,9 @@
             "cf": "",
             "x": "Despite our attempts to break it, the lock would not yield."
           }
-        ]
+        ],
+        "short_meaning_vi": "cong",
+        "definition_vi": "di chuyển, uốn cong hoặc gãy do áp lực"
       },
       {
         "definition": "to allow vehicles on a bigger road to go first",
@@ -1124,7 +1268,9 @@
             "cf": "",
             "x": "a yield sign"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhường đường",
+        "definition_vi": "cho phép phương tiện trên đường lớn đi trước"
       }
     ]
   },
@@ -1159,7 +1305,9 @@
             "cf": "",
             "x": "I don't think that hairstyle is you (= it doesn't suit your appearance or personality)."
           }
-        ]
+        ],
+        "short_meaning_vi": "bạn",
+        "definition_vi": "được dùng làm chủ ngữ hoặc tân ngữ của động từ hoặc sau giới từ để chỉ người hoặc những người đang được nói hoặc viết đến"
       },
       {
         "definition": "used with nouns and adjectives to speak to somebody directly",
@@ -1172,7 +1320,9 @@
             "cf": "",
             "x": "You stupid idiot!"
           }
-        ]
+        ],
+        "short_meaning_vi": "bạn",
+        "definition_vi": "được dùng với danh từ và tính từ để nói chuyện trực tiếp với ai đó"
       },
       {
         "definition": "used for referring to people in general",
@@ -1185,7 +1335,9 @@
             "cf": "",
             "x": "It's a friendly place—people come up to you in the street and start talking."
           }
-        ]
+        ],
+        "short_meaning_vi": "người ta",
+        "definition_vi": "được dùng để chỉ chung mọi người"
       },
       {
         "definition": "you, your family and your close friends",
@@ -1194,7 +1346,9 @@
             "cf": "",
             "x": "I wish you and yours all the best for the year ahead!"
           }
-        ]
+        ],
+        "short_meaning_vi": "gia đình bạn",
+        "definition_vi": "bạn, gia đình bạn và những người bạn thân của bạn"
       }
     ]
   },
@@ -1233,7 +1387,9 @@
             "cf": "",
             "x": "Small businesses, especially young ones, tend to operate on a tight budget. "
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ",
+        "definition_vi": "đã sống hoặc tồn tại trong một thời gian ngắn; chưa phát triển đầy đủ"
       },
       {
         "definition": "not yet old; not as old as others",
@@ -1294,7 +1450,9 @@
             "cf": "",
             "x": "Her grandchildren keep her young (= keep her feeling young)."
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ",
+        "definition_vi": "chưa già; không già bằng những người khác"
       },
       {
         "definition": "consisting of young people or young children; with a low average age",
@@ -1311,7 +1469,9 @@
             "cf": "",
             "x": "This cottage would be perfect for a couple with a young family."
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ",
+        "definition_vi": "bao gồm những người trẻ tuổi hoặc trẻ em; có độ tuổi trung bình thấp"
       },
       {
         "definition": "suitable or appropriate for young people",
@@ -1324,7 +1484,9 @@
             "cf": "",
             "x": "The clothes she wears are much too young for her."
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ trung",
+        "definition_vi": "phù hợp hoặc thích hợp với người trẻ."
       },
       {
         "definition": "used to show that you are angry or annoyed with a particular young person",
@@ -1333,7 +1495,9 @@
             "cf": "",
             "x": "I think you owe me an apology, young lady!"
           }
-        ]
+        ],
+        "short_meaning_vi": "giận dữ",
+        "definition_vi": "được dùng để thể hiện sự tức giận hoặc khó chịu với một người trẻ cụ thể."
       },
       {
         "definition": "used before or after a person’s name to show the difference between them and an older relative",
@@ -1346,7 +1510,9 @@
             "cf": "",
             "x": "William Pitt the younger"
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ hơn",
+        "definition_vi": "được dùng trước hoặc sau tên của một người để chỉ sự khác biệt giữa họ và một người họ hàng lớn tuổi hơn."
       },
       {
         "definition": "used to say that people seem to be doing something at a younger age than they used to, or that they seem younger because you are now older",
@@ -1359,7 +1525,9 @@
             "cf": "",
             "x": "Why do police officers seem to be getting younger?"
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ hơn",
+        "definition_vi": "được dùng để nói rằng mọi người dường như đang làm điều gì đó ở độ tuổi trẻ hơn so với trước đây, hoặc họ dường như trẻ hơn vì bạn giờ đã lớn tuổi hơn."
       },
       {
         "definition": "used when you are commenting that time is passing and that you are growing older",
@@ -1368,11 +1536,15 @@
             "cf": "",
             "x": "We need to start thinking about our retirement. We’re not getting any younger, you know."
           }
-        ]
+        ],
+        "short_meaning_vi": "thời gian trôi",
+        "definition_vi": "được dùng khi nhận xét rằng thời gian đang trôi đi và bạn đang già đi."
       },
       {
         "definition": "used to describe a young person who acts in a more sensible way than you would expect for a person of their age",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trưởng thành",
+        "definition_vi": "được dùng để mô tả một người trẻ có hành vi chín chắn hơn so với mong đợi ở lứa tuổi của họ."
       },
       {
         "definition": "thinking and behaving like a young person even when you are old",
@@ -1385,11 +1557,15 @@
             "cf": "",
             "x": "He's over 70, but he's young at heart."
           }
-        ]
+        ],
+        "short_meaning_vi": "trẻ trung",
+        "definition_vi": "suy nghĩ và hành động như một người trẻ ngay cả khi đã già."
       },
       {
         "definition": "young people should enjoy themselves as much as possible, because they will have to work and worry later in their lives",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hưởng thụ",
+        "definition_vi": "người trẻ nên tận hưởng bản thân càng nhiều càng tốt, vì họ sẽ phải làm việc và lo lắng sau này trong cuộc sống."
       }
     ]
   },
@@ -1412,7 +1588,9 @@
             "cf": "",
             "x": "It's a book for young and old alike."
           }
-        ]
+        ],
+        "short_meaning_vi": "thanh niên",
+        "definition_vi": "những người trẻ được xem như một nhóm."
       },
       {
         "definition": "young animals of a particular type or that belong to a particular mother",
@@ -1425,7 +1603,9 @@
             "cf": "",
             "x": "Young in the nest may compete for food."
           }
-        ]
+        ],
+        "short_meaning_vi": "con non",
+        "definition_vi": "động vật non thuộc một loại cụ thể hoặc thuộc về một con mẹ cụ thể."
       }
     ]
   },
@@ -1444,7 +1624,9 @@
             "cf": "",
             "x": "The camp is for youngsters aged 8 to 14."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiếu niên",
+        "definition_vi": "một người trẻ hoặc một đứa trẻ."
       }
     ]
   },
@@ -1471,7 +1653,9 @@
             "cf": "",
             "x": "The bank is on your right."
           }
-        ]
+        ],
+        "short_meaning_vi": "của bạn",
+        "definition_vi": "thuộc về hoặc thuộc sở hữu của người hoặc những người đang được nói hoặc viết đến."
       },
       {
         "definition": "of or belonging to people in general",
@@ -1484,7 +1668,9 @@
             "cf": "",
             "x": "In Japan you are taught great respect for your elders."
           }
-        ]
+        ],
+        "short_meaning_vi": "của mọi người",
+        "definition_vi": "thuộc về hoặc thuộc sở hữu của mọi người nói chung."
       },
       {
         "definition": "used to show that somebody/something is well known or often talked about",
@@ -1497,7 +1683,9 @@
             "cf": "",
             "x": "You and your bright ideas!"
           }
-        ]
+        ],
+        "short_meaning_vi": "quen thuộc",
+        "definition_vi": "được dùng để chỉ ra rằng ai đó/điều gì đó được biết đến rộng rãi hoặc thường xuyên được nhắc đến."
       },
       {
         "definition": "used in some titles, especially those of royal people",
@@ -1510,7 +1698,9 @@
             "cf": "",
             "x": "Your Excellency"
           }
-        ]
+        ],
+        "short_meaning_vi": "của ngài",
+        "definition_vi": "được dùng trong một số danh hiệu, đặc biệt là của những người thuộc hoàng gia."
       }
     ]
   },
@@ -1537,7 +1727,9 @@
             "cf": "",
             "x": "My hair is very fine. Yours is much thicker."
           }
-        ]
+        ],
+        "short_meaning_vi": "của bạn",
+        "definition_vi": "thuộc về bạn."
       },
       {
         "definition": "used at the end of a letter before signing your name",
@@ -1554,7 +1746,9 @@
             "cf": "",
             "x": "Yours Truly"
           }
-        ]
+        ],
+        "short_meaning_vi": "trân trọng",
+        "definition_vi": "được dùng ở cuối thư trước khi ký tên bạn."
       },
       {
         "definition": "your home",
@@ -1563,7 +1757,9 @@
             "cf": "",
             "x": "Let's go back to yours after the show."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà bạn",
+        "definition_vi": "nhà của bạn."
       },
       {
         "definition": "you, your family and your close friends",
@@ -1572,7 +1768,9 @@
             "cf": "",
             "x": "I wish you and yours all the best for the year ahead!"
           }
-        ]
+        ],
+        "short_meaning_vi": "gia đình bạn",
+        "definition_vi": "bạn, gia đình bạn và bạn bè thân thiết của bạn."
       }
     ]
   },
@@ -1599,7 +1797,9 @@
             "cf": "",
             "x": "Enjoy yourselves!"
           }
-        ]
+        ],
+        "short_meaning_vi": "chính bạn",
+        "definition_vi": "được dùng khi người hoặc những người đang được nói đến vừa gây ra vừa bị ảnh hưởng bởi một hành động."
       },
       {
         "definition": "used to emphasize the fact that the person who is being spoken to is doing something",
@@ -1616,7 +1816,9 @@
             "cf": "",
             "x": "You yourself are one of the chief offenders."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính bạn",
+        "definition_vi": "được dùng để nhấn mạnh sự thật rằng người đang được nói đến đang làm điều gì đó."
       },
       {
         "definition": "used instead of ‘you’ in order to sound polite or formal (although some people do not consider this use to be correct)",
@@ -1629,7 +1831,9 @@
             "cf": "",
             "x": "‘And yourself,’ he replied, ‘How are you?’"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngài",
+        "definition_vi": "được dùng thay cho ‘bạn’ để nghe lịch sự hoặc trang trọng (mặc dù một số người không coi cách dùng này là đúng)."
       },
       {
         "definition": "to act naturally",
@@ -1638,7 +1842,9 @@
             "cf": "",
             "x": "Don't act sophisticated—just be yourself."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự nhiên",
+        "definition_vi": "hành động tự nhiên."
       },
       {
         "definition": "alone; without anyone else",
@@ -1647,7 +1853,9 @@
             "cf": "",
             "x": "How long were you by yourself in the house?"
           }
-        ]
+        ],
+        "short_meaning_vi": "một mình",
+        "definition_vi": "một mình; không có ai khác."
       },
       {
         "definition": "without help",
@@ -1656,7 +1864,9 @@
             "cf": "",
             "x": "Are you sure you did this exercise by yourself?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tự mình",
+        "definition_vi": "không cần giúp đỡ."
       },
       {
         "definition": "for only you to have or use; not shared",
@@ -1665,7 +1875,9 @@
             "cf": "",
             "x": "I'm going to be away next week so you'll have the office to yourself."
           }
-        ]
+        ],
+        "short_meaning_vi": "riêng bạn",
+        "definition_vi": "chỉ dành cho bạn có hoặc sử dụng; không chia sẻ."
       }
     ]
   },
@@ -1696,7 +1908,9 @@
             "cf": "",
             "x": "He joked that being good at cards was the sign of a misspent youth (= having wasted his time when he was young)."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuổi trẻ",
+        "definition_vi": "giai đoạn cuộc đời khi một người còn trẻ, đặc biệt là giai đoạn trước khi một đứa trẻ trở thành người lớn."
       },
       {
         "definition": "the quality or state of being young",
@@ -1709,7 +1923,9 @@
             "cf": "",
             "x": "His youth gives him an advantage over the other runners."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức trẻ",
+        "definition_vi": "phẩm chất hoặc trạng thái của sự trẻ trung."
       },
       {
         "definition": "young people considered as a group",
@@ -1742,7 +1958,9 @@
             "cf": "",
             "x": "Youth and adults tend to see things very differently."
           }
-        ]
+        ],
+        "short_meaning_vi": "thanh niên",
+        "definition_vi": "những người trẻ được xem như một nhóm."
       },
       {
         "definition": "a young man",
@@ -1751,7 +1969,9 @@
             "cf": "",
             "x": "The fight was started by a gang of youths."
           }
-        ]
+        ],
+        "short_meaning_vi": "chàng trai",
+        "definition_vi": "một thanh niên."
       }
     ]
   }
