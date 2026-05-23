@@ -32,7 +32,9 @@
             "cf": "",
             "x": "For a holiday abroad you need a valid passport."
           }
-        ]
+        ],
+        "short_meaning_vi": "nước ngoài",
+        "definition_vi": "ở hoặc đến một quốc gia nước ngoài"
       },
       {
         "definition": "being talked about or felt by many people",
@@ -41,11 +43,15 @@
             "cf": "",
             "x": "There was news abroad that a change was coming."
           }
-        ]
+        ],
+        "short_meaning_vi": "lan truyền",
+        "definition_vi": "đang được nói đến hoặc cảm nhận bởi nhiều người"
       },
       {
         "definition": "outside; outdoors",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bên ngoài",
+        "definition_vi": "bên ngoài; ngoài trời"
       }
     ]
   },
@@ -70,7 +76,9 @@
             "cf": "",
             "x": "The aircraft is capable of accommodating 28 passengers."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp xếp chỗ ở",
+        "definition_vi": "cung cấp cho ai đó một phòng hoặc một nơi để ngủ, sống hoặc ngồi"
       },
       {
         "definition": "to provide enough space for somebody/something",
@@ -83,7 +91,9 @@
             "cf": "",
             "x": "The old town hall now accommodates a Folk Museum."
           }
-        ]
+        ],
+        "short_meaning_vi": "chứa chấp",
+        "definition_vi": "cung cấp đủ không gian cho ai đó/cái gì đó"
       },
       {
         "definition": "to consider something such as somebody’s opinion or a fact and be influenced by it when you are deciding what to do or explaining something",
@@ -96,7 +106,9 @@
             "cf": "",
             "x": "She modified her views so as to accommodate the objections of American feminists."
           }
-        ]
+        ],
+        "short_meaning_vi": "thỏa hiệp",
+        "definition_vi": "xem xét một cái gì đó như ý kiến của ai đó hoặc một sự thật và bị ảnh hưởng bởi nó khi bạn quyết định làm gì hoặc giải thích điều gì đó"
       },
       {
         "definition": "to help somebody by doing what they want",
@@ -109,7 +121,9 @@
             "cf": "",
             "x": "I’m sure the bank will be able to accommodate you."
           }
-        ]
+        ],
+        "short_meaning_vi": "chiều theo",
+        "definition_vi": "giúp đỡ ai đó bằng cách làm theo ý muốn của họ"
       },
       {
         "definition": "to change your behaviour so that you can deal with a new situation better",
@@ -118,7 +132,9 @@
             "cf": "",
             "x": "I needed to accommodate to the new schedule."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích nghi",
+        "definition_vi": "thay đổi hành vi của bạn để bạn có thể đối phó tốt hơn với một tình huống mới"
       }
     ]
   },
@@ -163,7 +179,9 @@
             "cf": "",
             "x": "furnished accommodation"
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ ở",
+        "definition_vi": "một nơi để sống, làm việc hoặc ở"
       },
       {
         "definition": "somewhere to live or stay, often also providing food or other services",
@@ -176,7 +194,9 @@
             "cf": "",
             "x": "The boat provides reasonable overnight accommodations for four adults."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ ở",
+        "definition_vi": "nơi nào đó để sống hoặc ở, thường cũng cung cấp thức ăn hoặc các dịch vụ khác"
       },
       {
         "definition": "an agreement or arrangement between people or groups with different opinions that is acceptable to everyone; the process of reaching this agreement",
@@ -189,11 +209,15 @@
             "cf": "",
             "x": "The two countries should be persuaded to work towards some sort of mutual accommodation."
           }
-        ]
+        ],
+        "short_meaning_vi": "thỏa thuận",
+        "definition_vi": "một thỏa thuận hoặc sự sắp xếp giữa những người hoặc nhóm có ý kiến khác nhau mà mọi người đều chấp nhận được; quá trình đạt được thỏa thuận này"
       },
       {
         "definition": "the way in which the lens (= a part of the eye) becomes flatter or thicker in order to create a clear image of the object that you want to look at",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sự điều tiết",
+        "definition_vi": "cách mà thủy tinh thể (= một bộ phận của mắt) trở nên phẳng hơn hoặc dày hơn để tạo ra hình ảnh rõ nét của vật thể bạn muốn nhìn"
       }
     ]
   },
@@ -234,7 +258,9 @@
             "cf": "",
             "x": " Each young person must be accompanied by an adult."
           }
-        ]
+        ],
+        "short_meaning_vi": "đi cùng",
+        "definition_vi": "du lịch hoặc đi đâu đó cùng với ai đó/cái gì đó"
       },
       {
         "definition": "to happen or appear with something else",
@@ -255,7 +281,9 @@
             "cf": "",
             "x": "Tax cuts have been accompanied by massive increases in public expenditure."
           }
-        ]
+        ],
+        "short_meaning_vi": "đi kèm",
+        "definition_vi": "xảy ra hoặc xuất hiện cùng với một cái gì đó khác"
       },
       {
         "definition": "to play a musical instrument, especially a piano, while somebody else sings or plays the main tune",
@@ -264,7 +292,9 @@
             "cf": "",
             "x": "The singer was accompanied on the piano by her sister."
           }
-        ]
+        ],
+        "short_meaning_vi": "đệm nhạc",
+        "definition_vi": "chơi một nhạc cụ, đặc biệt là piano, trong khi người khác hát hoặc chơi giai điệu chính"
       }
     ]
   },
@@ -305,7 +335,9 @@
             "cf": "",
             "x": "Popper described science as the greatest adventure in the world."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc phiêu lưu",
+        "definition_vi": "một trải nghiệm, hành trình hoặc chuỗi sự kiện bất thường, thú vị hoặc nguy hiểm"
       },
       {
         "definition": "the quality of being excited and willing to take risks, try new ideas, etc.",
@@ -326,7 +358,9 @@
             "cf": "",
             "x": "Travelling by train has always been associated with romance and adventure."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự mạo hiểm",
+        "definition_vi": "phẩm chất của sự hào hứng và sẵn sàng chấp nhận rủi ro, thử những ý tưởng mới, v.v."
       }
     ]
   },
@@ -359,7 +393,9 @@
             "cf": "",
             "x": "The systems are built for jet aircraft."
           }
-        ]
+        ],
+        "short_meaning_vi": "máy bay",
+        "definition_vi": "bất kỳ phương tiện nào có thể bay và chở hàng hóa hoặc hành khách"
       }
     ]
   },
@@ -400,7 +436,9 @@
             "cf": "",
             "x": "The company is looking to expand into the commercial airline industry."
           }
-        ]
+        ],
+        "short_meaning_vi": "hãng hàng không",
+        "definition_vi": "một công ty cung cấp các chuyến bay thường xuyên để chở hành khách và hàng hóa đến các địa điểm khác nhau"
       }
     ]
   },
@@ -437,7 +475,9 @@
             "cf": "",
             "x": "Passengers were banned from taking hand luggage through airport security. "
           }
-        ]
+        ],
+        "short_meaning_vi": "sân bay",
+        "definition_vi": "một nơi máy bay hạ cánh và cất cánh và có các tòa nhà để hành khách chờ đợi"
       },
       {
         "definition": "used to describe novels that are popular and easy to read, often bought by people at airports",
@@ -450,7 +490,9 @@
             "cf": "",
             "x": "airport fiction"
           }
-        ]
+        ],
+        "short_meaning_vi": "sách sân bay",
+        "definition_vi": "được sử dụng để mô tả những cuốn tiểu thuyết phổ biến và dễ đọc, thường được mua bởi những người ở sân bay"
       }
     ]
   },
@@ -503,7 +545,9 @@
             "cf": "",
             "x": "They are eagerly awaiting the arrival of their new computer."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đến",
+        "definition_vi": "hành động đến hoặc được đưa đến một nơi"
       },
       {
         "definition": "the part of an airport that you go through when you arrive on a plane",
@@ -512,7 +556,9 @@
             "cf": "",
             "x": "I made my way through arrivals."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực đến",
+        "definition_vi": "khu vực của sân bay mà bạn đi qua khi đến bằng máy bay"
       },
       {
         "definition": "a person or thing that comes to a place",
@@ -529,7 +575,9 @@
             "cf": "",
             "x": "We're expecting a new arrival (= a baby) in the family soon."
           }
-        ]
+        ],
+        "short_meaning_vi": "người/vật đến",
+        "definition_vi": "một người hoặc vật đến một nơi"
       },
       {
         "definition": "the time when a new technology or idea is introduced",
@@ -538,7 +586,9 @@
             "cf": "",
             "x": "the arrival of pay TV"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự ra mắt",
+        "definition_vi": "thời điểm một công nghệ hoặc ý tưởng mới được giới thiệu"
       },
       {
         "definition": "(of an accident victim or other patient) already dead when arriving at a hospital",
@@ -555,7 +605,9 @@
             "cf": "",
             "x": "Many of the casualties were dead on arrival."
           }
-        ]
+        ],
+        "short_meaning_vi": "chết khi đến",
+        "definition_vi": "(của nạn nhân tai nạn hoặc bệnh nhân khác) đã chết khi đến bệnh viện"
       },
       {
         "definition": "very unlikely to be successful; not working when it is delivered",
@@ -568,7 +620,9 @@
             "cf": "",
             "x": "The software was DOA."
           }
-        ]
+        ],
+        "short_meaning_vi": "không hoạt động",
+        "definition_vi": "rất khó thành công; không hoạt động khi được giao"
       }
     ]
   },
@@ -629,7 +683,9 @@
             "cf": "",
             "x": "The police arrived to arrest him."
           }
-        ]
+        ],
+        "short_meaning_vi": "đến",
+        "definition_vi": "đến một nơi, đặc biệt là vào cuối một hành trình"
       },
       {
         "definition": "to be brought to somebody",
@@ -650,7 +706,9 @@
             "cf": "",
             "x": "The new product will arrive on supermarket shelves (= be available) early next year."
           }
-        ]
+        ],
+        "short_meaning_vi": "được giao",
+        "definition_vi": "được đưa đến cho ai đó"
       },
       {
         "definition": "to happen or to come, especially when you have been waiting for it",
@@ -663,7 +721,9 @@
             "cf": "",
             "x": "The baby arrived (= was born) early."
           }
-        ]
+        ],
+        "short_meaning_vi": "xảy ra",
+        "definition_vi": "xảy ra hoặc đến, đặc biệt là khi bạn đang chờ đợi nó"
       },
       {
         "definition": "somebody has become successful",
@@ -676,7 +736,9 @@
             "cf": "",
             "x": "The lad has arrived as a Premiership goalkeeper."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "ai đó đã trở nên thành công"
       }
     ]
   },
@@ -701,7 +763,9 @@
             "cf": "",
             "x": "We hired a local guide to get us across the mountains."
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng dẫn",
+        "definition_vi": "chỉ đường cho ai đó đến một địa điểm, thường bằng cách đi cùng họ; chỉ cho ai đó một địa điểm mà bạn biết rõ"
       },
       {
         "definition": "a person who advises you on how to live and behave",
@@ -714,7 +778,9 @@
             "cf": "",
             "x": "His elder sister had been his guide, counsellor and friend."
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng dẫn",
+        "definition_vi": "chỉ đường cho ai đó đến một địa điểm, thường bằng cách đi cùng họ; chỉ cho ai đó một địa điểm mà bạn biết rõ"
       },
       {
         "definition": "a book, magazine, app, etc. that gives you information, help or instructions about something",
@@ -739,7 +805,9 @@
             "cf": "",
             "x": "an essential guide for every new parent"
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng dẫn",
+        "definition_vi": "chỉ đường cho ai đó đến một địa điểm, thường bằng cách đi cùng họ; chỉ cho ai đó một địa điểm mà bạn biết rõ"
       },
       {
         "definition": "a book that gives information about a place for travellers or tourists",
@@ -756,7 +824,9 @@
             "cf": "guide to something",
             "x": "a guide to Italy"
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng dẫn",
+        "definition_vi": "chỉ đường cho ai đó đến một địa điểm, thường bằng cách đi cùng họ; chỉ cho ai đó một địa điểm mà bạn biết rõ"
       },
       {
         "definition": "something that gives you enough information to be able to make a decision about something or form an opinion",
@@ -769,11 +839,15 @@
             "cf": "",
             "x": "I let my feelings be my guide."
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng dẫn",
+        "definition_vi": "chỉ đường cho ai đó đến một địa điểm, thường bằng cách đi cùng họ; chỉ cho ai đó một địa điểm mà bạn biết rõ"
       },
       {
         "definition": "a member of an organization (called the Guides or the Girl Scouts) that is similar to the Scouts and that trains girls in practical skills and does a lot of activities with them, for example camping",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hướng dẫn",
+        "definition_vi": "chỉ đường cho ai đó đến một địa điểm, thường bằng cách đi cùng họ; chỉ cho ai đó một địa điểm mà bạn biết rõ"
       }
     ]
   },
@@ -802,7 +876,9 @@
             "cf": "",
             "x": "Monaco is only two square kilometres in size."
           }
-        ]
+        ],
+        "short_meaning_vi": "kilômét",
+        "definition_vi": "đơn vị đo khoảng cách; 1.000 mét"
       }
     ]
   },
@@ -839,7 +915,9 @@
             "cf": "",
             "x": "the first successful lunar landing"
           }
-        ]
+        ],
+        "short_meaning_vi": "hạ cánh",
+        "definition_vi": "hành động đưa một chiếc máy bay hoặc tàu vũ trụ xuống đất sau một hành trình"
       },
       {
         "definition": "the area at the top of a set of stairs where you arrive before you go into an upstairs room or move onto another set of stairs",
@@ -848,15 +926,21 @@
             "cf": "",
             "x": "Go up to the first-floor landing and it’s the door on the right."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ nghỉ cầu thang",
+        "definition_vi": "khu vực ở đầu một bộ cầu thang nơi bạn đến trước khi vào phòng trên lầu hoặc di chuyển sang một bộ cầu thang khác"
       },
       {
         "definition": "an act of bringing soldiers to land in an area that is controlled by the enemy",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hạ cánh (quân sự)",
+        "definition_vi": "hành động đưa binh lính đổ bộ vào một khu vực do kẻ thù kiểm soát"
       },
       {
         "definition": "a flat wooden platform on the water where boats let people get on and off, and load and unload goods",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bến tàu",
+        "definition_vi": "một nền gỗ phẳng trên mặt nước nơi thuyền cho phép mọi người lên xuống, và bốc dỡ hàng hóa"
       }
     ]
   },
@@ -881,7 +965,9 @@
             "cf": "",
             "x": "The tower was once a landmark for ships."
           }
-        ]
+        ],
+        "short_meaning_vi": "mốc",
+        "definition_vi": "một cái gì đó, chẳng hạn như một tòa nhà lớn, mà bạn có thể nhìn thấy rõ ràng từ xa và sẽ giúp bạn biết mình đang ở đâu"
       },
       {
         "definition": "an event, a discovery, an invention, etc. that marks an important stage in something",
@@ -894,7 +980,9 @@
             "cf": "",
             "x": "a landmark decision/ruling in the courts"
           }
-        ]
+        ],
+        "short_meaning_vi": "cột mốc",
+        "definition_vi": "một sự kiện, một khám phá, một phát minh, v.v. đánh dấu một giai đoạn quan trọng trong một cái gì đó"
       },
       {
         "definition": "a building or a place that is very important because of its history, and that should be preserved",
@@ -907,7 +995,9 @@
             "cf": "",
             "x": "The building has been designated a historical landmark by the Commission."
           }
-        ]
+        ],
+        "short_meaning_vi": "di tích lịch sử",
+        "definition_vi": "một tòa nhà hoặc một địa điểm rất quan trọng vì lịch sử của nó, và nên được bảo tồn"
       }
     ]
   },
@@ -940,7 +1030,9 @@
             "cf": "",
             "x": "We tried to locate the source of the sound."
           }
-        ]
+        ],
+        "short_meaning_vi": "xác định vị trí",
+        "definition_vi": "tìm vị trí chính xác của ai đó/cái gì đó"
       },
       {
         "definition": "to put or build something in a particular place",
@@ -953,7 +1045,9 @@
             "cf": "",
             "x": "Locating offices directly next to the labs is preferred by most researchers. "
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt tại",
+        "definition_vi": "đặt hoặc xây dựng một cái gì đó ở một địa điểm cụ thể"
       },
       {
         "definition": "to start a business in a particular place",
@@ -962,7 +1056,9 @@
             "cf": "",
             "x": "There are tax breaks for businesses that locate in rural areas."
           }
-        ]
+        ],
+        "short_meaning_vi": "mở chi nhánh",
+        "definition_vi": "mở một doanh nghiệp tại một địa điểm cụ thể"
       }
     ]
   },
@@ -995,7 +1091,9 @@
             "cf": "",
             "x": "a small, centrally located hotel"
           }
-        ]
+        ],
+        "short_meaning_vi": "nằm ở",
+        "definition_vi": "nếu một cái gì đó nằm ở một địa điểm cụ thể, nó tồn tại ở đó hoặc đã được đặt ở đó"
       }
     ]
   },
@@ -1028,7 +1126,9 @@
             "cf": "",
             "x": "the country's strategic geographical/geographic location"
           }
-        ]
+        ],
+        "short_meaning_vi": "vị trí",
+        "definition_vi": "một địa điểm nơi một cái gì đó xảy ra hoặc tồn tại; vị trí của một cái gì đó"
       },
       {
         "definition": "a place outside a film studio where scenes of a film are made",
@@ -1049,7 +1149,9 @@
             "cf": "",
             "x": "He went to the restaurant to scout a location for his next film. "
           }
-        ]
+        ],
+        "short_meaning_vi": "bối cảnh quay phim",
+        "definition_vi": "một địa điểm bên ngoài phim trường nơi các cảnh quay của một bộ phim được thực hiện"
       },
       {
         "definition": "the act of finding the position of somebody/something",
@@ -1058,7 +1160,9 @@
             "cf": "",
             "x": "Location of a suitable site may take some time."
           }
-        ]
+        ],
+        "short_meaning_vi": "việc xác định vị trí",
+        "definition_vi": "hành động tìm vị trí của ai đó/cái gì đó"
       },
       {
         "definition": "a position or an address in computer memory",
@@ -1067,7 +1171,9 @@
             "cf": "",
             "x": "The vulnerability lets hackers access data from any location in the physical memory of a system."
           }
-        ]
+        ],
+        "short_meaning_vi": "địa chỉ bộ nhớ",
+        "definition_vi": "một vị trí hoặc địa chỉ trong bộ nhớ máy tính"
       }
     ]
   },
@@ -1124,7 +1230,9 @@
             "cf": "",
             "x": "an interactive map"
           }
-        ]
+        ],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       },
       {
         "definition": "a diagram to show the positions of things over an area",
@@ -1133,7 +1241,9 @@
             "cf": "",
             "x": "an electron density map"
           }
-        ]
+        ],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       },
       {
         "definition": "a diagram to show the position of genes on a chromosome",
@@ -1142,7 +1252,9 @@
             "cf": "",
             "x": "a physical and genetic map of the entire human genome"
           }
-        ]
+        ],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       },
       {
         "definition": "lacking organization; in a confused state",
@@ -1151,7 +1263,9 @@
             "cf": "",
             "x": "Oil prices were all over the map last week, but they seem to be more stable now."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       },
       {
         "definition": "very far away or remote",
@@ -1160,7 +1274,9 @@
             "cf": "",
             "x": "Although the town was completely off the map, I was glad that I made the effort to visit."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       },
       {
         "definition": "to make somebody/something famous or important",
@@ -1173,11 +1289,15 @@
             "cf": "",
             "x": "The exhibition has helped put the city on the map."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       },
       {
         "definition": "to destroy or remove somebody/something completely",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lập bản đồ",
+        "definition_vi": "lập bản đồ một khu vực"
       }
     ]
   },
@@ -1238,7 +1358,9 @@
             "cf": "",
             "x": "His thoughts were racing a mile a minute (= very fast)."
           }
-        ]
+        ],
+        "short_meaning_vi": "dặm",
+        "definition_vi": "một đơn vị đo khoảng cách bằng 1.609 mét hoặc 1.760 yard"
       },
       {
         "definition": "a large area or a long distance",
@@ -1263,7 +1385,9 @@
             "cf": "",
             "x": "She's taller than you by a mile."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoảng cách xa",
+        "definition_vi": "một khu vực rộng lớn hoặc một khoảng cách dài"
       },
       {
         "definition": "a race over one mile",
@@ -1276,15 +1400,21 @@
             "cf": "",
             "x": "a four-minute mile"
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc đua dặm",
+        "definition_vi": "một cuộc đua hơn một dặm"
       },
       {
         "definition": "to be thinking deeply about something and not aware of what is happening around you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "suy nghĩ xa xăm",
+        "definition_vi": "đang suy nghĩ sâu sắc về điều gì đó và không nhận thức được những gì đang xảy ra xung quanh bạn"
       },
       {
         "definition": "used to say that if you allow some people a small amount of freedom or power they will see you as weak and try to take a lot more",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lấn tới",
+        "definition_vi": "được sử dụng để nói rằng nếu bạn cho phép một số người có một chút tự do hoặc quyền lực, họ sẽ coi bạn là yếu đuối và cố gắng đòi hỏi nhiều hơn"
       },
       {
         "definition": "to make a special effort to achieve something, help somebody, etc.",
@@ -1293,7 +1423,9 @@
             "cf": "",
             "x": "a willingness to go the extra mile to make a project work"
           }
-        ]
+        ],
+        "short_meaning_vi": "nỗ lực",
+        "definition_vi": "nỗ lực đặc biệt để đạt được điều gì đó, giúp đỡ ai đó, v.v."
       },
       {
         "definition": "in a place that is a long way from a town and surrounded only by a lot of open country, sea, etc.",
@@ -1302,15 +1434,21 @@
             "cf": "",
             "x": "We broke down miles from anywhere."
           }
-        ]
+        ],
+        "short_meaning_vi": "vùng hẻo lánh",
+        "definition_vi": "ở một nơi cách xa một thị trấn và chỉ bao quanh bởi nhiều vùng đất trống, biển, v.v."
       },
       {
         "definition": "there is no real difference between only just failing in something and failing in it badly because the result is still the same",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "suýt soát",
+        "definition_vi": "không có sự khác biệt thực sự giữa việc chỉ suýt thất bại trong một việc gì đó và thất bại tệ hại vì kết quả vẫn như nhau"
       },
       {
         "definition": "to show that you are very frightened of doing something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sợ hãi",
+        "definition_vi": "cho thấy bạn rất sợ làm điều gì đó"
       },
       {
         "definition": "to see or realize something very easily and quickly",
@@ -1323,7 +1461,9 @@
             "cf": "",
             "x": "After twenty years in the police she could smell a liar a mile off."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhìn thấu",
+        "definition_vi": "nhìn thấy hoặc nhận ra điều gì đó rất dễ dàng và nhanh chóng"
       },
       {
         "definition": "to be very obvious or easy to notice",
@@ -1332,7 +1472,9 @@
             "cf": "",
             "x": "It stood out a mile that she was lying."
           }
-        ]
+        ],
+        "short_meaning_vi": "rõ ràng",
+        "definition_vi": "rất rõ ràng hoặc dễ nhận thấy"
       }
     ]
   },
@@ -1369,7 +1511,9 @@
             "cf": "",
             "x": "Enter the cathedral through the north door."
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng bắc",
+        "definition_vi": "hướng về phía bắc khi bạn nhìn mặt trời mọc; một trong bốn hướng chính của la bàn"
       },
       {
         "definition": "a north wind blows from the north",
@@ -1378,7 +1522,9 @@
             "cf": "",
             "x": "A cold north wind blew in from the sea."
           }
-        ]
+        ],
+        "short_meaning_vi": "hướng bắc",
+        "definition_vi": "hướng về phía bắc khi bạn nhìn mặt trời mọc; một trong bốn hướng chính của la bàn"
       }
     ]
   },
@@ -1423,7 +1569,9 @@
             "cf": "",
             "x": "This week marks the height of summer in the northern hemisphere."
           }
-        ]
+        ],
+        "short_meaning_vi": "phía bắc",
+        "definition_vi": "nằm ở phía bắc hoặc hướng về phía bắc; liên quan đến hoặc điển hình của phần phía bắc của thế giới hoặc một khu vực"
       }
     ]
   },
@@ -1468,7 +1616,9 @@
             "cf": "",
             "x": "a passport photo"
           }
-        ]
+        ],
+        "short_meaning_vi": "hộ chiếu",
+        "definition_vi": "một tài liệu chính thức xác định bạn là công dân của một quốc gia cụ thể, và bạn có thể phải xuất trình khi nhập cảnh hoặc rời khỏi một quốc gia."
       },
       {
         "definition": "a thing that makes something possible or enables you to achieve something",
@@ -1481,7 +1631,9 @@
             "cf": "",
             "x": "The gold medal is his passport into professional boxing."
           }
-        ]
+        ],
+        "short_meaning_vi": "phương tiện",
+        "definition_vi": "một thứ làm cho một cái gì đó trở nên khả thi hoặc cho phép bạn đạt được một cái gì đó."
       }
     ]
   },
@@ -1506,7 +1658,9 @@
             "cf": "",
             "x": "The Hebrides are to the west of the Scottish mainland."
           }
-        ]
+        ],
+        "short_meaning_vi": "đại lục",
+        "definition_vi": "khu vực đất liền chính của một quốc gia hoặc khu vực, không bao gồm bất kỳ hòn đảo nào gần đó"
       }
     ]
   }

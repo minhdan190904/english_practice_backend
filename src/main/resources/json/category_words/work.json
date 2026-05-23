@@ -1,4 +1,4 @@
-  [
+[
   {
     "word": "administer",
     "level": "B2",
@@ -24,7 +24,9 @@
             "cf": "",
             "x": "The pension funds are administered by commercial banks."
           }
-        ]
+        ],
+        "short_meaning_vi": "quản lý",
+        "definition_vi": "quản lý và tổ chức các công việc của một công ty, một tổ chức, một quốc gia, v.v."
       },
       {
         "definition": "to make sure that something is done fairly and in the correct way",
@@ -37,7 +39,9 @@
             "cf": "",
             "x": "The questionnaire was administered by trained interviewers."
           }
-        ]
+        ],
+        "short_meaning_vi": "thực thi",
+        "definition_vi": "đảm bảo rằng một cái gì đó được thực hiện một cách công bằng và đúng cách"
       },
       {
         "definition": "to give or to provide something, especially in a formal way",
@@ -54,7 +58,9 @@
             "cf": "",
             "x": "The priest was called to administer the last rites."
           }
-        ]
+        ],
+        "short_meaning_vi": "cung cấp",
+        "definition_vi": "cung cấp hoặc cung cấp một cái gì đó, đặc biệt là một cách chính thức"
       },
       {
         "definition": "to give drugs, medicine, etc. to somebody",
@@ -67,7 +73,9 @@
             "cf": "administer something to somebody",
             "x": "The dose was administered to the child intravenously."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiêm/cho uống",
+        "definition_vi": "cho thuốc, y học, v.v. cho ai đó"
       },
       {
         "definition": "to kick or to hit somebody/something",
@@ -76,7 +84,9 @@
             "cf": "",
             "x": "He administered a severe blow to his opponent's head."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh",
+        "definition_vi": "đá hoặc đánh ai đó/cái gì đó"
       }
     ]
   },
@@ -129,7 +139,9 @@
             "cf": "appointment for somebody to do something",
             "x": "She made an appointment for her son to see the doctor."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc hẹn",
+        "definition_vi": "một cuộc sắp xếp chính thức để gặp hoặc đến thăm ai đó vào một thời điểm cụ thể, đặc biệt là vì lý do liên quan đến công việc của họ"
       },
       {
         "definition": "the act of choosing a person for a job or position of responsibility; the fact of being chosen for a job, etc.",
@@ -154,7 +166,9 @@
             "cf": "",
             "x": "appointments and dismissals"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự bổ nhiệm",
+        "definition_vi": "hành động chọn một người cho một công việc hoặc vị trí có trách nhiệm; việc được chọn cho một công việc, v.v."
       },
       {
         "definition": "a job or position of responsibility",
@@ -171,7 +185,9 @@
             "cf": "",
             "x": "I would like to congratulate you on your appointment."
           }
-        ]
+        ],
+        "short_meaning_vi": "bổ nhiệm",
+        "definition_vi": "một công việc hoặc vị trí có trách nhiệm"
       },
       {
         "definition": "a person chosen for a job or position of responsibility",
@@ -180,7 +196,9 @@
             "cf": "",
             "x": "Government ministers and other political appointments are frequently replaced."
           }
-        ]
+        ],
+        "short_meaning_vi": "người được bổ nhiệm",
+        "definition_vi": "một người được chọn cho một công việc hoặc vị trí có trách nhiệm"
       }
     ]
   },
@@ -213,7 +231,9 @@
             "cf": "",
             "x": "The teacher assigned each of the children a different task."
           }
-        ]
+        ],
+        "short_meaning_vi": "giao phó",
+        "definition_vi": "giao cho ai đó thứ gì đó họ có thể sử dụng, hoặc một công việc hoặc trách nhiệm"
       },
       {
         "definition": "to provide a person for a particular task or position",
@@ -230,7 +250,9 @@
             "cf": "assign somebody to do something",
             "x": "British forces have been assigned to help with peacekeeping."
           }
-        ]
+        ],
+        "short_meaning_vi": "bổ nhiệm",
+        "definition_vi": "cung cấp một người cho một nhiệm vụ hoặc vị trí cụ thể"
       },
       {
         "definition": "to send a person to work under the authority of somebody or in a particular group",
@@ -243,7 +265,9 @@
             "cf": "",
             "x": "He was assigned to the Royal Canadian Navy in 1975."
           }
-        ]
+        ],
+        "short_meaning_vi": "phân công",
+        "definition_vi": "gửi một người làm việc dưới quyền của ai đó hoặc trong một nhóm cụ thể"
       },
       {
         "definition": "to say that something has a particular value or function, or happens at a particular time or place",
@@ -256,7 +280,9 @@
             "cf": "assign something sth",
             "x": "The painting cannot be assigned an exact date."
           }
-        ]
+        ],
+        "short_meaning_vi": "quy định",
+        "definition_vi": "nói rằng một cái gì đó có một giá trị hoặc chức năng cụ thể, hoặc xảy ra vào một thời điểm hoặc địa điểm cụ thể"
       },
       {
         "definition": "to say that your property or rights now belong to somebody else",
@@ -269,7 +295,9 @@
             "cf": "",
             "x": "She has assigned the lease to her daughter."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyển nhượng",
+        "definition_vi": "nói rằng tài sản hoặc quyền của bạn giờ đây thuộc về người khác"
       },
       {
         "definition": "to be said to have a particular gender when you are born",
@@ -278,7 +306,9 @@
             "cf": "",
             "x": "They were assigned male at birth but identify as female."
           }
-        ]
+        ],
+        "short_meaning_vi": "được chỉ định",
+        "definition_vi": "được cho là có một giới tính cụ thể khi sinh ra"
       }
     ]
   },
@@ -339,7 +369,9 @@
             "cf": "assist somebody to do something",
             "x": "a course to assist adults to return to the labour market"
           }
-        ]
+        ],
+        "short_meaning_vi": "giúp đỡ",
+        "definition_vi": "giúp ai đó làm điều gì đó"
       },
       {
         "definition": "to help something to happen more easily",
@@ -348,7 +380,9 @@
             "cf": "",
             "x": "activities that will assist the decision-making process"
           }
-        ]
+        ],
+        "short_meaning_vi": "hỗ trợ",
+        "definition_vi": "giúp một cái gì đó xảy ra dễ dàng hơn"
       }
     ]
   },
@@ -397,7 +431,9 @@
             "cf": "assistance in doing something/to do something",
             "x": "The company provides advice and assistance in finding work."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự giúp đỡ",
+        "definition_vi": "sự giúp đỡ hoặc hỗ trợ"
       }
     ]
   },
@@ -438,7 +474,9 @@
             "cf": "",
             "x": "5,000 people from around the world were invited to attend the conference."
           }
-        ]
+        ],
+        "short_meaning_vi": "tham dự",
+        "definition_vi": "có mặt tại một sự kiện"
       },
       {
         "definition": "to go regularly to a place",
@@ -463,7 +501,9 @@
             "cf": "",
             "x": "The child was failing to attend regularly at the school."
           }
-        ]
+        ],
+        "short_meaning_vi": "thường xuyên lui tới",
+        "definition_vi": "thường xuyên đến một địa điểm"
       },
       {
         "definition": "to pay attention to what somebody is saying or to what you are doing",
@@ -472,7 +512,9 @@
             "cf": "",
             "x": "She hadn't been attending during the lesson."
           }
-        ]
+        ],
+        "short_meaning_vi": "chú ý lắng nghe",
+        "definition_vi": "chú ý đến những gì ai đó đang nói hoặc những gì bạn đang làm"
       },
       {
         "definition": "to happen at the same time as something",
@@ -481,7 +523,9 @@
             "cf": "",
             "x": "She dislikes the loss of privacy that attends TV celebrity."
           }
-        ]
+        ],
+        "short_meaning_vi": "xảy ra đồng thời",
+        "definition_vi": "xảy ra đồng thời với một cái gì đó"
       },
       {
         "definition": "to be with somebody and help them",
@@ -490,7 +534,9 @@
             "cf": "",
             "x": "The president was attended by several members of his staff."
           }
-        ]
+        ],
+        "short_meaning_vi": "đi cùng",
+        "definition_vi": "ở cùng ai đó và giúp đỡ họ"
       }
     ]
   },
@@ -515,7 +561,9 @@
             "cf": "",
             "x": "Teachers must keep a record of students' attendances."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự có mặt",
+        "definition_vi": "hành động có mặt tại một địa điểm, ví dụ như ở trường"
       },
       {
         "definition": "the number of people present at an organized event",
@@ -532,7 +580,9 @@
             "cf": "",
             "x": "Cinema attendances have risen again recently."
           }
-        ]
+        ],
+        "short_meaning_vi": "số lượng người tham dự",
+        "definition_vi": "số lượng người có mặt tại một sự kiện có tổ chức"
       },
       {
         "definition": "to be present at a special event",
@@ -541,7 +591,9 @@
             "cf": "",
             "x": "Several heads of state were in attendance at the funeral."
           }
-        ]
+        ],
+        "short_meaning_vi": "tham dự sự kiện",
+        "definition_vi": "có mặt tại một sự kiện đặc biệt"
       },
       {
         "definition": "to be with or near somebody in order to help them if necessary",
@@ -554,11 +606,15 @@
             "cf": "",
             "x": "The ambulances were in attendance within 22 minutes."
           }
-        ]
+        ],
+        "short_meaning_vi": "có mặt để giúp đỡ",
+        "definition_vi": "ở cùng hoặc gần ai đó để giúp đỡ họ nếu cần"
       },
       {
         "definition": "to be with somebody and do things to help and please them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chăm sóc",
+        "definition_vi": "ở cùng ai đó và làm những việc để giúp đỡ và làm hài lòng họ"
       },
       {
         "definition": "to check who is present and who is not present at a place and to mark this information on a list of names",
@@ -567,7 +623,9 @@
             "cf": "",
             "x": "Mrs Sakamoto had finished taking attendance."
           }
-        ]
+        ],
+        "short_meaning_vi": "điểm danh",
+        "definition_vi": "kiểm tra xem ai có mặt và ai không có mặt tại một địa điểm và ghi lại thông tin này vào danh sách tên"
       }
     ]
   },
@@ -592,7 +650,9 @@
             "cf": "",
             "x": "All the staff should be involved in the decision-making process."
           }
-        ]
+        ],
+        "short_meaning_vi": "ra quyết định",
+        "definition_vi": "quá trình đưa ra quyết định về một việc quan trọng, đặc biệt là trong một nhóm người hoặc trong một tổ chức"
       }
     ]
   },
@@ -625,7 +685,9 @@
             "cf": "",
             "x": "A guard was posted outside the building."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "the act or duty of protecting property, places or people from attack or danger; the act or duty of preventing prisoners from escaping",
@@ -646,7 +708,9 @@
             "cf": "",
             "x": "The terrorist was kept under police guard."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "a group of people, such as soldiers or police officers, who protect somebody/something",
@@ -671,7 +735,9 @@
             "cf": "",
             "x": "The president always travels with an armed guard."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "(in the UK and some other countries) special regiments of soldiers whose original duty was to protect the king or queen",
@@ -684,7 +750,9 @@
             "cf": "",
             "x": "a Guards officer"
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "something that covers a part of a person’s body or a dangerous part of a machine to prevent injury",
@@ -697,11 +765,15 @@
             "cf": "",
             "x": "Ensure the guard is in place before operating the machine."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "conductor (= a person who is in charge of a train and travels with it, but does not drive it)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "a position you take to defend yourself, especially in a sport such as boxing or fencing",
@@ -714,15 +786,21 @@
             "cf": "",
             "x": "In spite of the awkward questions the minister never let his guard fall for a moment."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "one of the two players on a basketball team who are mainly responsible for staying close to players of the other team to stop them from scoring",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "one of the two players on an American football team who play either side of the centre forward",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "to be very careful and prepared for something difficult or dangerous",
@@ -731,7 +809,9 @@
             "cf": "",
             "x": "He was always on his guard against moneymaking schemes."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "to stop being careful and preparing yourself for possible danger or difficulty",
@@ -744,7 +824,9 @@
             "cf": "",
             "x": "Even when he's winning, he never drops his guard."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "to watch or protect somebody/something",
@@ -757,7 +839,9 @@
             "cf": "",
             "x": "One of the men kept guard, while the other broke into the house."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       },
       {
         "definition": "not careful or prepared for something difficult or dangerous",
@@ -766,7 +850,9 @@
             "cf": "",
             "x": "The lawyer’s apparently innocent question was designed to catch the witness off (his) guard."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo vệ",
+        "definition_vi": "bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm"
       }
     ]
   },
@@ -787,7 +873,9 @@
             "cf": "",
             "x": "The government has drawn up guidelines for schools during a pandemic."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguyên tắc",
+        "definition_vi": "một bộ quy tắc hoặc hướng dẫn được đưa ra bởi một tổ chức chính thức hướng dẫn bạn cách thực hiện một việc gì đó, đặc biệt là một việc khó khăn"
       },
       {
         "definition": "something that can be used to help you make a decision or form an opinion",
@@ -796,7 +884,9 @@
             "cf": "",
             "x": "The figures are a useful guideline when buying a house."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiêu chí",
+        "definition_vi": "một cái gì đó có thể được sử dụng để giúp bạn đưa ra quyết định hoặc hình thành ý kiến"
       }
     ]
   },
@@ -829,7 +919,9 @@
             "cf": "",
             "x": "The workers voted to withdraw their labour (= to stop work as a means of protest)."
           }
-        ]
+        ],
+        "short_meaning_vi": "lao động",
+        "definition_vi": "công việc, đặc biệt là công việc chân tay"
       },
       {
         "definition": "a task or period of work",
@@ -842,7 +934,9 @@
             "cf": "",
             "x": "People look forward to enjoying the fruits of their labours during retirement."
           }
-        ]
+        ],
+        "short_meaning_vi": "công việc",
+        "definition_vi": "một nhiệm vụ hoặc giai đoạn làm việc"
       },
       {
         "definition": "the people who work or are available for work in a country or company",
@@ -871,7 +965,9 @@
             "cf": "",
             "x": "good labour relations (= the relationship between workers and employers)"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhân công",
+        "definition_vi": "những người làm việc hoặc có sẵn để làm việc trong một quốc gia hoặc công ty"
       },
       {
         "definition": "the period of time or the process of giving birth to a baby",
@@ -892,7 +988,9 @@
             "cf": "",
             "x": "It was a difficult labour."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyển dạ",
+        "definition_vi": "khoảng thời gian hoặc quá trình sinh con"
       },
       {
         "definition": "the British Labour Party",
@@ -905,7 +1003,9 @@
             "cf": "",
             "x": "Labour was/were in power for many years."
           }
-        ]
+        ],
+        "short_meaning_vi": "Đảng Lao động",
+        "definition_vi": "Đảng Lao động Anh"
       },
       {
         "definition": "a hard task that you do because you want to, not because it is necessary",
@@ -914,7 +1014,9 @@
             "cf": "",
             "x": "Writing the book was a labour of love."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhiệm vụ khó khăn",
+        "definition_vi": "một nhiệm vụ khó khăn mà bạn làm vì bạn muốn, không phải vì nó cần thiết"
       }
     ]
   },
@@ -951,7 +1053,9 @@
             "cf": "",
             "x": "The lead car is now three minutes ahead of the rest of the field."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "the amount or distance that somebody/something is in front of somebody/something else",
@@ -976,7 +1080,9 @@
             "cf": "",
             "x": "An own goal from United gave Chelsea an early two-goal lead in the 11th minute. "
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "an example or action for people to copy",
@@ -993,7 +1099,9 @@
             "cf": "",
             "x": "You go first—I'll take my lead from you."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "a piece of information that may help to find out the truth or facts about a situation, especially a crime",
@@ -1002,7 +1110,9 @@
             "cf": "",
             "x": "The police will follow up all possible leads."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "a person or thing that may be useful to you, especially a possible new customer or business opportunity",
@@ -1011,7 +1121,9 @@
             "cf": "",
             "x": "The marketing campaign generated hundreds of new leads."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "the main part in a play, film, etc.; the person who plays this part",
@@ -1036,7 +1148,9 @@
             "cf": "",
             "x": "the band's lead guitarist"
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "the person in charge of a project, department, etc.",
@@ -1053,7 +1167,9 @@
             "cf": "",
             "x": "He will become the lead presenter of the show from next month. "
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "the first sentence or paragraph of a news story, giving the most important points of the story",
@@ -1062,7 +1178,9 @@
             "cf": "",
             "x": "Check out this lead from Monday's front page story:…"
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "a long piece of leather, chain or rope used for holding and controlling a dog",
@@ -1071,11 +1189,15 @@
             "cf": "on a lead",
             "x": "Dogs must be kept on a lead in the park."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "a long piece of wire, usually covered in plastic, that is used to connect a piece of electrical equipment to a source of electricity",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       },
       {
         "definition": "to fail to emphasize the most important part of a story or account",
@@ -1084,7 +1206,9 @@
             "cf": "",
             "x": "Unfortunately, he buried the lede in the last paragraph of the story."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn đường",
+        "definition_vi": "đi cùng hoặc đi trước một người hoặc động vật để chỉ đường hoặc để họ đi đúng hướng"
       }
     ]
   },
@@ -1133,7 +1257,9 @@
             "cf": "",
             "x": "She's a born leader."
           }
-        ]
+        ],
+        "short_meaning_vi": "người lãnh đạo",
+        "definition_vi": "một người dẫn dắt một nhóm người, đặc biệt là người đứng đầu một quốc gia, một tổ chức, v.v."
       },
       {
         "definition": "a person or thing that is the best, or in first place in a race, business, etc.",
@@ -1146,15 +1272,21 @@
             "cf": "",
             "x": "The company has emerged as a world leader in the field of precision engineering. "
           }
-        ]
+        ],
+        "short_meaning_vi": "người dẫn đầu",
+        "definition_vi": "một người hoặc một thứ đứng đầu, hoặc ở vị trí dẫn đầu trong một cuộc đua, kinh doanh, v.v."
       },
       {
         "definition": "the most important violin player in an orchestra",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhạc trưởng violin",
+        "definition_vi": "người chơi violin quan trọng nhất trong một dàn nhạc"
       },
       {
         "definition": "an important article in a newspaper that expresses the editor's opinion about an item of news or an issue; in the US also a comment on radio or television that expresses the opinion of the station or network",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bài xã luận",
+        "definition_vi": "một bài báo quan trọng trên báo thể hiện ý kiến của biên tập viên về một tin tức hoặc một vấn đề; ở Mỹ cũng là một bài bình luận trên radio hoặc truyền hình thể hiện ý kiến của đài hoặc mạng lưới"
       }
     ]
   },
@@ -1191,7 +1323,9 @@
             "cf": "under somebody's leadership",
             "x": "The party thrived under his leadership."
           }
-        ]
+        ],
+        "short_meaning_vi": "chức lãnh đạo",
+        "definition_vi": "trạng thái hoặc vị trí của một nhà lãnh đạo"
       },
       {
         "definition": "the ability to be a leader or the qualities a good leader should have",
@@ -1220,7 +1354,9 @@
             "cf": "leadership in doing something",
             "x": "She criticized the industrialized nations for failing to provide leadership in tackling climate change."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả năng lãnh đạo",
+        "definition_vi": "khả năng trở thành một nhà lãnh đạo hoặc những phẩm chất mà một nhà lãnh đạo giỏi nên có"
       },
       {
         "definition": "a group of leaders of a particular organization, etc.",
@@ -1229,7 +1365,9 @@
             "cf": "",
             "x": "The party leadership is/are divided."
           }
-        ]
+        ],
+        "short_meaning_vi": "ban lãnh đạo",
+        "definition_vi": "một nhóm các nhà lãnh đạo của một tổ chức cụ thể, v.v."
       }
     ]
   },
@@ -1274,7 +1412,9 @@
             "cf": "",
             "x": "The leading causes of death are heart disease and cancer."
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng đầu",
+        "definition_vi": "quan trọng nhất hoặc thành công nhất"
       },
       {
         "definition": "ahead of others in a race or contest",
@@ -1287,7 +1427,9 @@
             "cf": "",
             "x": "These are the leading first-round scores."
           }
-        ]
+        ],
+        "short_meaning_vi": "dẫn trước",
+        "definition_vi": "vượt lên trước những người khác trong một cuộc đua hoặc cuộc thi"
       }
     ]
   },
@@ -1324,7 +1466,9 @@
             "cf": "",
             "x": "to maintain prices (= prevent them from falling or rising)"
           }
-        ]
+        ],
+        "short_meaning_vi": "duy trì",
+        "definition_vi": "làm cho một cái gì đó tiếp tục ở cùng một mức độ, tiêu chuẩn, v.v."
       },
       {
         "definition": "to keep a building, a machine, etc. in good condition by checking or repairing it regularly",
@@ -1333,7 +1477,9 @@
             "cf": "",
             "x": "The house is large and difficult to maintain."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo trì",
+        "definition_vi": "giữ cho một tòa nhà, một cỗ máy, v.v. ở tình trạng tốt bằng cách kiểm tra hoặc sửa chữa nó thường xuyên"
       },
       {
         "definition": "to support somebody/something over a long period of time by giving money, paying for food, etc.",
@@ -1342,7 +1488,9 @@
             "cf": "",
             "x": "Her income was barely enough to maintain one child, let alone three."
           }
-        ]
+        ],
+        "short_meaning_vi": "cung cấp",
+        "definition_vi": "hỗ trợ ai đó/điều gì đó trong một thời gian dài bằng cách cung cấp tiền, chi trả thức ăn, v.v."
       },
       {
         "definition": "to keep stating that something is true, even though other people do not agree or do not believe it",
@@ -1363,7 +1511,9 @@
             "cf": "+ speech",
             "x": "‘But I'm innocent!’ she maintained."
           }
-        ]
+        ],
+        "short_meaning_vi": "khẳng định",
+        "definition_vi": "tiếp tục khẳng định rằng một điều gì đó là đúng, mặc dù những người khác không đồng ý hoặc không tin điều đó"
       }
     ]
   },
@@ -1388,7 +1538,9 @@
             "cf": "",
             "x": "car maintenance"
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo trì",
+        "definition_vi": "hành động giữ cho một cái gì đó ở tình trạng tốt bằng cách kiểm tra hoặc sửa chữa nó thường xuyên"
       },
       {
         "definition": "the act of making a state or situation continue",
@@ -1397,7 +1549,9 @@
             "cf": "",
             "x": "the maintenance of international peace"
           }
-        ]
+        ],
+        "short_meaning_vi": "duy trì",
+        "definition_vi": "hành động làm cho một trạng thái hoặc tình huống tiếp tục"
       },
       {
         "definition": "the money needed for somebody's living expenses; the act of providing this money",
@@ -1406,7 +1560,9 @@
             "cf": "",
             "x": "Most students need to take out loans for maintenance as well as tuition fees."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền cấp dưỡng",
+        "definition_vi": "tiền cần thiết cho chi phí sinh hoạt của ai đó; hành động cung cấp số tiền này"
       },
       {
         "definition": "money that somebody must pay regularly to their former wife, husband or partner, especially when they have had children together",
@@ -1419,7 +1575,9 @@
             "cf": "",
             "x": "a maintenance order (= given by a court of law)"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền cấp dưỡng",
+        "definition_vi": "tiền mà ai đó phải trả thường xuyên cho vợ cũ, chồng cũ hoặc bạn đời của mình, đặc biệt là khi họ có con với nhau"
       }
     ]
   },
@@ -1456,7 +1614,9 @@
             "cf": "",
             "x": "We need people who are good at managing."
           }
-        ]
+        ],
+        "short_meaning_vi": "quản lý",
+        "definition_vi": "để kiểm soát hoặc phụ trách một doanh nghiệp, một đội, một tổ chức, đất đai, v.v."
       },
       {
         "definition": "to succeed in doing something, especially something difficult",
@@ -1497,7 +1657,9 @@
             "cf": "",
             "x": "‘Need any help?’ ‘No, thanks. I can manage.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "xoay sở",
+        "definition_vi": "để thành công trong việc làm điều gì đó, đặc biệt là điều gì đó khó khăn"
       },
       {
         "definition": "to succeed in achieving or producing something ",
@@ -1510,7 +1672,9 @@
             "cf": "",
             "x": "Davies manages light humour without seeming silly."
           }
-        ]
+        ],
+        "short_meaning_vi": "đạt được",
+        "definition_vi": "để thành công trong việc đạt được hoặc tạo ra một cái gì đó"
       },
       {
         "definition": "to be able to solve your problems, deal with a difficult situation, etc.",
@@ -1531,7 +1695,9 @@
             "cf": "",
             "x": "I don’t know how she manages on her own with four kids."
           }
-        ]
+        ],
+        "short_meaning_vi": "giải quyết vấn đề",
+        "definition_vi": "để có thể giải quyết vấn đề của bạn, đối phó với một tình huống khó khăn, v.v."
       },
       {
         "definition": "to be able to live or survive without having much money, support, sleep, etc.",
@@ -1560,7 +1726,9 @@
             "cf": "manage with something",
             "x": "Everyone will just have to manage with less."
           }
-        ]
+        ],
+        "short_meaning_vi": "cầm cự",
+        "definition_vi": "để có thể sống hoặc tồn tại mà không có nhiều tiền, sự hỗ trợ, giấc ngủ, v.v."
       },
       {
         "definition": "to use money, time, information, etc. in a sensible way",
@@ -1577,7 +1745,9 @@
             "cf": "",
             "x": "This enables pension funds to manage risk."
           }
-        ]
+        ],
+        "short_meaning_vi": "sử dụng hợp lý",
+        "definition_vi": "để sử dụng tiền, thời gian, thông tin, v.v. một cách hợp lý"
       },
       {
         "definition": "to be able to do something at a particular time",
@@ -1586,7 +1756,9 @@
             "cf": "",
             "x": "Let's meet up again—can you manage next week sometime?"
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp xếp được",
+        "definition_vi": "để có thể làm điều gì đó vào một thời điểm cụ thể"
       },
       {
         "definition": "to keep somebody/something under control; to be able to deal with somebody/something",
@@ -1607,7 +1779,9 @@
             "cf": "",
             "x": "I really liked the chapter about how to manage stress."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm soát",
+        "definition_vi": "để giữ ai đó/cái gì đó dưới sự kiểm soát; để có thể đối phó với ai đó/cái gì đó"
       },
       {
         "definition": "to control how land is used, so that it is used in a sensible way",
@@ -1620,7 +1794,9 @@
             "cf": "",
             "x": "All the timber comes from sustainably managed forests."
           }
-        ]
+        ],
+        "short_meaning_vi": "quản lý đất đai",
+        "definition_vi": "để kiểm soát cách sử dụng đất, sao cho nó được sử dụng một cách hợp lý"
       }
     ]
   },
@@ -1665,7 +1841,9 @@
             "cf": "",
             "x": "If you have any questions, speak to your manager."
           }
-        ]
+        ],
+        "short_meaning_vi": "người quản lý",
+        "definition_vi": "một người chịu trách nhiệm điều hành một doanh nghiệp, một cửa hàng hoặc một tổ chức tương tự hoặc một phần của nó"
       },
       {
         "definition": "a person who deals with the business affairs of an actor, a musician, etc.",
@@ -1678,7 +1856,9 @@
             "cf": "",
             "x": "The band's manager said that the gig sold out in hours."
           }
-        ]
+        ],
+        "short_meaning_vi": "người đại diện",
+        "definition_vi": "một người xử lý các vấn đề kinh doanh của một diễn viên, một nhạc sĩ, v.v."
       },
       {
         "definition": "a person who trains and organizes a sports team",
@@ -1691,7 +1871,9 @@
             "cf": "",
             "x": "He will be the club's caretaker manager until a new manager is appointed."
           }
-        ]
+        ],
+        "short_meaning_vi": "huấn luyện viên",
+        "definition_vi": "một người huấn luyện và tổ chức một đội thể thao"
       },
       {
         "definition": "a person who is good at managing resources",
@@ -1704,7 +1886,9 @@
             "cf": "",
             "x": "TV ads depicted the candidate as a would-be efficient manager of the US economy."
           }
-        ]
+        ],
+        "short_meaning_vi": "người quản lý tài nguyên",
+        "definition_vi": "một người giỏi quản lý tài nguyên"
       }
     ]
   },
@@ -1725,11 +1909,15 @@
             "cf": "",
             "x": "a car/motor mechanic"
           }
-        ]
+        ],
+        "short_meaning_vi": "thợ máy",
+        "definition_vi": "một người có công việc sửa chữa máy móc, đặc biệt là động cơ của xe cộ"
       },
       {
         "definition": "the science of movement and force",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cơ học",
+        "definition_vi": "khoa học về chuyển động và lực"
       },
       {
         "definition": "the practical study of machines",
@@ -1738,7 +1926,9 @@
             "cf": "",
             "x": "the school’s car maintenance department where students learn basic mechanics"
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ khí",
+        "definition_vi": "nghiên cứu thực tế về máy móc"
       },
       {
         "definition": "the working parts of a machine",
@@ -1747,7 +1937,9 @@
             "cf": "",
             "x": "He looks at the mechanics of a car before the bodywork."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ phận cơ khí",
+        "definition_vi": "các bộ phận hoạt động của một máy móc"
       },
       {
         "definition": "the way something works or is done",
@@ -1756,7 +1948,9 @@
             "cf": "",
             "x": "The exact mechanics of how payment will be made will be decided later."
           }
-        ]
+        ],
+        "short_meaning_vi": "cách thức hoạt động",
+        "definition_vi": "cách thức hoạt động hoặc được thực hiện của một cái gì đó"
       }
     ]
   },
@@ -1841,7 +2035,9 @@
             "cf": "",
             "x": "They rely on videoconferencing for virtual meetings."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc họp",
+        "definition_vi": "một dịp mọi người tụ tập để thảo luận hoặc quyết định điều gì đó"
       },
       {
         "definition": "the people at a meeting",
@@ -1862,7 +2058,9 @@
             "cf": "",
             "x": "Mr Wade told the meeting that a one-way system would make the town safer."
           }
-        ]
+        ],
+        "short_meaning_vi": "những người tham dự",
+        "definition_vi": "những người tại một cuộc họp"
       },
       {
         "definition": "a situation in which two or more people meet together, because they have arranged it or by chance",
@@ -1887,7 +2085,9 @@
             "cf": "meeting with somebody",
             "x": "This was only my second meeting with him."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc gặp gỡ",
+        "definition_vi": "một tình huống mà hai hoặc nhiều người gặp nhau, vì họ đã sắp xếp hoặc tình cờ"
       },
       {
         "definition": "a sports event or set of races, especially for horses",
@@ -1904,7 +2104,9 @@
             "cf": "",
             "x": "The horse has won at all of his previous meetings this season."
           }
-        ]
+        ],
+        "short_meaning_vi": "giải đấu",
+        "definition_vi": "một sự kiện thể thao hoặc một loạt các cuộc đua, đặc biệt là đối với ngựa"
       },
       {
         "definition": "an occasion when people, especially Quakers, come together for worship",
@@ -1913,7 +2115,9 @@
             "cf": "",
             "x": "Quaker meetings are held here every week."
           }
-        ]
+        ],
+        "short_meaning_vi": "buổi lễ",
+        "definition_vi": "một dịp mọi người, đặc biệt là những người Quaker, tụ tập để thờ phượng"
       },
       {
         "definition": "a close understanding between people with similar ideas, especially when they meet to do something or meet for the first time",
@@ -1922,7 +2126,9 @@
             "cf": "",
             "x": "a meeting of minds between the two artists"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thấu hiểu",
+        "definition_vi": "sự thấu hiểu sâu sắc giữa những người có ý tưởng tương tự, đặc biệt là khi họ gặp nhau để làm điều gì đó hoặc gặp nhau lần đầu tiên"
       }
     ]
   },
@@ -1947,7 +2153,9 @@
             "cf": "memo to somebody",
             "x": "She circulated a memo to the staff."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản ghi nhớ",
+        "definition_vi": "một ghi chú chính thức từ người này đến người khác trong cùng một tổ chức"
       }
     ]
   },
@@ -1968,7 +2176,9 @@
             "cf": "",
             "x": "Rescuers are trying to save miners trapped underground after a gas explosion."
           }
-        ]
+        ],
+        "short_meaning_vi": "thợ mỏ",
+        "definition_vi": "một người làm việc trong mỏ để khai thác than, vàng, kim cương, v.v."
       }
     ]
   },
@@ -1993,7 +2203,9 @@
             "cf": "",
             "x": "Costs were minimized by using plastic instead of leather."
           }
-        ]
+        ],
+        "short_meaning_vi": "giảm thiểu",
+        "definition_vi": "giảm bớt điều gì đó, đặc biệt là điều xấu, xuống mức thấp nhất có thể"
       },
       {
         "definition": "to try to make something seem less important than it really is",
@@ -2002,7 +2214,9 @@
             "cf": "",
             "x": "He always tried to minimize his own faults, while exaggerating those of others."
           }
-        ]
+        ],
+        "short_meaning_vi": "hạ thấp tầm quan trọng",
+        "definition_vi": "cố gắng làm cho điều gì đó có vẻ kém quan trọng hơn so với thực tế"
       },
       {
         "definition": "to make something small, especially on a computer screen",
@@ -2011,7 +2225,9 @@
             "cf": "",
             "x": "Minimize any windows you have open."
           }
-        ]
+        ],
+        "short_meaning_vi": "thu nhỏ",
+        "definition_vi": "làm cho cái gì đó nhỏ lại, đặc biệt là trên màn hình máy tính"
       }
     ]
   },
@@ -2036,7 +2252,9 @@
             "cf": "",
             "x": "sales/technical/medical/security/military, etc. personnel"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhân sự",
+        "definition_vi": "những người làm việc cho một tổ chức hoặc một trong các lực lượng vũ trang"
       },
       {
         "definition": "the department in a company that deals with employing and training people",
@@ -2053,7 +2271,9 @@
             "cf": "",
             "x": "Personnel is/are currently reviewing pay scales."
           }
-        ]
+        ],
+        "short_meaning_vi": "phòng nhân sự",
+        "definition_vi": "bộ phận trong công ty xử lý việc tuyển dụng và đào tạo nhân viên"
       }
     ]
   },
@@ -2086,7 +2306,9 @@
             "cf": "",
             "x": "Photographer Darren Kidd captured the unique atmosphere of the event."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhiếp ảnh gia",
+        "definition_vi": "người chụp ảnh, đặc biệt là làm nghề này"
       }
     ]
   },
@@ -2123,19 +2345,27 @@
             "cf": "",
             "x": "He has his own plane and a pilot's licence. "
           }
-        ]
+        ],
+        "short_meaning_vi": "phi công",
+        "definition_vi": "người điều khiển các bộ phận của máy bay, đặc biệt là một nghề nghiệp."
       },
       {
         "definition": "a person with special knowledge of a difficult area of water, for example, the entrance to a harbour, whose job is to guide ships through it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hoa tiêu",
+        "definition_vi": "người có kiến thức chuyên môn về một khu vực nước khó khăn, ví dụ như lối vào cảng, có nhiệm vụ hướng dẫn tàu thuyền đi qua đó."
       },
       {
         "definition": "a single television programme that is made in order to find out whether people will like it and want to watch further programmes",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tập phim thí điểm",
+        "definition_vi": "một chương trình truyền hình đơn lẻ được sản xuất để xem liệu khán giả có thích nó và muốn xem các chương trình tiếp theo hay không."
       },
       {
         "definition": "a small flame that burns all the time, for example on a gas boiler, and lights a larger flame when the gas is turned on",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngọn lửa mồi",
+        "definition_vi": "một ngọn lửa nhỏ cháy liên tục, ví dụ trên nồi hơi gas, và đốt cháy ngọn lửa lớn hơn khi gas được bật."
       }
     ]
   },
@@ -2160,7 +2390,9 @@
             "cf": "",
             "x": "placement with a foster family"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự sắp xếp",
+        "definition_vi": "hành động tìm cho ai đó một công việc hoặc nơi ở phù hợp"
       },
       {
         "definition": "a job, often as part of a course of study, where you get some experience of a particular kind of work",
@@ -2173,7 +2405,9 @@
             "cf": "on placement",
             "x": "The third year is spent on placement in selected companies."
           }
-        ]
+        ],
+        "short_meaning_vi": "thực tập",
+        "definition_vi": "một công việc, thường là một phần của khóa học, nơi bạn có được kinh nghiệm về một loại công việc cụ thể"
       },
       {
         "definition": "the act of placing something somewhere",
@@ -2182,7 +2416,9 @@
             "cf": "",
             "x": "This procedure ensures correct placement of the catheter."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đặt",
+        "definition_vi": "hành động đặt một cái gì đó ở đâu đó"
       }
     ]
   },
@@ -2215,7 +2451,9 @@
             "cf": "",
             "x": "We are currently in the planning stages."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hoạch định",
+        "definition_vi": "hành động hoặc quá trình lập kế hoạch cho một cái gì đó"
       },
       {
         "definition": "the control of the development of towns and their buildings, roads, etc. so that they can be pleasant and convenient places for people to live in",
@@ -2232,7 +2470,9 @@
             "cf": "",
             "x": "The plans were considered by the local planning authority."
           }
-        ]
+        ],
+        "short_meaning_vi": "quy hoạch đô thị",
+        "definition_vi": "sự kiểm soát sự phát triển của các thị trấn và các tòa nhà, đường sá, v.v. của chúng để chúng có thể là những nơi dễ chịu và thuận tiện cho mọi người sinh sống"
       }
     ]
   },
@@ -2269,7 +2509,9 @@
             "cf": "",
             "x": "The hotel stands in an elevated position looking out over the lake."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "the place where somebody/something is meant to be; the correct place",
@@ -2290,7 +2532,9 @@
             "cf": "",
             "x": "She was learning to change her hand from first to third position (= on the strings of a violin)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "the way in which somebody is sitting or standing, or the way in which something is arranged",
@@ -2319,7 +2563,9 @@
             "cf": "",
             "x": "She moved the seat into a reclining position."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "the situation that somebody is in, especially when it affects what they can and cannot do",
@@ -2356,7 +2602,9 @@
             "cf": "",
             "x": "You are in no position to complain."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "an opinion on or an attitude towards a particular subject",
@@ -2377,7 +2625,9 @@
             "cf": "position that…",
             "x": "My parents always took the position that early nights meant healthy children."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "a person or organization’s level of importance when compared with others",
@@ -2398,7 +2648,9 @@
             "cf": "",
             "x": "Wealth and position (= high social status) were not important to her."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "a job",
@@ -2419,7 +2671,9 @@
             "cf": "",
             "x": "We need more women in leadership positions."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "a place in a race, competition, or test, when compared to others",
@@ -2428,7 +2682,9 @@
             "cf": "",
             "x": "United's 3–0 win moved them up to third position."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "the place where somebody plays and the responsibilities they have in some team games",
@@ -2441,7 +2697,9 @@
             "cf": "",
             "x": "Nakata had to play out of position when the defender was injured."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       },
       {
         "definition": "a place where a group of people involved in fighting have put men and guns",
@@ -2454,7 +2712,9 @@
             "cf": "",
             "x": "The defence stuck firmly to its position."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt",
+        "definition_vi": "đặt ai đó/cái gì đó vào một vị trí cụ thể"
       }
     ]
   },
@@ -2479,7 +2739,9 @@
             "cf": "",
             "x": "a qualified practitioner"
           }
-        ]
+        ],
+        "short_meaning_vi": "người hành nghề",
+        "definition_vi": "một người làm việc trong một ngành nghề, đặc biệt là y học hoặc luật"
       },
       {
         "definition": "a person who regularly does a particular activity, especially one that requires skill",
@@ -2488,7 +2750,9 @@
             "cf": "",
             "x": "one of the greatest practitioners of science fiction"
           }
-        ]
+        ],
+        "short_meaning_vi": "người thực hành",
+        "definition_vi": "một người thường xuyên thực hiện một hoạt động cụ thể, đặc biệt là hoạt động đòi hỏi kỹ năng"
       }
     ]
   },
@@ -2517,7 +2781,9 @@
             "cf": "",
             "x": "my predecessor at the Ministry of Defence"
           }
-        ]
+        ],
+        "short_meaning_vi": "người tiền nhiệm",
+        "definition_vi": "một người đã làm một công việc trước người khác"
       },
       {
         "definition": "a thing, such as a machine, that has been followed or replaced by something else",
@@ -2526,7 +2792,9 @@
             "cf": "",
             "x": "This computer has a larger memory than its predecessor."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền thân",
+        "definition_vi": "một thứ, chẳng hạn như máy móc, đã được thay thế hoặc kế nhiệm bởi một thứ khác"
       }
     ]
   },
@@ -2579,7 +2847,9 @@
             "cf": "",
             "x": "The department must start setting priorities."
           }
-        ]
+        ],
+        "short_meaning_vi": "ưu tiên",
+        "definition_vi": "một điều mà bạn cho là quan trọng hơn những điều khác và nên được giải quyết trước"
       },
       {
         "definition": "the most important place among various things that have to be done or among a group of people",
@@ -2600,7 +2870,9 @@
             "cf": "",
             "x": "Priority cases, such as homeless families, get dealt with first."
           }
-        ]
+        ],
+        "short_meaning_vi": "ưu tiên",
+        "definition_vi": "vị trí quan trọng nhất trong số các việc phải làm hoặc trong một nhóm người"
       },
       {
         "definition": "the right of a vehicle to go before other traffic at a particular place on a road",
@@ -2609,7 +2881,9 @@
             "cf": "",
             "x": "Buses have priority at this junction."
           }
-        ]
+        ],
+        "short_meaning_vi": "quyền ưu tiên",
+        "definition_vi": "quyền của một phương tiện giao thông được đi trước các phương tiện khác tại một địa điểm cụ thể trên đường"
       }
     ]
   },
@@ -2658,7 +2932,9 @@
             "cf": "according to a procedure",
             "x": "All experiments were performed according to standard procedures."
           }
-        ]
+        ],
+        "short_meaning_vi": "thủ tục",
+        "definition_vi": "một cách để làm một việc gì đó, đặc biệt là cách thông thường hoặc đúng đắn"
       },
       {
         "definition": "the official or formal order or way of doing something, especially in business, law or politics",
@@ -2667,7 +2943,9 @@
             "cf": "",
             "x": "court/legal/parliamentary procedure"
           }
-        ]
+        ],
+        "short_meaning_vi": "quy trình",
+        "definition_vi": "thứ tự hoặc cách thức chính thức hoặc trang trọng để làm một việc gì đó, đặc biệt là trong kinh doanh, luật pháp hoặc chính trị"
       },
       {
         "definition": "a medical operation",
@@ -2680,7 +2958,9 @@
             "cf": "",
             "x": "to perform/undergo a procedure"
           }
-        ]
+        ],
+        "short_meaning_vi": "ca phẫu thuật",
+        "definition_vi": "một ca phẫu thuật y tế"
       }
     ]
   },
@@ -2709,7 +2989,9 @@
             "cf": "",
             "x": "He left detailed instructions about the best way to proceed."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếp tục",
+        "definition_vi": "tiếp tục làm một việc đã bắt đầu; tiếp tục được thực hiện"
       },
       {
         "definition": "to do something next, after having done something else first",
@@ -2722,7 +3004,9 @@
             "cf": "",
             "x": "Having said she wasn't hungry, she then proceeded to order a three-course meal."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiến hành",
+        "definition_vi": "làm điều gì đó tiếp theo, sau khi đã làm điều gì đó khác trước đó"
       },
       {
         "definition": "to move or travel in a particular direction",
@@ -2735,7 +3019,9 @@
             "cf": "",
             "x": "Passengers for Rome should proceed to Gate 32 for boarding."
           }
-        ]
+        ],
+        "short_meaning_vi": "di chuyển",
+        "definition_vi": "di chuyển hoặc đi theo một hướng cụ thể"
       }
     ]
   },
@@ -2796,7 +3082,9 @@
             "cf": "in the process",
             "x": "I was moving some furniture and I twisted my ankle in the process (= while I was doing it)."
           }
-        ]
+        ],
+        "short_meaning_vi": "chế biến",
+        "definition_vi": "xử lý nguyên liệu thô, thực phẩm, v.v. để thay đổi, bảo quản, v.v."
       },
       {
         "definition": "a series of things that happen, especially ones that result in natural changes",
@@ -2817,7 +3105,9 @@
             "cf": "",
             "x": "Everything is in a process of change."
           }
-        ]
+        ],
+        "short_meaning_vi": "chế biến",
+        "definition_vi": "xử lý nguyên liệu thô, thực phẩm, v.v. để thay đổi, bảo quản, v.v."
       },
       {
         "definition": "a method of doing or making something, especially one that is used in industry",
@@ -2834,7 +3124,9 @@
             "cf": "process for doing something",
             "x": "a new process for rustproofing car bodies"
           }
-        ]
+        ],
+        "short_meaning_vi": "chế biến",
+        "definition_vi": "xử lý nguyên liệu thô, thực phẩm, v.v. để thay đổi, bảo quản, v.v."
       }
     ]
   },
@@ -2867,7 +3159,9 @@
             "cf": "",
             "x": "The bush must be pruned to remain productive."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản xuất nông nghiệp",
+        "definition_vi": "sản xuất hàng hóa hoặc trồng trọt, đặc biệt là với số lượng lớn"
       },
       {
         "definition": "doing or achieving a lot",
@@ -2880,7 +3174,9 @@
             "cf": "",
             "x": "My time spent in the library was very productive."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiệu quả",
+        "definition_vi": "làm hoặc đạt được nhiều điều"
       },
       {
         "definition": "resulting in something or causing something",
@@ -2889,7 +3185,9 @@
             "cf": "",
             "x": "a play productive of the strongest emotions"
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh lời",
+        "definition_vi": "dẫn đến hoặc gây ra điều gì đó"
       }
     ]
   },
@@ -2918,7 +3216,9 @@
             "cf": "",
             "x": "the low agricultural productivity of the country"
           }
-        ]
+        ],
+        "short_meaning_vi": "năng suất",
+        "definition_vi": "tốc độ mà một công nhân, một công ty hoặc một quốc gia sản xuất hàng hóa, và số lượng sản xuất, so với lượng thời gian, công sức và tiền bạc cần thiết để sản xuất chúng"
       }
     ]
   },
@@ -2959,7 +3259,9 @@
             "cf": "by profession",
             "x": "He was a lawyer by profession."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghề nghiệp",
+        "definition_vi": "một loại công việc đòi hỏi đào tạo hoặc kỹ năng đặc biệt, đặc biệt là công việc đòi hỏi trình độ học vấn cao"
       },
       {
         "definition": "all the people who work in a particular type of profession",
@@ -2972,7 +3274,9 @@
             "cf": "",
             "x": "the licensing laws that regulate the profession"
           }
-        ]
+        ],
+        "short_meaning_vi": "giới chuyên môn",
+        "definition_vi": "tất cả những người làm việc trong một loại nghề nghiệp cụ thể"
       },
       {
         "definition": "the traditional jobs that need a high level of education and training, such as being a doctor or a lawyer",
@@ -2981,7 +3285,9 @@
             "cf": "",
             "x": "employment in industry and the professions"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên môn",
+        "definition_vi": "các công việc truyền thống đòi hỏi trình độ học vấn và đào tạo cao, chẳng hạn như bác sĩ hoặc luật sư"
       },
       {
         "definition": "a statement about what you believe, feel or think about something, that is sometimes made publicly",
@@ -2994,7 +3300,9 @@
             "cf": "",
             "x": "His professions of love did not seem sincere."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyên bố",
+        "definition_vi": "một tuyên bố về những gì bạn tin, cảm nhận hoặc suy nghĩ về điều gì đó, đôi khi được đưa ra công khai"
       }
     ]
   },
@@ -3031,7 +3339,9 @@
             "cf": "",
             "x": "I enjoyed boxing but I was never good enough to go professional."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên gia",
+        "definition_vi": "một người làm công việc đòi hỏi đào tạo đặc biệt và trình độ học vấn cao"
       },
       {
         "definition": "done as a paid job rather than as a hobby",
@@ -3044,7 +3354,9 @@
             "cf": "",
             "x": "the world of professional football"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên gia",
+        "definition_vi": "một người làm công việc đòi hỏi đào tạo đặc biệt và trình độ học vấn cao"
       },
       {
         "definition": "connected with a job that needs special training or skill, especially one that needs a high level of education",
@@ -3081,7 +3393,9 @@
             "cf": "",
             "x": "You must not let your personal reactions interfere with your professional judgement."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên gia",
+        "definition_vi": "một người làm công việc đòi hỏi đào tạo đặc biệt và trình độ học vấn cao"
       },
       {
         "definition": "having a job which needs special training and a high level of education",
@@ -3090,7 +3404,9 @@
             "cf": "",
             "x": "Most of the people on the course were professional women."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên gia",
+        "definition_vi": "một người làm công việc đòi hỏi đào tạo đặc biệt và trình độ học vấn cao"
       },
       {
         "definition": "showing that somebody is well trained and has a lot of skill",
@@ -3111,7 +3427,9 @@
             "cf": "professional in something",
             "x": "The consultant was very friendly but professional in her approach."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên gia",
+        "definition_vi": "một người làm công việc đòi hỏi đào tạo đặc biệt và trình độ học vấn cao"
       },
       {
         "definition": "connected with the standards that are expected in a particular profession",
@@ -3120,7 +3438,9 @@
             "cf": "",
             "x": "professional conduct/misconduct"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyên gia",
+        "definition_vi": "một người làm công việc đòi hỏi đào tạo đặc biệt và trình độ học vấn cao"
       }
     ]
   },
@@ -3149,7 +3469,9 @@
             "cf": "",
             "x": "The final term will be devoted to project work."
           }
-        ]
+        ],
+        "short_meaning_vi": "dự đoán",
+        "definition_vi": "ước tính quy mô, chi phí hoặc số lượng của một cái gì đó trong tương lai dựa trên những gì đang xảy ra hiện tại"
       },
       {
         "definition": "a planned piece of work that is designed to find information about something, to produce something new, or to improve something",
@@ -3194,7 +3516,9 @@
             "cf": "",
             "x": "a project manager/team"
           }
-        ]
+        ],
+        "short_meaning_vi": "dự đoán",
+        "definition_vi": "ước tính quy mô, chi phí hoặc số lượng của một cái gì đó trong tương lai dựa trên những gì đang xảy ra hiện tại"
       },
       {
         "definition": "a set of aims, ideas or activities that somebody is interested in or wants to bring to people’s attention",
@@ -3203,7 +3527,9 @@
             "cf": "",
             "x": "The party attempted to assemble its aims into a focused political project."
           }
-        ]
+        ],
+        "short_meaning_vi": "dự đoán",
+        "definition_vi": "ước tính quy mô, chi phí hoặc số lượng của một cái gì đó trong tương lai dựa trên những gì đang xảy ra hiện tại"
       },
       {
         "definition": "a group of houses or apartments built for poor families, usually with government money",
@@ -3212,7 +3538,9 @@
             "cf": "",
             "x": "I was raised in the projects."
           }
-        ]
+        ],
+        "short_meaning_vi": "dự đoán",
+        "definition_vi": "ước tính quy mô, chi phí hoặc số lượng của một cái gì đó trong tương lai dựa trên những gì đang xảy ra hiện tại"
       }
     ]
   },
@@ -3273,7 +3601,9 @@
             "cf": "",
             "x": "The Republicans in Congress will vote for the president's budget proposal."
           }
-        ]
+        ],
+        "short_meaning_vi": "đề xuất",
+        "definition_vi": "một đề xuất hoặc kế hoạch chính thức; hành động đưa ra một đề xuất"
       },
       {
         "definition": "an act of formally asking somebody to marry you",
@@ -3286,7 +3616,9 @@
             "cf": "",
             "x": "a marriage proposal"
           }
-        ]
+        ],
+        "short_meaning_vi": "lời cầu hôn",
+        "definition_vi": "hành động chính thức cầu hôn ai đó"
       }
     ]
   },
@@ -3359,7 +3691,9 @@
             "cf": "it is proposed to do something",
             "x": "It was proposed to pay the money from public funds."
           }
-        ]
+        ],
+        "short_meaning_vi": "đề nghị",
+        "definition_vi": "đề xuất một kế hoạch, một ý tưởng, v.v. để mọi người xem xét và quyết định"
       },
       {
         "definition": "to intend to do something",
@@ -3376,7 +3710,9 @@
             "cf": "",
             "x": "We do not propose to take any further action in the matter."
           }
-        ]
+        ],
+        "short_meaning_vi": "dự định",
+        "definition_vi": "có ý định làm điều gì đó"
       },
       {
         "definition": "to ask somebody to marry you",
@@ -3393,7 +3729,9 @@
             "cf": "propose something (to somebody)",
             "x": "to propose marriage"
           }
-        ]
+        ],
+        "short_meaning_vi": "cầu hôn",
+        "definition_vi": "cầu hôn ai đó"
       },
       {
         "definition": "to suggest something at a formal meeting and ask people to vote on it",
@@ -3410,7 +3748,9 @@
             "cf": "propose something",
             "x": "to propose a motion (= to be the main speaker in support of an idea at a formal debate)"
           }
-        ]
+        ],
+        "short_meaning_vi": "đề xuất bỏ phiếu",
+        "definition_vi": "đề xuất điều gì đó tại một cuộc họp chính thức và yêu cầu mọi người bỏ phiếu về nó"
       },
       {
         "definition": "to suggest an explanation of something for people to consider",
@@ -3419,7 +3759,9 @@
             "cf": "",
             "x": "She proposed a possible solution to the mystery."
           }
-        ]
+        ],
+        "short_meaning_vi": "đề xuất giải thích",
+        "definition_vi": "đề xuất một lời giải thích về điều gì đó để mọi người xem xét"
       },
       {
         "definition": "to ask people to wish somebody health, happiness and success by raising their glasses and drinking",
@@ -3428,7 +3770,9 @@
             "cf": "",
             "x": "I'd like to propose a toast to the bride and groom."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cốc chúc mừng",
+        "definition_vi": "yêu cầu mọi người chúc ai đó sức khỏe, hạnh phúc và thành công bằng cách nâng cốc và uống"
       }
     ]
   },
@@ -3485,7 +3829,9 @@
             "cf": "provide something to somebody",
             "x": "We provide financial support to low-income families."
           }
-        ]
+        ],
+        "short_meaning_vi": "cung cấp",
+        "definition_vi": "cung cấp cho ai đó một thứ gì đó mà họ cần hoặc muốn; hoặc làm cho nó có sẵn cho họ sử dụng"
       },
       {
         "definition": "to state that something will or must happen",
@@ -3494,7 +3840,9 @@
             "cf": "",
             "x": "The final section provides that any work produced for the company is thereafter owned by the company."
           }
-        ]
+        ],
+        "short_meaning_vi": "quy định",
+        "definition_vi": "nêu rõ rằng điều gì đó sẽ hoặc phải xảy ra"
       }
     ]
   },
@@ -3547,7 +3895,9 @@
             "cf": "",
             "x": "He continues to pursue a soft policy on crime."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo đuổi",
+        "definition_vi": "làm một điều gì đó hoặc cố gắng đạt được một điều gì đó trong một khoảng thời gian"
       },
       {
         "definition": "to continue to discuss, find out about or be involved in something",
@@ -3588,7 +3938,9 @@
             "cf": "pursue + speech",
             "x": "‘But’, he pursued, ‘you still haven't answered the question.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếp tục tìm hiểu",
+        "definition_vi": "tiếp tục thảo luận, tìm hiểu hoặc tham gia vào một cái gì đó"
       },
       {
         "definition": "to follow or go after somebody/something, especially in order to catch them",
@@ -3605,7 +3957,9 @@
             "cf": "",
             "x": "Jake has been pursuing her (= trying to have a relationship with her) for months."
           }
-        ]
+        ],
+        "short_meaning_vi": "truy đuổi",
+        "definition_vi": "đi theo hoặc đi sau ai đó/cái gì đó, đặc biệt là để bắt họ"
       }
     ]
   },
@@ -3630,7 +3984,9 @@
             "cf": "in pursuit of something",
             "x": "She travelled the world in pursuit of her dreams."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự theo đuổi",
+        "definition_vi": "hành động tìm kiếm hoặc cố gắng có được một thứ gì đó"
       },
       {
         "definition": "the act of following or going after somebody, especially in order to catch them",
@@ -3643,7 +3999,9 @@
             "cf": "",
             "x": "I galloped off on my horse with Rosie in hot pursuit (= following quickly behind)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự truy đuổi",
+        "definition_vi": "hành động đi theo hoặc đi sau ai đó, đặc biệt là để bắt họ"
       },
       {
         "definition": "something that you give your time and energy to, that you do as a hobby",
@@ -3652,7 +4010,9 @@
             "cf": "",
             "x": "outdoor/leisure/artistic pursuits"
           }
-        ]
+        ],
+        "short_meaning_vi": "sở thích",
+        "definition_vi": "thứ mà bạn dành thời gian và năng lượng của mình cho, mà bạn làm như một sở thích"
       }
     ]
   }

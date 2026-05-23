@@ -24,7 +24,9 @@
             "cf": "",
             "x": "Each house has acres of space around it (= a lot of space)."
           }
-        ]
+        ],
+        "short_meaning_vi": "mẫu Anh",
+        "definition_vi": "một đơn vị đo diện tích đất; 4.840 thước vuông hoặc khoảng 4.050 mét vuông"
       }
     ]
   },
@@ -49,7 +51,9 @@
             "cf": "",
             "x": "Why pick an area that's totally alien to you, with which you have no links at all?"
           }
-        ]
+        ],
+        "short_meaning_vi": "xa lạ, kỳ lạ",
+        "definition_vi": "lạ lẫm và đáng sợ; khác với những gì bạn đã quen"
       },
       {
         "definition": "from another country or society; foreign",
@@ -62,7 +66,9 @@
             "cf": "",
             "x": "alien influences that threatened their way of life"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngoại quốc",
+        "definition_vi": "từ một quốc gia hoặc xã hội khác; nước ngoài"
       },
       {
         "definition": "not usual or acceptable",
@@ -79,7 +85,9 @@
             "cf": "",
             "x": "Cruelty was quite alien to him."
           }
-        ]
+        ],
+        "short_meaning_vi": "không bình thường",
+        "definition_vi": "không bình thường hoặc không thể chấp nhận được"
       },
       {
         "definition": "connected with creatures from another world",
@@ -88,7 +96,9 @@
             "cf": "",
             "x": "alien beings from outer space"
           }
-        ]
+        ],
+        "short_meaning_vi": "người ngoài hành tinh",
+        "definition_vi": "liên quan đến sinh vật từ thế giới khác"
       }
     ]
   },
@@ -125,7 +135,9 @@
             "cf": "",
             "x": "Fish oils are less saturated than animal fats."
           }
-        ]
+        ],
+        "short_meaning_vi": "động vật",
+        "definition_vi": "một sinh vật không phải là chim, cá, bò sát, côn trùng hoặc con người"
       },
       {
         "definition": "any living thing that is not a plant or a human",
@@ -154,7 +166,9 @@
             "cf": "",
             "x": "the animal kingdom"
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh vật",
+        "definition_vi": "bất kỳ sinh vật sống nào không phải là thực vật hoặc con người"
       },
       {
         "definition": "any living creature, including humans",
@@ -163,7 +177,9 @@
             "cf": "",
             "x": "Humans are the only animals to have developed speech."
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh vật sống",
+        "definition_vi": "bất kỳ sinh vật sống nào, bao gồm cả con người"
       },
       {
         "definition": "a person who behaves in a cruel or unpleasant way, or who is very dirty",
@@ -172,7 +188,9 @@
             "cf": "",
             "x": "The person who did this is an animal, a brute."
           }
-        ]
+        ],
+        "short_meaning_vi": "kẻ tàn bạo",
+        "definition_vi": "một người cư xử tàn nhẫn hoặc khó chịu, hoặc rất bẩn thỉu"
       },
       {
         "definition": "a particular type of person, thing, organization, etc.",
@@ -185,7 +203,9 @@
             "cf": "",
             "x": "The government that followed the election was a very different animal."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại người",
+        "definition_vi": "một loại người, sự vật, tổ chức, v.v. cụ thể"
       }
     ]
   },
@@ -238,7 +258,9 @@
             "cf": "",
             "x": "Demand always rises during the autumn and winter months."
           }
-        ]
+        ],
+        "short_meaning_vi": "mùa thu",
+        "definition_vi": "mùa trong năm giữa mùa hè và mùa đông, khi lá cây thay đổi màu sắc và thời tiết trở nên lạnh hơn"
       }
     ]
   },
@@ -259,7 +281,9 @@
             "cf": "",
             "x": "tourists from every corner of the globe"
           }
-        ]
+        ],
+        "short_meaning_vi": "thế giới",
+        "definition_vi": "thế giới (đặc biệt được sử dụng để nhấn mạnh quy mô của nó)"
       },
       {
         "definition": "an object like a ball in shape with a map of the world on its surface, usually on a stand so that it can be turned",
@@ -276,11 +300,15 @@
             "cf": "",
             "x": "On his desk was a globe and several maps."
           }
-        ]
+        ],
+        "short_meaning_vi": "quả địa cầu",
+        "definition_vi": "một vật thể có hình dạng giống quả bóng với bản đồ thế giới trên bề mặt, thường có giá đỡ để có thể xoay được"
       },
       {
         "definition": "a thing that is like a ball in shape",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hình cầu",
+        "definition_vi": "một vật có hình dạng giống quả bóng"
       },
       {
         "definition": "a light bulb (= the glass part that fits into an electric lamp, etc. to give light when it is switched on)",
@@ -289,7 +317,9 @@
             "cf": "",
             "x": "Halogen globes are being replaced with LEDs, which use 80 per cent less energy."
           }
-        ]
+        ],
+        "short_meaning_vi": "bóng đèn",
+        "definition_vi": "bóng đèn (= phần thủy tinh lắp vào đèn điện, v.v. để phát sáng khi bật công tắc)"
       }
     ]
   },
@@ -314,7 +344,9 @@
             "cf": "",
             "x": "The dry grass caught fire."
           }
-        ]
+        ],
+        "short_meaning_vi": "cỏ",
+        "definition_vi": "một loài thực vật hoang dã phổ biến có lá hẹp màu xanh và thân cây được bò, ngựa, cừu, v.v. ăn"
       },
       {
         "definition": "any type of grass",
@@ -323,7 +355,9 @@
             "cf": "",
             "x": "ornamental grasses"
           }
-        ]
+        ],
+        "short_meaning_vi": "cỏ",
+        "definition_vi": "bất kỳ loại cỏ nào"
       },
       {
         "definition": "an area of ground covered with grass",
@@ -344,19 +378,27 @@
             "cf": "on grass",
             "x": "He plays better on grass (= on a grass court, when playing tennis)."
           }
-        ]
+        ],
+        "short_meaning_vi": "bãi cỏ",
+        "definition_vi": "một khu vực đất được bao phủ bởi cỏ"
       },
       {
         "definition": "marijuana",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cần sa",
+        "definition_vi": "cần sa"
       },
       {
         "definition": "a person, usually a criminal, who tells the police about somebody’s criminal activities and plans",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cảnh sát mật",
+        "definition_vi": "một người, thường là tội phạm, nói với cảnh sát về hoạt động và kế hoạch phạm tội của ai đó"
       },
       {
         "definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không bao giờ hài lòng",
+        "definition_vi": "nói về những người dường như không bao giờ hài lòng với những gì họ có và luôn nghĩ rằng họ có thể hạnh phúc hơn ở một nơi hoặc tình huống khác"
       },
       {
         "definition": "to reject something or treat it as not important; to stop dealing with a problem",
@@ -365,15 +407,21 @@
             "cf": "",
             "x": "He tends to deal with disputes by kicking them into the long grass."
           }
-        ]
+        ],
+        "short_meaning_vi": "từ bỏ",
+        "definition_vi": "từ bỏ một cái gì đó hoặc coi nó không quan trọng; ngừng giải quyết một vấn đề"
       },
       {
         "definition": "to not delay in getting things done",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hành động ngay",
+        "definition_vi": "không trì hoãn trong việc hoàn thành công việc"
       },
       {
         "definition": "to force somebody to stop doing their job, especially because they are old",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "buộc nghỉ việc",
+        "definition_vi": "buộc ai đó ngừng làm công việc của họ, đặc biệt là vì họ đã già"
       },
       {
         "definition": "a person who pretends to be your friend but who cannot be trusted",
@@ -382,7 +430,9 @@
             "cf": "",
             "x": "I came to realize that he's just a snake in the grass."
           }
-        ]
+        ],
+        "short_meaning_vi": "kẻ hai mặt",
+        "definition_vi": "một người giả vờ là bạn của bạn nhưng không thể tin cậy"
       }
     ]
   },
@@ -423,7 +473,9 @@
             "cf": "",
             "x": "Most of the monkey's food is found at ground level."
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt đất",
+        "definition_vi": "bề mặt rắn của trái đất"
       },
       {
         "definition": "used to describe activities that take place on the ground, not in the air or at sea",
@@ -444,7 +496,9 @@
             "cf": "on the ground",
             "x": "He called for more troops on the ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "trên mặt đất",
+        "definition_vi": "được sử dụng để mô tả các hoạt động diễn ra trên mặt đất, không phải trên không hoặc trên biển"
       },
       {
         "definition": "an area of open land",
@@ -465,7 +519,9 @@
             "cf": "",
             "x": "They drove across miles of rough, stony ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu đất",
+        "definition_vi": "một khu vực đất trống"
       },
       {
         "definition": "an area of land that is used for a particular purpose, activity or sport",
@@ -478,7 +534,9 @@
             "cf": "",
             "x": "The atmosphere inside the ground was electric."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân vận động",
+        "definition_vi": "một khu vực đất được sử dụng cho một mục đích, hoạt động hoặc môn thể thao cụ thể"
       },
       {
         "definition": "a large area of land or sea that is used for a particular purpose",
@@ -491,7 +549,9 @@
             "cf": "",
             "x": "feeding grounds for birds"
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực",
+        "definition_vi": "một khu vực đất hoặc biển lớn được sử dụng cho một mục đích cụ thể"
       },
       {
         "definition": "soil on the surface of the earth",
@@ -512,7 +572,9 @@
             "cf": "",
             "x": "The car got stuck in the muddy ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "đất",
+        "definition_vi": "đất trên bề mặt trái đất"
       },
       {
         "definition": "the land or gardens around a large building",
@@ -529,7 +591,9 @@
             "cf": "",
             "x": "The house has extensive grounds."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vườn",
+        "definition_vi": "đất hoặc vườn xung quanh một tòa nhà lớn"
       },
       {
         "definition": "an area of interest, knowledge or ideas",
@@ -562,7 +626,9 @@
             "cf": "ground for something",
             "x": "Paris in the 1920s was fertile ground for artistic experimentation."
           }
-        ]
+        ],
+        "short_meaning_vi": "lĩnh vực",
+        "definition_vi": "một lĩnh vực quan tâm, kiến thức hoặc ý tưởng"
       },
       {
         "definition": "a good or true reason for saying, doing or believing something",
@@ -603,7 +669,9 @@
             "cf": "without grounds",
             "x": "Their caution was not without grounds."
           }
-        ]
+        ],
+        "short_meaning_vi": "lý do chính đáng",
+        "definition_vi": "một lý do tốt hoặc đúng đắn để nói, làm hoặc tin vào điều gì đó"
       },
       {
         "definition": "the small pieces of solid matter in a liquid that have fallen to the bottom",
@@ -612,7 +680,9 @@
             "cf": "",
             "x": "coffee grounds"
           }
-        ]
+        ],
+        "short_meaning_vi": "cặn",
+        "definition_vi": "các mảnh nhỏ của vật chất rắn trong chất lỏng đã lắng xuống đáy"
       },
       {
         "definition": "a wire that connects an electric circuit with the ground and makes it safe",
@@ -621,7 +691,9 @@
             "cf": "",
             "x": "Don't forget to connect the ground wire."
           }
-        ]
+        ],
+        "short_meaning_vi": "dây nối đất",
+        "definition_vi": "một dây nối mạch điện với đất và làm cho nó an toàn"
       },
       {
         "definition": "a background that a design is painted or printed on",
@@ -630,7 +702,9 @@
             "cf": "",
             "x": "pink roses on a white ground"
           }
-        ]
+        ],
+        "short_meaning_vi": "nền",
+        "definition_vi": "một nền mà một thiết kế được vẽ hoặc in trên đó"
       },
       {
         "definition": "to be in a strong position in an argument, etc. because you know the facts",
@@ -643,7 +717,9 @@
             "cf": "",
             "x": "He is probably on solid ground when he says we need more training."
           }
-        ]
+        ],
+        "short_meaning_vi": "có cơ sở vững chắc",
+        "definition_vi": "ở một vị trí vững chắc trong một cuộc tranh luận, v.v. vì bạn biết sự thật"
       },
       {
         "definition": "to start digging for a new building project",
@@ -652,7 +728,9 @@
             "cf": "",
             "x": "They broke ground for the new highway this month."
           }
-        ]
+        ],
+        "short_meaning_vi": "khởi công",
+        "definition_vi": "bắt đầu đào móng cho một dự án xây dựng mới"
       },
       {
         "definition": "to make a new discovery or do something that has not been done before",
@@ -665,7 +743,9 @@
             "cf": "",
             "x": "She broke ground by being the first Black woman to win the award."
           }
-        ]
+        ],
+        "short_meaning_vi": "mở đường",
+        "definition_vi": "thực hiện một khám phá mới hoặc làm một điều gì đó chưa từng được thực hiện trước đây"
       },
       {
         "definition": "to make a new discovery or do something that has not been done before",
@@ -674,11 +754,15 @@
             "cf": "",
             "x": "Her architectural designs have broken new ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "khám phá",
+        "definition_vi": "để tạo ra một khám phá mới hoặc làm điều gì đó chưa từng được thực hiện trước đây"
       },
       {
         "definition": "to suddenly cause somebody’s idea or plan to fail by doing something to stop them from continuing with it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm thất bại",
+        "definition_vi": "đột nhiên làm cho ý tưởng hoặc kế hoạch của ai đó thất bại bằng cách làm điều gì đó để ngăn họ tiếp tục"
       },
       {
         "definition": "to fail to produce the result or the effect that you hope for; to have little success",
@@ -691,7 +775,9 @@
             "cf": "",
             "x": "The peace initiatives have already fallen on stony ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "thất bại",
+        "definition_vi": "không tạo ra kết quả hoặc hiệu ứng mà bạn hy vọng; ít thành công"
       },
       {
         "definition": "completely, or including everything, starting with the most basic things ",
@@ -704,7 +790,9 @@
             "cf": "",
             "x": "He learned about the business from the ground up."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn, cơ bản",
+        "definition_vi": "hoàn toàn, hoặc bao gồm mọi thứ, bắt đầu với những điều cơ bản nhất"
       },
       {
         "definition": "to become more powerful or successful",
@@ -713,7 +801,9 @@
             "cf": "",
             "x": "Sterling continues to gain ground against the dollar."
           }
-        ]
+        ],
+        "short_meaning_vi": "trở nên mạnh mẽ hơn",
+        "definition_vi": "để trở nên mạnh mẽ hơn hoặc thành công hơn"
       },
       {
         "definition": "to gradually get closer to somebody/something that is moving or making progress in an activity",
@@ -726,7 +816,9 @@
             "cf": "",
             "x": "They needed to make up ground on their competitors."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiệm cận",
+        "definition_vi": "dần dần đến gần hơn với ai đó/điều gì đó đang di chuyển hoặc tiến triển trong một hoạt động"
       },
       {
         "definition": "to start happening successfully; to make something start happening successfully",
@@ -743,7 +835,9 @@
             "cf": "",
             "x": "His plan is too costly to ever get off the ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu thành công",
+        "definition_vi": "bắt đầu xảy ra thành công; làm cho điều gì đó bắt đầu xảy ra thành công"
       },
       {
         "definition": "to allow somebody/something to have an advantage; to lose an advantage for yourself",
@@ -756,11 +850,15 @@
             "cf": "",
             "x": "The Conservatives lost a lot of ground to the Liberal Democrats at the election."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo lợi thế",
+        "definition_vi": "cho phép ai đó/điều gì đó có lợi thế; tự làm mất đi lợi thế của mình"
       },
       {
         "definition": "to hide, especially to escape from somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ẩn náu",
+        "definition_vi": "để ẩn náu, đặc biệt là để trốn thoát khỏi ai đó"
       },
       {
         "definition": "to have a sensible and realistic attitude to life",
@@ -769,11 +867,15 @@
             "cf": "",
             "x": "In spite of his overnight stardom he still manages to keep his feet on the ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "thực tế",
+        "definition_vi": "để có thái độ thực tế và hợp lý với cuộc sống"
       },
       {
         "definition": "to start doing something and continue very quickly and successfully",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiến triển nhanh",
+        "definition_vi": "bắt đầu làm điều gì đó và tiếp tục rất nhanh chóng và thành công"
       },
       {
         "definition": "to continue with your opinions or intentions when somebody is opposing you and wants you to change",
@@ -786,7 +888,9 @@
             "cf": "",
             "x": "She held her ground in the debate."
           }
-        ]
+        ],
+        "short_meaning_vi": "giữ vững quan điểm",
+        "definition_vi": "tiếp tục giữ vững ý kiến hoặc ý định của bạn khi ai đó phản đối và muốn bạn thay đổi"
       },
       {
         "definition": "to face a situation and refuse to run away",
@@ -795,7 +899,9 @@
             "cf": "",
             "x": "It is not easy to hold your ground in front of someone with a gun."
           }
-        ]
+        ],
+        "short_meaning_vi": "đối mặt",
+        "definition_vi": "để đối mặt với một tình huống và từ chối bỏ chạy"
       },
       {
         "definition": "to make sure that you always find out about the most recent developments in a particular situation",
@@ -804,7 +910,9 @@
             "cf": "",
             "x": "The agent had no suitable properties on his books but promised to keep an ear to the ground for us."
           }
-        ]
+        ],
+        "short_meaning_vi": "cập nhật",
+        "definition_vi": "để đảm bảo rằng bạn luôn tìm hiểu về những diễn biến mới nhất trong một tình huống cụ thể"
       },
       {
         "definition": "in the place where something is happening and among the people who are in the situation, especially a war",
@@ -817,7 +925,9 @@
             "cf": "",
             "x": "There's a lot of support for the policy on the ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "tại hiện trường",
+        "definition_vi": "ở nơi đang xảy ra sự việc và giữa những người đang ở trong tình huống đó, đặc biệt là chiến tranh"
       },
       {
         "definition": "in a place that has no connection with either of the people or sides who are meeting and so does not give an advantage to either of them",
@@ -826,7 +936,9 @@
             "cf": "",
             "x": "We decided to meet on neutral ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "trung lập",
+        "definition_vi": "ở một nơi không có liên quan đến một trong hai người hoặc hai bên gặp nhau và do đó không mang lại lợi thế cho bất kỳ bên nào"
       },
       {
         "definition": "in an area where somebody has a lot of power, knowledge or experience",
@@ -839,7 +951,9 @@
             "cf": "",
             "x": "When it comes to music I'm on my own ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi thế sân nhà",
+        "definition_vi": "ở một khu vực mà ai đó có nhiều quyền lực, kiến thức hoặc kinh nghiệm"
       },
       {
         "definition": "to make it possible or easier for something to be achieved",
@@ -852,15 +966,21 @@
             "cf": "",
             "x": "Early experiments with rockets prepared the ground for space travel."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo điều kiện",
+        "definition_vi": "để làm cho việc đạt được điều gì đó trở nên có thể hoặc dễ dàng hơn"
       },
       {
         "definition": "to make somebody work so hard that they are no longer able to work; to use something so much that it is broken ",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bóc lột",
+        "definition_vi": "làm cho ai đó làm việc chăm chỉ đến mức họ không còn khả năng làm việc nữa; sử dụng một thứ gì đó quá nhiều đến mức nó bị hỏng"
       },
       {
         "definition": "to work so hard that you become extremely tired",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kiệt sức",
+        "definition_vi": "làm việc chăm chỉ đến mức bạn trở nên cực kỳ mệt mỏi"
       },
       {
         "definition": "to change your opinion about a subject, especially during a discussion",
@@ -869,7 +989,9 @@
             "cf": "",
             "x": "Each time he seemed to be losing the argument, he just shifted his ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "thay đổi ý kiến",
+        "definition_vi": "thay đổi ý kiến của bạn về một chủ đề, đặc biệt là trong một cuộc thảo luận"
       },
       {
         "definition": "to be very convenient or acceptable for somebody",
@@ -882,7 +1004,9 @@
             "cf": "",
             "x": "Country life suits me down to the ground!"
           }
-        ]
+        ],
+        "short_meaning_vi": "thuận tiện",
+        "definition_vi": "rất thuận tiện hoặc chấp nhận được đối với ai đó"
       },
       {
         "definition": "to claim that your side of an argument is morally better than your opponents’ side; to argue in a way that makes your side seem morally better",
@@ -891,7 +1015,9 @@
             "cf": "",
             "x": "I was angry with his blatant attempt to take the moral high ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập luận đạo đức",
+        "definition_vi": "tuyên bố rằng phía của bạn trong một cuộc tranh luận về mặt đạo đức tốt hơn phía đối thủ; lập luận theo cách khiến phía của bạn có vẻ tốt hơn về mặt đạo đức"
       },
       {
         "definition": "if people or things are thick/thin on the ground, there are a lot/not many of them in a place",
@@ -904,7 +1030,9 @@
             "cf": "",
             "x": "Security officers were thick on the ground during the King’s visit."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhiều/ít",
+        "definition_vi": "nếu mọi người hoặc mọi thứ dày đặc/mỏng trên mặt đất, có nghĩa là có rất nhiều/không nhiều người hoặc thứ ở một nơi"
       },
       {
         "definition": "completely, so that there is nothing left",
@@ -917,7 +1045,9 @@
             "cf": "",
             "x": "The city was razed to the ground (= completely destroyed)."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn",
+        "definition_vi": "hoàn toàn, đến mức không còn gì cả"
       }
     ]
   },
@@ -1002,7 +1132,9 @@
             "cf": "",
             "x": "The company is growing bigger all the time."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng trưởng",
+        "definition_vi": "tăng về kích thước, số lượng, sức mạnh hoặc chất lượng"
       },
       {
         "definition": "to become bigger or taller and develop into an adult",
@@ -1023,7 +1155,9 @@
             "cf": "+ adj.",
             "x": "to grow bigger/taller/older"
           }
-        ]
+        ],
+        "short_meaning_vi": "trưởng thành",
+        "definition_vi": "trở nên lớn hơn hoặc cao hơn và phát triển thành người lớn"
       },
       {
         "definition": "to exist and develop in a particular place; to make plants grow",
@@ -1064,7 +1198,9 @@
             "cf": "grow something from something",
             "x": "I grew all these flowers from one packet of seeds."
           }
-        ]
+        ],
+        "short_meaning_vi": "trồng trọt",
+        "definition_vi": "tồn tại và phát triển ở một nơi cụ thể; làm cho cây trồng phát triển"
       },
       {
         "definition": "to become longer; to allow something to become longer by not cutting it",
@@ -1081,7 +1217,9 @@
             "cf": "",
             "x": "I didn't recognize him—he's grown a beard."
           }
-        ]
+        ],
+        "short_meaning_vi": "mọc dài",
+        "definition_vi": "trở nên dài hơn; cho phép một cái gì đó trở nên dài hơn bằng cách không cắt nó"
       },
       {
         "definition": "to begin to have a particular quality or feeling over a period of time",
@@ -1114,7 +1252,9 @@
             "cf": "",
             "x": "Don't worry, you'll grow braver with time."
           }
-        ]
+        ],
+        "short_meaning_vi": "phát triển cảm xúc",
+        "definition_vi": "dần dần bắt đầu có một phẩm chất hoặc cảm giác cụ thể trong một khoảng thời gian"
       },
       {
         "definition": "to gradually begin to do something",
@@ -1127,7 +1267,9 @@
             "cf": "",
             "x": "He grew to understand her reasons for leaving."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu làm",
+        "definition_vi": "dần dần bắt đầu làm điều gì đó"
       },
       {
         "definition": "to develop and improve particular qualities or skills",
@@ -1140,7 +1282,9 @@
             "cf": "",
             "x": "A secure background will help a child to grow emotionally."
           }
-        ]
+        ],
+        "short_meaning_vi": "phát triển kỹ năng",
+        "definition_vi": "phát triển và cải thiện các phẩm chất hoặc kỹ năng cụ thể"
       },
       {
         "definition": "to increase the size, quality or number of something",
@@ -1149,23 +1293,33 @@
             "cf": "",
             "x": "We are trying to grow the business."
           }
-        ]
+        ],
+        "short_meaning_vi": "mở rộng",
+        "definition_vi": "tăng kích thước, chất lượng hoặc số lượng của một cái gì đó"
       },
       {
         "definition": "used to say that when you are away from somebody that you love, you love them even more",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "yêu hơn",
+        "definition_vi": "được sử dụng để nói rằng khi bạn xa ai đó mà bạn yêu, bạn càng yêu họ nhiều hơn"
       },
       {
         "definition": "something large and successful often begins in a very small way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bắt đầu nhỏ",
+        "definition_vi": "một cái gì đó lớn và thành công thường bắt đầu từ một điều rất nhỏ"
       },
       {
         "definition": "used to tell somebody not to use something or spend money carelessly because you do not have a lot of it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiết kiệm",
+        "definition_vi": "được sử dụng để nói với ai đó không sử dụng hoặc chi tiêu tiền một cách cẩu thả vì bạn không có nhiều"
       },
       {
         "definition": "to not delay in getting things done",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hành động ngay",
+        "definition_vi": "không trì hoãn trong việc hoàn thành công việc"
       }
     ]
   },
@@ -1198,7 +1352,9 @@
             "cf": "",
             "x": "a wine lake (= a large supply of wine that is not being used)"
           }
-        ]
+        ],
+        "short_meaning_vi": "hồ nước",
+        "definition_vi": "một khu vực nước lớn được bao quanh bởi đất liền"
       }
     ]
   },
@@ -1239,7 +1395,9 @@
             "cf": "",
             "x": "We can organize air transport, land transport and all accommodation for your trip."
           }
-        ]
+        ],
+        "short_meaning_vi": "đất liền",
+        "definition_vi": "bề mặt trái đất không phải là biển"
       },
       {
         "definition": "an area of ground, especially of a particular type or used for a particular purpose",
@@ -1268,7 +1426,9 @@
             "cf": "",
             "x": "Some of the country's richest grazing lands are in these valleys."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực đất",
+        "definition_vi": "một khu vực đất, đặc biệt là một loại cụ thể hoặc được sử dụng cho một mục đích cụ thể"
       },
       {
         "definition": "the area of ground that somebody owns, especially when you think of it as property that can be bought or sold",
@@ -1305,7 +1465,9 @@
             "cf": "",
             "x": "The adjoining plot of land belongs to the local council."
           }
-        ]
+        ],
+        "short_meaning_vi": "đất đai",
+        "definition_vi": "vùng đất mà ai đó sở hữu, đặc biệt khi coi nó như tài sản có thể mua bán."
       },
       {
         "definition": "used to refer to the countryside and the way people live in the country as opposed to in cities",
@@ -1322,7 +1484,9 @@
             "cf": "",
             "x": "Her family had farmed the land for generations."
           }
-        ]
+        ],
+        "short_meaning_vi": "nông thôn",
+        "definition_vi": "được dùng để chỉ vùng nông thôn và cách mọi người sống ở đó trái ngược với thành phố."
       },
       {
         "definition": "used to refer to a country or region in a way that involves the emotions or the imagination",
@@ -1347,7 +1511,9 @@
             "cf": "",
             "x": "the land of the fairies/elves/giants"
           }
-        ]
+        ],
+        "short_meaning_vi": "quốc gia",
+        "definition_vi": "được dùng để chỉ một quốc gia hoặc khu vực theo cách liên quan đến cảm xúc hoặc trí tưởng tượng."
       },
       {
         "definition": "alive; not sleeping; no longer ill",
@@ -1360,7 +1526,9 @@
             "cf": "",
             "x": "By lunchtime I’d returned to the land of the living."
           }
-        ]
+        ],
+        "short_meaning_vi": "tỉnh táo",
+        "definition_vi": "còn sống; không ngủ; không còn ốm."
       },
       {
         "definition": "sleeping",
@@ -1369,7 +1537,9 @@
             "cf": "",
             "x": "Pete and Jo were still in the land of Nod, so I went out for a walk in the morning sunshine."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngủ",
+        "definition_vi": "đang ngủ."
       },
       {
         "definition": "a place where life is pleasant and easy and people are very happy",
@@ -1378,7 +1548,9 @@
             "cf": "",
             "x": "He dreamed of emigrating to Canada—the land of milk and honey."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiên đường",
+        "definition_vi": "một nơi mà cuộc sống dễ chịu và đơn giản và mọi người rất hạnh phúc."
       },
       {
         "definition": "the way the land in an area is formed and what physical characteristics it has",
@@ -1387,7 +1559,9 @@
             "cf": "",
             "x": "The castle was hidden by the lie of the land."
           }
-        ]
+        ],
+        "short_meaning_vi": "địa hình",
+        "definition_vi": "cách đất đai trong một khu vực được hình thành và các đặc điểm vật lý của nó."
       },
       {
         "definition": "the way a situation is now and how it is likely to develop",
@@ -1396,11 +1570,15 @@
             "cf": "",
             "x": "Check out the lie of the land before you make a decision."
           }
-        ]
+        ],
+        "short_meaning_vi": "tình hình",
+        "definition_vi": "cách một tình huống hiện tại và cách nó có khả năng phát triển."
       },
       {
         "definition": "to have enough money to be able to afford expensive things, food, drink, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "có đủ tiền",
+        "definition_vi": "có đủ tiền để chi trả cho những thứ đắt tiền, thức ăn, đồ uống, v.v."
       },
       {
         "definition": "to find out about a situation",
@@ -1409,11 +1587,15 @@
             "cf": "",
             "x": "Let's wait and see how the land lies before we do anything."
           }
-        ]
+        ],
+        "short_meaning_vi": "tìm hiểu",
+        "definition_vi": "tìm hiểu về một tình huống."
       },
       {
         "definition": "to collect information before deciding what to do",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thu thập thông tin",
+        "definition_vi": "thu thập thông tin trước khi quyết định làm gì."
       }
     ]
   },
@@ -1446,7 +1628,9 @@
             "cf": "",
             "x": "The mountains dominate the landscape."
           }
-        ]
+        ],
+        "short_meaning_vi": "phong cảnh",
+        "definition_vi": "mọi thứ bạn có thể nhìn thấy khi nhìn qua một vùng đất rộng lớn, đặc biệt là ở nông thôn."
       },
       {
         "definition": "a painting of a view of the countryside; this style of painting",
@@ -1463,7 +1647,9 @@
             "cf": "",
             "x": "a landscape painter/painting"
           }
-        ]
+        ],
+        "short_meaning_vi": "tranh phong cảnh",
+        "definition_vi": "một bức tranh về cảnh nông thôn; phong cách vẽ này."
       },
       {
         "definition": "the characteristic features of an area of activity",
@@ -1476,7 +1662,9 @@
             "cf": "",
             "x": "Their songs altered the landscape of popular music."
           }
-        ]
+        ],
+        "short_meaning_vi": "bối cảnh",
+        "definition_vi": "các đặc điểm của một lĩnh vực hoạt động."
       },
       {
         "definition": "the way of printing a document in which the top of the page is one of the longer sides",
@@ -1485,7 +1673,9 @@
             "cf": "",
             "x": "Select the landscape option when printing the file."
           }
-        ]
+        ],
+        "short_meaning_vi": "khổ giấy ngang",
+        "definition_vi": "cách in tài liệu mà đỉnh trang là một trong những cạnh dài hơn."
       },
       {
         "definition": "an object, especially an ugly building, that makes a place less beautiful",
@@ -1494,7 +1684,9 @@
             "cf": "",
             "x": "The power station is a blot on the landscape."
           }
-        ]
+        ],
+        "short_meaning_vi": "cảnh vật xấu",
+        "definition_vi": "một vật thể, đặc biệt là một tòa nhà xấu xí, làm cho một địa điểm trở nên kém đẹp."
       }
     ]
   },
@@ -1531,7 +1723,9 @@
             "cf": "",
             "x": "The trees are just coming into leaf."
           }
-        ]
+        ],
+        "short_meaning_vi": "lá cây",
+        "definition_vi": "một bộ phận phẳng màu xanh của thực vật, mọc từ thân hoặc cành hoặc từ rễ."
       },
       {
         "definition": "having leaves of the type or number mentioned",
@@ -1544,7 +1738,9 @@
             "cf": "",
             "x": "a broad-leaved plant"
           }
-        ]
+        ],
+        "short_meaning_vi": "có lá",
+        "definition_vi": "có lá thuộc loại hoặc số lượng được đề cập."
       },
       {
         "definition": "a sheet of paper, especially a page in a book",
@@ -1553,7 +1749,9 @@
             "cf": "",
             "x": "She carefully turned the leaves of the precious volume."
           }
-        ]
+        ],
+        "short_meaning_vi": "tờ giấy",
+        "definition_vi": "một tờ giấy, đặc biệt là một trang trong sách."
       },
       {
         "definition": "metal, especially gold or silver, in the form of very thin sheets",
@@ -1562,19 +1760,27 @@
             "cf": "",
             "x": "gold leaf"
           }
-        ]
+        ],
+        "short_meaning_vi": "lá vàng/bạc",
+        "definition_vi": "kim loại, đặc biệt là vàng hoặc bạc, dưới dạng những tấm rất mỏng."
       },
       {
         "definition": "a part of a table that can be lifted up, or an extra section that can be added into the table, in order to make the table bigger",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cánh bàn",
+        "definition_vi": "một bộ phận của bàn có thể nâng lên, hoặc một phần bổ sung có thể được thêm vào bàn, để làm cho bàn lớn hơn."
       },
       {
         "definition": "to copy somebody’s behaviour and do things in the same way that they do, because they are successful",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bắt chước",
+        "definition_vi": "bắt chước hành vi của ai đó và làm mọi thứ theo cách họ làm, vì họ thành công."
       },
       {
         "definition": "to change your way of life to become a better, more responsible person",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cải tạo",
+        "definition_vi": "thay đổi cách sống của bạn để trở thành một người tốt hơn, có trách nhiệm hơn."
       }
     ]
   },
@@ -1611,19 +1817,27 @@
             "cf": "",
             "x": "Young Masai men gather for traditional lion hunts."
           }
-        ]
+        ],
+        "short_meaning_vi": "sư tử",
+        "definition_vi": "một loài động vật lớn, mạnh mẽ thuộc họ mèo, săn mồi theo nhóm và sống ở các vùng của châu Phi và miền nam châu Á. Sư tử có bộ lông màu vàng nâu và con đực có bờm (= lông dày, dài quanh cổ)."
       },
       {
         "definition": "a difficult situation in which you have to face a person or people who are unfriendly or aggressive towards you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tình huống khó khăn",
+        "definition_vi": "một tình huống khó khăn mà bạn phải đối mặt với một người hoặc những người không thân thiện hoặc hung hăng với bạn."
       },
       {
         "definition": "the largest or best part of something when it is divided",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phần lớn nhất",
+        "definition_vi": "phần lớn nhất hoặc tốt nhất của một cái gì đó khi nó được chia."
       },
       {
         "definition": "to go to see an important or powerful person to tell them that you disagree with them, that you want something, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gặp người quyền lực",
+        "definition_vi": "đi gặp một người quan trọng hoặc quyền lực để nói với họ rằng bạn không đồng ý với họ, rằng bạn muốn điều gì đó, v.v."
       }
     ]
   },
@@ -1648,11 +1862,15 @@
             "cf": "",
             "x": "a marine biologist (= a scientist who studies life in the sea)"
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng hải",
+        "definition_vi": "liên quan đến biển và các sinh vật, thực vật sống ở đó."
       },
       {
         "definition": "connected with ships or trade at sea",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hàng hải",
+        "definition_vi": "liên quan đến tàu thuyền hoặc thương mại trên biển."
       }
     ]
   },
@@ -1685,7 +1903,9 @@
             "cf": "",
             "x": "Scientists visiting the island encountered a troop of wild monkeys."
           }
-        ]
+        ],
+        "short_meaning_vi": "khỉ",
+        "definition_vi": "một loài động vật có đuôi dài, leo cây và sống ở các nước nóng. Có nhiều loại khỉ và chúng có quan hệ họ hàng với vượn và con người."
       },
       {
         "definition": "a child who is active and likes playing tricks on people",
@@ -1694,15 +1914,21 @@
             "cf": "",
             "x": "Come here, you cheeky little monkey!"
           }
-        ]
+        ],
+        "short_meaning_vi": "đứa trẻ nghịch ngợm",
+        "definition_vi": "một đứa trẻ năng động và thích bày trò trêu chọc mọi người."
       },
       {
         "definition": "£500",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "500 bảng Anh",
+        "definition_vi": "500 bảng Anh."
       },
       {
         "definition": "if you say that it is brass monkeys or brass monkey weather, you mean that it is very cold weather",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thời tiết rất lạnh",
+        "definition_vi": "nếu bạn nói rằng đó là thời tiết 'brass monkeys' hoặc 'brass monkey', bạn có nghĩa là thời tiết rất lạnh."
       },
       {
         "definition": "to free yourself of something that causes you worry or difficulty",
@@ -1711,7 +1937,9 @@
             "cf": "",
             "x": "The team have never beaten Germany and they'll be desperate to get that monkey off their backs."
           }
-        ]
+        ],
+        "short_meaning_vi": "thoát khỏi",
+        "definition_vi": "giải thoát bản thân khỏi thứ gì đó gây lo lắng hoặc khó khăn cho bạn."
       },
       {
         "definition": "used to say, in a way that is not very polite, that you do not care about something, or are not at all interested in it",
@@ -1720,11 +1948,15 @@
             "cf": "",
             "x": "I don’t give a monkey’s whether you want to come or not."
           }
-        ]
+        ],
+        "short_meaning_vi": "không quan tâm",
+        "definition_vi": "được sử dụng để nói, một cách không lịch sự lắm, rằng bạn không quan tâm đến điều gì đó, hoặc hoàn toàn không quan tâm đến nó."
       },
       {
         "definition": "to make somebody seem stupid",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm cho ngớ ngẩn",
+        "definition_vi": "làm cho ai đó trông ngớ ngẩn."
       }
     ]
   },
@@ -1753,7 +1985,9 @@
             "cf": "",
             "x": "a moon landing"
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt trăng",
+        "definition_vi": "vật thể tròn di chuyển quanh trái đất mỗi 27½ ngày và tỏa sáng vào ban đêm bằng ánh sáng phản chiếu từ mặt trời."
       },
       {
         "definition": "the moon as it appears in the sky at a particular time",
@@ -1770,7 +2004,9 @@
             "cf": "",
             "x": "By the light of the moon I could just make out shapes and outlines."
           }
-        ]
+        ],
+        "short_meaning_vi": "vầng trăng",
+        "definition_vi": "mặt trăng khi nó xuất hiện trên bầu trời vào một thời điểm nhất định."
       },
       {
         "definition": "a natural satellite that moves around a planet other than the earth",
@@ -1779,7 +2015,9 @@
             "cf": "",
             "x": "How many moons does Jupiter have?"
           }
-        ]
+        ],
+        "short_meaning_vi": "vệ tinh tự nhiên",
+        "definition_vi": "một vệ tinh tự nhiên di chuyển quanh một hành tinh khác ngoài trái đất."
       },
       {
         "definition": "to ask for something that is difficult or impossible to get or achieve",
@@ -1788,7 +2026,9 @@
             "cf": "",
             "x": "Wanting a decent job and a home is hardly asking for the moon."
           }
-        ]
+        ],
+        "short_meaning_vi": "ước điều không thể",
+        "definition_vi": "yêu cầu một cái gì đó khó hoặc không thể đạt được hoặc hoàn thành."
       },
       {
         "definition": "a very long time ago",
@@ -1797,11 +2037,15 @@
             "cf": "",
             "x": "All that happened many moons ago."
           }
-        ]
+        ],
+        "short_meaning_vi": "xa xưa",
+        "definition_vi": "rất lâu về trước"
       },
       {
         "definition": "very rarely",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hiếm khi",
+        "definition_vi": "rất hiếm khi"
       },
       {
         "definition": "extremely happy and excited",
@@ -1810,7 +2054,9 @@
             "cf": "",
             "x": "They’re over the moon about their trip to Japan."
           }
-        ]
+        ],
+        "short_meaning_vi": "cực kỳ vui",
+        "definition_vi": "cực kỳ vui vẻ và hào hứng"
       },
       {
         "definition": "to make promises that will be impossible to keep",
@@ -1819,7 +2065,9 @@
             "cf": "",
             "x": "Politicians promise the earth before an election, but things are different afterwards."
           }
-        ]
+        ],
+        "short_meaning_vi": "hứa hão huyền",
+        "definition_vi": "đưa ra những lời hứa không thể thực hiện được"
       },
       {
         "definition": "to make promises that will be impossible to keep",
@@ -1828,7 +2076,9 @@
             "cf": "",
             "x": "Politicians promise the moon before an election, but things are different afterwards."
           }
-        ]
+        ],
+        "short_meaning_vi": "hứa hão huyền",
+        "definition_vi": "đưa ra những lời hứa không thể thực hiện được"
       }
     ]
   },
@@ -1893,7 +2143,9 @@
             "cf": "",
             "x": "There is still snow on the mountain tops."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngọn núi",
+        "definition_vi": "một ngọn đồi rất cao, thường có đá ở gần đỉnh"
       },
       {
         "definition": "a very large amount or number of something; the very large size of something/somebody",
@@ -1910,11 +2162,15 @@
             "cf": "",
             "x": "Standing before us was a huge, muscled mountain of a man."
           }
-        ]
+        ],
+        "short_meaning_vi": "núi",
+        "definition_vi": "một lượng hoặc số lượng rất lớn của một cái gì đó; kích thước rất lớn của một cái gì đó/ai đó"
       },
       {
         "definition": "to make an unimportant matter seem important",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phóng đại",
+        "definition_vi": "làm cho một vấn đề không quan trọng có vẻ quan trọng"
       },
       {
         "definition": "to make a great effort to do something",
@@ -1923,7 +2179,9 @@
             "cf": "",
             "x": "The director moved mountains to remake this classic film."
           }
-        ]
+        ],
+        "short_meaning_vi": "cố gắng hết sức",
+        "definition_vi": "nỗ lực rất nhiều để làm điều gì đó"
       }
     ]
   },
@@ -1960,7 +2218,9 @@
             "cf": "",
             "x": "nests made of mud or clay"
           }
-        ]
+        ],
+        "short_meaning_vi": "bùn",
+        "definition_vi": "đất ướt, mềm và dính"
       },
       {
         "definition": "not clear at all; not easy to understand",
@@ -1969,7 +2229,9 @@
             "cf": "",
             "x": "Oh well, that's all as clear as mud, then."
           }
-        ]
+        ],
+        "short_meaning_vi": "không rõ ràng",
+        "definition_vi": "hoàn toàn không rõ ràng; không dễ hiểu"
       },
       {
         "definition": "to criticize or say bad things about somebody in public, in a way that is unfair",
@@ -1986,15 +2248,21 @@
             "cf": "",
             "x": "Football's good name is being dragged through the dirt."
           }
-        ]
+        ],
+        "short_meaning_vi": "bôi nhọ",
+        "definition_vi": "chỉ trích hoặc nói những điều xấu về ai đó trước công chúng, một cách không công bằng"
       },
       {
         "definition": "to criticize somebody or accuse somebody of bad things in order to damage their reputation, especially in politics",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bôi xấu",
+        "definition_vi": "chỉ trích ai đó hoặc buộc tội ai đó về những điều xấu để làm tổn hại danh tiếng của họ, đặc biệt là trong chính trị"
       },
       {
         "definition": "people remember and believe the bad things they hear about other people, even if they are later shown to be false",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tai tiếng",
+        "definition_vi": "mọi người nhớ và tin vào những điều xấu họ nghe về người khác, ngay cả khi sau đó chúng được chứng minh là sai"
       },
       {
         "definition": "used to say that somebody is not liked or popular because of something they have done",
@@ -2007,7 +2275,9 @@
             "cf": "",
             "x": "If you tell our secret your name will be mud round here."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị ghét",
+        "definition_vi": "dùng để nói rằng ai đó không được yêu thích hoặc không được ưa chuộng vì điều gì đó họ đã làm"
       }
     ]
   },
@@ -2056,7 +2326,9 @@
             "cf": "",
             "x": "The clothes are available in warm natural colours."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự nhiên",
+        "definition_vi": "tồn tại trong tự nhiên; không do con người tạo ra hoặc gây ra"
       },
       {
         "definition": "having little or no processing",
@@ -2077,7 +2349,9 @@
             "cf": "",
             "x": "We made bread with a natural raising agent."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguyên chất",
+        "definition_vi": "ít hoặc không qua chế biến"
       },
       {
         "definition": "normal; as you would expect",
@@ -2110,7 +2384,9 @@
             "cf": "it is natural that…",
             "x": "It's natural that he would want to see his own son."
           }
-        ]
+        ],
+        "short_meaning_vi": "bình thường",
+        "definition_vi": "bình thường; như bạn mong đợi"
       },
       {
         "definition": "used to describe behaviour or abilities that are part of the character that a person or an animal was born with",
@@ -2139,7 +2415,9 @@
             "cf": "",
             "x": "When body temperature is beginning to fall there is a natural tendency to fall asleep."
           }
-        ]
+        ],
+        "short_meaning_vi": "bẩm sinh",
+        "definition_vi": "dùng để mô tả hành vi hoặc khả năng là một phần tính cách mà một người hoặc động vật được sinh ra đã có"
       },
       {
         "definition": "having an ability that you were born with",
@@ -2152,7 +2430,9 @@
             "cf": "",
             "x": "She's a natural rebel."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài năng bẩm sinh",
+        "definition_vi": "có một khả năng mà bạn được sinh ra đã có"
       },
       {
         "definition": "relaxed and not pretending to be somebody/something different",
@@ -2165,7 +2445,9 @@
             "cf": "",
             "x": "There's something really natural about her."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự nhiên",
+        "definition_vi": "thư giãn và không giả vờ là người khác/thứ khác"
       },
       {
         "definition": "related by blood",
@@ -2174,7 +2456,9 @@
             "cf": "",
             "x": "His natural mother was unable to care for him so he was raised by an aunt."
           }
-        ]
+        ],
+        "short_meaning_vi": "huyết thống",
+        "definition_vi": "có quan hệ máu mủ"
       },
       {
         "definition": "born to parents who are not married",
@@ -2183,7 +2467,9 @@
             "cf": "",
             "x": "She was a natural daughter of King James II."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngoài giá thú",
+        "definition_vi": "sinh ra bởi cha mẹ không kết hôn"
       },
       {
         "definition": "based on human reason alone",
@@ -2196,7 +2482,9 @@
             "cf": "",
             "x": "It goes against natural justice to punish a child for the crimes of its parents."
           }
-        ]
+        ],
+        "short_meaning_vi": "lý trí thuần túy",
+        "definition_vi": "dựa trên lý trí con người một mình"
       },
       {
         "definition": "used after the name of a note to show that the note is neither sharp nor flat. The written symbol is (♮).",
@@ -2205,7 +2493,9 @@
             "cf": "",
             "x": "B natural"
           }
-        ]
+        ],
+        "short_meaning_vi": "giáng",
+        "definition_vi": "dùng sau tên một nốt nhạc để chỉ rằng nốt nhạc đó không thăng cũng không giáng. Ký hiệu viết là (♮)."
       }
     ]
   },
@@ -2242,7 +2532,9 @@
             "cf": "",
             "x": "We heard a loud crash, so naturally we went outside to investigate."
           }
-        ]
+        ],
+        "short_meaning_vi": "một cách tự nhiên",
+        "definition_vi": "theo cách bạn mong đợi"
       },
       {
         "definition": "without special help, treatment or action by somebody",
@@ -2259,7 +2551,9 @@
             "cf": "",
             "x": "The enzyme is naturally present in garlic."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự động",
+        "definition_vi": "không cần sự giúp đỡ, điều trị đặc biệt hoặc hành động của ai đó"
       },
       {
         "definition": "as a normal, logical result of something",
@@ -2272,7 +2566,9 @@
             "cf": "",
             "x": "The topic arose naturally in the conversation."
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp lý",
+        "definition_vi": "như một kết quả logic thông thường của một điều gì đó"
       },
       {
         "definition": "in a way that shows or uses abilities or qualities that a person or an animal is born with",
@@ -2293,7 +2589,9 @@
             "cf": "",
             "x": "She was naturally gifted when it came to music."
           }
-        ]
+        ],
+        "short_meaning_vi": "bẩm sinh",
+        "definition_vi": "theo cách thể hiện hoặc sử dụng các khả năng hoặc phẩm chất mà một người hoặc động vật được sinh ra đã có"
       },
       {
         "definition": "in a relaxed and normal way",
@@ -2302,7 +2600,9 @@
             "cf": "",
             "x": "Just act naturally."
           }
-        ]
+        ],
+        "short_meaning_vi": "thư thái",
+        "definition_vi": "một cách thư giãn và bình thường"
       },
       {
         "definition": "if something comes naturally to you, you are able to do it very easily and very well",
@@ -2315,7 +2615,9 @@
             "cf": "",
             "x": "We were simply doing what came naturally. "
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ dàng",
+        "definition_vi": "nếu một cái gì đó đến với bạn một cách tự nhiên, bạn có thể làm điều đó rất dễ dàng và rất tốt"
       }
     ]
   },
@@ -2344,7 +2646,9 @@
             "cf": "",
             "x": "A lot of nature conservation is about protecting habitats."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiên nhiên",
+        "definition_vi": "tất cả các loài thực vật, động vật và mọi thứ tồn tại trong vũ trụ không do con người tạo ra"
       },
       {
         "definition": "the way that things happen in the physical world when it is not controlled by people",
@@ -2365,7 +2669,9 @@
             "cf": "",
             "x": "Is genius the result of nature or nurture?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tự nhiên",
+        "definition_vi": "cách mọi thứ xảy ra trong thế giới vật chất khi nó không bị con người kiểm soát"
       },
       {
         "definition": "the usual way that a person or an animal behaves that is part of their character",
@@ -2386,7 +2692,9 @@
             "cf": "",
             "x": "We appealed to his better nature (= his kindness)."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính cách",
+        "definition_vi": "cách cư xử thông thường của một người hoặc động vật là một phần tính cách của họ"
       },
       {
         "definition": "the basic qualities of a thing",
@@ -2411,7 +2719,9 @@
             "cf": "by its nature",
             "x": "The future by its very nature is uncertain."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản chất",
+        "definition_vi": "những phẩm chất cơ bản của một sự vật"
       },
       {
         "definition": "a type or kind of something",
@@ -2424,7 +2734,9 @@
             "cf": "",
             "x": "Don't worry about things of that nature."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại",
+        "definition_vi": "một loại hoặc một kiểu của một cái gì đó"
       },
       {
         "definition": "having the type of character or quality mentioned",
@@ -2433,7 +2745,9 @@
             "cf": "",
             "x": "a good-natured man"
           }
-        ]
+        ],
+        "short_meaning_vi": "có tính chất",
+        "definition_vi": "có loại tính cách hoặc phẩm chất được đề cập"
       },
       {
         "definition": "not natural; not moral",
@@ -2442,7 +2756,9 @@
             "cf": "",
             "x": "Murder is a crime against nature."
           }
-        ]
+        ],
+        "short_meaning_vi": "phi tự nhiên",
+        "definition_vi": "không tự nhiên; không đạo đức"
       },
       {
         "definition": "(to return to) a simple kind of life in the country, away from cities",
@@ -2455,11 +2771,15 @@
             "cf": "",
             "x": "We built our house in the country because we wanted to get back to nature."
           }
-        ]
+        ],
+        "short_meaning_vi": "về quê",
+        "definition_vi": "(trở về) một cuộc sống giản dị ở nông thôn, xa thành phố"
       },
       {
         "definition": "the need to go to the toilet",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhu cầu đi vệ sinh",
+        "definition_vi": "nhu cầu đi vệ sinh"
       },
       {
         "definition": "a person with a very strong personality who is full of energy, very determined and difficult for others to resist",
@@ -2468,7 +2788,9 @@
             "cf": "",
             "x": "Gerard is a force of nature, continually pursuing his target when everyone else is ready to give up."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản chất",
+        "definition_vi": "một người có cá tính mạnh mẽ, đầy năng lượng, rất quyết tâm và khó bị người khác chống cự"
       },
       {
         "definition": "the power of the wind, rain, etc., especially when it causes damage or harm",
@@ -2477,7 +2799,9 @@
             "cf": "",
             "x": "They were fighting a losing battle against the forces of nature."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiên tai",
+        "definition_vi": "sức mạnh của gió, mưa, v.v., đặc biệt là khi nó gây ra thiệt hại hoặc tổn hại"
       },
       {
         "definition": "similar to something; a type of something; in the style of something",
@@ -2486,7 +2810,9 @@
             "cf": "",
             "x": "His speech was in the nature of an apology."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểu dáng",
+        "definition_vi": "tương tự như một cái gì đó; một loại của một cái gì đó; theo phong cách của một cái gì đó"
       },
       {
         "definition": "in the way that things usually happen",
@@ -2495,7 +2821,9 @@
             "cf": "",
             "x": "In the nature of things, young people often rebel against their parents."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông thường",
+        "definition_vi": "theo cách mọi thứ thường xảy ra"
       },
       {
         "definition": "to allow natural processes to happen, without trying to stop or change them (used especially in the context of illness)",
@@ -2508,7 +2836,9 @@
             "cf": "",
             "x": "When the dog responded so badly to the treatment, we decided to let nature take its course."
           }
-        ]
+        ],
+        "short_meaning_vi": "để tự nhiên",
+        "definition_vi": "cho phép các quá trình tự nhiên xảy ra, mà không cố gắng ngăn chặn hoặc thay đổi chúng (đặc biệt được sử dụng trong bối cảnh bệnh tật)"
       }
     ]
   },
@@ -2529,7 +2859,9 @@
             "cf": "",
             "x": "sparrows building a nest of twigs and dry grass"
           }
-        ]
+        ],
+        "short_meaning_vi": "tổ chim",
+        "definition_vi": "một nơi hoặc cấu trúc rỗng mà chim làm hoặc chọn để đẻ trứng và che chở con non"
       },
       {
         "definition": "a place where insects or other small creatures live and produce their young",
@@ -2546,7 +2878,9 @@
             "cf": "",
             "x": "The snake will attack if disturbed inside its nest."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổ côn trùng",
+        "definition_vi": "một nơi mà côn trùng hoặc các sinh vật nhỏ khác sinh sống và sinh sản"
       },
       {
         "definition": "a secret place which is full of bad people and their activities",
@@ -2555,7 +2889,9 @@
             "cf": "",
             "x": "a nest of thieves"
           }
-        ]
+        ],
+        "short_meaning_vi": "ổ tệ nạn",
+        "definition_vi": "một nơi bí mật chứa đầy những kẻ xấu và hoạt động của chúng"
       },
       {
         "definition": "the home, thought of as the safe place where parents bring up their children",
@@ -2564,7 +2900,9 @@
             "cf": "",
             "x": "to leave the nest (= leave your parents’ home)"
           }
-        ]
+        ],
+        "short_meaning_vi": "tổ ấm",
+        "definition_vi": "ngôi nhà, được coi là nơi an toàn mà cha mẹ nuôi dạy con cái"
       },
       {
         "definition": "a group or set of similar things that are made to fit inside each other",
@@ -2573,15 +2911,21 @@
             "cf": "",
             "x": "a nest of tables"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ lồng",
+        "definition_vi": "một nhóm hoặc tập hợp các vật tương tự được làm để khớp vào nhau"
       },
       {
         "definition": "to make yourself richer, especially at somebody else's expense, by spending money on yourself that should be spent on somebody/something else",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bòn rút",
+        "definition_vi": "làm cho bản thân giàu có hơn, đặc biệt là bằng chi phí của người khác, bằng cách chi tiền cho bản thân mà lẽ ra phải chi cho người khác/việc khác"
       },
       {
         "definition": "to become able to fly and leave its nest",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ra ràng",
+        "definition_vi": "trở nên có khả năng bay và rời khỏi tổ của nó"
       },
       {
         "definition": "to leave home and live somewhere else",
@@ -2590,7 +2934,9 @@
             "cf": "",
             "x": "Her children have flown the nest."
           }
-        ]
+        ],
+        "short_meaning_vi": "ra ở riêng",
+        "definition_vi": "rời khỏi nhà và sống ở nơi khác"
       },
       {
         "definition": "a difficult situation in which a lot of people get very angry",
@@ -2599,11 +2945,15 @@
             "cf": "",
             "x": "His letter to the papers stirred up a real hornets' nest."
           }
-        ]
+        ],
+        "short_meaning_vi": "ổ nóng",
+        "definition_vi": "một tình huống khó khăn khiến nhiều người rất tức giận"
       },
       {
         "definition": "a discovery that seems interesting but is found to have no value",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phát hiện vô giá trị",
+        "definition_vi": "một khám phá có vẻ thú vị nhưng lại được phát hiện là không có giá trị"
       },
       {
         "definition": "a very complicated situation",
@@ -2612,7 +2962,9 @@
             "cf": "",
             "x": "This area of the law is a veritable mare’s nest."
           }
-        ]
+        ],
+        "short_meaning_vi": "mớ bòng bong",
+        "definition_vi": "một tình huống rất phức tạp"
       }
     ]
   },
@@ -2649,7 +3001,9 @@
             "cf": "",
             "x": "the park entrance/gates"
           }
-        ]
+        ],
+        "short_meaning_vi": "công viên",
+        "definition_vi": "một khu đất công cộng trong một thị trấn hoặc thành phố, nơi mọi người đến đi dạo, chơi và thư giãn"
       },
       {
         "definition": "an area of land used for a particular purpose",
@@ -2670,7 +3024,9 @@
             "cf": "",
             "x": "She lives in a trailer park in Tucson, Arizona."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực",
+        "definition_vi": "một khu đất được sử dụng cho một mục đích cụ thể"
       },
       {
         "definition": "(in the UK) an area of land, usually with fields and trees, attached to a large country house",
@@ -2683,7 +3039,9 @@
             "cf": "",
             "x": "The houses and parks in Georgian Sussex represented leisured society at its peak."
           }
-        ]
+        ],
+        "short_meaning_vi": "vườn",
+        "definition_vi": "(ở Vương quốc Anh) một khu đất, thường có cánh đồng và cây cối, gắn liền với một ngôi nhà lớn ở nông thôn"
       },
       {
         "definition": "a piece of land for playing sports, especially baseball ",
@@ -2692,7 +3050,9 @@
             "cf": "",
             "x": "With a mighty swing he hit the ball right out of the park."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân chơi",
+        "definition_vi": "một khu đất để chơi thể thao, đặc biệt là bóng chày"
       },
       {
         "definition": "a football (soccer) or rugby field",
@@ -2701,7 +3061,9 @@
             "cf": "",
             "x": "the fastest man on the park"
           }
-        ]
+        ],
+        "short_meaning_vi": "sân bóng",
+        "definition_vi": "một sân bóng đá hoặc bóng bầu dục"
       },
       {
         "definition": "the position of the gears in a car with automatic transmission (= a system that changes the gears by itself so the driver does not have to) in which they are locked so that the engine cannot send any power to the wheels",
@@ -2710,7 +3072,9 @@
             "cf": "",
             "x": "She put the car in park, pulled out the key and got out."
           }
-        ]
+        ],
+        "short_meaning_vi": "chế độ đỗ xe",
+        "definition_vi": "vị trí của các bánh răng trong ô tô có hộp số tự động (= một hệ thống tự động thay đổi bánh răng để người lái không phải làm) trong đó chúng bị khóa để động cơ không thể truyền bất kỳ lực nào đến bánh xe"
       },
       {
         "definition": "a thing that is very easy to do or deal with",
@@ -2723,7 +3087,9 @@
             "cf": "",
             "x": "The next game will be a walk in the park."
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ như ăn bánh",
+        "definition_vi": "một điều gì đó rất dễ làm hoặc giải quyết"
       }
     ]
   },
@@ -2756,7 +3122,9 @@
             "cf": "",
             "x": "Membership of the club has fallen from a peak of 600 people in 2022."
           }
-        ]
+        ],
+        "short_meaning_vi": "đỉnh cao",
+        "definition_vi": "thời điểm mà ai đó/cái gì đó tốt nhất, thành công nhất, mạnh nhất, v.v."
       },
       {
         "definition": "the pointed top of a mountain; a mountain with a pointed top",
@@ -2777,7 +3145,9 @@
             "cf": "",
             "x": "We looked up at the rocky peaks towering above us."
           }
-        ]
+        ],
+        "short_meaning_vi": "đỉnh núi",
+        "definition_vi": "đỉnh nhọn của một ngọn núi; một ngọn núi có đỉnh nhọn"
       },
       {
         "definition": "any narrow and pointed shape, edge, etc.",
@@ -2790,11 +3160,15 @@
             "cf": "",
             "x": "He combed his hair into a peak."
           }
-        ]
+        ],
+        "short_meaning_vi": "mũi nhọn",
+        "definition_vi": "bất kỳ hình dạng, cạnh, v.v. hẹp và nhọn nào"
       },
       {
         "definition": "the stiff front part of a cap that sticks out above your eyes",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vành mũ",
+        "definition_vi": "phần trước cứng của mũ che ra phía trước mắt bạn"
       }
     ]
   },
@@ -2843,7 +3217,9 @@
             "cf": "",
             "x": "Keeping pigs as pets has become extremely popular. "
           }
-        ]
+        ],
+        "short_meaning_vi": "thú cưng",
+        "definition_vi": "một con vật, chim, v.v. mà bạn nuôi ở nhà để giải trí, thay vì một con vật được nuôi để làm việc hoặc lấy thịt"
       },
       {
         "definition": "a person who is given special attention by somebody, especially in a way that seems unfair to other people",
@@ -2852,7 +3228,9 @@
             "cf": "",
             "x": "She's the teacher's pet."
           }
-        ]
+        ],
+        "short_meaning_vi": "người được ưu ái",
+        "definition_vi": "một người được ai đó chú ý đặc biệt, đặc biệt là theo cách có vẻ không công bằng với những người khác"
       },
       {
         "definition": "used when speaking to somebody to show kind feelings or to be friendly",
@@ -2865,7 +3243,9 @@
             "cf": "",
             "x": "Be a pet (= be kind) and post this letter for me."
           }
-        ]
+        ],
+        "short_meaning_vi": "thân yêu",
+        "definition_vi": "dùng khi nói chuyện với ai đó để thể hiện tình cảm trìu mến hoặc để thân thiện"
       }
     ]
   },
@@ -2894,7 +3274,9 @@
             "cf": "",
             "x": "to breed/rear pigs"
           }
-        ]
+        ],
+        "short_meaning_vi": "con heo",
+        "definition_vi": "một loài động vật có da hồng, đen hoặc nâu, chân ngắn, mũi rộng và đuôi ngắn xoăn. Heo được nuôi trong trang trại lấy thịt (gọi là thịt lợn) hoặc sống trong tự nhiên."
       },
       {
         "definition": "a person who you find unpleasant or offensive; a person who you think is dirty or greedy",
@@ -2923,15 +3305,21 @@
             "cf": "",
             "x": "We cooked up a load of pasta and all made pigs of ourselves."
           }
-        ]
+        ],
+        "short_meaning_vi": "kẻ bẩn thỉu",
+        "definition_vi": "một người mà bạn thấy khó chịu hoặc xúc phạm; một người mà bạn nghĩ là bẩn thỉu hoặc tham lam"
       },
       {
         "definition": "an offensive word for a police officer",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cảnh sát",
+        "definition_vi": "một từ xúc phạm dành cho cảnh sát"
       },
       {
         "definition": "to do something badly; to make a mess of something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm hỏng",
+        "definition_vi": "làm một cái gì đó tồi tệ; làm hỏng một cái gì đó"
       },
       {
         "definition": "if you buy a pig in a poke, you buy something without seeing it or knowing if it is good enough",
@@ -2940,7 +3328,9 @@
             "cf": "",
             "x": "Buying online can mean buying a pig in a poke."
           }
-        ]
+        ],
+        "short_meaning_vi": "mua liều",
+        "definition_vi": "mua một con heo trong túi, bạn mua một thứ gì đó mà không nhìn thấy nó hoặc biết liệu nó có đủ tốt hay không"
       },
       {
         "definition": "a difficult or unpleasant thing or task",
@@ -2949,7 +3339,9 @@
             "cf": "",
             "x": "I've had a pig of a day."
           }
-        ]
+        ],
+        "short_meaning_vi": "việc khó",
+        "definition_vi": "một điều hoặc nhiệm vụ khó khăn hoặc khó chịu"
       },
       {
         "definition": "used to show that you do not believe something will ever happen",
@@ -2958,7 +3350,9 @@
             "cf": "",
             "x": "‘With a bit of luck, we'll be finished by the end of the year.’ ‘Yes, and pigs might fly!’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không bao giờ",
+        "definition_vi": "dùng để chỉ ra rằng bạn không tin điều gì đó sẽ bao giờ xảy ra"
       },
       {
         "definition": "to make small changes to something, especially its outside appearance, to try and hide the fact that it has problems",
@@ -2967,7 +3361,9 @@
             "cf": "",
             "x": "The change of policy doesn't go far enough—it's just putting lipstick on a pig."
           }
-        ]
+        ],
+        "short_meaning_vi": "tô vẽ",
+        "definition_vi": "thực hiện những thay đổi nhỏ đối với một cái gì đó, đặc biệt là vẻ ngoài bên ngoài của nó, để cố gắng che giấu sự thật rằng nó có vấn đề"
       }
     ]
   },
@@ -3012,7 +3408,9 @@
             "cf": "",
             "x": "the animal and plant life of the area"
           }
-        ]
+        ],
+        "short_meaning_vi": "cây",
+        "definition_vi": "một sinh vật sống phát triển trên mặt đất và thường có thân, lá và rễ, đặc biệt là một loài nhỏ hơn cây hoặc bụi"
       },
       {
         "definition": "a factory or place where power is produced or an industrial process takes place",
@@ -3037,7 +3435,9 @@
             "cf": "",
             "x": "a chemical/steel/coal plant"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà máy",
+        "definition_vi": "một nhà máy hoặc nơi sản xuất điện hoặc một quy trình công nghiệp diễn ra"
       },
       {
         "definition": "the large machines that are used in industrial processes",
@@ -3046,7 +3446,9 @@
             "cf": "",
             "x": "The company has been investing in new plant and equipment."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà máy",
+        "definition_vi": "các máy móc lớn được sử dụng trong các quy trình công nghiệp"
       },
       {
         "definition": "something that somebody has deliberately placed among another person’s clothes or possessions in order to make them appear guilty of a crime",
@@ -3055,11 +3457,15 @@
             "cf": "",
             "x": "He claimed that the drugs found in his house were a plant."
           }
-        ]
+        ],
+        "short_meaning_vi": "vật đặt bí mật",
+        "definition_vi": "thứ mà ai đó đã cố tình đặt vào quần áo hoặc tài sản của người khác để khiến họ trông có tội"
       },
       {
         "definition": "a person who joins a group of criminals or enemies in order to get and secretly report information about their activities",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gián điệp",
+        "definition_vi": "một người tham gia vào một nhóm tội phạm hoặc kẻ thù để thu thập và báo cáo bí mật về hoạt động của họ"
       }
     ]
   },
@@ -3080,7 +3486,9 @@
             "cf": "",
             "x": "a fish pond"
           }
-        ]
+        ],
+        "short_meaning_vi": "ao",
+        "definition_vi": "một khu vực nước lặng nhỏ, đặc biệt là một khu vực nhân tạo"
       },
       {
         "definition": "the Atlantic Ocean",
@@ -3093,11 +3501,15 @@
             "cf": "across the pond",
             "x": "Critics across the pond have been queuing up to heap praise on the movie."
           }
-        ]
+        ],
+        "short_meaning_vi": "biển Đại Tây Dương",
+        "definition_vi": "biển Đại Tây Dương"
       },
       {
         "definition": "an important person (in a small community)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người quan trọng",
+        "definition_vi": "một người quan trọng (trong một cộng đồng nhỏ)"
       }
     ]
   },
@@ -3122,7 +3534,9 @@
             "cf": "",
             "x": "the relationship between predator and prey"
           }
-        ]
+        ],
+        "short_meaning_vi": "động vật săn mồi",
+        "definition_vi": "một loài động vật giết và ăn các loài động vật khác"
       },
       {
         "definition": "a person or an organization that uses weaker people for their own advantage",
@@ -3131,7 +3545,9 @@
             "cf": "",
             "x": "to protect domestic industry from foreign predators"
           }
-        ]
+        ],
+        "short_meaning_vi": "kẻ bóc lột",
+        "definition_vi": "một người hoặc một tổ chức lợi dụng những người yếu thế hơn cho mục đích của riêng mình"
       }
     ]
   },
@@ -3156,7 +3572,9 @@
             "cf": "",
             "x": "birds of prey (= birds that kill for food)"
           }
-        ]
+        ],
+        "short_meaning_vi": "con mồi",
+        "definition_vi": "một loài động vật, chim, v.v. bị săn, giết và ăn thịt bởi loài khác"
       },
       {
         "definition": "a person who is harmed or tricked by somebody, especially for dishonest purposes",
@@ -3165,7 +3583,9 @@
             "cf": "",
             "x": "Socially isolated young people are easy prey for extremists."
           }
-        ]
+        ],
+        "short_meaning_vi": "nạn nhân",
+        "definition_vi": "một người bị tổn hại hoặc lừa dối bởi ai đó, đặc biệt là vì mục đích không trung thực"
       },
       {
         "definition": "to be killed and eaten by another animal or bird",
@@ -3174,7 +3594,9 @@
             "cf": "",
             "x": "Many small birds and rodents fall prey to the domestic cat."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị ăn thịt",
+        "definition_vi": "bị giết và ăn thịt bởi một loài động vật hoặc chim khác"
       },
       {
         "definition": "to be harmed or affected by something bad",
@@ -3191,7 +3613,9 @@
             "cf": "",
             "x": "The new government has fallen prey to corruption and fraud."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị ảnh hưởng",
+        "definition_vi": "bị tổn hại hoặc bị ảnh hưởng bởi một điều gì đó tồi tệ"
       }
     ]
   }

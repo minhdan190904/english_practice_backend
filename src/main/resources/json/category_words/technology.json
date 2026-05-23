@@ -48,7 +48,9 @@
             "cf": "",
             "x": "Many divorced fathers only have access to their children at weekends (= they are allowed by law to see them only at weekends)."
           }
-        ]
+        ],
+        "short_meaning_vi": "truy cập",
+        "definition_vi": "mở một tệp máy tính hoặc sử dụng một hệ thống máy tính"
       },
       {
         "definition": "a way of entering or reaching a place",
@@ -73,7 +75,9 @@
             "cf": "",
             "x": "The only access to the farmhouse is across the fields."
           }
-        ]
+        ],
+        "short_meaning_vi": "truy cập",
+        "definition_vi": "mở một tệp máy tính hoặc sử dụng một hệ thống máy tính"
       }
     ]
   },
@@ -98,7 +102,9 @@
             "cf": "accessible to somebody",
             "x": "These documents are not accessible to the public."
           }
-        ]
+        ],
+        "short_meaning_vi": "có thể truy cập",
+        "definition_vi": "có thể đến, vào, sử dụng, nhìn thấy, v.v."
       },
       {
         "definition": "that can be reached, entered, used, etc. by somebody who has problems walking",
@@ -111,7 +117,9 @@
             "cf": "",
             "x": "The beach should be accessible to everyone."
           }
-        ]
+        ],
+        "short_meaning_vi": "có thể tiếp cận",
+        "definition_vi": "có thể đến, vào, sử dụng, v.v. bởi người gặp khó khăn khi đi lại"
       },
       {
         "definition": "easy to understand",
@@ -124,11 +132,15 @@
             "cf": "accessible to somebody",
             "x": "a programme making science more accessible to young people"
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ hiểu",
+        "definition_vi": "dễ hiểu"
       },
       {
         "definition": "easy to talk to and to get to know",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dễ gần",
+        "definition_vi": "dễ nói chuyện và làm quen"
       }
     ]
   },
@@ -173,7 +185,9 @@
             "cf": "",
             "x": "The app is available on/in the app store."
           }
-        ]
+        ],
+        "short_meaning_vi": "ứng dụng",
+        "definition_vi": "một phần mềm mà bạn có thể tải xuống thiết bị như điện thoại thông minh hoặc máy tính bảng, ví dụ để tra cứu thông tin hoặc chơi trò chơi"
       },
       {
         "definition": "a program designed to do a particular job; a piece of software",
@@ -182,7 +196,9 @@
             "cf": "",
             "x": "a database app"
           }
-        ]
+        ],
+        "short_meaning_vi": "ứng dụng",
+        "definition_vi": "một chương trình được thiết kế để thực hiện một công việc cụ thể; một phần mềm"
       }
     ]
   },
@@ -207,7 +223,9 @@
             "cf": "",
             "x": "With each new release, this video game has repeatedly transformed the world of gaming."
           }
-        ]
+        ],
+        "short_meaning_vi": "chơi game",
+        "definition_vi": "chơi trò chơi điện tử."
       },
       {
         "definition": "gambling (= the activity of playing games of chance for money and of betting on horses, etc.)",
@@ -216,7 +234,9 @@
             "cf": "",
             "x": "He spent all night at the gaming tables."
           }
-        ]
+        ],
+        "short_meaning_vi": "cờ bạc",
+        "definition_vi": "cờ bạc (= hoạt động chơi các trò chơi may rủi để lấy tiền và đặt cược vào ngựa, v.v.)."
       }
     ]
   },
@@ -241,7 +261,9 @@
             "cf": "",
             "x": "The car pulled up with a screech of brakes and a grinding of gears."
           }
-        ]
+        ],
+        "short_meaning_vi": "bánh răng",
+        "definition_vi": "thiết bị trong một phương tiện giao thông giúp thay đổi mối quan hệ giữa tốc độ động cơ (hoặc tốc độ bàn đạp trên xe đạp) và tốc độ di chuyển về phía trước hoặc phía sau của bánh xe"
       },
       {
         "definition": "a particular position of the gears in a vehicle that gives a particular range of speed and power",
@@ -282,7 +304,9 @@
             "cf": "",
             "x": "He drove wildly, crashing through the gears like a maniac."
           }
-        ]
+        ],
+        "short_meaning_vi": "số truyền",
+        "definition_vi": "một vị trí cụ thể của các bánh răng trong một phương tiện giao thông, mang lại một phạm vi tốc độ và sức mạnh nhất định"
       },
       {
         "definition": "the equipment or clothing needed for a particular activity",
@@ -291,7 +315,9 @@
             "cf": "",
             "x": "climbing/fishing/sports gear"
           }
-        ]
+        ],
+        "short_meaning_vi": "trang bị",
+        "definition_vi": "thiết bị hoặc quần áo cần thiết cho một hoạt động cụ thể"
       },
       {
         "definition": "clothes",
@@ -304,7 +330,9 @@
             "cf": "",
             "x": "She was the only one wearing expensive designer gear."
           }
-        ]
+        ],
+        "short_meaning_vi": "quần áo",
+        "definition_vi": "quần áo"
       },
       {
         "definition": "the things that a person owns",
@@ -313,7 +341,9 @@
             "cf": "",
             "x": "I've left all my gear at Dave's house."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồ đạc",
+        "definition_vi": "những thứ mà một người sở hữu"
       },
       {
         "definition": "a machine used for a particular purpose",
@@ -322,7 +352,9 @@
             "cf": "",
             "x": "lifting/towing/winding gear"
           }
-        ]
+        ],
+        "short_meaning_vi": "máy móc",
+        "definition_vi": "một cỗ máy được sử dụng cho một mục đích cụ thể"
       },
       {
         "definition": "used to talk about the speed or effort involved in doing something",
@@ -343,11 +375,15 @@
             "cf": "",
             "x": "He found it hard to switch gears when he retired."
           }
-        ]
+        ],
+        "short_meaning_vi": "tốc độ/nỗ lực",
+        "definition_vi": "được sử dụng để nói về tốc độ hoặc nỗ lực liên quan đến việc thực hiện một điều gì đó"
       },
       {
         "definition": "illegal drugs",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ma túy",
+        "definition_vi": "ma túy bất hợp pháp"
       },
       {
         "definition": "a rude way of telling somebody to hurry",
@@ -356,11 +392,15 @@
             "cf": "",
             "x": "If you get your ass in gear, we can make it out of here tonight."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhanh lên",
+        "definition_vi": "một cách thô lỗ để yêu cầu ai đó nhanh lên"
       },
       {
         "definition": "to start working, or to start something working, in an efficient way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vận hành hiệu quả",
+        "definition_vi": "bắt đầu hoạt động, hoặc bắt đầu một cái gì đó hoạt động, một cách hiệu quả"
       },
       {
         "definition": "(to become) out of control",
@@ -369,7 +409,9 @@
             "cf": "",
             "x": "She said nothing in case her temper slipped out of gear."
           }
-        ]
+        ],
+        "short_meaning_vi": "mất kiểm soát",
+        "definition_vi": "(trở nên) mất kiểm soát"
       }
     ]
   },
@@ -398,7 +440,9 @@
             "cf": "",
             "x": "Living cells generate energy from food."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo ra (năng lượng)",
+        "definition_vi": "sản xuất năng lượng, đặc biệt là điện"
       },
       {
         "definition": "to produce or create something",
@@ -415,7 +459,9 @@
             "cf": "",
             "x": "The proposal has generated a lot of interest."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo ra",
+        "definition_vi": "sản xuất hoặc tạo ra một cái gì đó"
       },
       {
         "definition": "to produce a set or sequence of data by taking an initial set of data and applying a mathematical or logical process to it ",
@@ -424,7 +470,9 @@
             "cf": "",
             "x": "We generated 10 data sets, which we used to run each of the models."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo dữ liệu",
+        "definition_vi": "tạo ra một tập hợp hoặc chuỗi dữ liệu bằng cách lấy một tập hợp dữ liệu ban đầu và áp dụng một quy trình toán học hoặc logic cho nó"
       }
     ]
   },
@@ -449,7 +497,9 @@
             "cf": "",
             "x": "a graphic designer"
           }
-        ]
+        ],
+        "short_meaning_vi": "đồ họa",
+        "definition_vi": "liên quan đến bản vẽ và thiết kế, đặc biệt trong việc sản xuất sách, tạp chí, trang web, v.v."
       },
       {
         "definition": "very clear and full of details, especially about something unpleasant",
@@ -466,7 +516,9 @@
             "cf": "",
             "x": "This is a very graphic account of life in Victorian England."
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh động",
+        "definition_vi": "rất rõ ràng và đầy chi tiết, đặc biệt là về một điều gì đó khó chịu"
       }
     ]
   },
@@ -495,7 +547,9 @@
             "cf": "",
             "x": "The screen can display simple graphics as well as text."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồ họa",
+        "definition_vi": "các thiết kế, bản vẽ hoặc hình ảnh được sử dụng đặc biệt trong việc sản xuất sách, tạp chí, trang web, v.v."
       },
       {
         "definition": "the activity of making these designs, drawings or pictures or the use of these images",
@@ -504,7 +558,9 @@
             "cf": "",
             "x": "expertise in computer graphics"
           }
-        ]
+        ],
+        "short_meaning_vi": "đồ họa",
+        "definition_vi": "hoạt động tạo ra các thiết kế, bản vẽ hoặc hình ảnh này hoặc việc sử dụng các hình ảnh này"
       }
     ]
   },
@@ -525,11 +581,15 @@
             "cf": "",
             "x": "New York’s grid of streets"
           }
-        ]
+        ],
+        "short_meaning_vi": "lưới ô vuông",
+        "definition_vi": "một mẫu các đường thẳng, thường cắt nhau tạo thành hình vuông"
       },
       {
         "definition": "a frame of metal or wooden bars that are parallel or cross each other",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khung kim loại",
+        "definition_vi": "một khung bằng thanh kim loại hoặc gỗ song song hoặc cắt nhau"
       },
       {
         "definition": "a pattern of squares on a map that are marked with letters or numbers to help you find the exact position of a place",
@@ -538,7 +598,9 @@
             "cf": "",
             "x": "The grid reference is C8."
           }
-        ]
+        ],
+        "short_meaning_vi": "lưới tọa độ",
+        "definition_vi": "một mẫu các hình vuông trên bản đồ được đánh dấu bằng chữ cái hoặc số để giúp bạn tìm vị trí chính xác của một địa điểm"
       },
       {
         "definition": "a system of electric wires or pipes carrying gas, for sending power over a large area",
@@ -555,7 +617,9 @@
             "cf": "",
             "x": "Power can be fed from wind generators into the electricity grid system."
           }
-        ]
+        ],
+        "short_meaning_vi": "lưới điện",
+        "definition_vi": "một hệ thống dây điện hoặc ống dẫn khí, để truyền điện trên một khu vực rộng lớn"
       },
       {
         "definition": "a pattern of lines marking the starting positions for the racing cars",
@@ -564,11 +628,15 @@
             "cf": "",
             "x": "The 20-year-old didn't get the best of starts off the grid."
           }
-        ]
+        ],
+        "short_meaning_vi": "vạch xuất phát",
+        "definition_vi": "một mẫu các đường kẻ đánh dấu vị trí xuất phát cho những chiếc xe đua"
       },
       {
         "definition": "a number of computers that are linked together using the internet so that they can share power, data, etc. in order to work on difficult problems",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "mạng lưới máy tính",
+        "definition_vi": "một số máy tính được kết nối với nhau bằng internet để chúng có thể chia sẻ sức mạnh, dữ liệu, v.v. để giải quyết các vấn đề khó khăn"
       },
       {
         "definition": "not using the public supplies of electricity, gas, water, etc.",
@@ -581,7 +649,9 @@
             "cf": "",
             "x": "You can produce your own power and live off the grid."
           }
-        ]
+        ],
+        "short_meaning_vi": "không dùng điện lưới",
+        "definition_vi": "không sử dụng nguồn cung cấp điện, gas, nước, v.v. công cộng"
       }
     ]
   },
@@ -606,7 +676,9 @@
             "cf": "",
             "x": "keyboard shortcuts"
           }
-        ]
+        ],
+        "short_meaning_vi": "bàn phím",
+        "definition_vi": "bộ các phím để vận hành máy tính hoặc máy chữ, hoặc bộ các chữ cái bạn có thể chạm vào để viết trên điện thoại thông minh hoặc máy tính bảng"
       },
       {
         "definition": "the set of black and white keys on a piano or other musical instrument",
@@ -615,7 +687,9 @@
             "cf": "",
             "x": "a piano keyboard"
           }
-        ]
+        ],
+        "short_meaning_vi": "bàn phím đàn",
+        "definition_vi": "bộ các phím đen và trắng trên đàn piano hoặc nhạc cụ khác"
       },
       {
         "definition": "an electronic musical instrument that has keys like a piano and can be made to play in different styles or to sound like different instruments",
@@ -636,7 +710,9 @@
             "cf": "at a keyboard",
             "x": "She sat down at the keyboard and started to play."
           }
-        ]
+        ],
+        "short_meaning_vi": "đàn phím điện tử",
+        "definition_vi": "một nhạc cụ điện tử có các phím giống như đàn piano và có thể được điều chỉnh để chơi theo nhiều phong cách khác nhau hoặc để phát ra âm thanh giống như các nhạc cụ khác"
       }
     ]
   },
@@ -661,7 +737,9 @@
             "cf": "on a laptop",
             "x": "She was still working on her laptop."
           }
-        ]
+        ],
+        "short_meaning_vi": "máy tính xách tay",
+        "definition_vi": "một máy tính nhỏ có thể hoạt động bằng pin và dễ dàng mang theo"
       }
     ]
   },
@@ -694,7 +772,9 @@
             "cf": "",
             "x": "Are you familiar with the general layout of the hospital?"
           }
-        ]
+        ],
+        "short_meaning_vi": "bố cục",
+        "definition_vi": "cách sắp xếp các bộ phận của một thứ gì đó như trang sách, trang web, khu vườn hoặc tòa nhà"
       }
     ]
   },
@@ -731,7 +811,9 @@
             "cf": "link to somebody/something",
             "x": "Many of them had no previous links to terrorism."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "a relationship between two or more people, countries or organizations",
@@ -756,7 +838,9 @@
             "cf": "",
             "x": "The agreement will strengthen the links between the two countries."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "a means of travelling or communicating between two places",
@@ -785,7 +869,9 @@
             "cf": "via a link",
             "x": "The speech was broadcast via a satellite link."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "a place in an electronic document that is connected to another electronic document or to another part of the same document",
@@ -802,7 +888,9 @@
             "cf": "link to something",
             "x": "I've posted a link to the article, for those who are interested."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "each ring of a chain",
@@ -811,7 +899,9 @@
             "cf": "",
             "x": "The chain was too long so I removed a few of the links."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "a chain of long thin sausages; an individual long thin sausage",
@@ -820,7 +910,9 @@
             "cf": "",
             "x": "You need four Italian sausage links."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "one of the stages in a process or a line of argument",
@@ -833,7 +925,9 @@
             "cf": "",
             "x": "Death is the last link in the chain."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       },
       {
         "definition": "the point at which a system or an organization is most likely to fail",
@@ -842,7 +936,9 @@
             "cf": "",
             "x": "She went straight for the one weak link in the chain of his argument."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết nối",
+        "definition_vi": "tạo ra một kết nối vật lý hoặc điện tử giữa một vật thể, máy móc, địa điểm, v.v. với một vật khác"
       }
     ]
   },
@@ -863,7 +959,9 @@
             "cf": "",
             "x": "logs for the fire"
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi nhật ký",
+        "definition_vi": "ghi lại thông tin vào một hồ sơ chính thức hoặc viết một hồ sơ về các sự kiện"
       },
       {
         "definition": "an official record of events during a particular period of time, especially a journey on a ship or plane",
@@ -872,7 +970,9 @@
             "cf": "",
             "x": "The captain keeps a log."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi nhật ký",
+        "definition_vi": "ghi lại thông tin vào một hồ sơ chính thức hoặc viết một hồ sơ về các sự kiện"
       },
       {
         "definition": "a written or digital record of activity on a computer or phone line ",
@@ -885,11 +985,15 @@
             "cf": "",
             "x": "The lawyers will review phone logs and other records."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi nhật ký",
+        "definition_vi": "ghi lại thông tin vào một hồ sơ chính thức hoặc viết một hồ sơ về các sự kiện"
       },
       {
         "definition": "a logarithm (= any of a series of numbers set out in lists that make it possible to work out problems by adding and subtracting instead of multiplying and dividing)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ghi nhật ký",
+        "definition_vi": "ghi lại thông tin vào một hồ sơ chính thức hoặc viết một hồ sơ về các sự kiện"
       },
       {
         "definition": "very easy or very easily",
@@ -902,7 +1006,9 @@
             "cf": "",
             "x": "Fooling him was as easy as falling off a log."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi nhật ký",
+        "definition_vi": "ghi lại thông tin vào một hồ sơ chính thức hoặc viết một hồ sơ về các sự kiện"
       },
       {
         "definition": "to sleep very well",
@@ -915,7 +1021,9 @@
             "cf": "",
             "x": "I usually sleep like a log."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi nhật ký",
+        "definition_vi": "ghi lại thông tin vào một hồ sơ chính thức hoặc viết một hồ sơ về các sự kiện"
       }
     ]
   },
@@ -940,7 +1048,9 @@
             "cf": "",
             "x": "Duclair is a small town on a loop of the River Seine."
           }
-        ]
+        ],
+        "short_meaning_vi": "hình vòng",
+        "definition_vi": "một hình dạng giống như đường cong hoặc vòng tròn được tạo bởi một đường cong tròn"
       },
       {
         "definition": "a piece of rope, wire, etc. in the shape of a curve or circle",
@@ -957,7 +1067,9 @@
             "cf": "",
             "x": "a belt loop (= on trousers, etc. for holding a belt in place)"
           }
-        ]
+        ],
+        "short_meaning_vi": "vòng lặp",
+        "definition_vi": "một đoạn dây thừng, dây thép, v.v. có hình dạng đường cong hoặc vòng tròn"
       },
       {
         "definition": "a long, narrow piece of film or tape on which the pictures and sound are repeated continuously",
@@ -970,7 +1082,9 @@
             "cf": "",
             "x": "His mind kept turning in an endless loop."
           }
-        ]
+        ],
+        "short_meaning_vi": "băng lặp",
+        "definition_vi": "một đoạn phim hoặc băng dài, hẹp mà hình ảnh và âm thanh được lặp lại liên tục"
       },
       {
         "definition": "a set of instructions that is repeated again and again until a particular condition is satisfied",
@@ -979,19 +1093,27 @@
             "cf": "",
             "x": "positive and negative feedback loops"
           }
-        ]
+        ],
+        "short_meaning_vi": "vòng lặp lệnh",
+        "definition_vi": "một tập hợp các lệnh được lặp đi lặp lại hết lần này đến lần khác cho đến khi một điều kiện cụ thể được thỏa mãn"
       },
       {
         "definition": "a complete circuit for electrical current",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "mạch kín",
+        "definition_vi": "một mạch kín cho dòng điện"
       },
       {
         "definition": "a railway line or road that leaves the main track or road and then joins it again",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đường vòng",
+        "definition_vi": "một tuyến đường sắt hoặc đường bộ rời khỏi đường ray hoặc đường chính và sau đó nối lại"
       },
       {
         "definition": "the business centre of the US city of Chicago",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khu trung tâm",
+        "definition_vi": "trung tâm kinh doanh của thành phố Chicago, Hoa Kỳ"
       },
       {
         "definition": "part of a group of people that is dealing with something important; not part of this group",
@@ -1004,7 +1126,9 @@
             "cf": "",
             "x": "Lawton had gradually been cut out of the loop on legal reviews."
           }
-        ]
+        ],
+        "short_meaning_vi": "vòng tròn",
+        "definition_vi": "một bộ phận của một nhóm người đang giải quyết một vấn đề quan trọng; không phải là một phần của nhóm này"
       },
       {
         "definition": "to shock or surprise somebody",
@@ -1013,7 +1137,9 @@
             "cf": "",
             "x": "The result of the election knocked most people for a loop."
           }
-        ]
+        ],
+        "short_meaning_vi": "gây sốc",
+        "definition_vi": "gây sốc hoặc ngạc nhiên cho ai đó"
       }
     ]
   },
@@ -1066,7 +1192,9 @@
             "cf": "by machine",
             "x": "The potatoes are planted by machine."
           }
-        ]
+        ],
+        "short_meaning_vi": "máy móc",
+        "definition_vi": "một thiết bị có nhiều bộ phận hoạt động cùng nhau để thực hiện một nhiệm vụ cụ thể. Năng lượng dùng để vận hành máy có thể là điện, hơi nước, khí đốt, v.v. hoặc sức người."
       },
       {
         "definition": "a computer",
@@ -1083,7 +1211,9 @@
             "cf": "",
             "x": "All machines are connected online to reach specialists in Germany."
           }
-        ]
+        ],
+        "short_meaning_vi": "máy tính",
+        "definition_vi": "một máy tính"
       },
       {
         "definition": "a particular machine, for example in the home, when you do not refer to it by its full name",
@@ -1096,7 +1226,9 @@
             "cf": "",
             "x": "Is the machine working again?"
           }
-        ]
+        ],
+        "short_meaning_vi": "thiết bị gia dụng",
+        "definition_vi": "một máy móc cụ thể, ví dụ như trong gia đình, khi bạn không gọi nó bằng tên đầy đủ"
       },
       {
         "definition": "an organized system for achieving something and the people who control it",
@@ -1117,7 +1249,9 @@
             "cf": "",
             "x": "Hollywood’s slick public relations machine has produced a new improved model of a young movie star."
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ chế",
+        "definition_vi": "một hệ thống có tổ chức để đạt được điều gì đó và những người kiểm soát nó"
       },
       {
         "definition": "a person who acts without thinking and without allowing their feelings to show or to affect their work",
@@ -1130,11 +1264,15 @@
             "cf": "",
             "x": "She was the perfect fighting machine with a total disregard for her own personal safety."
           }
-        ]
+        ],
+        "short_meaning_vi": "người máy",
+        "definition_vi": "một người hành động không suy nghĩ và không cho phép cảm xúc của mình thể hiện hoặc ảnh hưởng đến công việc của họ"
       },
       {
         "definition": "a person who is a small part of a large organization",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bộ phận của tổ chức",
+        "definition_vi": "một người là một phần nhỏ của một tổ chức lớn"
       }
     ]
   },
@@ -1159,7 +1297,9 @@
             "cf": "",
             "x": "a piece of machinery"
           }
-        ]
+        ],
+        "short_meaning_vi": "máy móc (nhóm)",
+        "definition_vi": "các máy móc như một nhóm, đặc biệt là những máy lớn"
       },
       {
         "definition": "the parts of a machine that make it work",
@@ -1168,7 +1308,9 @@
             "cf": "",
             "x": "a clock with all its machinery hanging out"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ phận máy",
+        "definition_vi": "các bộ phận của một máy làm cho nó hoạt động"
       },
       {
         "definition": "the organization or structure of something; the system for doing something",
@@ -1189,7 +1331,9 @@
             "cf": "",
             "x": "The bumblebee has developed complex machinery for collecting pollen."
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ cấu",
+        "definition_vi": "tổ chức hoặc cấu trúc của một cái gì đó; hệ thống để làm một việc gì đó"
       }
     ]
   },
@@ -1214,7 +1358,9 @@
             "cf": "",
             "x": "mechanical parts"
           }
-        ]
+        ],
+        "short_meaning_vi": "chạy bằng động cơ",
+        "definition_vi": "được vận hành bằng năng lượng từ động cơ"
       },
       {
         "definition": "relating to machines and engines",
@@ -1227,7 +1373,9 @@
             "cf": "",
             "x": "The breakdown was due to a mechanical failure."
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ khí",
+        "definition_vi": "liên quan đến máy móc và động cơ"
       },
       {
         "definition": "done without thinking, like a machine",
@@ -1240,7 +1388,9 @@
             "cf": "",
             "x": "My work has become mechanical—I could do it in my sleep."
           }
-        ]
+        ],
+        "short_meaning_vi": "máy móc",
+        "definition_vi": "thực hiện mà không suy nghĩ, giống như một cái máy"
       },
       {
         "definition": "connected with the physical laws of movement and cause and effect (= with mechanics)",
@@ -1249,11 +1399,15 @@
             "cf": "",
             "x": "mechanical processes"
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ học",
+        "definition_vi": "liên quan đến các định luật vật lý về chuyển động và nguyên nhân-kết quả (= với cơ học)"
       },
       {
         "definition": "good at understanding how machines work",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giỏi cơ khí",
+        "definition_vi": "giỏi trong việc hiểu cách máy móc hoạt động"
       }
     ]
   },
@@ -1306,7 +1460,9 @@
             "cf": "",
             "x": "A radio message was sent out to all ships in the area."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin nhắn",
+        "definition_vi": "một mẩu thông tin bằng văn bản hoặc lời nói, v.v. mà bạn gửi cho ai đó hoặc để lại cho ai đó khi bạn không thể nói chuyện trực tiếp với họ"
       },
       {
         "definition": "a piece of information sent in electronic form, for example by email or mobile phone",
@@ -1335,7 +1491,9 @@
             "cf": "",
             "x": "I keep getting an error message when I try to connect to the internet."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin nhắn",
+        "definition_vi": "một mẩu thông tin được gửi dưới dạng điện tử, ví dụ qua email hoặc điện thoại di động"
       },
       {
         "definition": "an important moral, social or political idea that a book, speech, etc. is trying to communicate",
@@ -1360,7 +1518,9 @@
             "cf": "",
             "x": "He uses his art to convey a political message."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông điệp",
+        "definition_vi": "một ý tưởng đạo đức, xã hội hoặc chính trị quan trọng mà một cuốn sách, bài phát biểu, v.v. đang cố gắng truyền đạt"
       },
       {
         "definition": "a piece of information that is sent from the brain to a part of the body, or from a part of the body to the brain",
@@ -1369,7 +1529,9 @@
             "cf": "",
             "x": "The message arrives in your brain in a fraction of a second."
           }
-        ]
+        ],
+        "short_meaning_vi": "tín hiệu thần kinh",
+        "definition_vi": "một mẩu thông tin được gửi từ não đến một bộ phận của cơ thể, hoặc từ một bộ phận của cơ thể đến não"
       },
       {
         "definition": "shopping",
@@ -1386,7 +1548,9 @@
             "cf": "",
             "x": "You can leave your messages (= the things that you have bought) here."
           }
-        ]
+        ],
+        "short_meaning_vi": "mua sắm",
+        "definition_vi": "mua sắm"
       },
       {
         "definition": "to understand what somebody is trying to tell you indirectly",
@@ -1395,11 +1559,15 @@
             "cf": "",
             "x": "When he started looking at his watch, I got the message and left."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiểu ý",
+        "definition_vi": "hiểu những gì ai đó đang cố gắng nói với bạn một cách gián tiếp"
       },
       {
         "definition": "stating/not stating the official view of the political party or organization you represent",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lập trường",
+        "definition_vi": "nêu/không nêu quan điểm chính thức của đảng phái chính trị hoặc tổ chức mà bạn đại diện"
       }
     ]
   },
@@ -1452,7 +1620,9 @@
             "cf": "",
             "x": "Many companies have tried to push mobile payment services."
           }
-        ]
+        ],
+        "short_meaning_vi": "điện thoại di động",
+        "definition_vi": "một chiếc điện thoại di động"
       },
       {
         "definition": "that is not fixed in one place and can be moved easily and quickly",
@@ -1473,7 +1643,9 @@
             "cf": "",
             "x": "The barbecue is fully mobile."
           }
-        ]
+        ],
+        "short_meaning_vi": "điện thoại di động",
+        "definition_vi": "một chiếc điện thoại di động"
       },
       {
         "definition": "able to move or travel around easily",
@@ -1494,7 +1666,9 @@
             "cf": "",
             "x": "Yoga will help you to become more mobile and supple."
           }
-        ]
+        ],
+        "short_meaning_vi": "điện thoại di động",
+        "definition_vi": "một chiếc điện thoại di động"
       },
       {
         "definition": "able to change your social class, your job or the place where you live easily",
@@ -1519,7 +1693,9 @@
             "cf": "",
             "x": "Meanwhile, skilled workers can be as mobile as capital."
           }
-        ]
+        ],
+        "short_meaning_vi": "điện thoại di động",
+        "definition_vi": "một chiếc điện thoại di động"
       },
       {
         "definition": "changing shape or expression easily and often",
@@ -1528,7 +1704,9 @@
             "cf": "",
             "x": "His mobile features registered amusement."
           }
-        ]
+        ],
+        "short_meaning_vi": "điện thoại di động",
+        "definition_vi": "một chiếc điện thoại di động"
       }
     ]
   },
@@ -1557,7 +1735,9 @@
             "cf": "",
             "x": "environment-friendly modes of transport"
           }
-        ]
+        ],
+        "short_meaning_vi": "phương thức",
+        "definition_vi": "một cách cụ thể để làm điều gì đó; một loại cụ thể của một cái gì đó"
       },
       {
         "definition": "the way in which a piece of equipment is set to perform a particular task",
@@ -1570,7 +1750,9 @@
             "cf": "",
             "x": "You can also use this computer game in two-player mode."
           }
-        ]
+        ],
+        "short_meaning_vi": "chế độ",
+        "definition_vi": "cách thức một thiết bị được cài đặt để thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "a particular way of feeling or behaving",
@@ -1579,7 +1761,9 @@
             "cf": "",
             "x": "to be in holiday mode"
           }
-        ]
+        ],
+        "short_meaning_vi": "tâm trạng",
+        "definition_vi": "một cách cảm nhận hoặc hành xử cụ thể"
       },
       {
         "definition": "a particular style or fashion in clothes, art, etc.",
@@ -1588,7 +1772,9 @@
             "cf": "",
             "x": "a pop video made by a director who really understands the mode"
           }
-        ]
+        ],
+        "short_meaning_vi": "phong cách",
+        "definition_vi": "một phong cách hoặc mốt cụ thể trong quần áo, nghệ thuật, v.v."
       },
       {
         "definition": "a set of notes in music that form a scale",
@@ -1597,11 +1783,15 @@
             "cf": "",
             "x": "major/minor mode"
           }
-        ]
+        ],
+        "short_meaning_vi": "giọng",
+        "definition_vi": "một tập hợp các nốt nhạc tạo thành một âm giai"
       },
       {
         "definition": "the value that appears most frequently in a series of numbers",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "yếu vị",
+        "definition_vi": "giá trị xuất hiện thường xuyên nhất trong một chuỗi các số"
       }
     ]
   },
@@ -1630,7 +1820,9 @@
             "cf": "",
             "x": "The architect had produced a scale model of the proposed shopping complex."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "something such as a text or a system that can be used as an example for other people to copy",
@@ -1651,7 +1843,9 @@
             "cf": "",
             "x": "Different funding models are used in schools."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "a person or thing that is considered an excellent example of something",
@@ -1668,7 +1862,9 @@
             "cf": "",
             "x": "a model farm (= one that has been specially designed to work well)"
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "a person whose job is to wear and show new styles of clothes and be photographed wearing them",
@@ -1681,7 +1877,9 @@
             "cf": "",
             "x": "He was a former male model who became a movie star."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "a person who is employed to be painted, drawn, photographed, etc. by an artist or photographer",
@@ -1690,7 +1888,9 @@
             "cf": "",
             "x": "The model sits for me for three hours every day."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "a particular design or type of product",
@@ -1699,7 +1899,9 @@
             "cf": "",
             "x": "The latest models will be on display at the motor show."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "a way of running a business, based on a particular way of getting the money you need and identifying and reaching your customers; a type of business model",
@@ -1712,7 +1914,9 @@
             "cf": "under a… model",
             "x": "Under a subscription model, consumers will typically pay a monthly fee to access the online library."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       },
       {
         "definition": "a simple description of a system, used for explaining how something works or calculating what might happen, etc.",
@@ -1737,7 +1941,9 @@
             "cf": "according to a model",
             "x": "According to this model, by the middle of the century temperatures will rise by 1–3℃."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô phỏng",
+        "definition_vi": "tạo ra một bản sao hoặc mô tả về một hoạt động, một tình huống, v.v. để bạn có thể nghiên cứu nó trước khi xử lý thực tế"
       }
     ]
   },
@@ -1762,7 +1968,9 @@
             "cf": "",
             "x": "It might be necessary to make a few slight modifications to the design."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự sửa đổi",
+        "definition_vi": "hành động hoặc quá trình thay đổi một cái gì đó để cải thiện nó hoặc làm cho nó dễ chấp nhận hơn; một sự thay đổi được thực hiện"
       }
     ]
   },
@@ -1807,7 +2015,9 @@
             "cf": "",
             "x": "Permissions are arranged so that you can't delete or modify files."
           }
-        ]
+        ],
+        "short_meaning_vi": "sửa đổi",
+        "definition_vi": "thay đổi một chút một cái gì đó, đặc biệt là để làm cho nó phù hợp hơn với một mục đích cụ thể"
       },
       {
         "definition": "to make something less extreme",
@@ -1824,7 +2034,9 @@
             "cf": "",
             "x": "The social worker at first aimed to get Mrs R to modify her behaviour, without success."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm dịu bớt",
+        "definition_vi": "làm cho một cái gì đó bớt cực đoan hơn"
       },
       {
         "definition": "a word, such as an adjective or adverb, that modifies another word or group of words describes it or limits its meaning in some way",
@@ -1833,7 +2045,9 @@
             "cf": "",
             "x": "In ‘walk slowly’, the adverb ‘slowly’ modifies the verb ‘walk’."
           }
-        ]
+        ],
+        "short_meaning_vi": "từ bổ nghĩa",
+        "definition_vi": "một từ, chẳng hạn như tính từ hoặc trạng từ, bổ nghĩa cho một từ hoặc nhóm từ khác mô tả nó hoặc giới hạn ý nghĩa của nó theo một cách nào đó"
       }
     ]
   },
@@ -1874,7 +2088,9 @@
             "cf": "",
             "x": "The laboratory is replete with banks of video monitors."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo dõi",
+        "definition_vi": "quan sát và kiểm tra một cái gì đó trong một khoảng thời gian để xem nó phát triển như thế nào, để bạn có thể thực hiện bất kỳ thay đổi cần thiết nào"
       },
       {
         "definition": "a piece of equipment used to check or record something",
@@ -1895,7 +2111,9 @@
             "cf": "",
             "x": "The heart monitor shows the strength of your pulse."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo dõi",
+        "definition_vi": "quan sát và kiểm tra một cái gì đó trong một khoảng thời gian để xem nó phát triển như thế nào, để bạn có thể thực hiện bất kỳ thay đổi cần thiết nào"
       },
       {
         "definition": "a person whose job is to check that something is done fairly and honestly, especially in a foreign country",
@@ -1912,7 +2130,9 @@
             "cf": "",
             "x": "Monitors or observers help to build trust between the two sides."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo dõi",
+        "definition_vi": "quan sát và kiểm tra một cái gì đó trong một khoảng thời gian để xem nó phát triển như thế nào, để bạn có thể thực hiện bất kỳ thay đổi cần thiết nào"
       },
       {
         "definition": "a student in a school who performs special duties, such as helping the teacher",
@@ -1921,7 +2141,9 @@
             "cf": "",
             "x": "He was a star pupil and the class monitor."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo dõi",
+        "definition_vi": "quan sát và kiểm tra một cái gì đó trong một khoảng thời gian để xem nó phát triển như thế nào, để bạn có thể thực hiện bất kỳ thay đổi cần thiết nào"
       },
       {
         "definition": "a large tropical lizard (= a type of reptile)",
@@ -1930,7 +2152,9 @@
             "cf": "",
             "x": "A large monitor lizard, prehistoric in its beauty, stared at us. "
           }
-        ]
+        ],
+        "short_meaning_vi": "theo dõi",
+        "definition_vi": "quan sát và kiểm tra một cái gì đó trong một khoảng thời gian để xem nó phát triển như thế nào, để bạn có thể thực hiện bất kỳ thay đổi cần thiết nào"
       }
     ]
   },
@@ -1963,7 +2187,9 @@
             "cf": "",
             "x": "He was a shy little mouse."
           }
-        ]
+        ],
+        "short_meaning_vi": "con chuột",
+        "definition_vi": "một loài động vật nhỏ được bao phủ bởi bộ lông và có chiếc đuôi dài mảnh khảnh. Chuột sống ở đồng ruộng, trong nhà dân hoặc nơi cất giữ thực phẩm."
       },
       {
         "definition": "a small device that is moved by hand across a surface to control the movement of the cursor on a computer screen",
@@ -1988,7 +2214,9 @@
             "cf": "",
             "x": "With simple mouse clicks, the viewer can navigate the room."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuột máy tính",
+        "definition_vi": "một thiết bị nhỏ được di chuyển bằng tay trên bề mặt để điều khiển chuyển động của con trỏ trên màn hình máy tính"
       },
       {
         "definition": "to play a cruel game with somebody in your power by changing your behaviour very often, so that they become nervous and do not know what to expect",
@@ -2001,11 +2229,15 @@
             "cf": "",
             "x": "Young car thieves enjoy playing cat and mouse with the police."
           }
-        ]
+        ],
+        "short_meaning_vi": "chơi đùa tàn nhẫn",
+        "definition_vi": "chơi một trò chơi tàn nhẫn với ai đó trong quyền lực của bạn bằng cách thay đổi hành vi của bạn rất thường xuyên, để họ trở nên lo lắng và không biết phải mong đợi điều gì"
       },
       {
         "definition": "people enjoy themselves more and behave with greater freedom when the person in charge of them is not there",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tự do vui chơi",
+        "definition_vi": "mọi người vui vẻ hơn và cư xử tự do hơn khi người phụ trách họ không có mặt"
       }
     ]
   },
@@ -2042,7 +2274,9 @@
             "cf": "",
             "x": "an extensive network of underground tunnels"
           }
-        ]
+        ],
+        "short_meaning_vi": "mạng lưới",
+        "definition_vi": "một hệ thống phức tạp gồm đường sá, đường dây, ống dẫn, dây thần kinh, v.v. được kết nối với nhau và hoạt động cùng nhau"
       },
       {
         "definition": "a closely connected group of people, companies, etc. that exchange information, etc.",
@@ -2067,7 +2301,9 @@
             "cf": "",
             "x": "Expand your network of contacts beyond your usual circles."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạng lưới quan hệ",
+        "definition_vi": "một nhóm chặt chẽ gồm những người, công ty, v.v. trao đổi thông tin, v.v."
       },
       {
         "definition": "a number of computers and other devices that are connected together so that equipment and information can be shared",
@@ -2088,7 +2324,9 @@
             "cf": "",
             "x": "You can print and scan from your device via a wireless network."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạng máy tính",
+        "definition_vi": "một số máy tính và thiết bị khác được kết nối với nhau để có thể chia sẻ thiết bị và thông tin"
       },
       {
         "definition": "a group of radio or television stations in different places that are connected and that broadcast the same programmes at the same time",
@@ -2109,7 +2347,9 @@
             "cf": "network of something",
             "x": "He's chairman of a network of radio stations."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạng lưới truyền hình",
+        "definition_vi": "một nhóm các đài phát thanh hoặc truyền hình ở các địa điểm khác nhau được kết nối và phát sóng cùng một chương trình cùng một lúc"
       },
       {
         "definition": "the situation in many British companies, government departments and branches of the armed forces where people give jobs to former students of the school or university that they went to ",
@@ -2122,7 +2362,9 @@
             "cf": "",
             "x": "Most of the managers were chosen by the old boy network and many of them turned out to be incompetent."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạng lưới thiên vị",
+        "definition_vi": "tình huống trong nhiều công ty Anh, cơ quan chính phủ và chi nhánh quân đội, nơi mọi người trao công việc cho cựu sinh viên của trường hoặc đại học mà họ đã theo học"
       }
     ]
   },
@@ -2191,7 +2433,9 @@
             "cf": "",
             "x": "It's news to me (= I haven't heard it before)."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin tức mới",
+        "definition_vi": "thông tin mới về một điều gì đó vừa xảy ra gần đây"
       },
       {
         "definition": "reports of recent events that appear in newspapers or on television, radio or the internet",
@@ -2236,7 +2480,9 @@
             "cf": "in the news",
             "x": "She is always in the news."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin tức",
+        "definition_vi": "các bản tin về các sự kiện gần đây xuất hiện trên báo hoặc trên truyền hình, radio hoặc internet"
       },
       {
         "definition": "a regular television or radio broadcast of the latest news",
@@ -2257,7 +2503,9 @@
             "cf": "on the news",
             "x": "I saw it on the news."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản tin",
+        "definition_vi": "một chương trình truyền hình hoặc radio thường xuyên về tin tức mới nhất"
       },
       {
         "definition": "a person, thing or event that is considered to be interesting enough to be reported as news",
@@ -2266,7 +2514,9 @@
             "cf": "",
             "x": "Pop stars are always news."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin tức đáng chú ý",
+        "definition_vi": "một người, vật hoặc sự kiện được coi là đủ thú vị để được đưa tin"
       },
       {
         "definition": "to be likely to cause problems",
@@ -2275,7 +2525,9 @@
             "cf": "",
             "x": "Central heating is bad news for indoor plants."
           }
-        ]
+        ],
+        "short_meaning_vi": "gây rắc rối",
+        "definition_vi": "có khả năng gây ra vấn đề"
       },
       {
         "definition": "to be likely to be helpful or give an advantage",
@@ -2288,7 +2540,9 @@
             "cf": "",
             "x": "The good news is that there's still plenty of money available."
           }
-        ]
+        ],
+        "short_meaning_vi": "có lợi",
+        "definition_vi": "có khả năng hữu ích hoặc mang lại lợi thế"
       },
       {
         "definition": "to be the first to tell somebody some bad news",
@@ -2301,7 +2555,9 @@
             "cf": "",
             "x": "The police had to break the news to the boy's parents."
           }
-        ]
+        ],
+        "short_meaning_vi": "báo tin xấu",
+        "definition_vi": "là người đầu tiên báo cho ai đó một tin xấu"
       },
       {
         "definition": "if there were bad news we would hear it, so as we have heard nothing, it is likely that nothing bad has happened",
@@ -2310,7 +2566,9 @@
             "cf": "",
             "x": "I still haven't heard anything about the job, but no news is good news."
           }
-        ]
+        ],
+        "short_meaning_vi": "không có tin xấu",
+        "definition_vi": "nếu có tin xấu chúng ta sẽ biết, vì vậy vì chúng ta không nghe thấy gì, có khả năng là không có điều gì tồi tệ đã xảy ra"
       }
     ]
   },
@@ -2335,7 +2593,9 @@
             "cf": "",
             "x": "a church newsletter"
           }
-        ]
+        ],
+        "short_meaning_vi": "bản tin nội bộ",
+        "definition_vi": "một báo cáo chứa tin tức về các hoạt động của một câu lạc bộ hoặc tổ chức được gửi thường xuyên đến tất cả các thành viên của nó"
       }
     ]
   },
@@ -2412,7 +2672,9 @@
             "cf": "",
             "x": "She works for the local newspaper (= the company that produces it)."
           }
-        ]
+        ],
+        "short_meaning_vi": "báo chí",
+        "definition_vi": "một tập hợp các tờ giấy in lớn, hoặc một trang web, chứa tin tức, bài báo, quảng cáo, v.v. và được xuất bản hàng ngày hoặc hàng tuần; tổ chức chịu trách nhiệm sản xuất ra nó"
       },
       {
         "definition": "paper taken from old newspapers",
@@ -2425,7 +2687,9 @@
             "cf": "",
             "x": "Use old newspaper to wipe windows clean and dry."
           }
-        ]
+        ],
+        "short_meaning_vi": "giấy báo cũ",
+        "definition_vi": "giấy lấy từ báo cũ"
       }
     ]
   },
@@ -2462,7 +2726,9 @@
             "cf": "notify somebody that…",
             "x": "Members have been notified that there will be a small increase in the fee."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông báo chính thức",
+        "definition_vi": "chính thức hoặc chính thức thông báo cho ai đó về điều gì đó"
       }
     ]
   },
@@ -2495,7 +2761,9 @@
             "cf": "",
             "x": "You need to remove the roof panel to remove the side panels."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấm bảng",
+        "definition_vi": "một miếng gỗ, kính hoặc kim loại hình vuông hoặc hình chữ nhật tạo thành một phần của bề mặt lớn hơn như cửa hoặc tường"
       },
       {
         "definition": "a flat board in a vehicle or on a machine where the controls and instruments are fixed",
@@ -2508,7 +2776,9 @@
             "cf": "",
             "x": "A red light flashed on the control panel."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảng điều khiển",
+        "definition_vi": "một bảng phẳng trong xe hoặc trên máy nơi các nút điều khiển và thiết bị được gắn vào"
       },
       {
         "definition": "a piece of metal that forms part of the outer frame of a vehicle",
@@ -2517,7 +2787,9 @@
             "cf": "",
             "x": "A rear body panel needed replacing after the accident."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấm kim loại",
+        "definition_vi": "một miếng kim loại tạo thành một phần của khung ngoài của xe"
       },
       {
         "definition": "a piece of cloth that forms part of a piece of clothing",
@@ -2526,7 +2798,9 @@
             "cf": "",
             "x": "The trousers have double thickness knee panels for extra protection."
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng vải",
+        "definition_vi": "một miếng vải tạo thành một phần của quần áo"
       },
       {
         "definition": "a group of specialists who give their advice or opinion about something; a group of people who discuss topics of interest on television or radio",
@@ -2563,7 +2837,9 @@
             "cf": "",
             "x": "The interview panel wants/want to find out as much as possible about each candidate's abilities."
           }
-        ]
+        ],
+        "short_meaning_vi": "hội đồng chuyên gia",
+        "definition_vi": "một nhóm các chuyên gia đưa ra lời khuyên hoặc ý kiến của họ về một điều gì đó; một nhóm người thảo luận các chủ đề quan tâm trên truyền hình hoặc radio"
       }
     ]
   },
@@ -2588,7 +2864,9 @@
             "cf": "",
             "x": "We had to work within the parameters that had already been established."
           }
-        ]
+        ],
+        "short_meaning_vi": "tham số",
+        "definition_vi": "một cái gì đó quyết định hoặc giới hạn cách thức thực hiện một việc gì đó"
       }
     ]
   },
@@ -2609,7 +2887,9 @@
             "cf": "",
             "x": "Enter a username and password to get into the system."
           }
-        ]
+        ],
+        "short_meaning_vi": "mật khẩu",
+        "definition_vi": "một chuỗi các chữ cái, số, v.v. mà bạn phải nhập vào máy tính hoặc hệ thống máy tính để có thể sử dụng nó."
       },
       {
         "definition": "a secret word or phrase that you need to know in order to be allowed into a place",
@@ -2618,7 +2898,9 @@
             "cf": "",
             "x": "You must give the password before they'll let you in."
           }
-        ]
+        ],
+        "short_meaning_vi": "từ khóa bí mật",
+        "definition_vi": "một từ hoặc cụm từ bí mật mà bạn cần biết để được phép vào một địa điểm."
       }
     ]
   },
@@ -2655,7 +2937,9 @@
             "cf": "",
             "x": "We sat in a patch of shade under a tree."
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng vá",
+        "definition_vi": "một khu vực nhỏ của một cái gì đó, đặc biệt là một khu vực khác biệt với khu vực xung quanh nó"
       },
       {
         "definition": "a small piece of material that is used to cover a hole in something or to make a weak area stronger, or as decoration",
@@ -2664,7 +2948,9 @@
             "cf": "",
             "x": "I sewed patches on the knees of my jeans."
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng vá",
+        "definition_vi": "một miếng vật liệu được sử dụng để che lỗ trên một vật hoặc để làm cho một khu vực yếu hơn trở nên chắc chắn hơn, hoặc để trang trí"
       },
       {
         "definition": "a piece of material that you wear over an eye, usually because the eye is damaged",
@@ -2673,7 +2959,9 @@
             "cf": "",
             "x": "He had a black patch over one eye."
           }
-        ]
+        ],
+        "short_meaning_vi": "băng bịt mắt",
+        "definition_vi": "một miếng vật liệu mà bạn đeo trên mắt, thường là vì mắt bị tổn thương"
       },
       {
         "definition": "a piece of material that you sew onto clothes as part of a uniform",
@@ -2686,7 +2974,9 @@
             "cf": "",
             "x": "It has a UPS patch sewn on the right shoulder."
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng vá quân phục",
+        "definition_vi": "một miếng vật liệu mà bạn may lên quần áo như một phần của quân phục"
       },
       {
         "definition": "a piece of material that people can wear on their skin to help them to stop smoking",
@@ -2695,7 +2985,9 @@
             "cf": "",
             "x": "nicotine patches"
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng dán cai thuốc",
+        "definition_vi": "một miếng vật liệu mà mọi người có thể dán lên da để giúp họ bỏ hút thuốc"
       },
       {
         "definition": "a small piece of land, especially one used for growing vegetables or fruit",
@@ -2708,7 +3000,9 @@
             "cf": "",
             "x": "We had a strawberry patch beside the greenhouse."
           }
-        ]
+        ],
+        "short_meaning_vi": "luống rau",
+        "definition_vi": "một mảnh đất nhỏ, đặc biệt là mảnh đất dùng để trồng rau hoặc trái cây"
       },
       {
         "definition": "an area that somebody works in, knows well or comes from",
@@ -2721,7 +3015,9 @@
             "cf": "",
             "x": "She has had a lot of success in her home patch."
           }
-        ]
+        ],
+        "short_meaning_vi": "lĩnh vực hoạt động",
+        "definition_vi": "một khu vực mà ai đó làm việc, quen thuộc hoặc đến từ đó"
       },
       {
         "definition": "a period of time of the type mentioned, usually a difficult or unhappy one",
@@ -2730,7 +3026,9 @@
             "cf": "",
             "x": "to go through a bad/difficult/sticky patch"
           }
-        ]
+        ],
+        "short_meaning_vi": "giai đoạn khó khăn",
+        "definition_vi": "một khoảng thời gian thuộc loại được đề cập, thường là một khoảng thời gian khó khăn hoặc không vui"
       },
       {
         "definition": "a small piece of code (= instructions that a computer can understand) which can be added to a computer program to improve it or to correct a fault",
@@ -2743,7 +3041,9 @@
             "cf": "",
             "x": "Update and apply all security patches to your browser, as soon as possible."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản vá lỗi",
+        "definition_vi": "một đoạn mã nhỏ (= các chỉ dẫn mà máy tính có thể hiểu) có thể được thêm vào chương trình máy tính để cải thiện nó hoặc để sửa lỗi"
       },
       {
         "definition": "to be much less good, attractive, etc. than somebody/something else",
@@ -2756,7 +3056,9 @@
             "cf": "",
             "x": "Shop-bought jam is not a patch on home-made."
           }
-        ]
+        ],
+        "short_meaning_vi": "kém hơn nhiều",
+        "definition_vi": "kém hơn nhiều về sự tốt, hấp dẫn, v.v. so với ai đó/cái gì đó khác"
       }
     ]
   },
@@ -2801,7 +3103,9 @@
             "cf": "",
             "x": "Here is our list of top new phone apps."
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "the system for talking to somebody else using a phone",
@@ -2830,7 +3134,9 @@
             "cf": "",
             "x": "Most people only need one phone line. "
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "the part of a landline phone that you hold in your hand and speak into",
@@ -2847,7 +3153,9 @@
             "cf": "",
             "x": "to take the phone off the hook (= so that no one can call)"
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "an instrument that uses or makes sound",
@@ -2860,7 +3168,9 @@
             "cf": "",
             "x": "xylophone"
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "speaking a particular language; a person who does this",
@@ -2873,11 +3183,15 @@
             "cf": "",
             "x": "francophone"
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "a sound made in speech, especially when not considered as part of the sound system of a particular language",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "to be using the phone",
@@ -2890,7 +3204,9 @@
             "cf": "",
             "x": "She's on the phone at the moment."
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       },
       {
         "definition": "to have a phone in your home or place of work",
@@ -2899,7 +3215,9 @@
             "cf": "",
             "x": "They're not on the phone at the holiday cottage."
           }
-        ]
+        ],
+        "short_meaning_vi": "gọi điện thoại",
+        "definition_vi": "thực hiện một cuộc gọi điện thoại cho ai đó"
       }
     ]
   },
@@ -2972,7 +3290,9 @@
             "cf": "",
             "x": "a photo-sharing website"
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh",
+        "definition_vi": "một bức ảnh được tạo ra bằng cách sử dụng máy ảnh lưu trữ hình ảnh dưới dạng kỹ thuật số hoặc có phim nhạy sáng bên trong"
       }
     ]
   },
@@ -3025,7 +3345,9 @@
             "cf": "",
             "x": "to publish/release a photograph"
           }
-        ]
+        ],
+        "short_meaning_vi": "chụp ảnh",
+        "definition_vi": "chụp ảnh ai đó/cái gì đó"
       }
     ]
   },
@@ -3058,7 +3380,9 @@
             "cf": "",
             "x": "The couple met on a train platform. "
           }
-        ]
+        ],
+        "short_meaning_vi": "sân ga",
+        "definition_vi": "khu vực bằng phẳng, nâng cao bên cạnh đường ray tại nhà ga xe lửa, nơi bạn lên hoặc xuống tàu"
       },
       {
         "definition": "a flat surface raised above the level of the ground or floor, used by public speakers or performers so that the audience can see them",
@@ -3071,7 +3395,9 @@
             "cf": "",
             "x": "Representatives of both parties shared a platform (= they spoke at the same meeting)."
           }
-        ]
+        ],
+        "short_meaning_vi": "Sân khấu",
+        "definition_vi": "một bề mặt phẳng được nâng cao hơn mặt đất hoặc sàn, được sử dụng bởi các diễn giả hoặc người biểu diễn để khán giả có thể nhìn thấy họ"
       },
       {
         "definition": "a raised level surface, for example one that equipment stands on or is operated from",
@@ -3092,7 +3418,9 @@
             "cf": "",
             "x": "The table and chairs were on a raised platform. "
           }
-        ]
+        ],
+        "short_meaning_vi": "Nền tảng",
+        "definition_vi": "một bề mặt phẳng được nâng cao, ví dụ như nơi thiết bị đứng hoặc được vận hành"
       },
       {
         "definition": "the type of computer system or the software that is used",
@@ -3109,7 +3437,9 @@
             "cf": "",
             "x": "The prevalence of smartphones has resulted in the migration of company information to mobile platforms. "
           }
-        ]
+        ],
+        "short_meaning_vi": "Nền tảng",
+        "definition_vi": "loại hệ thống máy tính hoặc phần mềm được sử dụng"
       },
       {
         "definition": "the aims of a political party and the things that they say they will do if they are elected to power",
@@ -3122,7 +3452,9 @@
             "cf": "",
             "x": "They fought the election on a platform of low taxes."
           }
-        ]
+        ],
+        "short_meaning_vi": "Chương trình nghị sự",
+        "definition_vi": "các mục tiêu của một đảng chính trị và những gì họ nói sẽ làm nếu họ được bầu vào quyền lực"
       },
       {
         "definition": "an opportunity or a place for somebody to express their opinions publicly or make progress in a particular area",
@@ -3131,7 +3463,9 @@
             "cf": "",
             "x": "She used the newspaper column as a platform for her feminist views."
           }
-        ]
+        ],
+        "short_meaning_vi": "Diễn đàn",
+        "definition_vi": "một cơ hội hoặc một nơi để ai đó bày tỏ ý kiến ​​công khai hoặc đạt được tiến bộ trong một lĩnh vực cụ thể"
       },
       {
         "definition": "a type of shoe with a high, thick sole; the sole on such a shoe",
@@ -3140,11 +3474,15 @@
             "cf": "",
             "x": "platform shoes"
           }
-        ]
+        ],
+        "short_meaning_vi": "Giày đế dày",
+        "definition_vi": "loại giày có đế cao, dày; đế của loại giày đó"
       },
       {
         "definition": "the open part at the back of a double-decker bus where you get on or off",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "Bậc lên xuống",
+        "definition_vi": "phần mở ở phía sau của xe buýt hai tầng nơi bạn lên hoặc xuống"
       }
     ]
   },
@@ -3169,7 +3507,9 @@
             "cf": "",
             "x": "I'll have to change the plug on my hairdryer."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "a small opening in a wall, by which you connect a piece of electrical equipment to the main supply of electricity",
@@ -3178,7 +3518,9 @@
             "cf": "",
             "x": "Can I use this plug for my iron?"
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "a small object that connects a wire from one piece of electrical equipment to an opening in another",
@@ -3191,11 +3533,15 @@
             "cf": "",
             "x": "I pushed the jack plug into the amp."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "a part in a car engine that produces a spark (= a flash of electricity) which makes the fuel burn and starts the engine",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "a thick round piece of plastic, rubber or metal that you put in the hole in a bath or a sink to stop the water flowing out",
@@ -3208,7 +3554,9 @@
             "cf": "",
             "x": "There was plenty of hot water, but there was no bath plug."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "a round piece of material that fits into a hole and blocks it",
@@ -3221,15 +3569,21 @@
             "cf": "",
             "x": "We fixed the leak with a plug made from an old cloth."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "an object that fits into the top of a bottle to close it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "a small plastic tube that you put into a hole in a wall so that it will hold a screw",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "praise or attention that somebody gives to a new book, film, etc. in order to encourage people to buy or see it",
@@ -3238,7 +3592,9 @@
             "cf": "",
             "x": "He managed to get in a plug for his new book."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       },
       {
         "definition": "to put an end to somebody’s project, a plan, etc.",
@@ -3251,7 +3607,9 @@
             "cf": "",
             "x": "They decided to pull the plug on the project."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấp đầy",
+        "definition_vi": "lấp đầy một lỗ bằng một chất hoặc một mảnh vật liệu vừa khít với nó."
       }
     ]
   },
@@ -3284,7 +3642,9 @@
             "cf": "",
             "x": "My application got lost in the post."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "letters, packages, etc. that are sent and delivered",
@@ -3297,7 +3657,9 @@
             "cf": "",
             "x": "Have you opened your post yet?"
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "an occasion during the day when letters, etc. are collected or delivered",
@@ -3322,7 +3684,9 @@
             "cf": "",
             "x": "Do you get a second post here?"
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "a message sent to a discussion group on the internet; a piece of writing that forms part of a blog ",
@@ -3347,7 +3711,9 @@
             "cf": "post from somebody",
             "x": "The forum does not allow posts from non-members."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "a job, especially an important one in a large organization",
@@ -3384,7 +3750,9 @@
             "cf": "post of something",
             "x": "He accepted the post of deputy prime minister."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "an act of sending somebody to a particular place to do their job, especially for a limited period of time",
@@ -3397,7 +3765,9 @@
             "cf": "",
             "x": "The island is rated by diplomats as a hardship post (= one that people do not like to be sent to because it is not a very comfortable place to live)."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "the place where somebody, especially a soldier, does their job",
@@ -3418,7 +3788,9 @@
             "cf": "",
             "x": "The guards were ordered not to leave their posts."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "a piece of wood or metal that is set in the ground in a position pointing upwards, especially to support something or to mark a point",
@@ -3435,7 +3807,9 @@
             "cf": "",
             "x": "The team’s ‘net’ was a piece of string tied to two posts."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "the place where a race finishes, especially in horse racing",
@@ -3448,7 +3822,9 @@
             "cf": "",
             "x": "She led for most of the way before being pipped at the post (= beaten at the last moment)."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "one of the two posts that form part of a goal",
@@ -3461,7 +3837,9 @@
             "cf": "",
             "x": "He steered a shot between the goalkeeper and the near post."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "to be forced to go from one person or situation to another without achieving anything",
@@ -3470,11 +3848,15 @@
             "cf": "",
             "x": "Morale is very low. People have just had enough of being thrown from pillar to post."
           }
-        ]
+        ],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       },
       {
         "definition": "very deaf (= unable to hear anything)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gửi thư",
+        "definition_vi": "gửi thư, v.v. cho ai đó qua đường bưu điện"
       }
     ]
   },
@@ -3531,7 +3913,9 @@
             "cf": "",
             "x": "a White House press briefing"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "the journalists and photographers who work for newspapers and magazines",
@@ -3552,7 +3936,9 @@
             "cf": "",
             "x": "She told them not to talk to the press."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "the type or amount of reports that newspapers write about somebody/something",
@@ -3569,7 +3955,9 @@
             "cf": "",
             "x": "His latest novel didn't get (a) very good press (= was not praised in the media)."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "a machine for printing books, newspapers, etc.; the process of printing them",
@@ -3586,7 +3974,9 @@
             "cf": "",
             "x": "a story that is hot off the press (= has just appeared in the newspapers)"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "a business that prints and publishes books",
@@ -3595,7 +3985,9 @@
             "cf": "",
             "x": "Oxford University Press"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "a piece of equipment that is used for creating pressure on things, to make them flat or to get liquid from them",
@@ -3608,7 +4000,9 @@
             "cf": "",
             "x": "an olive press"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "an act of pushing something with your hand or with a tool that you are holding",
@@ -3621,7 +4015,9 @@
             "cf": "",
             "x": "Those shirts need a press (= with an iron)."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "a large number of people or things competing for space or movement",
@@ -3634,11 +4030,15 @@
             "cf": "",
             "x": "Among the press of cars he glimpsed a taxi."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       },
       {
         "definition": "a large cupboard, usually with shelves, for holding clothes, books, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhấn nút",
+        "definition_vi": "ấn một phần của thiết bị, v.v. để làm cho nó hoạt động"
       }
     ]
   },
@@ -3679,7 +4079,9 @@
             "cf": "",
             "x": "television and print ads"
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "used to refer to the business of producing newspapers, magazines and books",
@@ -3692,7 +4094,9 @@
             "cf": "",
             "x": "print unions"
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "a mark left by your finger, foot, etc. on the surface of something",
@@ -3705,7 +4109,9 @@
             "cf": "",
             "x": "There were paw prints everywhere."
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "a picture that is cut into wood or metal then covered with ink (= coloured liquid for printing, drawing, etc.) and printed onto paper; a picture that is copied from a painting using photography",
@@ -3718,7 +4124,9 @@
             "cf": "",
             "x": "a Renoir print"
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "a photograph produced from film",
@@ -3731,7 +4139,9 @@
             "cf": "",
             "x": "a colour print"
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "cotton cloth that has a pattern printed on it; this pattern",
@@ -3744,7 +4154,9 @@
             "cf": "",
             "x": "a floral print"
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "to be published",
@@ -3753,7 +4165,9 @@
             "cf": "",
             "x": "By the time this gets into print, they'll already have left the country."
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "still available from the company that publishes it",
@@ -3762,7 +4176,9 @@
             "cf": "",
             "x": "Is this edition still in print?"
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "printed in a book, newspaper, etc.",
@@ -3771,7 +4187,9 @@
             "cf": "",
             "x": "It was the first time he had seen his name in print."
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       },
       {
         "definition": "no longer available from the company that publishes it",
@@ -3784,7 +4202,9 @@
             "cf": "",
             "x": "The shop specializes in out-of-print books."
           }
-        ]
+        ],
+        "short_meaning_vi": "in",
+        "definition_vi": "sản xuất chữ cái, hình ảnh, v.v. trên giấy bằng máy đặt mực (= chất lỏng có màu) lên bề mặt"
       }
     ]
   },
@@ -3809,15 +4229,21 @@
             "cf": "",
             "x": "a printer cartridge"
           }
-        ]
+        ],
+        "short_meaning_vi": "máy in",
+        "definition_vi": "một máy để in chữ lên giấy, đặc biệt là máy được kết nối với máy tính"
       },
       {
         "definition": "a person or a company whose job is printing books, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhà in",
+        "definition_vi": "một người hoặc một công ty có công việc in sách, v.v."
       },
       {
         "definition": "a place where books, etc. are printed",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "xưởng in",
+        "definition_vi": "một nơi mà sách, v.v. được in"
       }
     ]
   },
@@ -3858,7 +4284,9 @@
             "cf": "",
             "x": "They used 108 different printing characters."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự in ấn",
+        "definition_vi": "hành động tạo ra chữ cái, hình ảnh, hoa văn, v.v. trên một vật gì đó bằng cách ép một bề mặt được phủ mực (= chất lỏng có màu để in, vẽ, v.v.) lên nó"
       },
       {
         "definition": "the act of printing a number of copies of a book at one time",
@@ -3867,11 +4295,15 @@
             "cf": "",
             "x": "The book is in its sixth printing."
           }
-        ]
+        ],
+        "short_meaning_vi": "số lượng in",
+        "definition_vi": "hành động in một số lượng bản sao của một cuốn sách tại một thời điểm"
       },
       {
         "definition": "a type of writing when you write all the letters separately and do not join them together",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kiểu chữ viết tay",
+        "definition_vi": "một loại chữ viết khi bạn viết tất cả các chữ cái một cách riêng biệt và không nối chúng lại với nhau"
       }
     ]
   },
@@ -3896,7 +4328,9 @@
             "cf": "",
             "x": "a sewage processing plant"
           }
-        ]
+        ],
+        "short_meaning_vi": "chế biến",
+        "definition_vi": "việc xử lý nguyên liệu thô, thực phẩm, v.v. để thay đổi, bảo quản, v.v."
       },
       {
         "definition": "the process of dealing officially with a document, request, etc.",
@@ -3905,7 +4339,9 @@
             "cf": "",
             "x": "errors in the processing of financial transactions"
           }
-        ]
+        ],
+        "short_meaning_vi": "xử lý hồ sơ",
+        "definition_vi": "quá trình xử lý chính thức một tài liệu, yêu cầu, v.v."
       }
     ]
   },
@@ -3926,11 +4362,15 @@
             "cf": "",
             "x": "The company is Ireland's largest dairy processor."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ xử lý",
+        "definition_vi": "một máy móc, người hoặc công ty xử lý mọi thứ"
       },
       {
         "definition": "a part of a computer that controls all the other parts of the system",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bộ xử lý trung tâm",
+        "definition_vi": "một bộ phận của máy tính điều khiển tất cả các bộ phận khác của hệ thống"
       }
     ]
   },
@@ -3971,7 +4411,9 @@
             "cf": "",
             "x": "His psychological profile is revealing."
           }
-        ]
+        ],
+        "short_meaning_vi": "hồ sơ",
+        "definition_vi": "một mô tả về ai đó/cái gì đó cung cấp thông tin hữu ích"
       },
       {
         "definition": "the general impression that somebody/something gives to the public and the amount of attention they receive",
@@ -3992,7 +4434,9 @@
             "cf": "",
             "x": "a campaign to boost the profile of the city as a cultural leader"
           }
-        ]
+        ],
+        "short_meaning_vi": "hình ảnh công chúng",
+        "definition_vi": "ấn tượng chung mà ai đó/cái gì đó tạo ra với công chúng và mức độ chú ý mà họ nhận được"
       },
       {
         "definition": "the outline of a person’s face when you look from the side, not the front",
@@ -4009,7 +4453,9 @@
             "cf": "in profile",
             "x": "a picture of the president in profile"
           }
-        ]
+        ],
+        "short_meaning_vi": "hồ sơ mặt",
+        "definition_vi": "đường viền khuôn mặt của một người khi nhìn từ bên cạnh, không phải từ phía trước"
       },
       {
         "definition": "the edge or outline of something that you see against a background",
@@ -4018,7 +4464,9 @@
             "cf": "",
             "x": "the profile of the tower against the sky"
           }
-        ]
+        ],
+        "short_meaning_vi": "đường viền",
+        "definition_vi": "cạnh hoặc đường viền của một vật thể mà bạn nhìn thấy trên nền"
       },
       {
         "definition": "the amount of attention somebody/something has from the public",
@@ -4035,7 +4483,9 @@
             "cf": "",
             "x": "The story was given a low profile in today's papers."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự chú ý",
+        "definition_vi": "mức độ chú ý mà ai đó/cái gì đó nhận được từ công chúng"
       }
     ]
   },
@@ -4064,7 +4514,9 @@
             "cf": "",
             "x": "She uses a computer program to produce these maps."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "something that people watch on television or listen to on the radio",
@@ -4085,7 +4537,9 @@
             "cf": "program about something",
             "x": "I watched a program about volcanoes."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "a plan of things that will be done or included in the development of something",
@@ -4122,7 +4576,9 @@
             "cf": "program to do something",
             "x": "The college has initiated a program to improve student retention."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "a course of study",
@@ -4147,7 +4603,9 @@
             "cf": "",
             "x": "She enrolled in a Master's program in American history."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "an organized order of performances or events",
@@ -4168,7 +4626,9 @@
             "cf": "",
             "x": "What's the program for (= what are we planning to do) tomorrow?"
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "a thin book or piece of paper that gives you information about a play, a concert, etc.",
@@ -4181,7 +4641,9 @@
             "cf": "",
             "x": "Her name doesn't appear in the concert program."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "a series of actions done by a machine, such as a washing machine",
@@ -4190,11 +4652,15 @@
             "cf": "",
             "x": "Select a cool program for woolen clothes."
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       },
       {
         "definition": "used to tell somebody that they should change their attitude and do what they are supposed to be doing",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lập trình máy tính",
+        "definition_vi": "cung cấp cho máy tính, v.v. một bộ hướng dẫn để nó thực hiện một nhiệm vụ cụ thể"
       }
     ]
   },
@@ -4235,7 +4701,9 @@
             "cf": "",
             "x": "a programme on BBC1"
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình TV/radio",
+        "definition_vi": "thứ mà mọi người xem trên truyền hình hoặc nghe trên đài phát thanh"
       },
       {
         "definition": "a plan of things that will be done or included in the development of something",
@@ -4268,7 +4736,9 @@
             "cf": "programme to do something",
             "x": "The college has initiated a programme to improve student retention."
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình kế hoạch",
+        "definition_vi": "một kế hoạch về những việc sẽ được thực hiện hoặc đưa vào sự phát triển của một cái gì đó"
       },
       {
         "definition": "a course of study",
@@ -4285,7 +4755,9 @@
             "cf": "programme in something",
             "x": "She enrolled in a Master's programme in American history."
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình học",
+        "definition_vi": "một khóa học nghiên cứu"
       },
       {
         "definition": "an organized order of performances or events",
@@ -4306,7 +4778,9 @@
             "cf": "",
             "x": "What's the programme for (= what are we going to do) tomorrow?"
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình biểu diễn",
+        "definition_vi": "một thứ tự các buổi biểu diễn hoặc sự kiện được tổ chức"
       },
       {
         "definition": "a thin book or a piece of paper that gives you information about a play, a concert, etc.",
@@ -4319,7 +4793,9 @@
             "cf": "",
             "x": "Her name doesn't appear in the concert programme."
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình sự kiện",
+        "definition_vi": "một cuốn sách mỏng hoặc một tờ giấy cung cấp thông tin về một vở kịch, một buổi hòa nhạc, v.v."
       },
       {
         "definition": "a series of actions done by a machine, such as a washing machine",
@@ -4328,11 +4804,15 @@
             "cf": "",
             "x": "Select a cool programme for woollen clothes."
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình máy",
+        "definition_vi": "một chuỗi các hành động được thực hiện bởi một máy, chẳng hạn như máy giặt"
       },
       {
         "definition": "used to tell somebody that they should change their attitude and do what they are supposed to be doing",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chỉ bảo",
+        "definition_vi": "được sử dụng để nói với ai đó rằng họ nên thay đổi thái độ và làm những gì họ được cho là đang làm"
       }
     ]
   },
@@ -4353,7 +4833,9 @@
             "cf": "",
             "x": "programming languages"
           }
-        ]
+        ],
+        "short_meaning_vi": "lập trình",
+        "definition_vi": "quá trình viết và kiểm tra các chương trình máy tính"
       },
       {
         "definition": "the planning of which television or radio programmes to broadcast",
@@ -4362,7 +4844,9 @@
             "cf": "",
             "x": "politically balanced programming"
           }
-        ]
+        ],
+        "short_meaning_vi": "lập lịch phát sóng",
+        "definition_vi": "việc lập kế hoạch về các chương trình truyền hình hoặc radio nào sẽ được phát sóng"
       }
     ]
   },
@@ -4391,7 +4875,9 @@
             "cf": "prompt somebody to do something",
             "x": "Her father's struggles with mental health prompted her to pursue psychology as a career."
           }
-        ]
+        ],
+        "short_meaning_vi": "thúc đẩy",
+        "definition_vi": "để khiến ai đó quyết định làm điều gì đó; để gây ra điều gì đó xảy ra"
       },
       {
         "definition": "to encourage somebody to speak by asking them questions or suggesting words that they could say",
@@ -4408,11 +4894,15 @@
             "cf": "prompt (somebody) + speech",
             "x": "‘And then what happened?’ he prompted."
           }
-        ]
+        ],
+        "short_meaning_vi": "gợi ý",
+        "definition_vi": "để khuyến khích ai đó nói bằng cách đặt câu hỏi hoặc gợi ý những từ họ có thể nói"
       },
       {
         "definition": "to follow the text of a play and remind the actors what the words are if they forget their lines",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhắc tuồng",
+        "definition_vi": "để theo dõi lời thoại của một vở kịch và nhắc nhở các diễn viên những lời thoại nếu họ quên lời thoại của mình"
       }
     ]
   },
@@ -4437,7 +4927,9 @@
             "cf": "",
             "x": "the protocol of diplomatic visits"
           }
-        ]
+        ],
+        "short_meaning_vi": "nghi thức",
+        "definition_vi": "một hệ thống các quy tắc cố định và hành vi trang trọng được sử dụng tại các cuộc họp chính thức, thường là giữa các chính phủ"
       },
       {
         "definition": "the first or original version of an agreement, especially a treaty between countries, etc.; an extra part added to an agreement or treaty",
@@ -4454,15 +4946,21 @@
             "cf": "",
             "x": "The dates were agreed under a protocol to the climate convention."
           }
-        ]
+        ],
+        "short_meaning_vi": "biên bản bổ sung",
+        "definition_vi": "bản đầu tiên hoặc bản gốc của một thỏa thuận, đặc biệt là một hiệp ước giữa các quốc gia, v.v.; một phần bổ sung được thêm vào một thỏa thuận hoặc hiệp ước"
       },
       {
         "definition": "a set of rules that control the way data is sent between computers",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giao thức",
+        "definition_vi": "một tập hợp các quy tắc kiểm soát cách dữ liệu được gửi giữa các máy tính"
       },
       {
         "definition": "a plan for performing a scientific experiment or medical treatment",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phác đồ",
+        "definition_vi": "một kế hoạch để thực hiện một thí nghiệm khoa học hoặc một phương pháp điều trị y tế"
       }
     ]
   }

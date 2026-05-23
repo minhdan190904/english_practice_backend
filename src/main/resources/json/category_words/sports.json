@@ -28,7 +28,9 @@
             "cf": "",
             "x": "Her company is designing part of the Olympic athletes' village."
           }
-        ]
+        ],
+        "short_meaning_vi": "vận động viên",
+        "definition_vi": "một người thi đấu thể thao"
       },
       {
         "definition": "a person who competes in sports such as running, jumping and throwing ",
@@ -41,7 +43,9 @@
             "cf": "",
             "x": "She was hailed as the greatest female athlete in the world."
           }
-        ]
+        ],
+        "short_meaning_vi": "vận động viên",
+        "definition_vi": "một người thi đấu các môn thể thao như chạy, nhảy và ném"
       },
       {
         "definition": "a person who is good at sports and physical exercise",
@@ -50,7 +54,9 @@
             "cf": "",
             "x": "She is a natural athlete."
           }
-        ]
+        ],
+        "short_meaning_vi": "vận động viên",
+        "definition_vi": "một người giỏi thể thao và tập thể dục"
       }
     ]
   },
@@ -91,7 +97,9 @@
             "cf": "",
             "x": "Buy your games and software from us."
           }
-        ]
+        ],
+        "short_meaning_vi": "trò chơi",
+        "definition_vi": "một hoạt động bạn làm để giải trí, thường có luật lệ và có thể thắng thua; đồ dùng cho một trò chơi"
       },
       {
         "definition": "a sport with rules in which people or teams compete against each other",
@@ -112,7 +120,9 @@
             "cf": "",
             "x": "Broadcasters have injected vast amounts of money into the game of football. "
           }
-        ]
+        ],
+        "short_meaning_vi": "trận đấu",
+        "definition_vi": "một môn thể thao có luật lệ mà mọi người hoặc các đội thi đấu với nhau"
       },
       {
         "definition": "an occasion of playing a game",
@@ -161,7 +171,9 @@
             "cf": "",
             "x": "They're in training for the big game."
           }
-        ]
+        ],
+        "short_meaning_vi": "lượt chơi",
+        "definition_vi": "một lần chơi một trò chơi"
       },
       {
         "definition": "the way in which somebody plays a game",
@@ -174,7 +186,9 @@
             "cf": "",
             "x": "Stretching exercises can help you avoid injury and improve your game."
           }
-        ]
+        ],
+        "short_meaning_vi": "cách chơi",
+        "definition_vi": "cách một người chơi một trò chơi"
       },
       {
         "definition": "a large organized sports event",
@@ -187,7 +201,9 @@
             "cf": "",
             "x": "To stage the Games (= the Olympic Games or a similar event) is an honour."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự kiện thể thao",
+        "definition_vi": "một sự kiện thể thao lớn được tổ chức"
       },
       {
         "definition": "sport as a lesson or an activity at school",
@@ -196,7 +212,9 @@
             "cf": "",
             "x": "I always hated games at school."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoạt động thể thao",
+        "definition_vi": "thể thao như một bài học hoặc một hoạt động ở trường"
       },
       {
         "definition": "a section of some games, such as tennis, which forms a unit in scoring",
@@ -209,7 +227,9 @@
             "cf": "",
             "x": "Zverev won the opening game of the third set."
           }
-        ]
+        ],
+        "short_meaning_vi": "hiệp đấu",
+        "definition_vi": "một phần của một số trò chơi, như quần vợt, tạo thành một đơn vị tính điểm"
       },
       {
         "definition": "a type of activity or business",
@@ -230,7 +250,9 @@
             "cf": "",
             "x": "Getting dirty was all part of the game to the kids."
           }
-        ]
+        ],
+        "short_meaning_vi": "lĩnh vực",
+        "definition_vi": "một loại hoạt động hoặc kinh doanh"
       },
       {
         "definition": "a secret and clever plan; a trick",
@@ -239,11 +261,15 @@
             "cf": "",
             "x": "So that's his game (= now I know what he has been planning)."
           }
-        ]
+        ],
+        "short_meaning_vi": "mưu mẹo",
+        "definition_vi": "một kế hoạch bí mật và khéo léo; một trò lừa"
       },
       {
         "definition": "wild animals or birds that people hunt for sport or food",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thú săn",
+        "definition_vi": "động vật hoang dã hoặc chim mà mọi người săn để giải trí hoặc làm thức ăn"
       },
       {
         "definition": "at an advantage/disadvantage because you have done more/less preparation or know more/less than other people, especially those you are competing against ",
@@ -256,11 +282,15 @@
             "cf": "",
             "x": "Politicians are behind the game in understanding how fast the world is changing."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi thế",
+        "definition_vi": "có lợi thế/bất lợi vì bạn đã chuẩn bị nhiều hơn/ít hơn hoặc biết nhiều hơn/ít hơn những người khác, đặc biệt là những người bạn đang cạnh tranh"
       },
       {
         "definition": "to defeat or do better than somebody in an activity which they have chosen or in which they think they are strong",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đánh bại",
+        "definition_vi": "đánh bại hoặc làm tốt hơn ai đó trong một hoạt động mà họ đã chọn hoặc trong đó họ nghĩ rằng họ mạnh"
       },
       {
         "definition": "to not be considered to be serious",
@@ -269,15 +299,21 @@
             "cf": "",
             "x": "For her the whole project was just a game."
           }
-        ]
+        ],
+        "short_meaning_vi": "coi thường",
+        "definition_vi": "không được coi là nghiêm túc"
       },
       {
         "definition": "to be working as a prostitute",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm gái",
+        "definition_vi": "làm gái mại dâm"
       },
       {
         "definition": "to no longer have a chance of winning a game or succeeding in an activity that you are taking part in",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hết cơ hội",
+        "definition_vi": "không còn cơ hội thắng một trò chơi hoặc thành công trong một hoạt động mà bạn đang tham gia"
       },
       {
         "definition": "to still/once again have a good chance of winning a game or succeeding in an activity that you are taking part in",
@@ -290,7 +326,9 @@
             "cf": "",
             "x": "He’s been fighting to get the struggling company back in the game."
           }
-        ]
+        ],
+        "short_meaning_vi": "còn cơ hội",
+        "definition_vi": "vẫn/lại có cơ hội thắng một trò chơi hoặc thành công trong một hoạt động mà bạn đang tham gia"
       },
       {
         "definition": "activities that are not serious and that other people may think are bad",
@@ -299,7 +337,9 @@
             "cf": "",
             "x": "Teaching isn't all fun and games, you know."
           }
-        ]
+        ],
+        "short_meaning_vi": "trò đùa",
+        "definition_vi": "các hoạt động không nghiêm túc và có thể bị người khác cho là xấu"
       },
       {
         "definition": "said to somebody who has done something wrong, when they are caught and the crime or trick has been discovered",
@@ -308,7 +348,9 @@
             "cf": "",
             "x": "Maggie knew that he had recognized her and the game was up."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị bắt bài",
+        "definition_vi": "nói với ai đó đã làm điều gì đó sai trái, khi họ bị bắt và tội ác hoặc trò lừa đã bị phát hiện"
       },
       {
         "definition": "used after something has happened that makes it clear that a contest is not yet decided and anyone could still win",
@@ -317,7 +359,9 @@
             "cf": "",
             "x": "We were losing 2–0 with ten minutes to go, and then we scored. It was game on!"
           }
-        ]
+        ],
+        "short_meaning_vi": "vẫn còn gay cấn",
+        "definition_vi": "được sử dụng sau khi một điều gì đó xảy ra khiến rõ ràng là một cuộc thi chưa quyết định và bất kỳ ai cũng có thể thắng"
       },
       {
         "definition": "used to say that it is no longer possible for somebody/something to succeed, survive or continue",
@@ -334,7 +378,9 @@
             "cf": "",
             "x": "The slightest mistake and it's game over for him."
           }
-        ]
+        ],
+        "short_meaning_vi": "hết hy vọng",
+        "definition_vi": "được sử dụng để nói rằng không còn khả năng ai đó/điều gì đó thành công, tồn tại hoặc tiếp tục"
       },
       {
         "definition": "to tell a secret, especially by accident; to show something that should be kept hidden",
@@ -343,11 +389,15 @@
             "cf": "",
             "x": "Don't let him talk to anybody or he'll give the game away."
           }
-        ]
+        ],
+        "short_meaning_vi": "lộ bài",
+        "definition_vi": "tiết lộ một bí mật, đặc biệt là do tai nạn; để lộ điều gì đó lẽ ra phải được giữ kín"
       },
       {
         "definition": "an activity that is unlikely to be successful or make a profit",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không khả thi",
+        "definition_vi": "một hoạt động khó có khả năng thành công hoặc tạo ra lợi nhuận"
       },
       {
         "definition": "the most important aspect of an activity; the most important quality needed for an activity",
@@ -356,7 +406,9 @@
             "cf": "",
             "x": "Hard work is the name of the game if you want to succeed in business."
           }
-        ]
+        ],
+        "short_meaning_vi": "yếu tố quyết định",
+        "definition_vi": "khía cạnh quan trọng nhất của một hoạt động; phẩm chất quan trọng nhất cần có cho một hoạt động"
       },
       {
         "definition": "the advantages to be gained from doing something are not great enough, considering the effort or cost involved",
@@ -365,7 +417,9 @@
             "cf": "",
             "x": "If the price goes up again, he may decide that the game’s not worth the candle."
           }
-        ]
+        ],
+        "short_meaning_vi": "không đáng",
+        "definition_vi": "lợi ích thu được từ việc làm điều gì đó không đủ lớn, xét đến nỗ lực hoặc chi phí bỏ ra"
       },
       {
         "definition": "a way of considering an activity, etc. that considers only the number of people doing something, things achieved, etc., not with who or what they are",
@@ -374,7 +428,9 @@
             "cf": "",
             "x": "MPs were playing the numbers game as the crucial vote drew closer."
           }
-        ]
+        ],
+        "short_meaning_vi": "cách nhìn nhận",
+        "definition_vi": "một cách xem xét một hoạt động, v.v. chỉ xem xét số lượng người làm điều gì đó, những gì đạt được, v.v., không phải ai hoặc cái gì họ là"
       },
       {
         "definition": "performing badly/well, especially when compared with how well you usually perform",
@@ -383,11 +439,15 @@
             "cf": "",
             "x": "He was off his game and missed two early penalties."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện",
+        "definition_vi": "thể hiện tồi/tốt, đặc biệt khi so sánh với hiệu suất tốt thường xuyên của bạn"
       },
       {
         "definition": "the most important thing of a particular type, or the only thing that is available",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "điều duy nhất",
+        "definition_vi": "điều quan trọng nhất của một loại cụ thể, hoặc điều duy nhất có sẵn"
       },
       {
         "definition": "to play a cruel game with somebody in your power by changing your behaviour very often, so that they become nervous and do not know what to expect",
@@ -400,11 +460,15 @@
             "cf": "",
             "x": "Young car thieves enjoy playing cat and mouse with the police."
           }
-        ]
+        ],
+        "short_meaning_vi": "chơi khăm",
+        "definition_vi": "thực hiện một trò chơi tàn nhẫn với ai đó trong quyền lực của bạn bằng cách thay đổi hành vi của bạn rất thường xuyên, khiến họ trở nên lo lắng và không biết phải mong đợi điều gì"
       },
       {
         "definition": "to do something that helps somebody else’s plans, especially by accident, when you did not intend to help them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiếp tay",
+        "definition_vi": "làm điều gì đó giúp ích cho kế hoạch của người khác, đặc biệt là do tai nạn, khi bạn không có ý định giúp họ"
       },
       {
         "definition": "to behave in a fair and honest way",
@@ -413,7 +477,9 @@
             "cf": "",
             "x": "You can’t do that—it’s not playing the game!"
           }
-        ]
+        ],
+        "short_meaning_vi": "chơi đẹp",
+        "definition_vi": "hành xử một cách công bằng và trung thực"
       },
       {
         "definition": "to not be honest with somebody, especially in order to gain an advantage over them",
@@ -422,11 +488,15 @@
             "cf": "",
             "x": "Don't play silly games with me; I know you did it."
           }
-        ]
+        ],
+        "short_meaning_vi": "không trung thực",
+        "definition_vi": "không trung thực với ai đó, đặc biệt là để giành lợi thế hơn họ"
       },
       {
         "definition": "the standards of behaviour that most people accept or that actually operate in a particular area of life or business",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chuẩn mực",
+        "definition_vi": "các tiêu chuẩn hành vi mà hầu hết mọi người chấp nhận hoặc thực sự hoạt động trong một lĩnh vực cuộc sống hoặc kinh doanh cụ thể"
       },
       {
         "definition": "(to have) a personal interest in an organization or activity, and therefore in its success ",
@@ -439,7 +509,9 @@
             "cf": "",
             "x": "The neutral fan with no skin in the game can just sit back and enjoy the spectacle."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi ích cá nhân",
+        "definition_vi": "(có) một lợi ích cá nhân trong một tổ chức hoặc hoạt động, và do đó là sự thành công của nó"
       },
       {
         "definition": "to talk in a way that sounds convincing, but may not be sincere",
@@ -448,11 +520,15 @@
             "cf": "",
             "x": "The senior managers talk a good game about customer relations, but really they don't care about the customer."
           }
-        ]
+        ],
+        "short_meaning_vi": "nói dối",
+        "definition_vi": "nói theo cách nghe có vẻ thuyết phục, nhưng có thể không chân thành"
       },
       {
         "definition": "used to tell somebody who has played a trick on you that you can do the same thing to them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trả đũa",
+        "definition_vi": "nói với ai đó đã chơi khăm bạn rằng bạn có thể làm điều tương tự với họ"
       },
       {
         "definition": "to improve the level at which you can compete, especially in a sport ",
@@ -465,11 +541,15 @@
             "cf": "",
             "x": "With these two snazzy new restaurants opening up, the other eating places in the area are going to have to up their game."
           }
-        ]
+        ],
+        "short_meaning_vi": "nâng cao trình độ",
+        "definition_vi": "cải thiện mức độ bạn có thể cạnh tranh, đặc biệt là trong thể thao"
       },
       {
         "definition": "used to ask why somebody is behaving as they are",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ý đồ gì?",
+        "definition_vi": "được sử dụng để hỏi tại sao ai đó lại hành xử như vậy"
       }
     ]
   },
@@ -498,7 +578,9 @@
             "cf": "",
             "x": "The goalkeeper was injured so a defender had to go in goal."
           }
-        ]
+        ],
+        "short_meaning_vi": "khung thành",
+        "definition_vi": "một khung có lưới mà người chơi phải đá hoặc đánh bóng vào đó để ghi điểm."
       },
       {
         "definition": "the act of kicking or hitting the ball into the goal; a point that is scored for this",
@@ -523,7 +605,9 @@
             "cf": "",
             "x": "a penalty goal"
           }
-        ]
+        ],
+        "short_meaning_vi": "bàn thắng",
+        "definition_vi": "hành động đá hoặc đánh bóng vào khung thành; một điểm được ghi cho hành động này."
       },
       {
         "definition": "something that you hope to achieve",
@@ -556,7 +640,9 @@
             "cf": "toward/towards a goal",
             "x": "We are all working towards a common goal."
           }
-        ]
+        ],
+        "short_meaning_vi": "mục tiêu",
+        "definition_vi": "điều bạn hy vọng đạt được."
       }
     ]
   },
@@ -581,7 +667,9 @@
             "cf": "",
             "x": "He enjoyed a round of golf on a Sunday morning."
           }
-        ]
+        ],
+        "short_meaning_vi": "chơi gôn",
+        "definition_vi": "một trò chơi được chơi trên một khu vực đất rộng lớn bằng gậy có hình dạng đặc biệt để đánh một quả bóng nhỏ, cứng (quả bóng gôn) vào một loạt 9 hoặc 18 lỗ, sử dụng càng ít cú đánh càng tốt."
       }
     ]
   },
@@ -618,7 +706,9 @@
             "cf": "",
             "x": "He aimed a kick at the dog."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đá",
+        "definition_vi": "một chuyển động bằng chân hoặc cẳng chân, thường là để đá vào cái gì đó bằng chân."
       },
       {
         "definition": "a strong feeling of excitement and pleasure",
@@ -635,7 +725,9 @@
             "cf": "for kicks ",
             "x": "What do you do for kicks?"
           }
-        ]
+        ],
+        "short_meaning_vi": "cảm giác phấn khích",
+        "definition_vi": "một cảm giác mạnh mẽ của sự phấn khích và niềm vui."
       },
       {
         "definition": "the strong effect that a drug or an alcoholic drink has",
@@ -644,7 +736,9 @@
             "cf": "",
             "x": "This drink has quite a kick."
           }
-        ]
+        ],
+        "short_meaning_vi": "tác dụng của thuốc",
+        "definition_vi": "tác dụng mạnh mẽ mà một loại thuốc hoặc đồ uống có cồn gây ra."
       },
       {
         "definition": "a soft shoe that you wear for sports or as informal clothing",
@@ -653,11 +747,15 @@
             "cf": "",
             "x": "The actor wore denim, a simple tee and a nice pair of kicks."
           }
-        ]
+        ],
+        "short_meaning_vi": "giày thể thao",
+        "definition_vi": "một đôi giày mềm bạn đi khi chơi thể thao hoặc quần áo thông thường."
       },
       {
         "definition": "if you think somebody needs a kick in the pants or a kick up the backside you think they need to be strongly encouraged to do something or behave better",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cú hích",
+        "definition_vi": "nếu bạn nghĩ ai đó cần một cú đá vào mông hoặc một cú đá vào mông, bạn nghĩ rằng họ cần được khuyến khích mạnh mẽ để làm điều gì đó hoặc cư xử tốt hơn."
       },
       {
         "definition": "something that hurts somebody/something emotionally; a great disappointment",
@@ -666,7 +764,9 @@
             "cf": "",
             "x": "The job losses are a kick in the teeth for the union."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thất vọng",
+        "definition_vi": "điều gì đó làm tổn thương ai đó/điều gì đó về mặt cảm xúc; một sự thất vọng lớn."
       }
     ]
   },
@@ -719,7 +819,9 @@
             "cf": "",
             "x": "Bristol were at the bottom of the league."
           }
-        ]
+        ],
+        "short_meaning_vi": "giải đấu",
+        "definition_vi": "một nhóm các đội thể thao thi đấu với nhau để kiếm điểm và tìm ra đội nào giỏi nhất."
       },
       {
         "definition": "a level of quality, ability, etc.",
@@ -740,7 +842,9 @@
             "cf": "out of somebody's league",
             "x": "A house like that is out of our league (= too expensive for us)."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấp độ",
+        "definition_vi": "một cấp độ chất lượng, khả năng, v.v."
       },
       {
         "definition": "a group of people or nations who have combined for a particular purpose",
@@ -753,11 +857,15 @@
             "cf": "",
             "x": "a meeting of the Women’s League for Peace"
           }
-        ]
+        ],
+        "short_meaning_vi": "liên minh",
+        "definition_vi": "một nhóm người hoặc quốc gia đã kết hợp vì một mục đích cụ thể."
       },
       {
         "definition": "a unit for measuring distance, equal to about 3 miles or 4 000 metres",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dặm",
+        "definition_vi": "một đơn vị đo khoảng cách, tương đương khoảng 3 dặm hoặc 4.000 mét."
       },
       {
         "definition": "making secret plans with somebody",
@@ -766,7 +874,9 @@
             "cf": "",
             "x": "Those two crooks seem to be in league with each other."
           }
-        ]
+        ],
+        "short_meaning_vi": "âm mưu",
+        "definition_vi": "lập kế hoạch bí mật với ai đó."
       }
     ]
   },
@@ -795,7 +905,9 @@
             "cf": "",
             "x": "a marathon runner"
           }
-        ]
+        ],
+        "short_meaning_vi": "chạy marathon",
+        "definition_vi": "một cuộc đua chạy dài khoảng 42 km hoặc 26 dặm."
       },
       {
         "definition": "an activity or a piece of work that lasts a long time and requires a lot of effort, concentration, etc.",
@@ -804,7 +916,9 @@
             "cf": "",
             "x": "The interview was a real marathon."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoạt động kéo dài",
+        "definition_vi": "một hoạt động hoặc một công việc kéo dài trong một thời gian dài và đòi hỏi nhiều nỗ lực, sự tập trung, v.v."
       }
     ]
   },
@@ -853,7 +967,9 @@
             "cf": "",
             "x": "Ireland took the match (= won) 2–1 ."
           }
-        ]
+        ],
+        "short_meaning_vi": "trận đấu",
+        "definition_vi": "một sự kiện thể thao nơi mọi người hoặc các đội thi đấu với nhau."
       },
       {
         "definition": "a person who is equal to somebody else in strength, skill, intelligence, etc.",
@@ -870,7 +986,9 @@
             "cf": "somebody’s match (at something)",
             "x": "I was his match at tennis."
           }
-        ]
+        ],
+        "short_meaning_vi": "người ngang tài",
+        "definition_vi": "một người ngang bằng với người khác về sức mạnh, kỹ năng, trí thông minh, v.v."
       },
       {
         "definition": "a person or thing that combines well with somebody/something else",
@@ -887,7 +1005,9 @@
             "cf": "a… match between A and B",
             "x": "an excellent match between our goals and what your company offers"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự kết hợp tốt",
+        "definition_vi": "một người hoặc vật kết hợp tốt với người khác/vật khác."
       },
       {
         "definition": "a thing that is or looks exactly the same as or very similar to something else",
@@ -908,7 +1028,9 @@
             "cf": "",
             "x": "To forge the certificate, she needed an exact match for the paper and the fonts."
           }
-        ]
+        ],
+        "short_meaning_vi": "cái giống hệt",
+        "definition_vi": "một vật giống hệt hoặc rất giống với vật khác."
       },
       {
         "definition": "a small stick made of wood or cardboard that is used for lighting a fire, cigarette, etc.",
@@ -937,7 +1059,9 @@
             "cf": "",
             "x": "He lit a match so they could see in the cave."
           }
-        ]
+        ],
+        "short_meaning_vi": "que diêm",
+        "definition_vi": "một thanh gỗ hoặc bìa cứng nhỏ được dùng để nhóm lửa, thuốc lá, v.v."
       },
       {
         "definition": "a marriage or a marriage partner",
@@ -946,7 +1070,9 @@
             "cf": "",
             "x": "He was determined that his daughter should make a good match (= find a suitable husband)."
           }
-        ]
+        ],
+        "short_meaning_vi": "hôn nhân",
+        "definition_vi": "một cuộc hôn nhân hoặc một người bạn đời."
       },
       {
         "definition": "to meet somebody who is equal to or even better than you in strength, skill or intelligence",
@@ -955,7 +1081,9 @@
             "cf": "",
             "x": "He thought he could beat anyone at chess but he’s met his match in Peter."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngang tài",
+        "definition_vi": "gặp một người ngang bằng hoặc thậm chí giỏi hơn bạn về sức mạnh, kỹ năng hoặc trí thông minh."
       },
       {
         "definition": "a man who is chosen as having given the best performance in a game of football (soccer), cricket, etc.",
@@ -964,7 +1092,9 @@
             "cf": "",
             "x": "Stokes was named man of the match."
           }
-        ]
+        ],
+        "short_meaning_vi": "cầu thủ xuất sắc",
+        "definition_vi": "một người đàn ông được chọn là người có màn trình diễn tốt nhất trong một trận đấu bóng đá, cricket, v.v."
       }
     ]
   },
@@ -989,7 +1119,9 @@
             "cf": "",
             "x": "to award a medal for bravery"
           }
-        ]
+        ],
+        "short_meaning_vi": "huy chương",
+        "definition_vi": "một miếng kim loại phẳng, thường có hình dạng giống đồng xu, được trao cho người chiến thắng một cuộc thi hoặc cho người dũng cảm, ví dụ trong chiến tranh."
       },
       {
         "definition": "used to say that you admire somebody because they have done something difficult or unpleasant",
@@ -1002,7 +1134,9 @@
             "cf": "",
             "x": "You really deserve a medal!"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngưỡng mộ",
+        "definition_vi": "dùng để nói rằng bạn ngưỡng mộ ai đó vì họ đã làm điều gì đó khó khăn hoặc khó chịu."
       }
     ]
   },
@@ -1031,7 +1165,9 @@
             "cf": "net of something",
             "x": "What do you earn net of tax?"
           }
-        ]
+        ],
+        "short_meaning_vi": "ròng",
+        "definition_vi": "một khoản tiền ròng là khoản tiền còn lại khi không còn gì để lấy đi nữa."
       },
       {
         "definition": "the net weight of something is the weight without its container or the material it is wrapped in",
@@ -1040,7 +1176,9 @@
             "cf": "",
             "x": "450 gms net weight"
           }
-        ]
+        ],
+        "short_meaning_vi": "trọng lượng tịnh",
+        "definition_vi": "trọng lượng tịnh của một vật là trọng lượng không bao gồm bao bì hoặc vật liệu bọc nó."
       },
       {
         "definition": "final, after all the important facts have been included",
@@ -1057,7 +1195,9 @@
             "cf": "",
             "x": "a net gain"
           }
-        ]
+        ],
+        "short_meaning_vi": "cuối cùng",
+        "definition_vi": "cuối cùng, sau khi tất cả các sự kiện quan trọng đã được bao gồm."
       }
     ]
   },
@@ -1094,7 +1234,9 @@
             "cf": "",
             "x": "The rugby tour was a disaster both on and off the pitch (= they lost their matches and the players behaved badly while on tour, getting bad news reports)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân thi đấu",
+        "definition_vi": "một khu vực đất được chuẩn bị đặc biệt và đánh dấu để chơi một trò chơi thể thao."
       },
       {
         "definition": "how high or low a sound is, especially a musical note",
@@ -1103,7 +1245,9 @@
             "cf": "",
             "x": "A basic sense of rhythm and pitch is essential in a music teacher."
           }
-        ]
+        ],
+        "short_meaning_vi": "cao độ",
+        "definition_vi": "âm thanh cao hay thấp như thế nào, đặc biệt là một nốt nhạc."
       },
       {
         "definition": "the degree or strength of a feeling or activity; the highest point of something",
@@ -1120,7 +1264,9 @@
             "cf": "",
             "x": "to reach a high pitch of excitement"
           }
-        ]
+        ],
+        "short_meaning_vi": "đỉnh điểm",
+        "definition_vi": "mức độ hoặc cường độ của một cảm xúc hoặc hoạt động; điểm cao nhất của một cái gì đó."
       },
       {
         "definition": "talk or arguments used by a person trying to sell something or persuade people to do something",
@@ -1137,19 +1283,27 @@
             "cf": "",
             "x": "Each company was given ten minutes to make its pitch."
           }
-        ]
+        ],
+        "short_meaning_vi": "lời chào hàng",
+        "definition_vi": "những lời nói hoặc lập luận được sử dụng bởi một người cố gắng bán một thứ gì đó hoặc thuyết phục mọi người làm điều gì đó."
       },
       {
         "definition": "an act of throwing the ball; the way in which it is thrown",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cú ném",
+        "definition_vi": "một hành động ném bóng; cách nó được ném."
       },
       {
         "definition": "a black sticky substance made from oil or coal, used on roofs or the wooden boards of a ship to stop water from coming through",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhựa đường",
+        "definition_vi": "một chất màu đen, dính làm từ dầu hoặc than, được sử dụng trên mái nhà hoặc các tấm gỗ của tàu để ngăn nước thấm qua."
       },
       {
         "definition": "a place in a street or market where somebody sells things, or where somebody performs in order to entertain people outdoors",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quầy hàng",
+        "definition_vi": "một địa điểm trên đường phố hoặc chợ nơi ai đó bán hàng, hoặc nơi ai đó biểu diễn để giải trí cho mọi người ngoài trời."
       },
       {
         "definition": "a place in a campsite where you can put up one tent or park one caravan, etc.",
@@ -1158,11 +1312,15 @@
             "cf": "",
             "x": "Pitches to rent from only £15 per night."
           }
-        ]
+        ],
+        "short_meaning_vi": "vị trí cắm trại",
+        "definition_vi": "một địa điểm trong khu cắm trại nơi bạn có thể dựng một lều hoặc đỗ một xe caravan, v.v."
       },
       {
         "definition": "the movement of a ship up and down in the water or of an aircraft in the air",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chao đảo",
+        "definition_vi": "chuyển động của tàu lên xuống trong nước hoặc của máy bay trên không."
       },
       {
         "definition": "the degree to which a roof slopes",
@@ -1171,7 +1329,9 @@
             "cf": "",
             "x": "The pitch of the roof is 45 degrees."
           }
-        ]
+        ],
+        "short_meaning_vi": "độ dốc",
+        "definition_vi": "mức độ dốc của mái nhà."
       },
       {
         "definition": "to make a determined effort to get something or to persuade somebody of something",
@@ -1180,11 +1340,15 @@
             "cf": "",
             "x": "He made a pitch to black voters in Alabama."
           }
-        ]
+        ],
+        "short_meaning_vi": "cố gắng thuyết phục",
+        "definition_vi": "đưa ra một nỗ lực quyết đoán để có được thứ gì đó hoặc để thuyết phục ai đó về điều gì đó"
       },
       {
         "definition": "to cause somebody’s plans to fail or to destroy their chances of getting something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phá hỏng",
+        "definition_vi": "làm cho kế hoạch của ai đó thất bại hoặc hủy hoại cơ hội có được thứ gì đó của họ"
       }
     ]
   },
@@ -1221,7 +1385,9 @@
             "cf": "",
             "x": "Celtic have signed four new players. "
           }
-        ]
+        ],
+        "short_meaning_vi": "người chơi",
+        "definition_vi": "một người tham gia vào một trò chơi hoặc môn thể thao"
       },
       {
         "definition": "a company or person involved in a particular area of business or politics",
@@ -1230,7 +1396,9 @@
             "cf": "",
             "x": "The company has emerged as a major player in the London property market."
           }
-        ]
+        ],
+        "short_meaning_vi": "người tham gia",
+        "definition_vi": "một công ty hoặc người tham gia vào một lĩnh vực kinh doanh hoặc chính trị cụ thể"
       },
       {
         "definition": "a machine for producing the sound or pictures that have been recorded on CDs, etc.",
@@ -1239,7 +1407,9 @@
             "cf": "",
             "x": "a DVD/CD player"
           }
-        ]
+        ],
+        "short_meaning_vi": "thiết bị phát",
+        "definition_vi": "một máy để phát ra âm thanh hoặc hình ảnh đã được ghi lại trên đĩa CD, v.v."
       },
       {
         "definition": "a person who plays a musical instrument",
@@ -1248,7 +1418,9 @@
             "cf": "",
             "x": "a trumpet/bass player"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhạc công",
+        "definition_vi": "một người chơi một nhạc cụ"
       },
       {
         "definition": "an actor",
@@ -1257,7 +1429,9 @@
             "cf": "",
             "x": "Phoenix Players present ‘Romeo and Juliet’."
           }
-        ]
+        ],
+        "short_meaning_vi": "diễn viên",
+        "definition_vi": "một diễn viên"
       }
     ]
   },
@@ -1286,11 +1460,15 @@
             "cf": "",
             "x": "relaxing by the pool"
           }
-        ]
+        ],
+        "short_meaning_vi": "bể bơi",
+        "definition_vi": "một khu vực nước được tạo ra để mọi người bơi lội"
       },
       {
         "definition": "the building that contains a public pool",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhà thi đấu",
+        "definition_vi": "tòa nhà chứa bể bơi công cộng"
       },
       {
         "definition": "a small area of still water, especially one that has formed naturally",
@@ -1299,7 +1477,9 @@
             "cf": "",
             "x": "freshwater/thermal pools"
           }
-        ]
+        ],
+        "short_meaning_vi": "vũng nước",
+        "definition_vi": "một vùng nước nhỏ lặng, đặc biệt là một vùng nước hình thành tự nhiên"
       },
       {
         "definition": "a small amount of liquid or light lying on a surface",
@@ -1316,7 +1496,9 @@
             "cf": "",
             "x": "The water ran down out of their clothes and formed a pool on floor. "
           }
-        ]
+        ],
+        "short_meaning_vi": "vệt nước",
+        "definition_vi": "một lượng nhỏ chất lỏng hoặc ánh sáng nằm trên bề mặt"
       },
       {
         "definition": "a supply of things or money that is shared by a group of people and can be used when needed",
@@ -1329,7 +1511,9 @@
             "cf": "",
             "x": "a pool car"
           }
-        ]
+        ],
+        "short_meaning_vi": "quỹ chung",
+        "definition_vi": "một nguồn cung cấp các vật phẩm hoặc tiền bạc được chia sẻ bởi một nhóm người và có thể được sử dụng khi cần thiết"
       },
       {
         "definition": "a group of people available for work when needed",
@@ -1342,7 +1526,9 @@
             "cf": "",
             "x": "I started my career in the typing pool (= a group of people who shared a company’s typing work) over 40 years ago. "
           }
-        ]
+        ],
+        "short_meaning_vi": "nguồn nhân lực",
+        "definition_vi": "một nhóm người sẵn sàng làm việc khi cần thiết"
       },
       {
         "definition": "a game for two people played with 16 balls on a table, often in pubs and bars. Players use cues (= long sticks) to try to hit the balls into pockets at the edge of the table.",
@@ -1359,7 +1545,9 @@
             "cf": "",
             "x": "Do you play pool?"
           }
-        ]
+        ],
+        "short_meaning_vi": "bi-a",
+        "definition_vi": "một trò chơi dành cho hai người chơi với 16 quả bóng trên bàn, thường có trong các quán rượu và quán bar. Người chơi sử dụng cơ (= gậy dài) để cố gắng đánh bóng vào các lỗ ở cạnh bàn."
       },
       {
         "definition": "a form of gambling in the UK in which people try to win money by saying what the results of football matches will be",
@@ -1372,7 +1560,9 @@
             "cf": "",
             "x": "a pools winner"
           }
-        ]
+        ],
+        "short_meaning_vi": "cá cược bóng đá",
+        "definition_vi": "một hình thức cờ bạc ở Vương quốc Anh, trong đó mọi người cố gắng giành tiền bằng cách dự đoán kết quả của các trận đấu bóng đá"
       }
     ]
   },
@@ -1405,7 +1595,9 @@
             "cf": "",
             "x": "He shot out his right arm and landed a punch on Lorrimer's nose."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đấm",
+        "definition_vi": "một cú đánh mạnh bằng nắm đấm (= bàn tay nắm chặt)"
       },
       {
         "definition": "the power to interest people",
@@ -1414,7 +1606,9 @@
             "cf": "",
             "x": "It's a well-constructed crime story, told with speed and punch."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức hấp dẫn",
+        "definition_vi": "sức mạnh để thu hút mọi người"
       },
       {
         "definition": "a tool or machine for cutting holes in paper, leather or metal",
@@ -1423,19 +1617,27 @@
             "cf": "",
             "x": "a hole punch"
           }
-        ]
+        ],
+        "short_meaning_vi": "dụng cụ đục lỗ",
+        "definition_vi": "một công cụ hoặc máy để cắt lỗ trên giấy, da hoặc kim loại"
       },
       {
         "definition": "a hot or cold drink made by mixing water, fruit juice, spices and usually wine or another alcoholic drink",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nước ép trái cây",
+        "definition_vi": "một loại đồ uống nóng hoặc lạnh được làm bằng cách trộn nước, nước trái cây, gia vị và thường là rượu hoặc một loại đồ uống có cồn khác"
       },
       {
         "definition": "to get or do something before somebody else can",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đạt trước",
+        "definition_vi": "để có được hoặc làm điều gì đó trước khi người khác có thể"
       },
       {
         "definition": "to be capable of hitting somebody very hard",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "có sức mạnh",
+        "definition_vi": "có khả năng đánh ai đó rất mạnh"
       },
       {
         "definition": "to have a powerful effect on somebody",
@@ -1444,7 +1646,9 @@
             "cf": "",
             "x": "The advertising campaign packs quite a punch."
           }
-        ]
+        ],
+        "short_meaning_vi": "có tác động mạnh",
+        "definition_vi": "có tác động mạnh mẽ đến ai đó"
       },
       {
         "definition": "to express something less strongly than you are able to, for example to avoid upsetting or shocking somebody",
@@ -1453,11 +1657,15 @@
             "cf": "",
             "x": "Her articles certainly don't pull any punches."
           }
-        ]
+        ],
+        "short_meaning_vi": "nói giảm nhẹ",
+        "definition_vi": "diễn đạt điều gì đó ít mạnh mẽ hơn khả năng của bạn, ví dụ để tránh làm ai đó khó chịu hoặc sốc"
       },
       {
         "definition": "to adapt yourself to a difficult situation",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thích nghi",
+        "definition_vi": "tự điều chỉnh để phù hợp với một tình huống khó khăn"
       }
     ]
   }

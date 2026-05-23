@@ -37,9 +37,28 @@ public class AiService {
     public String generateLesson(String topic, String level, String customText) {
         String prompt;
         if (customText != null && !customText.trim().isEmpty()) {
-            prompt = "Extract difficult vocabulary from the following English text for a " + level + " level student. Provide a title for the text, the passage itself (which is the exact custom text provided), and a list of extracted vocabulary words with meaning in Vietnamese, IPA pronunciation, and an example sentence from the text.\n\nText: " + customText;
+            prompt = "Extract difficult vocabulary from the following English text for a " + level + " level student.\n" +
+                "Provide:\n" +
+                "- title: a short title for the text\n" +
+                "- passage: the exact custom text provided\n" +
+                "- vocabulary: list of extracted words, each with:\n" +
+                "  * word: the vocabulary word\n" +
+                "  * meaning: short English definition (1 sentence)\n" +
+                "  * meaningVi: short Vietnamese translation/meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
+                "  * pronunciation: IPA pronunciation (e.g. /ˈkæbɪn/)\n" +
+                "  * example: an example sentence from the text\n\n" +
+                "Text: " + customText;
         } else {
-            prompt = "Generate a short English reading passage about '" + topic + "' for a " + level + " level student. Extract difficult vocabulary from the passage. Provide a title, the passage, and a list of extracted vocabulary words with meaning in Vietnamese, IPA pronunciation, and an example sentence from the passage.";
+            prompt = "Generate a short English reading passage about '" + topic + "' for a " + level + " level student.\n" +
+                "Extract difficult vocabulary from the passage. Provide:\n" +
+                "- title: a short title\n" +
+                "- passage: the reading passage\n" +
+                "- vocabulary: list of extracted words, each with:\n" +
+                "  * word: the vocabulary word\n" +
+                "  * meaning: short English definition (1 sentence)\n" +
+                "  * meaningVi: short Vietnamese translation/meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
+                "  * pronunciation: IPA pronunciation (e.g. /ˈkæbɪn/)\n" +
+                "  * example: an example sentence from the passage";
         }
 
         Map<String, Object> requestBody = Map.of(
@@ -62,11 +81,12 @@ public class AiService {
                                 "type", "object",
                                 "properties", Map.of(
                                     "word", Map.of("type", "string"),
-                                    "meaning", Map.of("type", "string", "description", "Vietnamese meaning"),
-                                    "pronunciation", Map.of("type", "string", "description", "IPA pronunciation"),
+                                    "meaning", Map.of("type", "string", "description", "Short English definition"),
+                                    "meaningVi", Map.of("type", "string", "description", "Short Vietnamese meaning, 1-4 words"),
+                                    "pronunciation", Map.of("type", "string", "description", "IPA pronunciation e.g. /ˈkæbɪn/"),
                                     "example", Map.of("type", "string", "description", "Example sentence from the passage")
                                 ),
-                                "required", List.of("word", "meaning", "pronunciation", "example")
+                                "required", List.of("word", "meaning", "meaningVi", "pronunciation", "example")
                             )
                         )
                     ),

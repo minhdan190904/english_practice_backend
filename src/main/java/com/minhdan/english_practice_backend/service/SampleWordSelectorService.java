@@ -110,9 +110,15 @@ public class SampleWordSelectorService {
         dto.setPos(word.getPos());
         dto.setPhoneticText(word.getPhoneticText());
         dto.setPhoneticAmText(word.getPhoneticAmText());
-        
+        // Pass Oxford audio URLs so the Flutter app can play pronunciation
+        dto.setPhoneticUrl(word.getPhonetic());
+        dto.setPhoneticAmUrl(word.getPhoneticAm());
+
         if (word.getSenses() != null && !word.getSenses().isEmpty()) {
             dto.setDefinition(word.getSenses().get(0).getDefinition());
+            // Pass VI translations from translated Oxford JSON
+            dto.setDefinitionVi(word.getSenses().get(0).getDefinitionVi());
+            dto.setShortMeaningVi(word.getSenses().get(0).getShortMeaningVi());
             if (word.getSenses().get(0).getExamples() != null && !word.getSenses().get(0).getExamples().isEmpty()) {
                 dto.setExample(word.getSenses().get(0).getExamples().get(0).getX());
             }

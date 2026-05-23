@@ -16,7 +16,9 @@
             "cf": "",
             "x": "the auto industry"
           }
-        ]
+        ],
+        "short_meaning_vi": "xe hơi",
+        "definition_vi": "một chiếc ô tô."
       }
     ]
   },
@@ -41,7 +43,9 @@
             "cf": "",
             "x": "We drove along a muddy lane to reach the farmhouse."
           }
-        ]
+        ],
+        "short_meaning_vi": "đường nhỏ",
+        "definition_vi": "một con đường hẹp ở nông thôn"
       },
       {
         "definition": "a city street",
@@ -54,7 +58,9 @@
             "cf": "",
             "x": "The quickest way is through the back lanes behind the bus station."
           }
-        ]
+        ],
+        "short_meaning_vi": "phố",
+        "definition_vi": "một con phố thành phố"
       },
       {
         "definition": "a section of a wide road, that is marked by painted white lines, to keep lines of traffic separate",
@@ -75,7 +81,9 @@
             "cf": "",
             "x": "a four-lane highway"
           }
-        ]
+        ],
+        "short_meaning_vi": "làn đường",
+        "definition_vi": "một phần của một con đường rộng, được đánh dấu bằng các vạch kẻ trắng, để phân tách các làn giao thông"
       },
       {
         "definition": "a narrow marked section of a track or a swimming pool that is used by one person, for example when taking part in a race",
@@ -88,7 +96,9 @@
             "cf": "",
             "x": "Obi, the record holder, is in lane 3."
           }
-        ]
+        ],
+        "short_meaning_vi": "làn",
+        "definition_vi": "một phần được đánh dấu hẹp của một đường đua hoặc bể bơi được sử dụng bởi một người, ví dụ khi tham gia một cuộc đua"
       },
       {
         "definition": "a route used by ships or aircraft on regular journeys",
@@ -97,7 +107,9 @@
             "cf": "",
             "x": "one of the world’s busiest shipping lanes"
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyến đường",
+        "definition_vi": "một tuyến đường được sử dụng bởi tàu thuyền hoặc máy bay trên các hành trình thường xuyên"
       },
       {
         "definition": "(in tenpin bowling) a narrow section of floor along which the ball is bowled",
@@ -106,7 +118,9 @@
             "cf": "",
             "x": "a 20-lane bowling alley"
           }
-        ]
+        ],
+        "short_meaning_vi": "làn chơi bowling",
+        "definition_vi": "một phần hẹp của sàn nơi bóng được lăn"
       },
       {
         "definition": "where things are most exciting and where a lot is happening",
@@ -115,7 +129,9 @@
             "cf": "",
             "x": "He had a good job, plenty of money and he was enjoying life in the fast lane."
           }
-        ]
+        ],
+        "short_meaning_vi": "trung tâm của sự kiện",
+        "definition_vi": "nơi mọi thứ thú vị nhất và có nhiều điều đang xảy ra"
       }
     ]
   },
@@ -152,7 +168,9 @@
             "cf": "",
             "x": "The company's debt load could drag it into bankruptcy."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "the total amount of something that something can carry or contain",
@@ -177,7 +195,9 @@
             "cf": "",
             "x": "Maximum load, including passengers, is 800 pounds."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "the amount of weight that is pressing down on something",
@@ -194,7 +214,9 @@
             "cf": "",
             "x": "The table creaked under its heavy load."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "a large number or amount of people or things; plenty",
@@ -227,7 +249,9 @@
             "cf": "a load/loads to do",
             "x": "There's loads to do today."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "used to emphasize that something is wrong, stupid, bad, etc.",
@@ -236,7 +260,9 @@
             "cf": "",
             "x": "You're talking a load of rubbish."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "an amount of work that a person or machine has to do",
@@ -253,7 +279,9 @@
             "cf": "",
             "x": "We're trying to spread the load by employing more staff."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "a feeling of responsibility or worry that is difficult to deal with",
@@ -266,11 +294,15 @@
             "cf": "",
             "x": "Knowing that they had arrived safely took a load off my mind."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "the amount of electrical power that is being supplied at a particular time",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       },
       {
         "definition": "used to tell somebody to look at or listen to somebody/something",
@@ -279,7 +311,9 @@
             "cf": "",
             "x": "Get a load of that dress!"
           }
-        ]
+        ],
+        "short_meaning_vi": "chất tải",
+        "definition_vi": "để đặt một số lượng lớn đồ vật hoặc người lên hoặc vào một cái gì đó"
       }
     ]
   },
@@ -308,11 +342,15 @@
             "cf": "by lorry",
             "x": "Emergency food supplies were brought in by lorry."
           }
-        ]
+        ],
+        "short_meaning_vi": "xe tải",
+        "definition_vi": "một phương tiện lớn để chở hàng nặng bằng đường bộ"
       },
       {
         "definition": "goods that fell off the back of a lorry were probably stolen. People say or accept that they came ‘off the back of a lorry’ to avoid saying or asking where they really came from.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hàng trộm",
+        "definition_vi": "hàng hóa rơi ra khỏi xe tải có lẽ đã bị đánh cắp. Mọi người nói hoặc chấp nhận rằng chúng đến 'từ trên xe tải rơi xuống' để tránh nói hoặc hỏi chúng thực sự đến từ đâu."
       }
     ]
   },
@@ -337,7 +375,9 @@
             "cf": "",
             "x": "The high cost of living acts as an obstacle to mobility of labour."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính lưu động",
+        "definition_vi": "khả năng di chuyển dễ dàng từ nơi này, tầng lớp xã hội hoặc công việc này sang nơi khác"
       },
       {
         "definition": "the ability to move or travel around easily",
@@ -350,7 +390,9 @@
             "cf": "",
             "x": "mobility training for blind people"
           }
-        ]
+        ],
+        "short_meaning_vi": "tính di động",
+        "definition_vi": "khả năng di chuyển hoặc đi lại dễ dàng"
       }
     ]
   },
@@ -371,7 +413,9 @@
             "cf": "",
             "x": "The street is closed to motor vehicles."
           }
-        ]
+        ],
+        "short_meaning_vi": "động cơ",
+        "definition_vi": "một thiết bị sử dụng điện, xăng, v.v. để tạo ra chuyển động và làm cho máy móc, phương tiện, thuyền, v.v. hoạt động"
       },
       {
         "definition": "connected with vehicles that have engines",
@@ -396,7 +440,9 @@
             "cf": "",
             "x": "motor fuel"
           }
-        ]
+        ],
+        "short_meaning_vi": "động cơ",
+        "definition_vi": "một thiết bị sử dụng điện, xăng, v.v. để tạo ra chuyển động và làm cho máy móc, phương tiện, thuyền, v.v. hoạt động"
       },
       {
         "definition": "connected with movement of the body that is produced by muscles; connected with the nerves that control movement",
@@ -409,7 +455,9 @@
             "cf": "",
             "x": "Both motor and sensory functions are affected."
           }
-        ]
+        ],
+        "short_meaning_vi": "động cơ",
+        "definition_vi": "một thiết bị sử dụng điện, xăng, v.v. để tạo ra chuyển động và làm cho máy móc, phương tiện, thuyền, v.v. hoạt động"
       }
     ]
   },
@@ -446,7 +494,9 @@
             "cf": "",
             "x": "The car was accompanied by a police motorcycle escort."
           }
-        ]
+        ],
+        "short_meaning_vi": "xe máy",
+        "definition_vi": "một phương tiện đường bộ có hai bánh, chạy bằng động cơ, có một chỗ ngồi cho người lái và thường có một chỗ ngồi cho hành khách phía sau người lái"
       }
     ]
   },
@@ -471,7 +521,9 @@
             "cf": "",
             "x": "Motorists who fail to stop risk an even higher penalty."
           }
-        ]
+        ],
+        "short_meaning_vi": "người lái xe",
+        "definition_vi": "một người lái ô tô"
       }
     ]
   },
@@ -500,7 +552,9 @@
             "cf": "",
             "x": "The stars were used for navigation in the desert."
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng hải",
+        "definition_vi": "kỹ năng hoặc quá trình lập kế hoạch tuyến đường cho một con tàu hoặc phương tiện khác và đưa nó đến đó"
       },
       {
         "definition": "the movement of ships or aircraft",
@@ -509,7 +563,9 @@
             "cf": "",
             "x": "the right of navigation through international waters"
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng hải",
+        "definition_vi": "sự di chuyển của tàu thuyền hoặc máy bay"
       },
       {
         "definition": "the way that you move around a website or the internet when you are looking for information",
@@ -518,7 +574,9 @@
             "cf": "",
             "x": "The site was redesigned to improve navigation."
           }
-        ]
+        ],
+        "short_meaning_vi": "điều hướng",
+        "definition_vi": "cách bạn di chuyển xung quanh một trang web hoặc internet khi bạn đang tìm kiếm thông tin"
       }
     ]
   },
@@ -555,7 +613,9 @@
             "cf": "",
             "x": "a parking fine (= for parking illegally)"
           }
-        ]
+        ],
+        "short_meaning_vi": "việc đỗ xe",
+        "definition_vi": "hành động dừng một phương tiện tại một địa điểm và để nó ở đó trong một khoảng thời gian"
       },
       {
         "definition": "a space or an area for leaving vehicles",
@@ -584,7 +644,9 @@
             "cf": "",
             "x": "The hotel has six levels of underground parking."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ đỗ xe",
+        "definition_vi": "một không gian hoặc khu vực để đậu xe"
       }
     ]
   },
@@ -617,7 +679,9 @@
             "cf": "",
             "x": "a passenger train (= carrying passengers, not goods)"
           }
-        ]
+        ],
+        "short_meaning_vi": "hành khách",
+        "definition_vi": "một người đang đi trên ô tô, xe buýt, tàu hỏa, máy bay hoặc tàu thủy và không lái hoặc làm việc trên đó."
       },
       {
         "definition": "a member of a group or team who does not do as much work as the others",
@@ -626,7 +690,9 @@
             "cf": "",
             "x": "The firm cannot afford to carry passengers."
           }
-        ]
+        ],
+        "short_meaning_vi": "người ăn bám",
+        "definition_vi": "một thành viên của một nhóm hoặc đội không làm việc nhiều như những người khác."
       }
     ]
   },
@@ -667,7 +733,9 @@
             "cf": "",
             "x": "leaded/unleaded petrol"
           }
-        ]
+        ],
+        "short_meaning_vi": "xăng",
+        "definition_vi": "một chất lỏng thu được từ dầu mỏ, được sử dụng làm nhiên liệu trong động cơ ô tô, v.v."
       }
     ]
   },
@@ -724,7 +792,9 @@
             "cf": "",
             "x": "a plane ride/flight/journey"
           }
-        ]
+        ],
+        "short_meaning_vi": "máy bay",
+        "definition_vi": "một phương tiện bay có cánh và một hoặc nhiều động cơ"
       },
       {
         "definition": "any flat or level surface, or an imaginary flat surface through or joining material objects",
@@ -737,7 +807,9 @@
             "cf": "",
             "x": "We may describe uniquely any point in a plane by an ordered pair of numbers, called coordinates."
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt phẳng",
+        "definition_vi": "bất kỳ bề mặt phẳng hoặc bằng phẳng nào, hoặc một bề mặt phẳng tưởng tượng đi qua hoặc nối các vật thể vật chất"
       },
       {
         "definition": "a level of thought, existence or development",
@@ -754,11 +826,15 @@
             "cf": "",
             "x": "Like all talented musicians, he operates on a different plane from most people."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấp độ",
+        "definition_vi": "một cấp độ suy nghĩ, tồn tại hoặc phát triển"
       },
       {
         "definition": "a tool with a blade (= sharp metal part) set in a flat surface, used for making the surface of wood smooth by cutting very thin layers off it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bào gỗ",
+        "definition_vi": "một công cụ có lưỡi (= bộ phận kim loại sắc bén) được đặt trên một bề mặt phẳng, được sử dụng để làm cho bề mặt gỗ nhẵn bằng cách cắt các lớp rất mỏng ra khỏi nó"
       }
     ]
   },
@@ -791,7 +867,9 @@
             "cf": "",
             "x": "the Black Sea ports"
           }
-        ]
+        ],
+        "short_meaning_vi": "cảng biển",
+        "definition_vi": "một thị trấn hoặc thành phố có bến cảng, đặc biệt là nơi tàu bè bốc dỡ hàng hóa"
       },
       {
         "definition": "a place where ships load and unload goods or shelter from storms",
@@ -820,15 +898,21 @@
             "cf": "",
             "x": "the port authorities"
           }
-        ]
+        ],
+        "short_meaning_vi": "bến cảng",
+        "definition_vi": "một nơi tàu bè bốc dỡ hàng hóa hoặc trú ẩn khỏi bão"
       },
       {
         "definition": "a strong sweet wine, usually dark red, that is made in Portugal. It is usually drunk at the end of a meal.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rượu Port",
+        "definition_vi": "một loại rượu vang ngọt mạnh, thường có màu đỏ sẫm, được sản xuất tại Bồ Đào Nha. Nó thường được uống vào cuối bữa ăn."
       },
       {
         "definition": "a glass of port",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cốc rượu Port",
+        "definition_vi": "một ly rượu Port"
       },
       {
         "definition": "the side of a ship or aircraft that is on the left when you are facing forward",
@@ -837,7 +921,9 @@
             "cf": "",
             "x": "the port side"
           }
-        ]
+        ],
+        "short_meaning_vi": "mạn trái",
+        "definition_vi": "mạn tàu hoặc máy bay ở bên trái khi bạn nhìn về phía trước"
       },
       {
         "definition": "a place on a computer where you can attach another piece of equipment, often using a cable",
@@ -846,11 +932,15 @@
             "cf": "",
             "x": "the modem port"
           }
-        ]
+        ],
+        "short_meaning_vi": "cổng kết nối",
+        "definition_vi": "một vị trí trên máy tính nơi bạn có thể gắn một thiết bị khác, thường bằng cáp"
       },
       {
         "definition": "if you are in great trouble, you take any help that is offered",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gặp khó khăn",
+        "definition_vi": "nếu bạn gặp rắc rối lớn, bạn sẽ chấp nhận bất kỳ sự giúp đỡ nào được đề nghị"
       }
     ]
   }

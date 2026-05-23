@@ -44,7 +44,9 @@
             "cf": "",
             "x": "What's your account number please?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tài khoản ngân hàng",
+        "definition_vi": "một thỏa thuận mà ai đó có với ngân hàng, v.v. để giữ tiền ở đó, rút tiền ra, v.v."
       },
       {
         "definition": "an arrangement that somebody has with a company that allows them to use the internet, send and receive messages by email, social media, etc.",
@@ -57,7 +59,9 @@
             "cf": "",
             "x": "Millions of accounts have been hacked."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài khoản trực tuyến",
+        "definition_vi": "một thỏa thuận mà ai đó có với một công ty cho phép họ sử dụng internet, gửi và nhận tin nhắn qua email, mạng xã hội, v.v."
       },
       {
         "definition": "a written or spoken description of something that has happened",
@@ -78,7 +82,9 @@
             "cf": "",
             "x": "The diaries contain a detailed account of the writer's experiences on the voyage."
           }
-        ]
+        ],
+        "short_meaning_vi": "lời kể",
+        "definition_vi": "một mô tả bằng văn bản hoặc lời nói về một điều gì đó đã xảy ra"
       },
       {
         "definition": "an explanation or a description of an idea, a theory or a process",
@@ -87,7 +93,9 @@
             "cf": "",
             "x": "the Biblical account of the creation of the world"
           }
-        ]
+        ],
+        "short_meaning_vi": "diễn giải",
+        "definition_vi": "một lời giải thích hoặc mô tả về một ý tưởng, một lý thuyết hoặc một quy trình"
       },
       {
         "definition": "a written record of money that is owed to a business and of money that has been paid by it",
@@ -108,7 +116,9 @@
             "cf": "",
             "x": "She works in Accounts (= the accounts department)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sổ kế toán",
+        "definition_vi": "một hồ sơ bằng văn bản về tiền nợ một doanh nghiệp và tiền đã được doanh nghiệp đó thanh toán"
       },
       {
         "definition": "an arrangement with a shop or business to pay bills for goods or services at a later time, for example in regular amounts every month",
@@ -125,7 +135,9 @@
             "cf": "",
             "x": "Log in to your account to see how much you have spent."
           }
-        ]
+        ],
+        "short_meaning_vi": "mua chịu",
+        "definition_vi": "một thỏa thuận với một cửa hàng hoặc doanh nghiệp để thanh toán hóa đơn cho hàng hóa hoặc dịch vụ vào một thời điểm sau đó, ví dụ: theo các khoản đều đặn hàng tháng"
       },
       {
         "definition": "a bill for goods or services provided over a period",
@@ -138,7 +150,9 @@
             "cf": "",
             "x": "It is best to settle the account each month."
           }
-        ]
+        ],
+        "short_meaning_vi": "hóa đơn",
+        "definition_vi": "một hóa đơn cho hàng hóa hoặc dịch vụ được cung cấp trong một khoảng thời gian"
       },
       {
         "definition": "a regular customer",
@@ -147,7 +161,9 @@
             "cf": "",
             "x": "The agency has lost several of its most important accounts."
           }
-        ]
+        ],
+        "short_meaning_vi": "khách quen",
+        "definition_vi": "một khách hàng thường xuyên"
       },
       {
         "definition": "a description of an event that gives you all the details in the order in which they happen",
@@ -160,7 +176,9 @@
             "cf": "",
             "x": "She gave us a blow-by-blow account of the incident."
           }
-        ]
+        ],
+        "short_meaning_vi": "tường thuật",
+        "definition_vi": "một mô tả về một sự kiện cung cấp cho bạn tất cả các chi tiết theo thứ tự chúng xảy ra"
       },
       {
         "definition": "according to what other people say",
@@ -169,7 +187,9 @@
             "cf": "",
             "x": "I've never been there, but it's a lovely place, by all accounts."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo lời",
+        "definition_vi": "theo những gì người khác nói"
       },
       {
         "definition": "according to what you say yourself",
@@ -178,11 +198,15 @@
             "cf": "",
             "x": "By his own account he had an unhappy childhood."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo lời bạn",
+        "definition_vi": "theo những gì chính bạn nói"
       },
       {
         "definition": "to make somebody explain a mistake, etc. because they are responsible for it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giải thích",
+        "definition_vi": "yêu cầu ai đó giải thích một sai lầm, v.v. vì họ chịu trách nhiệm về nó"
       },
       {
         "definition": "to do something or perform well, especially in a contest",
@@ -191,7 +215,9 @@
             "cf": "",
             "x": "The team gave a good account of themselves in the match."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện tốt",
+        "definition_vi": "làm tốt một điều gì đó hoặc thể hiện tốt, đặc biệt là trong một cuộc thi"
       },
       {
         "definition": "not important",
@@ -200,7 +226,9 @@
             "cf": "",
             "x": "Emotional matters were of no account to them during the war."
           }
-        ]
+        ],
+        "short_meaning_vi": "không quan trọng",
+        "definition_vi": "không quan trọng"
       },
       {
         "definition": "if you buy something or pay on account, you pay nothing or only a small amount immediately and the rest later",
@@ -213,7 +241,9 @@
             "cf": "",
             "x": "She bought the furniture she wanted on account."
           }
-        ]
+        ],
+        "short_meaning_vi": "mua trả góp",
+        "definition_vi": "nếu bạn mua một thứ gì đó hoặc thanh toán theo tài khoản, bạn không phải trả gì hoặc chỉ trả một số tiền nhỏ ngay lập tức và phần còn lại sau"
       },
       {
         "definition": "because of what you think somebody wants",
@@ -222,7 +252,9 @@
             "cf": "",
             "x": "Please don't change your plans on my account."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo ý muốn",
+        "definition_vi": "theo những gì bạn nghĩ người khác muốn"
       },
       {
         "definition": "because of somebody/something",
@@ -235,7 +267,9 @@
             "cf": "",
             "x": "The marsh is an area of great scientific interest on account of its wild flowers."
           }
-        ]
+        ],
+        "short_meaning_vi": "bởi vì",
+        "definition_vi": "bởi vì ai đó/điều gì đó"
       },
       {
         "definition": "not for any reason",
@@ -244,7 +278,9 @@
             "cf": "",
             "x": "On no account should the house be left unlocked."
           }
-        ]
+        ],
+        "short_meaning_vi": "không vì lý do gì",
+        "definition_vi": "không vì bất kỳ lý do gì"
       },
       {
         "definition": "for yourself",
@@ -253,7 +289,9 @@
             "cf": "",
             "x": "In 2012 Smith set up in business on his own account."
           }
-        ]
+        ],
+        "short_meaning_vi": "vì bản thân",
+        "definition_vi": "vì chính bạn"
       },
       {
         "definition": "because you want to and you have decided, not somebody else",
@@ -262,7 +300,9 @@
             "cf": "",
             "x": "No one sent me. I am here on my own account."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo ý bạn",
+        "definition_vi": "bởi vì bạn muốn và bạn đã quyết định, không phải người khác"
       },
       {
         "definition": "because of the particular thing that has been mentioned",
@@ -271,7 +311,9 @@
             "cf": "",
             "x": "Weather conditions were poor, but he did not delay his departure on that account."
           }
-        ]
+        ],
+        "short_meaning_vi": "vì điều đó",
+        "definition_vi": "vì điều cụ thể đã được đề cập"
       },
       {
         "definition": "to use something in a good or helpful way",
@@ -280,7 +322,9 @@
             "cf": "",
             "x": "He turned his artistic talents to good account by becoming a sculptor."
           }
-        ]
+        ],
+        "short_meaning_vi": "tận dụng",
+        "definition_vi": "sử dụng một cái gì đó một cách tốt hoặc hữu ích"
       },
       {
         "definition": "to hurt or punish somebody who has harmed or cheated you in the past",
@@ -293,7 +337,9 @@
             "cf": "",
             "x": "An embittered Charlotte is determined to settle accounts with Elizabeth."
           }
-        ]
+        ],
+        "short_meaning_vi": "trả thù",
+        "definition_vi": "làm tổn thương hoặc trừng phạt ai đó đã làm hại hoặc lừa dối bạn trong quá khứ"
       },
       {
         "definition": "to consider particular facts, circumstances, etc. when making a decision about something",
@@ -306,7 +352,9 @@
             "cf": "",
             "x": "Coursework is taken into account as well as exam results."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính đến",
+        "definition_vi": "xem xét các sự kiện, hoàn cảnh cụ thể, v.v. khi đưa ra quyết định về một điều gì đó"
       }
     ]
   },
@@ -331,7 +379,9 @@
             "cf": "accountability (of somebody) (to somebody)",
             "x": "the accountability of a company’s directors to the shareholders"
           }
-        ]
+        ],
+        "short_meaning_vi": "trách nhiệm giải trình",
+        "definition_vi": "việc chịu trách nhiệm về các quyết định hoặc hành động của bạn và được mong đợi giải thích chúng khi được hỏi"
       }
     ]
   },
@@ -360,7 +410,9 @@
             "cf": "accountable for something",
             "x": "Someone must be held accountable for the killings."
           }
-        ]
+        ],
+        "short_meaning_vi": "có trách nhiệm",
+        "definition_vi": "chịu trách nhiệm về các quyết định hoặc hành động của bạn và được mong đợi giải thích chúng khi được hỏi"
       }
     ]
   },
@@ -385,7 +437,9 @@
             "cf": "",
             "x": "the investigating accountant’s report"
           }
-        ]
+        ],
+        "short_meaning_vi": "kế toán viên",
+        "definition_vi": "một người có nhiệm vụ ghi chép hoặc kiểm tra các tài khoản tài chính"
       }
     ]
   },
@@ -410,7 +464,9 @@
             "cf": "",
             "x": "accounting methods"
           }
-        ]
+        ],
+        "short_meaning_vi": "kế toán",
+        "definition_vi": "quá trình hoặc công việc ghi chép các tài khoản tài chính"
       }
     ]
   },
@@ -431,7 +487,9 @@
             "cf": "",
             "x": "theories of child language acquisition"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tiếp thu",
+        "definition_vi": "hành động có được một cái gì đó, đặc biệt là kiến thức, một kỹ năng, v.v."
       },
       {
         "definition": "something that somebody buys to add to what they already own, usually something valuable",
@@ -444,7 +502,9 @@
             "cf": "",
             "x": "The money will be spent on acquisitions for the university library."
           }
-        ]
+        ],
+        "short_meaning_vi": "vật sở hữu",
+        "definition_vi": "một thứ gì đó mà ai đó mua để bổ sung vào những gì họ đã sở hữu, thường là một thứ có giá trị"
       },
       {
         "definition": "a company, piece of land, etc. bought by somebody, especially another company; the act of buying it",
@@ -465,7 +525,9 @@
             "cf": "",
             "x": "The company has just made another acquisition."
           }
-        ]
+        ],
+        "short_meaning_vi": "công ty con",
+        "definition_vi": "một công ty, một mảnh đất, v.v. được ai đó mua, đặc biệt là một công ty khác; hành động mua nó"
       }
     ]
   },
@@ -510,7 +572,9 @@
             "cf": "advertise something as something",
             "x": "The cruise was advertised as the ‘journey of a lifetime’."
           }
-        ]
+        ],
+        "short_meaning_vi": "quảng cáo",
+        "definition_vi": "thông báo cho công chúng về một sản phẩm hoặc dịch vụ để khuyến khích mọi người mua hoặc sử dụng nó"
       },
       {
         "definition": "to let people know that something is going to happen, or that a job is available by giving details about it in a newspaper, on a notice in a public place, on the internet, etc.",
@@ -535,7 +599,9 @@
             "cf": "",
             "x": "We advertised the concert quite widely."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông báo",
+        "definition_vi": "cho mọi người biết rằng một điều gì đó sắp xảy ra, hoặc một công việc có sẵn bằng cách cung cấp thông tin chi tiết về nó trên báo, trên thông báo ở nơi công cộng, trên internet, v.v."
       },
       {
         "definition": "to show or tell something about yourself to other people",
@@ -548,7 +614,9 @@
             "cf": "",
             "x": "She coughed to advertise her presence."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện bản thân",
+        "definition_vi": "thể hiện hoặc nói về bản thân với người khác"
       }
     ]
   },
@@ -581,7 +649,9 @@
             "cf": "advertisement for something",
             "x": "Television and radio refused to carry advertisements for the album."
           }
-        ]
+        ],
+        "short_meaning_vi": "quảng cáo",
+        "definition_vi": "một thông báo, hình ảnh hoặc phim kể cho mọi người biết về một sản phẩm, công việc hoặc dịch vụ"
       },
       {
         "definition": "an example of something that shows its good qualities",
@@ -594,7 +664,9 @@
             "cf": "",
             "x": "He's a walking advertisement for healthy living."
           }
-        ]
+        ],
+        "short_meaning_vi": "minh chứng",
+        "definition_vi": "một ví dụ về một cái gì đó cho thấy phẩm chất tốt của nó"
       },
       {
         "definition": "the act of advertising something and making it public",
@@ -603,7 +675,9 @@
             "cf": "",
             "x": "We are employing an assistant to help with the advertisement of the group’s activities."
           }
-        ]
+        ],
+        "short_meaning_vi": "việc quảng cáo",
+        "definition_vi": "hành động quảng cáo một cái gì đó và công khai nó"
       }
     ]
   },
@@ -656,7 +730,9 @@
             "cf": "",
             "x": "We were very happy with our advertising strategy last year."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngành quảng cáo",
+        "definition_vi": "hoạt động và ngành công nghiệp quảng cáo mọi thứ cho mọi người trên truyền hình, trên báo, trên internet, v.v."
       }
     ]
   },
@@ -681,7 +757,9 @@
             "cf": "through an agency",
             "x": "He managed to find a job through an agency."
           }
-        ]
+        ],
+        "short_meaning_vi": "đại lý",
+        "definition_vi": "một doanh nghiệp hoặc một tổ chức cung cấp một dịch vụ cụ thể, đặc biệt là khi đại diện cho các doanh nghiệp hoặc tổ chức khác"
       },
       {
         "definition": "a government department that provides a particular service",
@@ -694,7 +772,9 @@
             "cf": "",
             "x": "Some laboratories are operated by government agencies."
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ quan chính phủ",
+        "definition_vi": "một cơ quan chính phủ cung cấp một dịch vụ cụ thể"
       },
       {
         "definition": "as a result of the action of somebody/something",
@@ -703,7 +783,9 @@
             "cf": "",
             "x": "He obtained his position through the agency of an old friend."
           }
-        ]
+        ],
+        "short_meaning_vi": "doanh nghiệp",
+        "definition_vi": "do kết quả của hành động của ai đó/cái gì đó"
       }
     ]
   },
@@ -736,7 +818,9 @@
             "cf": "",
             "x": "Typical agent's fees are around 6 per cent of the sale price."
           }
-        ]
+        ],
+        "short_meaning_vi": "người đại diện",
+        "definition_vi": "một người có công việc là đại diện hoặc quản lý các vấn đề của người khác trong kinh doanh, chính trị, v.v."
       },
       {
         "definition": "a person whose job is to arrange work for an actor, musician, sports player, etc. or to find somebody who will publish a writer’s work",
@@ -745,7 +829,9 @@
             "cf": "",
             "x": "a theatrical/literary agent"
           }
-        ]
+        ],
+        "short_meaning_vi": "người đại diện",
+        "definition_vi": "một người có công việc là sắp xếp công việc cho một diễn viên, nhạc sĩ, vận động viên, v.v. hoặc tìm người xuất bản tác phẩm của một nhà văn"
       },
       {
         "definition": "a person who works secretly to obtain information for a government or other organization",
@@ -762,7 +848,9 @@
             "cf": "",
             "x": "CIA/FBI agents"
           }
-        ]
+        ],
+        "short_meaning_vi": "điệp viên",
+        "definition_vi": "một người làm việc bí mật để thu thập thông tin cho chính phủ hoặc tổ chức khác"
       },
       {
         "definition": "a person or thing that has an important effect on a situation",
@@ -771,7 +859,9 @@
             "cf": "",
             "x": "The charity has been an agent for social change."
           }
-        ]
+        ],
+        "short_meaning_vi": "tác nhân",
+        "definition_vi": "một người hoặc vật có ảnh hưởng quan trọng đến một tình huống"
       },
       {
         "definition": "a chemical or a substance that produces an effect or a change or is used for a particular purpose",
@@ -784,11 +874,15 @@
             "cf": "",
             "x": "cleaning/oxidizing agents"
           }
-        ]
+        ],
+        "short_meaning_vi": "chất",
+        "definition_vi": "một hóa chất hoặc một chất tạo ra hiệu quả hoặc sự thay đổi hoặc được sử dụng cho một mục đích cụ thể"
       },
       {
         "definition": "the person or thing that does an action (expressed as the subject of an active verb, or in a ‘by’ phrase with a passive verb) ",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chủ thể hành động",
+        "definition_vi": "người hoặc vật thực hiện một hành động (được diễn đạt dưới dạng chủ ngữ của động từ chủ động, hoặc trong cụm 'by' với động từ bị động)"
       }
     ]
   },
@@ -825,7 +919,9 @@
             "cf": "allocate something to do something",
             "x": "Millions have been allocated to improve students' performance."
           }
-        ]
+        ],
+        "short_meaning_vi": "phân bổ",
+        "definition_vi": "chính thức giao một cái gì đó cho ai đó/cái gì đó cho một mục đích cụ thể"
       }
     ]
   },
@@ -846,7 +942,9 @@
             "cf": "",
             "x": "We have spent our entire allocation for the year."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phân bổ",
+        "definition_vi": "một số tiền, không gian, v.v. được giao cho ai đó cho một mục đích cụ thể"
       },
       {
         "definition": "the act of giving something to somebody for a particular purpose",
@@ -855,7 +953,9 @@
             "cf": "",
             "x": "the allocation of food to those who need it most"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phân bổ",
+        "definition_vi": "hành động giao một cái gì đó cho ai đó cho một mục đích cụ thể"
       }
     ]
   },
@@ -884,7 +984,9 @@
             "cf": "",
             "x": "Do you get an allowance for clothing?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền trợ cấp",
+        "definition_vi": "một số tiền được cấp cho ai đó thường xuyên hoặc cho một mục đích cụ thể"
       },
       {
         "definition": "the amount of something that is allowed in a particular situation",
@@ -901,11 +1003,15 @@
             "cf": "",
             "x": "The recommended daily allowance of vitamin C is 60–90 milligrams."
           }
-        ]
+        ],
+        "short_meaning_vi": "hạn mức",
+        "definition_vi": "số lượng của một cái gì đó được phép trong một tình huống cụ thể"
       },
       {
         "definition": "a small amount of money that parents give their children, usually every week or every month",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiền tiêu vặt",
+        "definition_vi": "một khoản tiền nhỏ mà cha mẹ cho con cái, thường là hàng tuần hoặc hàng tháng"
       },
       {
         "definition": "an amount of money that can be earned or received before you start paying tax",
@@ -914,7 +1020,9 @@
             "cf": "",
             "x": "personal tax allowances"
           }
-        ]
+        ],
+        "short_meaning_vi": "miễn thuế",
+        "definition_vi": "một khoản tiền có thể kiếm được hoặc nhận được trước khi bắt đầu nộp thuế"
       },
       {
         "definition": "to consider something, for example when you are making a decision or planning something",
@@ -927,7 +1035,9 @@
             "cf": "",
             "x": "The plan makes no allowance for people working at different rates."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính đến",
+        "definition_vi": "xem xét một cái gì đó, ví dụ khi đưa ra quyết định hoặc lên kế hoạch cho một cái gì đó"
       },
       {
         "definition": "to allow somebody to behave in a way that you would not usually accept, because of a problem or because there is a special reason",
@@ -936,7 +1046,9 @@
             "cf": "",
             "x": "You have to make allowances for him because he’s tired."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho phép",
+        "definition_vi": "cho phép ai đó cư xử theo cách mà bạn thường không chấp nhận, vì có vấn đề hoặc vì có lý do đặc biệt"
       }
     ]
   },
@@ -961,7 +1073,9 @@
             "cf": "",
             "x": "Successful applicants will receive notification within the week."
           }
-        ]
+        ],
+        "short_meaning_vi": "người nộp đơn",
+        "definition_vi": "một người đưa ra yêu cầu chính thức về một cái gì đó (= nộp đơn xin), đặc biệt là xin việc, vào một trường cao đẳng hoặc đại học, v.v."
       }
     ]
   },
@@ -1014,7 +1128,9 @@
             "cf": "on application to somebody",
             "x": "Further information is available on application to the principal."
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn đăng ký",
+        "definition_vi": "một yêu cầu chính thức (thường bằng văn bản) về một cái gì đó, chẳng hạn như một công việc, giấy phép làm gì đó hoặc một suất học tại trường cao đẳng hoặc đại học"
       },
       {
         "definition": "the practical use of something, especially a theory, discovery, etc.",
@@ -1031,7 +1147,9 @@
             "cf": "application (of something) to something",
             "x": "the application of new technology to teaching"
           }
-        ]
+        ],
+        "short_meaning_vi": "ứng dụng",
+        "definition_vi": "việc sử dụng thực tế của một cái gì đó, đặc biệt là một lý thuyết, khám phá, v.v."
       },
       {
         "definition": "an act of putting or spreading something, such as paint or medical creams, onto something else",
@@ -1044,7 +1162,9 @@
             "cf": "",
             "x": "lotion for external application only (= to be put on the skin, not swallowed)"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thoa",
+        "definition_vi": "hành động đặt hoặc phết một cái gì đó, chẳng hạn như sơn hoặc kem y tế, lên một cái gì đó khác"
       },
       {
         "definition": "the act of making a rule, etc. operate or become effective",
@@ -1053,7 +1173,9 @@
             "cf": "",
             "x": "strict application of the law"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự áp dụng",
+        "definition_vi": "hành động làm cho một quy tắc, v.v. có hiệu lực hoặc có hiệu lực"
       },
       {
         "definition": "a program designed to do a particular job; a piece of software",
@@ -1062,7 +1184,9 @@
             "cf": "",
             "x": "a database application"
           }
-        ]
+        ],
+        "short_meaning_vi": "ứng dụng",
+        "definition_vi": "một chương trình được thiết kế để thực hiện một công việc cụ thể; một phần mềm"
       },
       {
         "definition": "the strength of mind to work hard at something; great effort",
@@ -1071,7 +1195,9 @@
             "cf": "",
             "x": "Success as a writer demands great application."
           }
-        ]
+        ],
+        "short_meaning_vi": "nỗ lực",
+        "definition_vi": "sức mạnh tinh thần để làm việc chăm chỉ cho một cái gì đó; nỗ lực lớn"
       }
     ]
   },
@@ -1108,7 +1234,9 @@
             "cf": "appoint somebody to do something",
             "x": "A lawyer was appointed to represent the child."
           }
-        ]
+        ],
+        "short_meaning_vi": "bổ nhiệm",
+        "definition_vi": "chọn ai đó cho một công việc hoặc vị trí có trách nhiệm"
       },
       {
         "definition": "to arrange or decide on a time or place for doing something",
@@ -1121,7 +1249,9 @@
             "cf": "",
             "x": "Everyone was assembled at the appointed time."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp xếp",
+        "definition_vi": "sắp xếp hoặc quyết định thời gian hoặc địa điểm để làm một việc gì đó"
       }
     ]
   },
@@ -1154,7 +1284,9 @@
             "cf": "",
             "x": "The president's approval ratings were slipping."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tán thành",
+        "definition_vi": "cảm giác rằng ai đó/cái gì đó là tốt hoặc có thể chấp nhận được; một ý kiến tích cực về ai đó/cái gì đó"
       },
       {
         "definition": "agreement to, or permission for something, especially a plan or request",
@@ -1203,11 +1335,15 @@
             "cf": "",
             "x": "She expects to gain final approval from the council."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự chấp thuận",
+        "definition_vi": "sự đồng ý hoặc cho phép đối với một cái gì đó, đặc biệt là một kế hoạch hoặc yêu cầu"
       },
       {
         "definition": "if you buy goods or if goods are sold on approval, you can use them for a time without paying, until you decide if you want to buy them or not",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bán chịu",
+        "definition_vi": "nếu bạn mua hàng hoặc hàng hóa được bán chịu, bạn có thể sử dụng chúng trong một thời gian mà không phải trả tiền, cho đến khi bạn quyết định có muốn mua hay không"
       }
     ]
   },
@@ -1244,7 +1380,9 @@
             "cf": "approve of somebody’s doing something",
             "x": "She doesn't approve of my leaving school this year."
           }
-        ]
+        ],
+        "short_meaning_vi": "tán thành",
+        "definition_vi": "nghĩ rằng ai đó/cái gì đó là tốt, có thể chấp nhận được hoặc phù hợp"
       },
       {
         "definition": "to officially agree to a plan, request, etc.",
@@ -1277,7 +1415,9 @@
             "cf": "",
             "x": "The committee has approved the compensation package."
           }
-        ]
+        ],
+        "short_meaning_vi": "phê duyệt",
+        "definition_vi": "chính thức đồng ý với một kế hoạch, yêu cầu, v.v."
       },
       {
         "definition": "to say that something is good enough to be used or is correct",
@@ -1298,7 +1438,9 @@
             "cf": "approve something",
             "x": "The auditors approved the company's accounts."
           }
-        ]
+        ],
+        "short_meaning_vi": "chấp nhận",
+        "definition_vi": "nói rằng một cái gì đó đủ tốt để được sử dụng hoặc là đúng"
       }
     ]
   },
@@ -1331,7 +1473,9 @@
             "cf": "asset to somebody/something",
             "x": "She'll be an asset to the team."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài sản",
+        "definition_vi": "một người hoặc vật có giá trị hoặc hữu ích cho ai đó/cái gì đó"
       },
       {
         "definition": "a thing of value, especially property, that a person or company owns, which can be used or sold to pay debts",
@@ -1360,7 +1504,9 @@
             "cf": "",
             "x": "to freeze a country’s assets"
           }
-        ]
+        ],
+        "short_meaning_vi": "tài sản",
+        "definition_vi": "một vật có giá trị, đặc biệt là bất động sản, mà một người hoặc công ty sở hữu, có thể được sử dụng hoặc bán để trả nợ"
       }
     ]
   },
@@ -1393,7 +1539,9 @@
             "cf": "",
             "x": "an internet auction site"
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc đấu giá",
+        "definition_vi": "một cuộc bán công khai mà trong đó mọi thứ được bán cho người trả giá cao nhất"
       }
     ]
   },
@@ -1422,7 +1570,9 @@
             "cf": "",
             "x": "preparing the accounts for audit"
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm toán",
+        "definition_vi": "một cuộc kiểm tra chính thức các hồ sơ kinh doanh và tài chính để xem chúng có đúng và chính xác hay không"
       },
       {
         "definition": "an official examination of the quality or standard of something",
@@ -1431,7 +1581,9 @@
             "cf": "",
             "x": "an environmental audit"
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm toán",
+        "definition_vi": "một cuộc kiểm tra chính thức về chất lượng hoặc tiêu chuẩn của một cái gì đó"
       }
     ]
   },
@@ -1456,7 +1608,9 @@
             "cf": "",
             "x": "This offer is subject to availability."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính sẵn có",
+        "definition_vi": "thực tế là một cái gì đó có thể nhận được, mua hoặc tìm thấy"
       },
       {
         "definition": "the fact that somebody is free to see or talk to people",
@@ -1465,7 +1619,9 @@
             "cf": "",
             "x": "Check her availability before you schedule the meeting."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính sẵn sàng",
+        "definition_vi": "thực tế là ai đó có thời gian rảnh để gặp hoặc nói chuyện với mọi người"
       }
     ]
   },
@@ -1522,7 +1678,9 @@
             "cf": "available to somebody",
             "x": "When will the information be made available to the public?"
           }
-        ]
+        ],
+        "short_meaning_vi": "có sẵn",
+        "definition_vi": "mà bạn có thể nhận được, mua hoặc tìm thấy"
       },
       {
         "definition": "free to see or talk to people",
@@ -1543,7 +1701,9 @@
             "cf": "available for something",
             "x": "The director was not available for comment."
           }
-        ]
+        ],
+        "short_meaning_vi": "có sẵn",
+        "definition_vi": "rảnh để gặp hoặc nói chuyện với mọi người"
       },
       {
         "definition": "not currently involved in a sexual or romantic relationship",
@@ -1556,7 +1716,9 @@
             "cf": "",
             "x": "Do you think he's available?"
           }
-        ]
+        ],
+        "short_meaning_vi": "rảnh rỗi",
+        "definition_vi": "không bị ràng buộc trong một mối quan hệ tình dục hoặc lãng mạn vào lúc này"
       }
     ]
   },
@@ -1597,7 +1759,9 @@
             "cf": "gain in something",
             "x": "significant gains in crop yield"
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng thêm",
+        "definition_vi": "sự gia tăng về số lượng của một cái gì đó, đặc biệt là về tài sản hoặc cân nặng"
       },
       {
         "definition": "an advantage or improvement",
@@ -1610,7 +1774,9 @@
             "cf": "gain in something",
             "x": "These policies have resulted in great gains in public health."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi ích",
+        "definition_vi": "một lợi thế hoặc sự cải thiện"
       },
       {
         "definition": "financial profit",
@@ -1631,11 +1797,15 @@
             "cf": "",
             "x": "They sold the company purely for short-term gain."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi nhuận",
+        "definition_vi": "lợi nhuận tài chính"
       },
       {
         "definition": "used to say that you need to suffer if you want to achieve something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phải chịu đựng",
+        "definition_vi": "được sử dụng để nói rằng bạn cần phải chịu đựng nếu bạn muốn đạt được điều gì đó"
       }
     ]
   },
@@ -1676,7 +1846,9 @@
             "cf": "",
             "x": "to have a gambling addiction/habit"
           }
-        ]
+        ],
+        "short_meaning_vi": "cờ bạc",
+        "definition_vi": "hoạt động chơi các trò chơi may rủi để lấy tiền và đặt cược vào ngựa, v.v."
       }
     ]
   },
@@ -1701,7 +1873,9 @@
             "cf": "",
             "x": "The performers' faces were covered in gold paint."
           }
-        ]
+        ],
+        "short_meaning_vi": "màu vàng óng",
+        "definition_vi": "màu vàng tươi, giống như vàng"
       }
     ]
   },
@@ -1750,7 +1924,9 @@
             "cf": "",
             "x": "increases in the prices of goods "
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng hóa",
+        "definition_vi": "những thứ được sản xuất để bán"
       },
       {
         "definition": "possessions that can be moved",
@@ -1767,7 +1943,9 @@
             "cf": "",
             "x": "The plastic bag contained all his worldly goods (= everything he owned)."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài sản",
+        "definition_vi": "những thứ có thể di chuyển được"
       },
       {
         "definition": "things (not people) that are transported by railway or road",
@@ -1780,11 +1958,15 @@
             "cf": "",
             "x": "You need a special licence to drive a heavy goods vehicle."
           }
-        ]
+        ],
+        "short_meaning_vi": "hàng hóa",
+        "definition_vi": "những thứ (không phải con người) được vận chuyển bằng đường sắt hoặc đường bộ"
       },
       {
         "definition": "to be very good or impressive",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tuyệt vời",
+        "definition_vi": "rất tốt hoặc ấn tượng"
       },
       {
         "definition": "to do what you have promised to do or what people expect or want you to do",
@@ -1793,7 +1975,9 @@
             "cf": "",
             "x": "We expected great things of the England team, but on the day they simply failed to deliver the goods."
           }
-        ]
+        ],
+        "short_meaning_vi": "thực hiện lời hứa",
+        "definition_vi": "làm những gì bạn đã hứa hoặc những gì mọi người mong đợi hoặc muốn bạn làm"
       }
     ]
   },
@@ -1850,7 +2034,9 @@
             "cf": "grant to do something",
             "x": "The school has received a large grant to improve its buildings."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoản tài trợ",
+        "definition_vi": "một khoản tiền được chính phủ hoặc tổ chức khác cấp để sử dụng cho một mục đích cụ thể"
       }
     ]
   },
@@ -1883,7 +2069,9 @@
             "cf": "",
             "x": "The family have three children and a gross income of £50 000."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổng",
+        "definition_vi": "là tổng số của một cái gì đó trước khi bất kỳ khoản nào bị trừ đi"
       },
       {
         "definition": "very obvious and unacceptable",
@@ -1896,7 +2084,9 @@
             "cf": "",
             "x": "a gross violation of human rights"
           }
-        ]
+        ],
+        "short_meaning_vi": "rõ ràng",
+        "definition_vi": "rất rõ ràng và không thể chấp nhận được"
       },
       {
         "definition": "very unpleasant",
@@ -1905,7 +2095,9 @@
             "cf": "",
             "x": "‘He ate it with mustard.’ ‘Oh, gross!’"
           }
-        ]
+        ],
+        "short_meaning_vi": "kinh tởm",
+        "definition_vi": "rất khó chịu"
       },
       {
         "definition": "very rude",
@@ -1914,11 +2106,15 @@
             "cf": "",
             "x": "gross behaviour"
           }
-        ]
+        ],
+        "short_meaning_vi": "thô lỗ",
+        "definition_vi": "rất thô lỗ"
       },
       {
         "definition": "used to describe somebody/something that you think is very fat and ugly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "béo xấu",
+        "definition_vi": "được sử dụng để mô tả ai đó/cái gì đó mà bạn cho là rất béo và xấu xí"
       }
     ]
   },
@@ -1959,7 +2155,9 @@
             "cf": "",
             "x": "growth hormones (= that make somebody/something grow faster)"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phát triển",
+        "definition_vi": "quá trình phát triển thể chất, tinh thần hoặc tình cảm ở con người, động vật hoặc thực vật"
       },
       {
         "definition": "an increase in the size, amount or degree of something",
@@ -1984,7 +2182,9 @@
             "cf": "",
             "x": "His book describes the growth of nationalism in Germany before the Second World War."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tăng trưởng",
+        "definition_vi": "sự gia tăng về kích thước, số lượng hoặc mức độ của một cái gì đó"
       },
       {
         "definition": "an increase in economic activity",
@@ -2033,7 +2233,9 @@
             "cf": "",
             "x": "contrasting UK and Swedish growth strategies "
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng trưởng kinh tế",
+        "definition_vi": "sự gia tăng hoạt động kinh tế"
       },
       {
         "definition": "a mass of cells caused by a disease that forms on or inside a person, an animal or a plant",
@@ -2046,7 +2248,9 @@
             "cf": "",
             "x": "He had a cancerous growth on his lung."
           }
-        ]
+        ],
+        "short_meaning_vi": "khối u",
+        "definition_vi": "một khối tế bào do bệnh gây ra hình thành trên hoặc bên trong một người, động vật hoặc thực vật"
       },
       {
         "definition": "something that has grown",
@@ -2063,7 +2267,9 @@
             "cf": "",
             "x": "Prune the shrub heavily now and fresh green growths should appear in March and April."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phát triển",
+        "definition_vi": "một cái gì đó đã phát triển"
       }
     ]
   },
@@ -2092,7 +2298,9 @@
             "cf": "guarantee (that…)",
             "x": "He gave me a guarantee that it would never happen again."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đảm bảo",
+        "definition_vi": "một lời hứa chính thức rằng bạn sẽ làm điều gì đó hoặc điều gì đó sẽ xảy ra"
       },
       {
         "definition": "a written promise given by a company that something you buy will be replaced or repaired without payment if it goes wrong within a particular period",
@@ -2109,7 +2317,9 @@
             "cf": "under guarantee",
             "x": "The watch is still under guarantee."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo hành",
+        "definition_vi": "một lời hứa bằng văn bản được đưa ra bởi một công ty rằng một thứ gì đó bạn mua sẽ được thay thế hoặc sửa chữa miễn phí nếu nó bị lỗi trong một khoảng thời gian nhất định"
       },
       {
         "definition": "something that makes something else certain to happen",
@@ -2126,7 +2336,9 @@
             "cf": "guarantee (that…)",
             "x": "There's no guarantee that she'll come (= she may not come)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự chắc chắn",
+        "definition_vi": "một cái gì đó làm cho điều gì đó khác chắc chắn xảy ra"
       },
       {
         "definition": "money or something valuable that you give or promise to a bank, for example, to make sure that you will do what you have promised",
@@ -2135,7 +2347,9 @@
             "cf": "",
             "x": "We had to offer our house as a guarantee when getting the loan."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền thế chấp",
+        "definition_vi": "tiền hoặc một thứ có giá trị mà bạn đưa hoặc hứa với ngân hàng, ví dụ, để đảm bảo rằng bạn sẽ làm những gì bạn đã hứa"
       },
       {
         "definition": "a written promise to pay back money that somebody else owes, or do something that somebody else promised to do, if they cannot do it themselves",
@@ -2144,7 +2358,9 @@
             "cf": "",
             "x": "A close relative, usually a parent, can provide a guarantee for the loan."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo lãnh",
+        "definition_vi": "một lời hứa bằng văn bản để trả lại tiền mà người khác nợ, hoặc làm điều gì đó mà người khác đã hứa làm, nếu họ không thể tự làm được"
       }
     ]
   },
@@ -2181,7 +2397,9 @@
             "cf": "",
             "x": "The official launch date is in May."
           }
-        ]
+        ],
+        "short_meaning_vi": "việc ra mắt",
+        "definition_vi": "hành động ra mắt một cái gì đó"
       },
       {
         "definition": "an event at which something is made available to the public for the first time",
@@ -2198,7 +2416,9 @@
             "cf": "",
             "x": "About 50 artists attended the official launch of the exhibition."
           }
-        ]
+        ],
+        "short_meaning_vi": "buổi ra mắt",
+        "definition_vi": "một sự kiện mà một cái gì đó được cung cấp cho công chúng lần đầu tiên"
       },
       {
         "definition": "a large boat with a motor",
@@ -2207,7 +2427,9 @@
             "cf": "",
             "x": "The crew members were taken ashore on a police launch."
           }
-        ]
+        ],
+        "short_meaning_vi": "thuyền máy",
+        "definition_vi": "một chiếc thuyền lớn có động cơ"
       }
     ]
   },
@@ -2256,7 +2478,9 @@
             "cf": "",
             "x": "She very kindly lent me her bicycle."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho mượn",
+        "definition_vi": "cho ai đó mượn hoặc cho phép họ sử dụng một thứ gì đó thuộc về bạn, mà họ phải trả lại cho bạn sau"
       },
       {
         "definition": "to give money to somebody on condition that they pay it back over a period of time and pay interest on it",
@@ -2281,7 +2505,9 @@
             "cf": "",
             "x": "There are a large number of financial providers lending to businesses across the country."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho vay",
+        "definition_vi": "cho ai đó vay tiền với điều kiện họ phải trả lại trong một khoảng thời gian và trả lãi"
       },
       {
         "definition": "to give a particular quality to a person or a situation",
@@ -2294,7 +2520,9 @@
             "cf": "lend somebody/something sth",
             "x": "Her presence lent the occasion a certain dignity."
           }
-        ]
+        ],
+        "short_meaning_vi": "mang lại",
+        "definition_vi": "mang lại một phẩm chất nhất định cho một người hoặc một tình huống"
       },
       {
         "definition": "to give or provide help, support, etc.",
@@ -2307,11 +2535,15 @@
             "cf": "lend somebody/something sth",
             "x": "He came along to lend me moral support."
           }
-        ]
+        ],
+        "short_meaning_vi": "giúp đỡ",
+        "definition_vi": "cung cấp hoặc hỗ trợ, v.v."
       },
       {
         "definition": "to help somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giúp đỡ",
+        "definition_vi": "giúp đỡ ai đó"
       },
       {
         "definition": "to make something seem true or likely",
@@ -2320,11 +2552,15 @@
             "cf": "",
             "x": "Most of the available evidence lends colour to this view."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm cho có vẻ",
+        "definition_vi": "làm cho một cái gì đó có vẻ đúng hoặc có khả năng"
       },
       {
         "definition": "to listen in a patient and kind way to somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lắng nghe",
+        "definition_vi": "lắng nghe một cách kiên nhẫn và tử tế ai đó"
       },
       {
         "definition": "to help somebody with something",
@@ -2333,7 +2569,9 @@
             "cf": "",
             "x": "I went over to see if I could lend a hand."
           }
-        ]
+        ],
+        "short_meaning_vi": "giúp đỡ",
+        "definition_vi": "giúp đỡ ai đó với một cái gì đó"
       },
       {
         "definition": "to let it be known in public that you support or agree with something",
@@ -2342,11 +2580,15 @@
             "cf": "",
             "x": "I am more than happy to lend my name to this campaign."
           }
-        ]
+        ],
+        "short_meaning_vi": "công khai ủng hộ",
+        "definition_vi": "cho công chúng biết rằng bạn ủng hộ hoặc đồng ý với một cái gì đó"
       },
       {
         "definition": "to have a place named after you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đặt tên theo",
+        "definition_vi": "để một địa điểm được đặt theo tên của bạn"
       },
       {
         "definition": "to make something seem more likely to be true or real",
@@ -2355,7 +2597,9 @@
             "cf": "",
             "x": "This latest evidence lends support to her theory."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm cho có vẻ thật",
+        "definition_vi": "làm cho điều gì đó có vẻ có khả năng đúng hoặc thật hơn"
       }
     ]
   },
@@ -2376,7 +2620,9 @@
             "cf": "",
             "x": "a comprehensive listing of all airlines"
           }
-        ]
+        ],
+        "short_meaning_vi": "danh sách",
+        "definition_vi": "một danh sách, đặc biệt là một danh sách chính thức hoặc được công bố về người hoặc vật, thường được sắp xếp theo thứ tự bảng chữ cái"
       },
       {
         "definition": "information online or in a newspaper or magazine about what films, plays, etc. are being shown in a particular town or city",
@@ -2385,7 +2631,9 @@
             "cf": "",
             "x": "a listings website/magazine"
           }
-        ]
+        ],
+        "short_meaning_vi": "lịch chiếu",
+        "definition_vi": "thông tin trực tuyến hoặc trên báo hoặc tạp chí về các bộ phim, vở kịch, v.v. đang được chiếu ở một thị trấn hoặc thành phố cụ thể"
       },
       {
         "definition": "a position or an item on a list",
@@ -2394,7 +2642,9 @@
             "cf": "",
             "x": "The company is seeking a stock exchange listing (= for trading shares)."
           }
-        ]
+        ],
+        "short_meaning_vi": "mục trong danh sách",
+        "definition_vi": "một vị trí hoặc một mục trong danh sách"
       }
     ]
   },
@@ -2443,7 +2693,9 @@
             "cf": "",
             "x": "a loan agreement "
           }
-        ]
+        ],
+        "short_meaning_vi": "khoản vay",
+        "definition_vi": "tiền mà một tổ chức như ngân hàng cho vay và ai đó vay"
       },
       {
         "definition": "the act of lending something; the state of being lent",
@@ -2460,7 +2712,9 @@
             "cf": "on loan from somebody/something",
             "x": "The striker, on loan from United, scored his first goal for City today (= he is playing for City for a fixed period by agreement with his own team, United)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự cho vay",
+        "definition_vi": "hành động cho vay một thứ gì đó; trạng thái được cho vay"
       }
     ]
   },
@@ -2481,7 +2735,9 @@
             "cf": "",
             "x": "All over the world there are red and white paper cups bearing the company logo."
           }
-        ]
+        ],
+        "short_meaning_vi": "logo",
+        "definition_vi": "một thiết kế hoặc biểu tượng in mà một công ty hoặc tổ chức sử dụng làm dấu hiệu đặc biệt của họ"
       }
     ]
   },
@@ -2506,7 +2762,9 @@
             "cf": "",
             "x": "a lottery ticket"
           }
-        ]
+        ],
+        "short_meaning_vi": "xổ số",
+        "definition_vi": "một cách để gây quỹ cho chính phủ, tổ chức từ thiện, v.v. bằng cách bán vé có các số khác nhau mà mọi người đã chọn. Sau đó, các số được chọn ngẫu nhiên và những người có số đó trên vé của họ sẽ trúng giải thưởng."
       },
       {
         "definition": "a situation whose success or result is based on luck rather than on effort or careful organization",
@@ -2519,7 +2777,9 @@
             "cf": "",
             "x": "Politicians have acknowledged that it is a bit of a lottery who gets funding."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự may rủi",
+        "definition_vi": "một tình huống mà sự thành công hoặc kết quả của nó dựa trên may mắn thay vì nỗ lực hoặc tổ chức cẩn thận"
       }
     ]
   },
@@ -2548,7 +2808,9 @@
             "cf": "",
             "x": "expensive luxury brands/items"
           }
-        ]
+        ],
+        "short_meaning_vi": "xa xỉ",
+        "definition_vi": "đắt tiền và có chất lượng rất cao"
       }
     ]
   },
@@ -2581,7 +2843,9 @@
             "cf": "",
             "x": "The friends were shopping at a mall in Columbus."
           }
-        ]
+        ],
+        "short_meaning_vi": "trung tâm thương mại",
+        "definition_vi": "một tòa nhà lớn hoặc khu vực có mái che có nhiều cửa hàng, nhà hàng, v.v. bên trong"
       }
     ]
   },
@@ -2626,7 +2890,9 @@
             "cf": "",
             "x": "The company's top-down management style made decision-making slow and inflexible."
           }
-        ]
+        ],
+        "short_meaning_vi": "quản lý",
+        "definition_vi": "hoạt động điều hành và kiểm soát một doanh nghiệp hoặc tổ chức tương tự"
       },
       {
         "definition": "the people who run and control a business or similar organization",
@@ -2663,7 +2929,9 @@
             "cf": "",
             "x": "Most managements are keen to avoid strikes."
           }
-        ]
+        ],
+        "short_meaning_vi": "ban quản lý",
+        "definition_vi": "những người điều hành và kiểm soát một doanh nghiệp hoặc tổ chức tương tự"
       },
       {
         "definition": "the act or skill of dealing with people or situations in a successful way",
@@ -2684,7 +2952,9 @@
             "cf": "",
             "x": "Diet plays an important role in the management of heart disease."
           }
-        ]
+        ],
+        "short_meaning_vi": "kỹ năng quản lý",
+        "definition_vi": "hành động hoặc kỹ năng xử lý mọi người hoặc tình huống một cách thành công"
       }
     ]
   },
@@ -2709,7 +2979,9 @@
             "cf": "",
             "x": "This company manufactures the equipment used to make contact lenses."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản xuất",
+        "definition_vi": "sản xuất hàng hóa với số lượng lớn, sử dụng máy móc"
       },
       {
         "definition": "to invent a story, an excuse, etc.",
@@ -2718,7 +2990,9 @@
             "cf": "",
             "x": "a news story manufactured by an unscrupulous journalist"
           }
-        ]
+        ],
+        "short_meaning_vi": "bịa đặt",
+        "definition_vi": "tạo ra một câu chuyện, một lời bào chữa, v.v."
       },
       {
         "definition": "to produce a substance",
@@ -2731,7 +3005,9 @@
             "cf": "",
             "x": "Plants use the sun's light to manufacture their food."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản xuất (chất)",
+        "definition_vi": "sản xuất một chất"
       }
     ]
   },
@@ -2760,7 +3036,9 @@
             "cf": "",
             "x": "manufacturing industry"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngành sản xuất",
+        "definition_vi": "kinh doanh hoặc ngành sản xuất hàng hóa với số lượng lớn trong các nhà máy, v.v."
       }
     ]
   },
@@ -2789,7 +3067,9 @@
             "cf": "in the margin",
             "x": "notes scribbled in the margin "
           }
-        ]
+        ],
+        "short_meaning_vi": "lề",
+        "definition_vi": "khoảng trống ở lề của một trang viết hoặc in"
       },
       {
         "definition": "the amount of time, or number of votes, etc. by which somebody wins something",
@@ -2806,7 +3086,9 @@
             "cf": "",
             "x": "Members voted by a margin of 7–1 to become a public limited company."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoảng cách (thắng)",
+        "definition_vi": "số lượng thời gian, hoặc số phiếu bầu, v.v. mà ai đó giành chiến thắng trong một cuộc thi"
       },
       {
         "definition": "the difference between the cost of buying or producing something and the price that it is sold for",
@@ -2819,7 +3101,9 @@
             "cf": "",
             "x": "a gross margin of 45 per cent"
           }
-        ]
+        ],
+        "short_meaning_vi": "biên lợi nhuận",
+        "definition_vi": "sự khác biệt giữa chi phí mua hoặc sản xuất một thứ gì đó và giá mà nó được bán"
       },
       {
         "definition": "an extra amount of something such as time, space, money, etc. that you include in order to make sure that something is successful",
@@ -2832,7 +3116,9 @@
             "cf": "",
             "x": "The narrow gateway left me little margin for error as I reversed the car."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoảng dự phòng",
+        "definition_vi": "một lượng bổ sung của một cái gì đó như thời gian, không gian, tiền, v.v. mà bạn bao gồm để đảm bảo rằng một cái gì đó thành công"
       },
       {
         "definition": "the extreme edge or limit of a place",
@@ -2841,7 +3127,9 @@
             "cf": "",
             "x": "the eastern margin of the Indian Ocean"
           }
-        ]
+        ],
+        "short_meaning_vi": "vành đai",
+        "definition_vi": "cạnh cực đoan hoặc giới hạn của một địa điểm"
       },
       {
         "definition": "the part that is not included in the main part of a group or situation",
@@ -2850,11 +3138,15 @@
             "cf": "on the margins of something",
             "x": "people living on the margins of society"
           }
-        ]
+        ],
+        "short_meaning_vi": "phần ngoài",
+        "definition_vi": "phần không được bao gồm trong phần chính của một nhóm hoặc tình huống"
       },
       {
         "definition": "an amount that is added to a basic wage, paid for special skill or responsibility",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phụ cấp",
+        "definition_vi": "một khoản tiền được thêm vào mức lương cơ bản, trả cho kỹ năng hoặc trách nhiệm đặc biệt"
       }
     ]
   },
@@ -2883,7 +3175,9 @@
             "cf": "",
             "x": "The difference between the two estimates is marginal."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhỏ nhặt",
+        "definition_vi": "nhỏ và không quan trọng"
       },
       {
         "definition": "relating to or resulting from small changes",
@@ -2892,7 +3186,9 @@
             "cf": "",
             "x": "All three companies reported marginal revenue growth."
           }
-        ]
+        ],
+        "short_meaning_vi": "biên",
+        "definition_vi": "liên quan đến hoặc kết quả của những thay đổi nhỏ"
       },
       {
         "definition": "not part of a main or important group or situation",
@@ -2905,7 +3201,9 @@
             "cf": "",
             "x": "Welsh was considered a marginal language."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngoại vi",
+        "definition_vi": "không thuộc nhóm hoặc tình huống chính hoặc quan trọng"
       },
       {
         "definition": "won or lost by a very small number of votes and therefore very important or interesting as evidence of public opinion",
@@ -2914,7 +3212,9 @@
             "cf": "",
             "x": "a marginal seat/constituency"
           }
-        ]
+        ],
+        "short_meaning_vi": "sát nút",
+        "definition_vi": "thắng hoặc thua với số phiếu bầu rất nhỏ và do đó rất quan trọng hoặc thú vị như một bằng chứng về ý kiến công chúng"
       },
       {
         "definition": "written in the margin of a page",
@@ -2923,11 +3223,15 @@
             "cf": "",
             "x": "marginal notes/comments"
           }
-        ]
+        ],
+        "short_meaning_vi": "viết ở lề",
+        "definition_vi": "viết ở lề của một trang"
       },
       {
         "definition": "that cannot produce enough good crops to make a profit",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "biên giới (nông nghiệp)",
+        "definition_vi": "không thể sản xuất đủ cây trồng tốt để có lãi"
       }
     ]
   },
@@ -2968,7 +3272,9 @@
             "cf": "",
             "x": "Thursday is market day."
           }
-        ]
+        ],
+        "short_meaning_vi": "chợ",
+        "definition_vi": "một dịp mọi người mua và bán hàng hóa; khu vực mở hoặc tòa nhà nơi họ gặp nhau để làm điều này"
       },
       {
         "definition": "business or trade, or the amount of trade in a particular type of goods",
@@ -2997,7 +3303,9 @@
             "cf": "",
             "x": "The big players still dominate the market."
           }
-        ]
+        ],
+        "short_meaning_vi": "thị trường",
+        "definition_vi": "kinh doanh hoặc thương mại, hoặc khối lượng thương mại đối với một loại hàng hóa cụ thể"
       },
       {
         "definition": "a particular area, country or section of the population that might buy goods",
@@ -3018,7 +3326,9 @@
             "cf": "",
             "x": "The young, health-conscious female consumer is our target market."
           }
-        ]
+        ],
+        "short_meaning_vi": "thị trường (khu vực)",
+        "definition_vi": "một khu vực, quốc gia hoặc bộ phận dân số cụ thể có thể mua hàng hóa"
       },
       {
         "definition": "the number of people who want to buy something ",
@@ -3031,7 +3341,9 @@
             "cf": "",
             "x": "There's not much of a market for tourist art on the island."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhu cầu thị trường",
+        "definition_vi": "số lượng người muốn mua một thứ gì đó"
       },
       {
         "definition": "people who buy and sell goods in competition with each other",
@@ -3048,7 +3360,9 @@
             "cf": "",
             "x": "innovative products at the forefront of market trends"
           }
-        ]
+        ],
+        "short_meaning_vi": "người mua bán",
+        "definition_vi": "những người mua và bán hàng hóa cạnh tranh với nhau"
       },
       {
         "definition": "the business of buying and selling shares in companies and the place where this happens; a stock exchange",
@@ -3069,7 +3383,9 @@
             "cf": "",
             "x": "The markets reacted quickly to the negative publicity."
           }
-        ]
+        ],
+        "short_meaning_vi": "thị trường chứng khoán",
+        "definition_vi": "việc kinh doanh mua bán cổ phiếu của các công ty và nơi diễn ra việc này; một sở giao dịch chứng khoán"
       },
       {
         "definition": "a situation in which there is a lot of a particular item for sale, so that prices are low and people buying have a choice",
@@ -3078,7 +3394,9 @@
             "cf": "",
             "x": "In a buyer's market, the commodity is plentiful and so its price is not high."
           }
-        ]
+        ],
+        "short_meaning_vi": "thị trường cung",
+        "definition_vi": "một tình huống có nhiều mặt hàng cụ thể để bán, do đó giá thấp và người mua có nhiều lựa chọn"
       },
       {
         "definition": "interested in buying something",
@@ -3087,7 +3405,9 @@
             "cf": "",
             "x": "I'm not in the market for a new car at the moment."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan tâm mua",
+        "definition_vi": "quan tâm đến việc mua một thứ gì đó"
       },
       {
         "definition": "available for people to buy",
@@ -3104,11 +3424,15 @@
             "cf": "",
             "x": "There are hundreds of different brands on the market."
           }
-        ]
+        ],
+        "short_meaning_vi": "có sẵn để bán",
+        "definition_vi": "có sẵn cho mọi người mua"
       },
       {
         "definition": "available to buy without any limits",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "có sẵn để mua",
+        "definition_vi": "có sẵn để mua mà không có bất kỳ giới hạn nào"
       },
       {
         "definition": "to buy and sell stocks and shares in order to make a profit",
@@ -3117,7 +3441,9 @@
             "cf": "",
             "x": "He is a skilled investor who knows how to play the market—and win."
           }
-        ]
+        ],
+        "short_meaning_vi": "giao dịch",
+        "definition_vi": "mua và bán cổ phiếu và trái phiếu để kiếm lợi nhuận"
       },
       {
         "definition": "to charge such a high price for your goods, services, etc. that nobody wants to buy them",
@@ -3126,7 +3452,9 @@
             "cf": "",
             "x": "Some leading UK firms are pricing themselves out of the market."
           }
-        ]
+        ],
+        "short_meaning_vi": "định giá quá cao",
+        "definition_vi": "định giá hàng hóa, dịch vụ, v.v. của bạn quá cao đến nỗi không ai muốn mua chúng"
       },
       {
         "definition": "a situation in which people selling something have an advantage, because there is not a lot of a particular item for sale, and prices can be kept high",
@@ -3135,7 +3463,9 @@
             "cf": "",
             "x": "In a seller’s market, demand exceeds supply, and prices are high."
           }
-        ]
+        ],
+        "short_meaning_vi": "thị trường thuận lợi",
+        "definition_vi": "một tình huống mà những người bán hàng có lợi thế, vì không có nhiều một mặt hàng cụ thể để bán, và giá cả có thể được giữ ở mức cao"
       },
       {
         "definition": "to stop something from being sold",
@@ -3148,7 +3478,9 @@
             "cf": "",
             "x": "Thousands of egg products were taken off the shelves following the health scare."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngăn bán",
+        "definition_vi": "ngừng bán một thứ gì đó"
       }
     ]
   },
@@ -3217,7 +3549,9 @@
             "cf": "",
             "x": "a clever marketing ploy "
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếp thị",
+        "definition_vi": "hoạt động giới thiệu, quảng cáo và bán sản phẩm hoặc dịch vụ của công ty theo cách tốt nhất có thể"
       }
     ]
   },
@@ -3246,11 +3580,15 @@
             "cf": "",
             "x": "They have successfully adapted to the demands of the global marketplace."
           }
-        ]
+        ],
+        "short_meaning_vi": "cạnh tranh thị trường",
+        "definition_vi": "hoạt động cạnh tranh với các công ty khác để mua và bán hàng hóa, dịch vụ, v.v."
       },
       {
         "definition": "an open area in a town where a market is held",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khu chợ",
+        "definition_vi": "một khu vực mở trong một thị trấn nơi diễn ra một khu chợ"
       }
     ]
   },
@@ -3275,7 +3613,9 @@
             "cf": "",
             "x": "Maximize the window to full screen."
           }
-        ]
+        ],
+        "short_meaning_vi": "tối đa hóa",
+        "definition_vi": "tăng một cái gì đó lên nhiều nhất có thể"
       },
       {
         "definition": "to make the best use of something",
@@ -3288,7 +3628,9 @@
             "cf": "",
             "x": "The purpose of the restructuring is to maximize opportunities in the global market."
           }
-        ]
+        ],
+        "short_meaning_vi": "tận dụng tối đa",
+        "definition_vi": "sử dụng một cái gì đó tốt nhất"
       }
     ]
   },
@@ -3313,7 +3655,9 @@
             "cf": "",
             "x": "Venice was once a city of rich merchants."
           }
-        ]
+        ],
+        "short_meaning_vi": "thương gia",
+        "definition_vi": "một người mua và bán hàng hóa với số lượng lớn, đặc biệt là người nhập khẩu và xuất khẩu hàng hóa"
       },
       {
         "definition": "a person who sells goods to the public, especially through a store",
@@ -3322,7 +3666,9 @@
             "cf": "",
             "x": "The credit cards are accepted by 10 million merchants worldwide."
           }
-        ]
+        ],
+        "short_meaning_vi": "người bán lẻ",
+        "definition_vi": "một người bán hàng hóa cho công chúng, đặc biệt là thông qua một cửa hàng"
       },
       {
         "definition": "a person who likes a particular activity",
@@ -3335,7 +3681,9 @@
             "cf": "",
             "x": "noise merchants (= for example, a band who make a lot of noise)"
           }
-        ]
+        ],
+        "short_meaning_vi": "người yêu thích",
+        "definition_vi": "một người thích một hoạt động cụ thể"
       },
       {
         "definition": "a person who predicts that things will go very badly",
@@ -3344,7 +3692,9 @@
             "cf": "",
             "x": "The doom merchants who said television would kill off the book were wrong."
           }
-        ]
+        ],
+        "short_meaning_vi": "người bi quan",
+        "definition_vi": "một người dự đoán rằng mọi thứ sẽ diễn ra rất tệ"
       },
       {
         "definition": "a person who predicts that things will go very badly",
@@ -3353,7 +3703,9 @@
             "cf": "",
             "x": "The prophets of doom who said television would kill off the book were wrong."
           }
-        ]
+        ],
+        "short_meaning_vi": "người bi quan",
+        "definition_vi": "một người dự đoán rằng mọi thứ sẽ diễn ra rất tệ"
       }
     ]
   },
@@ -3402,7 +3754,9 @@
             "cf": "merge something into something",
             "x": "Merge multiple text files into one master file."
           }
-        ]
+        ],
+        "short_meaning_vi": "sáp nhập",
+        "definition_vi": "kết hợp hoặc làm cho hai hoặc nhiều thứ kết hợp lại để tạo thành một thứ duy nhất"
       },
       {
         "definition": "if two things merge, or if one thing merges into another, the differences between them gradually disappear so that it is impossible to separate them",
@@ -3415,11 +3769,15 @@
             "cf": "",
             "x": "The figures gradually merged into the darkness."
           }
-        ]
+        ],
+        "short_meaning_vi": "hòa nhập",
+        "definition_vi": "nếu hai thứ hợp nhất, hoặc nếu một thứ hợp nhất vào thứ khác, sự khác biệt giữa chúng dần biến mất đến nỗi không thể tách rời chúng"
       },
       {
         "definition": "to behave quietly when you are with a group of people so that they do not notice you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lẩn mình",
+        "definition_vi": "hành xử lặng lẽ khi bạn ở cùng một nhóm người để họ không nhận thấy bạn"
       }
     ]
   },
@@ -3452,7 +3810,9 @@
             "cf": "",
             "x": "There are local companies ripe for merger or acquisition."
           }
-        ]
+        ],
+        "short_meaning_vi": "vụ sáp nhập",
+        "definition_vi": "hành động hợp nhất hai hoặc nhiều tổ chức hoặc doanh nghiệp thành một"
       }
     ]
   },
@@ -3481,7 +3841,9 @@
             "cf": "",
             "x": "The river was harnessed to drive many mills."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà máy xay",
+        "definition_vi": "một tòa nhà được trang bị thiết bị để nghiền ngũ cốc thành bột; một máy nghiền ngũ cốc"
       },
       {
         "definition": "a factory that produces a particular type of material",
@@ -3502,7 +3864,9 @@
             "cf": "",
             "x": "a northern mill town"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà máy",
+        "definition_vi": "một nhà máy sản xuất một loại vật liệu cụ thể"
       },
       {
         "definition": "a small machine for grinding a solid substance into powder",
@@ -3511,7 +3875,9 @@
             "cf": "",
             "x": "a pepper mill"
           }
-        ]
+        ],
+        "short_meaning_vi": "máy xay",
+        "definition_vi": "một máy nhỏ để nghiền một chất rắn thành bột"
       },
       {
         "definition": "to have or make somebody have a difficult time",
@@ -3520,7 +3886,9 @@
             "cf": "",
             "x": "They really put me through the mill in my interview."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm khó",
+        "definition_vi": "có hoặc làm cho ai đó trải qua một khoảng thời gian khó khăn"
       },
       {
         "definition": "something that is useful to somebody for a particular purpose",
@@ -3529,7 +3897,9 @@
             "cf": "",
             "x": "Political sex scandals are all grist to the mill of the tabloid newspapers."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguồn lợi",
+        "definition_vi": "một thứ gì đó hữu ích cho ai đó cho một mục đích cụ thể"
       }
     ]
   },
@@ -3562,7 +3932,9 @@
             "cf": "",
             "x": "millions of years old"
           }
-        ]
+        ],
+        "short_meaning_vi": "một triệu",
+        "definition_vi": "1.000.000"
       },
       {
         "definition": "a very large amount",
@@ -3579,7 +3951,9 @@
             "cf": "",
             "x": "He made his millions (= all his money) on currency deals."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều",
+        "definition_vi": "một lượng rất lớn"
       },
       {
         "definition": "to look/feel extremely good",
@@ -3588,7 +3962,9 @@
             "cf": "",
             "x": "Wow, you look like a million dollars."
           }
-        ]
+        ],
+        "short_meaning_vi": "trông rất tuyệt",
+        "definition_vi": "trông/cảm thấy cực kỳ tốt"
       },
       {
         "definition": "a person or thing that is very unusual or special",
@@ -3597,7 +3973,9 @@
             "cf": "",
             "x": "He's a man in a million."
           }
-        ]
+        ],
+        "short_meaning_vi": "người đặc biệt",
+        "definition_vi": "một người hoặc vật rất khác thường hoặc đặc biệt"
       }
     ]
   },
@@ -3630,7 +4008,9 @@
             "cf": "",
             "x": "At its peak, the mine produced 5 000 tons of coal a day."
           }
-        ]
+        ],
+        "short_meaning_vi": "mỏ",
+        "definition_vi": "một hố sâu hoặc các hố dưới lòng đất nơi các khoáng sản như than, vàng, v.v. được khai thác"
       },
       {
         "definition": "a type of bomb that is hidden under the ground or in the sea and that explodes when somebody/something touches it",
@@ -3643,7 +4023,9 @@
             "cf": "",
             "x": "The troops are slowly clearing the mines."
           }
-        ]
+        ],
+        "short_meaning_vi": "mìn",
+        "definition_vi": "một loại bom được giấu dưới lòng đất hoặc dưới biển và phát nổ khi ai đó/cái gì đó chạm vào nó"
       },
       {
         "definition": "something that gives you an early warning of danger",
@@ -3652,7 +4034,9 @@
             "cf": "",
             "x": "Among the species at risk is the silvery minnow, the river's equivalent of a canary in a coal mine. "
           }
-        ]
+        ],
+        "short_meaning_vi": "cảnh báo sớm",
+        "definition_vi": "một cái gì đó mang lại cho bạn cảnh báo sớm về nguy hiểm"
       },
       {
         "definition": "a person, book, etc. that can give you a lot of information on a particular subject",
@@ -3669,7 +4053,9 @@
             "cf": "",
             "x": "The questionnaire results proved to be a rich mine of empirical data."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguồn thông tin",
+        "definition_vi": "một người, sách, v.v. có thể cung cấp cho bạn nhiều thông tin về một chủ đề cụ thể"
       }
     ]
   },
@@ -3710,7 +4096,9 @@
             "cf": "",
             "x": "The work was done with the minimum amount of effort."
           }
-        ]
+        ],
+        "short_meaning_vi": "tối thiểu",
+        "definition_vi": "nhỏ nhất có thể hoặc được phép; cực kỳ nhỏ"
       }
     ]
   },
@@ -3739,7 +4127,9 @@
             "cf": "",
             "x": "Mining is prohibited in the National Park."
           }
-        ]
+        ],
+        "short_meaning_vi": "khai thác mỏ",
+        "definition_vi": "quá trình khai thác than và các khoáng sản khác từ dưới lòng đất; ngành công nghiệp liên quan đến điều này"
       }
     ]
   },
@@ -3800,7 +4190,9 @@
             "cf": "",
             "x": "To hold another election is a waste of time and money. "
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền",
+        "definition_vi": "những gì bạn kiếm được bằng cách làm việc hoặc bán mọi thứ, và sử dụng để mua mọi thứ"
       },
       {
         "definition": "coins or paper notes",
@@ -3813,7 +4205,9 @@
             "cf": "",
             "x": "Where can I change my money into dollars?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền xu, tiền giấy",
+        "definition_vi": "tiền xu hoặc giấy bạc"
       },
       {
         "definition": "a person’s wealth including their property",
@@ -3826,7 +4220,9 @@
             "cf": "",
             "x": "The family made their money in the 18th century."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài sản",
+        "definition_vi": "tài sản của một người bao gồm cả bất động sản của họ"
       },
       {
         "definition": "sums of money",
@@ -3835,19 +4231,27 @@
             "cf": "",
             "x": "a statement of all monies paid into your account"
           }
-        ]
+        ],
+        "short_meaning_vi": "các khoản tiền",
+        "definition_vi": "các khoản tiền"
       },
       {
         "definition": "to earn a lot of money quickly or easily",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kiếm nhiều tiền",
+        "definition_vi": "kiếm nhiều tiền một cách nhanh chóng hoặc dễ dàng"
       },
       {
         "definition": "to have a lot of money to spend",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giàu có",
+        "definition_vi": "có nhiều tiền để chi tiêu"
       },
       {
         "definition": "to have a lot of money",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giàu có",
+        "definition_vi": "có nhiều tiền"
       },
       {
         "definition": "the very best",
@@ -3856,7 +4260,9 @@
             "cf": "",
             "x": "We make sure our clients get the best that money can buy."
           }
-        ]
+        ],
+        "short_meaning_vi": "tốt nhất",
+        "definition_vi": "tốt nhất"
       },
       {
         "definition": "not spending money on things that are unimportant",
@@ -3865,15 +4271,21 @@
             "cf": "",
             "x": "His mother had always been careful with money."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiết kiệm",
+        "definition_vi": "không chi tiền vào những thứ không quan trọng"
       },
       {
         "definition": "money that you get without having to work very hard for it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiền dễ kiếm",
+        "definition_vi": "tiền mà bạn nhận được mà không phải làm việc vất vả để có được nó"
       },
       {
         "definition": "a person who is not sensible usually spends money too quickly or carelessly, or is cheated by others",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người tiêu xài hoang phí",
+        "definition_vi": "một người không biết điều thường tiêu tiền quá nhanh hoặc bất cẩn, hoặc bị người khác lừa gạt"
       },
       {
         "definition": "in my opinion",
@@ -3882,7 +4294,9 @@
             "cf": "",
             "x": "For my money, he's one of the greatest comedians of all time."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo ý kiến tôi",
+        "definition_vi": "theo ý kiến của tôi"
       },
       {
         "definition": "to get enough value or pleasure out of something, considering the amount of money, time, etc. that you are spending on it",
@@ -3895,11 +4309,15 @@
             "cf": "",
             "x": "The boat trip lasts three hours, so you certainly get your money's worth."
           }
-        ]
+        ],
+        "short_meaning_vi": "xứng đáng",
+        "definition_vi": "nhận được đủ giá trị hoặc niềm vui từ một thứ gì đó, xét đến số tiền, thời gian, v.v. mà bạn đang chi cho nó"
       },
       {
         "definition": "to make somebody try very hard, using all their skill and effort, in order to beat you in a game or competition",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thách thức",
+        "definition_vi": "làm cho ai đó cố gắng hết sức, sử dụng tất cả kỹ năng và nỗ lực của họ, để đánh bại bạn trong một trò chơi hoặc cuộc thi"
       },
       {
         "definition": "a lot of money; money that you earn with hard work",
@@ -3912,11 +4330,15 @@
             "cf": "",
             "x": "Don't waste good money on that!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền kiếm được",
+        "definition_vi": "rất nhiều tiền; tiền mà bạn kiếm được bằng sự chăm chỉ"
       },
       {
         "definition": "to have so much money that you do not have to be careful with it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rất giàu",
+        "definition_vi": "có quá nhiều tiền đến mức bạn không cần phải cẩn thận với nó"
       },
       {
         "definition": "used to give an amount, a measurement, etc. using older or more traditional units that may be more familiar to some people",
@@ -3925,15 +4347,21 @@
             "cf": "",
             "x": "The fish measured 29 centimetres (that's a foot in old money)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn vị cũ",
+        "definition_vi": "được sử dụng để đưa ra một số lượng, một phép đo, v.v. bằng cách sử dụng các đơn vị cũ hoặc truyền thống hơn có thể quen thuộc hơn với một số người"
       },
       {
         "definition": "used to tell somebody not to use something or spend money carelessly because you do not have a lot of it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiết kiệm",
+        "definition_vi": "được sử dụng để nói với ai đó không sử dụng hoặc chi tiêu tiền một cách bất cẩn vì bạn không có nhiều tiền"
       },
       {
         "definition": "used to describe a business that makes a lot of money with little effort",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kinh doanh sinh lời",
+        "definition_vi": "được sử dụng để mô tả một doanh nghiệp kiếm được nhiều tiền với ít nỗ lực"
       },
       {
         "definition": "very rich",
@@ -3942,7 +4370,9 @@
             "cf": "",
             "x": "I’m not made of money, you know!"
           }
-        ]
+        ],
+        "short_meaning_vi": "rất giàu",
+        "definition_vi": "rất giàu"
       },
       {
         "definition": "to earn a lot of money; to make a profit",
@@ -3955,15 +4385,21 @@
             "cf": "",
             "x": "There's money to be made from tourism."
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh lời",
+        "definition_vi": "kiếm được nhiều tiền; tạo ra lợi nhuận"
       },
       {
         "definition": "to make/lose money very fast and in large quantities",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thắng/thua nhanh",
+        "definition_vi": "kiếm/mất tiền rất nhanh và với số lượng lớn"
       },
       {
         "definition": "to marry a rich person",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kết hôn với người giàu",
+        "definition_vi": "kết hôn với một người giàu có"
       },
       {
         "definition": "money that is earned very easily, for something that needs little effort",
@@ -3972,7 +4408,9 @@
             "cf": "",
             "x": "The job only took about an hour—it was money for old rope."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền dễ kiếm",
+        "definition_vi": "tiền được kiếm rất dễ dàng, cho một thứ gì đó cần ít nỗ lực"
       },
       {
         "definition": "money is not something that needs to be considered, because there is plenty of it available",
@@ -3981,11 +4419,15 @@
             "cf": "",
             "x": "She travels around the world as if money is no object."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền không quan trọng",
+        "definition_vi": "tiền không phải là thứ cần được xem xét, vì có rất nhiều tiền có sẵn"
       },
       {
         "definition": "people who have a lot of money have more power and influence than others",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiền bạc quyền lực",
+        "definition_vi": "những người có nhiều tiền có nhiều quyền lực và ảnh hưởng hơn những người khác"
       },
       {
         "definition": "if you say you cannot do something for love nor money, you mean it is completely impossible to do it",
@@ -3994,7 +4436,9 @@
             "cf": "",
             "x": "We couldn't find a taxi for love nor money."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thể",
+        "definition_vi": "nếu bạn nói rằng bạn không thể làm điều gì đó vì tình yêu hay tiền bạc, bạn có nghĩa là điều đó hoàn toàn không thể thực hiện được"
       },
       {
         "definition": "correct; accurate",
@@ -4003,7 +4447,9 @@
             "cf": "",
             "x": "His prediction was right on the money."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "đúng; chính xác"
       },
       {
         "definition": "used to emphasize that something cost(s) a lot of money, especially if the money is wasted",
@@ -4012,11 +4458,15 @@
             "cf": "",
             "x": "I paid good money for this jacket, and now look at it—it's ruined!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tốn kém",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng một thứ gì đó tốn rất nhiều tiền, đặc biệt nếu số tiền đó bị lãng phí"
       },
       {
         "definition": "a very large amount of money",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rất nhiều tiền",
+        "definition_vi": "một số lượng tiền rất lớn"
       },
       {
         "definition": "to invest money in a business or a particular project",
@@ -4025,7 +4475,9 @@
             "cf": "",
             "x": "We would welcome interest from anyone prepared to put money into the club."
           }
-        ]
+        ],
+        "short_meaning_vi": "đầu tư",
+        "definition_vi": "đầu tư tiền vào một doanh nghiệp hoặc một dự án cụ thể"
       },
       {
         "definition": "to bet that a particular horse, dog, etc. will win a race",
@@ -4034,7 +4486,9 @@
             "cf": "",
             "x": "She stopped at the betting shop to put money on a horse."
           }
-        ]
+        ],
+        "short_meaning_vi": "cá cược",
+        "definition_vi": "đặt cược rằng một con ngựa, chó, v.v. cụ thể sẽ thắng một cuộc đua"
       },
       {
         "definition": "to feel very sure that something is true or that somebody will succeed",
@@ -4043,11 +4497,15 @@
             "cf": "",
             "x": "He'll be there tonight. I'd put money on it."
           }
-        ]
+        ],
+        "short_meaning_vi": "tin chắc",
+        "definition_vi": "cảm thấy rất chắc chắn rằng một điều gì đó là đúng hoặc ai đó sẽ thành công"
       },
       {
         "definition": "to support what you say by doing something practical; to show by your actions that you really mean something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hành động",
+        "definition_vi": "hỗ trợ những gì bạn nói bằng cách làm điều gì đó thực tế; thể hiện bằng hành động của bạn rằng bạn thực sự có ý gì"
       },
       {
         "definition": "to make sure that somebody has enough money to pay for something",
@@ -4056,11 +4514,15 @@
             "cf": "",
             "x": "You need to see the colour of his money before you sell him the car."
           }
-        ]
+        ],
+        "short_meaning_vi": "đảm bảo thanh toán",
+        "definition_vi": "đảm bảo rằng ai đó có đủ tiền để chi trả cho một thứ gì đó"
       },
       {
         "definition": "to spend more money on something, when you have wasted a lot on it already",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chi thêm",
+        "definition_vi": "chi nhiều tiền hơn cho một thứ gì đó, khi bạn đã lãng phí rất nhiều vào nó rồi"
       },
       {
         "definition": "to spend money in a careless and obvious way",
@@ -4069,7 +4531,9 @@
             "cf": "",
             "x": "He thinks he can make friends by throwing his money around."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiêu xài phung phí",
+        "definition_vi": "chi tiêu tiền một cách bất cẩn và lộ liễu"
       },
       {
         "definition": "to try to deal with a problem or improve a situation by spending money on it, when it would be better to deal with it in other ways",
@@ -4082,15 +4546,21 @@
             "cf": "",
             "x": "They tend to throw money at problems without trying to work out the best solution."
           }
-        ]
+        ],
+        "short_meaning_vi": "chi tiền giải quyết vấn đề",
+        "definition_vi": "cố gắng giải quyết một vấn đề hoặc cải thiện một tình huống bằng cách chi tiền cho nó, trong khi tốt hơn hết là giải quyết nó bằng những cách khác"
       },
       {
         "definition": "time is valuable, and should not be wasted",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thời gian là vàng",
+        "definition_vi": "thời gian có giá trị và không nên lãng phí"
       },
       {
         "definition": "used for saying that there is very little difference between two or more things that you can choose",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chênh lệch nhỏ",
+        "definition_vi": "được sử dụng để nói rằng có rất ít sự khác biệt giữa hai hoặc nhiều thứ mà bạn có thể lựa chọn"
       }
     ]
   },
@@ -4115,7 +4585,9 @@
             "cf": "",
             "x": "Electricity, gas and water were considered to be natural monopolies."
           }
-        ]
+        ],
+        "short_meaning_vi": "độc quyền",
+        "definition_vi": "sự kiểm soát hoàn toàn thương mại đối với hàng hóa cụ thể hoặc việc cung cấp một dịch vụ cụ thể; một loại hàng hóa hoặc dịch vụ được kiểm soát theo cách này"
       },
       {
         "definition": "the complete control, possession or use of something; a thing that belongs only to one person or group and that other people cannot share",
@@ -4128,11 +4600,15 @@
             "cf": "",
             "x": "A good education should not be the monopoly of the rich."
           }
-        ]
+        ],
+        "short_meaning_vi": "độc quyền",
+        "definition_vi": "sự kiểm soát, sở hữu hoặc sử dụng hoàn toàn một thứ gì đó; một thứ thuộc về duy nhất một người hoặc một nhóm và những người khác không thể chia sẻ"
       },
       {
         "definition": "a board game in which players have to pretend to buy and sell land and houses, using pieces of paper that look like money",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cờ tỷ phú",
+        "definition_vi": "một trò chơi cờ bàn trong đó người chơi phải giả vờ mua và bán đất đai và nhà cửa, sử dụng các mảnh giấy trông giống tiền"
       }
     ]
   },
@@ -4169,7 +4645,9 @@
             "cf": "",
             "x": "He's been having trouble keeping up with his monthly mortgage repayments."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoản vay mua nhà",
+        "definition_vi": "một thỏa thuận pháp lý theo đó một ngân hàng hoặc tổ chức tương tự cho bạn vay tiền để mua một ngôi nhà, v.v., và bạn trả lại số tiền đó trong một khoảng thời gian nhất định; số tiền bạn vay"
       }
     ]
   },
@@ -4210,7 +4688,9 @@
             "cf": "negotiate between A and B",
             "x": "to negotiate between the two sides"
           }
-        ]
+        ],
+        "short_meaning_vi": "đàm phán",
+        "definition_vi": "cố gắng đạt được thỏa thuận thông qua thảo luận chính thức"
       },
       {
         "definition": "to arrange or agree something by formal discussion",
@@ -4223,7 +4703,9 @@
             "cf": "",
             "x": "We successfully negotiated the release of the hostages."
           }
-        ]
+        ],
+        "short_meaning_vi": "đàm phán",
+        "definition_vi": "để sắp xếp hoặc đồng ý về điều gì đó thông qua thảo luận chính thức"
       },
       {
         "definition": "to successfully get over or past a difficult part on a path or route",
@@ -4232,7 +4714,9 @@
             "cf": "",
             "x": "The climbers had to negotiate a steep rock face."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt qua",
+        "definition_vi": "để vượt qua hoặc đi qua một phần khó khăn trên một con đường hoặc tuyến đường"
       }
     ]
   },
@@ -4285,7 +4769,9 @@
             "cf": "",
             "x": "The price is generally open to negotiation."
           }
-        ]
+        ],
+        "short_meaning_vi": "đàm phán",
+        "definition_vi": "thảo luận chính thức giữa những người đang cố gắng đạt được thỏa thuận"
       }
     ]
   },
@@ -4306,7 +4792,9 @@
             "cf": "",
             "x": "He eventually found his niche in sports journalism."
           }
-        ]
+        ],
+        "short_meaning_vi": "vị trí phù hợp",
+        "definition_vi": "một vai trò, công việc, cách sống, v.v. thoải mái hoặc phù hợp"
       },
       {
         "definition": "a small section of the market for a particular kind of product or service",
@@ -4319,7 +4807,9 @@
             "cf": "",
             "x": "There's a niche for a small stylish car."
           }
-        ]
+        ],
+        "short_meaning_vi": "thị trường ngách",
+        "definition_vi": "một phần nhỏ của thị trường cho một loại sản phẩm hoặc dịch vụ cụ thể"
       },
       {
         "definition": "a small hollow place, especially in a wall to contain a statue, etc., or in the side of a hill",
@@ -4332,7 +4822,9 @@
             "cf": "",
             "x": "I found a niche in the rock and sat and watched while the sun rose and filled the valley with light."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ lõm",
+        "definition_vi": "một chỗ lõm nhỏ, đặc biệt là trong tường để chứa một bức tượng, v.v., hoặc ở sườn đồi"
       },
       {
         "definition": "a position or role taken by a kind of living thing within its community. Different living things may have the same niche in different places, for example antelopes in Africa and kangaroos in Australia.",
@@ -4345,7 +4837,9 @@
             "cf": "",
             "x": "Mammals moved into the niche left vacant by the disappearance of the dinosaurs."
           }
-        ]
+        ],
+        "short_meaning_vi": "vai trò sinh thái",
+        "definition_vi": "một vị trí hoặc vai trò mà một loại sinh vật đảm nhận trong cộng đồng của nó. Các sinh vật khác nhau có thể có cùng một vai trò sinh thái ở những nơi khác nhau, ví dụ như linh dương ở châu Phi và chuột túi ở Úc."
       }
     ]
   },
@@ -4370,7 +4864,9 @@
             "cf": "in partnership with somebody/something",
             "x": "He developed his own program in partnership with an American expert."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan hệ đối tác",
+        "definition_vi": "trạng thái là đối tác trong kinh doanh"
       },
       {
         "definition": "a relationship between two people, organizations, etc.; the state of having this relationship",
@@ -4387,7 +4883,9 @@
             "cf": "partnership between A and B",
             "x": "a partnership between the United States and Europe"
           }
-        ]
+        ],
+        "short_meaning_vi": "quan hệ đối tác",
+        "definition_vi": "một mối quan hệ giữa hai người, tổ chức, v.v.; trạng thái có mối quan hệ này"
       },
       {
         "definition": "a business owned by two or more people who share the profits",
@@ -4396,7 +4894,9 @@
             "cf": "",
             "x": "a junior member of the partnership"
           }
-        ]
+        ],
+        "short_meaning_vi": "công ty hợp danh",
+        "definition_vi": "một doanh nghiệp thuộc sở hữu của hai hoặc nhiều người chia sẻ lợi nhuận"
       }
     ]
   },
@@ -4429,7 +4929,9 @@
             "cf": "",
             "x": "the US Patent Office"
           }
-        ]
+        ],
+        "short_meaning_vi": "bằng sáng chế",
+        "definition_vi": "quyền chính thức để là người duy nhất sản xuất, sử dụng hoặc bán một sản phẩm hoặc một phát minh; một tài liệu chứng minh điều này"
       }
     ]
   },
@@ -4502,7 +5004,9 @@
             "cf": "",
             "x": "They demanded improved pay and conditions."
           }
-        ]
+        ],
+        "short_meaning_vi": "lương",
+        "definition_vi": "số tiền mà ai đó nhận được cho công việc thường xuyên"
       },
       {
         "definition": "to be a decision or an area of work that somebody does not have the authority or expert knowledge to deal with",
@@ -4511,7 +5015,9 @@
             "cf": "",
             "x": "This decision is above my pay grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "không thuộc thẩm quyền",
+        "definition_vi": "là một quyết định hoặc một lĩnh vực công việc mà ai đó không có thẩm quyền hoặc kiến thức chuyên môn để giải quyết"
       },
       {
         "definition": "working for somebody or for an organization, often secretly",
@@ -4520,7 +5026,9 @@
             "cf": "",
             "x": "He was in the pay of the drugs barons."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm việc bí mật",
+        "definition_vi": "làm việc cho ai đó hoặc cho một tổ chức, thường là bí mật"
       }
     ]
   },
@@ -4565,7 +5073,9 @@
             "cf": "on payment of something",
             "x": "The public has right of access, on payment of a fee."
           }
-        ]
+        ],
+        "short_meaning_vi": "thanh toán",
+        "definition_vi": "hành động trả tiền cho ai đó/cái gì đó hoặc được trả tiền"
       },
       {
         "definition": "a sum of money paid or expected to be paid",
@@ -4598,7 +5108,9 @@
             "cf": "payment on something",
             "x": "They are finding it difficult to meet the payments on their car."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoản thanh toán",
+        "definition_vi": "một khoản tiền được trả hoặc dự kiến sẽ được trả"
       },
       {
         "definition": "a reward or an act of thanks for something you have done",
@@ -4611,7 +5123,9 @@
             "cf": "in payment for something",
             "x": "We'd like you to accept this gift in payment for your kindness."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đền đáp",
+        "definition_vi": "một phần thưởng hoặc hành động cảm ơn vì điều gì đó bạn đã làm"
       },
       {
         "definition": "after something has been paid",
@@ -4620,7 +5134,9 @@
             "cf": "",
             "x": "Entry is only allowed on payment of the full registration fee."
           }
-        ]
+        ],
+        "short_meaning_vi": "sau khi thanh toán",
+        "definition_vi": "sau khi một cái gì đó đã được thanh toán"
       }
     ]
   },
@@ -4649,11 +5165,15 @@
             "cf": "",
             "x": "They cost 20p each."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng xu penny",
+        "definition_vi": "một đồng xu và đơn vị tiền tệ nhỏ của Anh. Có 100 xu cho một bảng Anh (£1)."
       },
       {
         "definition": "a British coin in use until 1971. There were twelve pennies in one shilling and twenty shillings in a pound.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đồng xu penny",
+        "definition_vi": "một đồng xu của Anh được sử dụng cho đến năm 1971. Có mười hai penny cho một shilling và hai mươi shilling cho một bảng."
       },
       {
         "definition": "a cent",
@@ -4662,7 +5182,9 @@
             "cf": "",
             "x": "The fee ranges from a few pennies to $30 or more."
           }
-        ]
+        ],
+        "short_meaning_vi": "xu",
+        "definition_vi": "một cent"
       },
       {
         "definition": "all of the money",
@@ -4675,11 +5197,15 @@
             "cf": "",
             "x": "She’s on a high salary but I’m sure she deserves every penny."
           }
-        ]
+        ],
+        "short_meaning_vi": "tất cả tiền",
+        "definition_vi": "tất cả số tiền"
       },
       {
         "definition": "used to say that since you have started to do something, it is worth spending as much time or money as you need to in order to complete it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đã bắt đầu thì phải làm",
+        "definition_vi": "được sử dụng để nói rằng vì bạn đã bắt đầu làm điều gì đó, nên đáng để chi bao nhiêu thời gian hoặc tiền bạc cần thiết để hoàn thành nó"
       },
       {
         "definition": "no money at all",
@@ -4696,7 +5222,9 @@
             "cf": "",
             "x": "She hasn’t got a penny to her name."
           }
-        ]
+        ],
+        "short_meaning_vi": "không một xu dính túi",
+        "definition_vi": "không có tiền chút nào"
       },
       {
         "definition": "used to say that somebody has finally understood or realized something that they had not understood or realized before",
@@ -4705,15 +5233,21 @@
             "cf": "",
             "x": "I had to explain the joke to her a couple of times before the penny dropped."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuối cùng cũng hiểu",
+        "definition_vi": "được sử dụng để nói rằng ai đó cuối cùng đã hiểu hoặc nhận ra điều gì đó mà họ đã không hiểu hoặc nhận ra trước đó"
       },
       {
         "definition": "used to ask somebody what they are thinking about",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "suy nghĩ gì?",
+        "definition_vi": "được sử dụng để hỏi ai đó họ đang nghĩ về điều gì"
       },
       {
         "definition": "to try to spend as little money as possible",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiết kiệm tiền",
+        "definition_vi": "cố gắng chi tiêu ít tiền nhất có thể"
       },
       {
         "definition": "a lot of money",
@@ -4722,15 +5256,21 @@
             "cf": "",
             "x": "I bet that cost you a pretty penny."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều tiền",
+        "definition_vi": "rất nhiều tiền"
       },
       {
         "definition": "people say ‘spend a penny’ to avoid saying ‘use the toilet’",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đi vệ sinh",
+        "definition_vi": "người ta nói 'spend a penny' để tránh nói 'use the toilet'"
       },
       {
         "definition": "to appear when they are not welcome or not wanted, especially when this happens regularly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "xuất hiện",
+        "definition_vi": "xuất hiện khi chúng không được chào đón hoặc không mong muốn, đặc biệt là khi điều này xảy ra thường xuyên"
       },
       {
         "definition": "very common and therefore not valuable",
@@ -4739,7 +5279,9 @@
             "cf": "",
             "x": "Teachers of history are ten a penny."
           }
-        ]
+        ],
+        "short_meaning_vi": "rẻ tiền",
+        "definition_vi": "rất phổ biến và do đó không có giá trị"
       }
     ]
   },
@@ -4792,7 +5334,9 @@
             "cf": "",
             "x": "a pension scheme/plan"
           }
-        ]
+        ],
+        "short_meaning_vi": "lương hưu",
+        "definition_vi": "một khoản tiền được chính phủ hoặc công ty trả định kỳ cho người đã nghỉ hưu"
       }
     ]
   },
@@ -4817,7 +5361,9 @@
             "cf": "",
             "x": "The pipeline runs through central Mozambique."
           }
-        ]
+        ],
+        "short_meaning_vi": "đường ống",
+        "definition_vi": "một chuỗi các đường ống thường nằm dưới lòng đất và được sử dụng để vận chuyển dầu, khí đốt, v.v. qua khoảng cách dài"
       },
       {
         "definition": "something that is in the pipeline is being discussed, planned or prepared and will happen or exist soon",
@@ -4826,7 +5372,9 @@
             "cf": "",
             "x": "Important new laws are already in the pipeline."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang được chuẩn bị",
+        "definition_vi": "một cái gì đó đang trong quá trình được thảo luận, lên kế hoạch hoặc chuẩn bị và sẽ sớm xảy ra hoặc tồn tại"
       }
     ]
   },
@@ -4847,7 +5395,9 @@
             "cf": "",
             "x": "I left my portfolio on the train."
           }
-        ]
+        ],
+        "short_meaning_vi": "cặp tài liệu",
+        "definition_vi": "một chiếc cặp phẳng mỏng được sử dụng để mang tài liệu, bản vẽ, v.v."
       },
       {
         "definition": "a collection of photographs, drawings, etc. that you use as an example of your work, especially when applying for a job",
@@ -4856,7 +5406,9 @@
             "cf": "",
             "x": "She spent most of last year getting her portfolio together."
           }
-        ]
+        ],
+        "short_meaning_vi": "tập hồ sơ",
+        "definition_vi": "một bộ sưu tập các bức ảnh, bản vẽ, v.v. mà bạn sử dụng làm ví dụ về công việc của mình, đặc biệt là khi xin việc"
       },
       {
         "definition": "a set of shares owned by a particular person or organization",
@@ -4869,7 +5421,9 @@
             "cf": "",
             "x": "a portfolio manager"
           }
-        ]
+        ],
+        "short_meaning_vi": "danh mục đầu tư",
+        "definition_vi": "một bộ cổ phiếu thuộc sở hữu của một người hoặc tổ chức cụ thể"
       },
       {
         "definition": "the particular area of responsibility of a government minister",
@@ -4890,7 +5444,9 @@
             "cf": "",
             "x": "He was asked to join as a minister without portfolio (= one without responsibility for a particular government department)."
           }
-        ]
+        ],
+        "short_meaning_vi": "lĩnh vực phụ trách",
+        "definition_vi": "lĩnh vực trách nhiệm cụ thể của một bộ trưởng chính phủ"
       },
       {
         "definition": "the range of products or services offered by a particular company or organization",
@@ -4899,7 +5455,9 @@
             "cf": "",
             "x": "a portfolio of wines"
           }
-        ]
+        ],
+        "short_meaning_vi": "danh mục sản phẩm",
+        "definition_vi": "phạm vi sản phẩm hoặc dịch vụ do một công ty hoặc tổ chức cụ thể cung cấp"
       }
     ]
   },
@@ -4944,7 +5502,9 @@
             "cf": "",
             "x": "He built the business into a multimillion-pound food empire. "
           }
-        ]
+        ],
+        "short_meaning_vi": "bảng Anh",
+        "definition_vi": "đơn vị tiền tệ ở Vương quốc Anh, trị giá 100 xu"
       },
       {
         "definition": "the unit of money of several other countries",
@@ -4953,7 +5513,9 @@
             "cf": "",
             "x": "His salary will be about 5  000 Egyptian pounds per month."
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn vị tiền tệ",
+        "definition_vi": "đơn vị tiền tệ của một số quốc gia khác."
       },
       {
         "definition": "the value of the British pound compared with the value of the money of other countries",
@@ -4974,7 +5536,9 @@
             "cf": "",
             "x": "a run on the pound (= when many people sell pounds and the value of the pound falls)"
           }
-        ]
+        ],
+        "short_meaning_vi": "giá trị đồng bảng",
+        "definition_vi": "giá trị của đồng bảng Anh so với giá trị tiền tệ của các quốc gia khác."
       },
       {
         "definition": "a unit for measuring weight, equal to 0.454 of a kilogram",
@@ -5007,23 +5571,33 @@
             "cf": "",
             "x": "She has shed 30 pounds. "
           }
-        ]
+        ],
+        "short_meaning_vi": "đơn vị cân nặng",
+        "definition_vi": "đơn vị đo trọng lượng, tương đương 0,454 kilôgam."
       },
       {
         "definition": "a place where vehicles that have been parked illegally are kept until their owners pay to get them back",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bãi giữ xe",
+        "definition_vi": "nơi giữ các phương tiện giao thông bị đỗ trái phép cho đến khi chủ sở hữu trả tiền để lấy lại."
       },
       {
         "definition": "a place where dogs that have been found in the street without their owners are kept until their owners claim them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trại nuôi chó",
+        "definition_vi": "nơi nuôi chó bị bỏ rơi trên đường phố cho đến khi chủ của chúng nhận lại."
       },
       {
         "definition": "used to say that since you have started to do something, it is worth spending as much time or money as you need to in order to complete it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cố gắng hết sức",
+        "definition_vi": "được dùng để nói rằng vì bạn đã bắt đầu làm điều gì đó, nên bạn cần dành đủ thời gian hoặc tiền bạc cần thiết để hoàn thành nó."
       },
       {
         "definition": "it is better to stop something bad from happening rather than try to deal with the problems after it has happened",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phòng bệnh hơn chữa bệnh",
+        "definition_vi": "thà ngăn chặn điều gì đó tồi tệ xảy ra còn hơn là cố gắng giải quyết các vấn đề sau khi nó đã xảy ra."
       },
       {
         "definition": "the full amount that somebody owes you, even if this will cause them trouble or difficulty",
@@ -5032,7 +5606,9 @@
             "cf": "",
             "x": "You’re determined to have your pound of flesh, aren’t you?"
           }
-        ]
+        ],
+        "short_meaning_vi": "toàn bộ số nợ",
+        "definition_vi": "toàn bộ số tiền mà ai đó nợ bạn, ngay cả khi điều này sẽ gây ra rắc rối hoặc khó khăn cho họ."
       }
     ]
   },
@@ -5053,7 +5629,9 @@
             "cf": "",
             "x": "a monthly premium of £66.25"
           }
-        ]
+        ],
+        "short_meaning_vi": "phí bảo hiểm",
+        "definition_vi": "một khoản tiền bạn phải trả một lần hoặc định kỳ cho một hợp đồng bảo hiểm."
       },
       {
         "definition": "an extra payment added to the basic rate",
@@ -5078,7 +5656,9 @@
             "cf": "",
             "x": "a premium-rate phone number"
           }
-        ]
+        ],
+        "short_meaning_vi": "phụ phí",
+        "definition_vi": "một khoản thanh toán bổ sung được thêm vào mức cơ bản."
       },
       {
         "definition": "if something is at a premium, there is little of it available and it is difficult to get",
@@ -5091,7 +5671,9 @@
             "cf": "",
             "x": "Good student accommodation is at a premium."
           }
-        ]
+        ],
+        "short_meaning_vi": "khan hiếm",
+        "definition_vi": "nếu một thứ gì đó có giá cao, nghĩa là có rất ít và khó kiếm được."
       },
       {
         "definition": "at a higher than normal price",
@@ -5100,7 +5682,9 @@
             "cf": "",
             "x": "Shares are selling at a premium."
           }
-        ]
+        ],
+        "short_meaning_vi": "giá cao",
+        "definition_vi": "ở mức giá cao hơn bình thường."
       },
       {
         "definition": "to think that somebody/something is particularly important or valuable",
@@ -5113,7 +5697,9 @@
             "cf": "",
             "x": "They put a high premium on customer loyalty."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh giá cao",
+        "definition_vi": "cho rằng ai đó/điều gì đó đặc biệt quan trọng hoặc có giá trị."
       }
     ]
   },
@@ -5214,7 +5800,9 @@
             "cf": "",
             "x": "price rises/increases/hikes/cuts"
           }
-        ]
+        ],
+        "short_meaning_vi": "giá cả",
+        "definition_vi": "số tiền bạn phải trả cho một thứ gì đó."
       },
       {
         "definition": "the unpleasant things that you must do or experience in order to achieve something or as a result of achieving something",
@@ -5243,7 +5831,9 @@
             "cf": "at a… price",
             "x": "His success came at a high price."
           }
-        ]
+        ],
+        "short_meaning_vi": "cái giá phải trả",
+        "definition_vi": "những điều khó chịu mà bạn phải làm hoặc trải qua để đạt được điều gì đó hoặc là kết quả của việc đạt được điều gì đó."
       },
       {
         "definition": "the numbers that tell you how much money you will receive if the horse that you bet on wins the race",
@@ -5252,7 +5842,9 @@
             "cf": "",
             "x": "Six to one is a good price for that horse."
           }
-        ]
+        ],
+        "short_meaning_vi": "tỷ lệ cược",
+        "definition_vi": "các con số cho biết bạn sẽ nhận được bao nhiêu tiền nếu con ngựa bạn đặt cược thắng cuộc đua."
       },
       {
         "definition": "whatever the cost or the difficulties may be",
@@ -5261,7 +5853,9 @@
             "cf": "",
             "x": "We want peace at any price."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất kể giá nào",
+        "definition_vi": "bất kể chi phí hoặc khó khăn là gì."
       },
       {
         "definition": "costing a lot of money",
@@ -5274,7 +5868,9 @@
             "cf": "",
             "x": "Food is available, at a price."
           }
-        ]
+        ],
+        "short_meaning_vi": "đắt tiền",
+        "definition_vi": "có giá nhiều tiền."
       },
       {
         "definition": "involving something unpleasant",
@@ -5283,11 +5879,15 @@
             "cf": "",
             "x": "He'll help you—at a price!"
           }
-        ]
+        ],
+        "short_meaning_vi": "khó chịu",
+        "definition_vi": "liên quan đến điều gì đó khó chịu."
       },
       {
         "definition": "extremely valuable or important",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vô giá",
+        "definition_vi": "cực kỳ có giá trị hoặc quan trọng."
       },
       {
         "definition": "so good or useful that the cost does not seem too much",
@@ -5296,11 +5896,15 @@
             "cf": "",
             "x": "To buy all the recommended equipment is expensive, but as an investment for the future it is cheap at the price."
           }
-        ]
+        ],
+        "short_meaning_vi": "xứng đáng",
+        "definition_vi": "quá tốt hoặc hữu ích đến nỗi chi phí dường như không quá nhiều."
       },
       {
         "definition": "you can persuade anyone to do something by giving them more money or something that they want",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "có thể mua chuộc",
+        "definition_vi": "bạn có thể thuyết phục bất kỳ ai làm điều gì đó bằng cách cho họ nhiều tiền hơn hoặc thứ gì đó họ muốn."
       },
       {
         "definition": "used to say that no amount of money would persuade you to do or to sell something",
@@ -5309,7 +5913,9 @@
             "cf": "",
             "x": "I wouldn't work for her again—not at any price!"
           }
-        ]
+        ],
+        "short_meaning_vi": "không thể bán",
+        "definition_vi": "được dùng để nói rằng không có số tiền nào có thể thuyết phục bạn làm hoặc bán một thứ gì đó."
       },
       {
         "definition": "to suffer because of bad luck, a mistake or something you have done",
@@ -5326,7 +5932,9 @@
             "cf": "",
             "x": "She thinks that any inconvenience is a price worth paying for living in such a beautiful place."
           }
-        ]
+        ],
+        "short_meaning_vi": "gánh chịu hậu quả",
+        "definition_vi": "chịu đựng vì vận rủi, một sai lầm hoặc điều gì đó bạn đã làm."
       },
       {
         "definition": "an amount of money that is offered for capturing or killing somebody",
@@ -5335,7 +5943,9 @@
             "cf": "",
             "x": "Ever since he killed the gang’s leader, there has been a price on his head."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền thưởng",
+        "definition_vi": "một số tiền được đưa ra để bắt hoặc giết ai đó."
       },
       {
         "definition": "to say how much money something valuable is worth",
@@ -5352,7 +5962,9 @@
             "cf": "",
             "x": "You can't put a price on happiness."
           }
-        ]
+        ],
+        "short_meaning_vi": "định giá",
+        "definition_vi": "nói ra số tiền mà một thứ có giá trị đáng giá bao nhiêu."
       },
       {
         "definition": "used to say that you think that something you have achieved may not be worth all the problems and difficulties it causes",
@@ -5361,7 +5973,9 @@
             "cf": "",
             "x": "What price fame and fortune?"
           }
-        ]
+        ],
+        "short_meaning_vi": "không đáng",
+        "definition_vi": "được dùng để nói rằng bạn nghĩ rằng điều gì đó bạn đã đạt được có thể không đáng với tất cả những vấn đề và khó khăn mà nó gây ra."
       },
       {
         "definition": "used to say that something seems unlikely",
@@ -5370,7 +5984,9 @@
             "cf": "",
             "x": "What price England winning the World Cup?"
           }
-        ]
+        ],
+        "short_meaning_vi": "khó xảy ra",
+        "definition_vi": "được dùng để nói rằng điều gì đó có vẻ khó xảy ra."
       }
     ]
   },
@@ -5391,7 +6007,9 @@
             "cf": "",
             "x": "There were fears that privatization would lead to job losses."
           }
-        ]
+        ],
+        "short_meaning_vi": "tư nhân hóa",
+        "definition_vi": "hành động bán một doanh nghiệp hoặc ngành công nghiệp để nó không còn thuộc sở hữu của chính phủ nữa."
       }
     ]
   },
@@ -5416,7 +6034,9 @@
             "cf": "proceeds of/from something",
             "x": "The proceeds of the concert will go to charity."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền thu được",
+        "definition_vi": "số tiền bạn nhận được khi bán một thứ gì đó hoặc tổ chức một buổi biểu diễn, v.v.; lợi nhuận."
       }
     ]
   },
@@ -5445,7 +6065,9 @@
             "cf": "",
             "x": "It says on the label ‘Produce of France’."
           }
-        ]
+        ],
+        "short_meaning_vi": "nông sản",
+        "definition_vi": "những thứ đã được làm ra hoặc trồng trọt, đặc biệt là những thứ liên quan đến nông nghiệp."
       }
     ]
   },
@@ -5526,7 +6148,9 @@
             "cf": "",
             "x": "We need new product to sell (= a new range of products)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản phẩm",
+        "definition_vi": "một thứ được trồng, sản xuất hoặc tạo ra, thường là để bán."
       },
       {
         "definition": "a thing produced during a natural, chemical or industrial process",
@@ -5539,7 +6163,9 @@
             "cf": "",
             "x": "Methane is a product of this process."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản phẩm",
+        "definition_vi": "một thứ được tạo ra trong một quá trình tự nhiên, hóa học hoặc công nghiệp."
       },
       {
         "definition": "a person or thing that is the result of something",
@@ -5552,7 +6178,9 @@
             "cf": "",
             "x": "Like many of his generation, he was a product of Japan's obsession with technology."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết quả",
+        "definition_vi": "một người hoặc vật là kết quả của một điều gì đó."
       },
       {
         "definition": "a cream or liquid that you put on your hair or skin to make it look better",
@@ -5569,7 +6197,9 @@
             "cf": "",
             "x": "Ken uses the very best styling products for Jessica's fine hair."
           }
-        ]
+        ],
+        "short_meaning_vi": "mỹ phẩm",
+        "definition_vi": "một loại kem hoặc chất lỏng bạn bôi lên tóc hoặc da để làm cho nó trông đẹp hơn."
       },
       {
         "definition": "a quantity obtained by multiplying one number by another",
@@ -5578,7 +6208,9 @@
             "cf": "",
             "x": "The product of 21 and 16 is 336."
           }
-        ]
+        ],
+        "short_meaning_vi": "tích số",
+        "definition_vi": "một số lượng thu được bằng cách nhân một số với một số khác."
       }
     ]
   },
@@ -5627,7 +6259,9 @@
             "cf": "",
             "x": "Prices have fallen below the cost of production. "
           }
-        ]
+        ],
+        "short_meaning_vi": "sản xuất",
+        "definition_vi": "quá trình trồng trọt hoặc sản xuất thực phẩm, hàng hóa hoặc vật liệu, đặc biệt là số lượng lớn."
       },
       {
         "definition": "the quantity of goods that is produced",
@@ -5660,7 +6294,9 @@
             "cf": "",
             "x": "Market demand could outpace production capacity."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản lượng",
+        "definition_vi": "số lượng hàng hóa được sản xuất."
       },
       {
         "definition": "the act or process of making something naturally",
@@ -5677,7 +6313,9 @@
             "cf": "",
             "x": "Green tea inhibits the production of this enzyme."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự sinh sản",
+        "definition_vi": "hành động hoặc quá trình tạo ra một cái gì đó một cách tự nhiên."
       },
       {
         "definition": "a film, play or broadcast that is prepared for the public; the act of preparing a film, play, etc.",
@@ -5706,7 +6344,9 @@
             "cf": "",
             "x": "The film goes into production next year."
           }
-        ]
+        ],
+        "short_meaning_vi": "sản xuất phim",
+        "definition_vi": "một bộ phim, vở kịch hoặc chương trình phát sóng được chuẩn bị cho công chúng; hành động chuẩn bị một bộ phim, vở kịch, v.v."
       },
       {
         "definition": "when you show something",
@@ -5715,7 +6355,9 @@
             "cf": "",
             "x": "Discounts only on production of your student ID card."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự sản xuất",
+        "definition_vi": "khi bạn giới thiệu một cái gì đó"
       }
     ]
   },
@@ -5804,7 +6446,9 @@
             "cf": "for profit",
             "x": "The agency is voluntary and not run for profit."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi nhuận",
+        "definition_vi": "số tiền bạn kiếm được trong kinh doanh hoặc bằng cách bán mọi thứ, đặc biệt là sau khi đã trừ đi các chi phí liên quan"
       },
       {
         "definition": "the advantage that you get from doing something",
@@ -5813,7 +6457,9 @@
             "cf": "",
             "x": "Future lawyers could study this text with profit."
           }
-        ]
+        ],
+        "short_meaning_vi": "lợi ích",
+        "definition_vi": "sự thuận lợi mà bạn nhận được từ việc làm một điều gì đó"
       }
     ]
   },
@@ -5842,7 +6488,9 @@
             "cf": "",
             "x": "It is usually more profitable to sell direct to the public."
           }
-        ]
+        ],
+        "short_meaning_vi": "có lãi",
+        "definition_vi": "kiếm được hoặc có khả năng kiếm được tiền"
       },
       {
         "definition": "that gives somebody an advantage or a useful result",
@@ -5855,7 +6503,9 @@
             "cf": "",
             "x": "She spent a profitable afternoon in the library."
           }
-        ]
+        ],
+        "short_meaning_vi": "có lợi",
+        "definition_vi": "mang lại cho ai đó một lợi thế hoặc một kết quả hữu ích"
       }
     ]
   },
@@ -5884,7 +6534,9 @@
             "cf": "",
             "x": "Calculations are based on a projection of existing trends."
           }
-        ]
+        ],
+        "short_meaning_vi": "dự báo",
+        "definition_vi": "ước tính hoặc tuyên bố về các số liệu, số lượng hoặc sự kiện sẽ xảy ra trong tương lai, hoặc đã xảy ra trong quá khứ, dựa trên những gì đang diễn ra hiện tại"
       },
       {
         "definition": "the act of putting an image of something onto a surface; an image that is shown in this way",
@@ -5897,7 +6549,9 @@
             "cf": "",
             "x": "laser projections"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự chiếu",
+        "definition_vi": "hành động chiếu hình ảnh của một cái gì đó lên một bề mặt; một hình ảnh được hiển thị theo cách này"
       },
       {
         "definition": "a solid shape or object as represented on a flat surface",
@@ -5906,7 +6560,9 @@
             "cf": "",
             "x": "map projections"
           }
-        ]
+        ],
+        "short_meaning_vi": "hình chiếu",
+        "definition_vi": "một hình dạng hoặc vật thể rắn được biểu diễn trên một bề mặt phẳng"
       },
       {
         "definition": "something that sticks out from a surface",
@@ -5915,7 +6571,9 @@
             "cf": "",
             "x": "tiny projections on the cell"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự nhô ra",
+        "definition_vi": "một cái gì đó nhô ra từ một bề mặt"
       },
       {
         "definition": "the act of making your voice, a sound, etc. audible (= able to be heard) at a distance",
@@ -5924,11 +6582,15 @@
             "cf": "",
             "x": "voice projection"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phát âm",
+        "definition_vi": "hành động làm cho giọng nói, âm thanh, v.v. của bạn có thể nghe được ở xa"
       },
       {
         "definition": "the act of imagining that somebody else is thinking the same as you and is reacting in the same way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sự phóng chiếu",
+        "definition_vi": "hành động tưởng tượng rằng người khác cũng nghĩ giống bạn và phản ứng theo cùng một cách"
       },
       {
         "definition": "the act of giving a form and structure to inner thoughts and feelings",
@@ -5937,7 +6599,9 @@
             "cf": "",
             "x": "The idea of God is a projection of humans' need to have something greater than themselves."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phóng chiếu",
+        "definition_vi": "hành động mang lại hình thức và cấu trúc cho những suy nghĩ và cảm xúc bên trong"
       }
     ]
   },
@@ -5966,7 +6630,9 @@
             "cf": "promote something as something",
             "x": "The area is being promoted as a tourist destination."
           }
-        ]
+        ],
+        "short_meaning_vi": "quảng bá",
+        "definition_vi": "giúp bán một sản phẩm, dịch vụ, v.v. hoặc làm cho nó trở nên phổ biến hơn bằng cách quảng cáo hoặc cung cấp nó với giá đặc biệt"
       },
       {
         "definition": "to help something to happen or develop",
@@ -6003,7 +6669,9 @@
             "cf": "",
             "x": "Vietnam has actively promoted foreign investment."
           }
-        ]
+        ],
+        "short_meaning_vi": "thúc đẩy",
+        "definition_vi": "giúp một cái gì đó xảy ra hoặc phát triển"
       },
       {
         "definition": "to move somebody to a higher rank or more senior job",
@@ -6024,7 +6692,9 @@
             "cf": "promote somebody from something to something",
             "x": "She was promoted from finance director to chief executive."
           }
-        ]
+        ],
+        "short_meaning_vi": "thăng chức",
+        "definition_vi": "di chuyển ai đó lên một cấp bậc cao hơn hoặc một vị trí cấp cao hơn"
       },
       {
         "definition": "to move a sports team from playing with one group of teams to playing in a better group",
@@ -6033,7 +6703,9 @@
             "cf": "",
             "x": "They were promoted to the First Division last season."
           }
-        ]
+        ],
+        "short_meaning_vi": "thăng hạng",
+        "definition_vi": "di chuyển một đội thể thao từ hạng đấu này sang hạng đấu tốt hơn"
       }
     ]
   },
@@ -6062,7 +6734,9 @@
             "cf": "",
             "x": "a job with excellent promotion prospects"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thăng chức",
+        "definition_vi": "việc chuyển lên một công việc hoặc cấp bậc quan trọng hơn trong một công ty hoặc tổ chức"
       },
       {
         "definition": "a move by a sports team from playing in one group of teams to playing in a better group",
@@ -6071,7 +6745,9 @@
             "cf": "",
             "x": "the team’s promotion to the First Division"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thăng hạng",
+        "definition_vi": "việc một đội thể thao chuyển từ thi đấu ở nhóm này sang thi đấu ở nhóm tốt hơn"
       },
       {
         "definition": "activities done in order to increase the sales of a product or service; a set of advertisements for a particular product or service",
@@ -6088,7 +6764,9 @@
             "cf": "",
             "x": "We're doing a major book promotion at key bookshops this week."
           }
-        ]
+        ],
+        "short_meaning_vi": "chương trình khuyến mãi",
+        "definition_vi": "các hoạt động được thực hiện để tăng doanh số bán sản phẩm hoặc dịch vụ; một loạt quảng cáo cho một sản phẩm hoặc dịch vụ cụ thể"
       },
       {
         "definition": "activity that encourages people to believe in the value or importance of something, or that helps something to succeed",
@@ -6101,7 +6779,9 @@
             "cf": "",
             "x": "The new health promotion clinic will provide free check-ups."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thúc đẩy",
+        "definition_vi": "hoạt động khuyến khích mọi người tin vào giá trị hoặc tầm quan trọng của một điều gì đó, hoặc giúp một điều gì đó thành công"
       }
     ]
   },
@@ -6146,7 +6826,9 @@
             "cf": "in prospect",
             "x": "A place in the semi-finals is in prospect (= likely to happen)."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả năng",
+        "definition_vi": "khả năng một điều gì đó xảy ra"
       },
       {
         "definition": "an idea of what might or will happen in the future",
@@ -6175,7 +6857,9 @@
             "cf": "",
             "x": "I'm very excited at the prospect of joining the team."
           }
-        ]
+        ],
+        "short_meaning_vi": "viễn cảnh",
+        "definition_vi": "ý tưởng về những gì có thể hoặc sẽ xảy ra trong tương lai"
       },
       {
         "definition": "the chances of being successful",
@@ -6212,7 +6896,9 @@
             "cf": "",
             "x": "We are highly optimistic about the future prospects of the company."
           }
-        ]
+        ],
+        "short_meaning_vi": "cơ hội",
+        "definition_vi": "khả năng thành công"
       },
       {
         "definition": "a person who is likely to be successful in a competition or in a particular career",
@@ -6225,7 +6911,9 @@
             "cf": "",
             "x": "a list of the hot new prospects on the literary scene"
           }
-        ]
+        ],
+        "short_meaning_vi": "triển vọng",
+        "definition_vi": "một người có khả năng thành công trong một cuộc thi hoặc trong một sự nghiệp cụ thể"
       },
       {
         "definition": "a wide view of an area of land, etc.",
@@ -6234,7 +6922,9 @@
             "cf": "",
             "x": "a delightful prospect of the lake"
           }
-        ]
+        ],
+        "short_meaning_vi": "cảnh quan",
+        "definition_vi": "một cái nhìn rộng về một khu vực đất đai, v.v."
       }
     ]
   },
@@ -6259,7 +6949,9 @@
             "cf": "",
             "x": "I had a phone call from a prospective client today."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiềm năng",
+        "definition_vi": "được kỳ vọng sẽ làm điều gì đó hoặc trở thành điều gì đó"
       },
       {
         "definition": "expected to happen soon",
@@ -6272,7 +6964,9 @@
             "cf": "",
             "x": "On learning of a prospective sale, the lawyer should call the client as soon as possible."
           }
-        ]
+        ],
+        "short_meaning_vi": "sắp xảy ra",
+        "definition_vi": "được kỳ vọng sẽ xảy ra sớm"
       }
     ]
   },
@@ -6297,7 +6991,9 @@
             "cf": "",
             "x": "The country is enjoying a period of peace and prosperity."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thịnh vượng",
+        "definition_vi": "trạng thái thành công, đặc biệt là trong việc kiếm tiền"
       }
     ]
   },
@@ -6326,7 +7022,9 @@
             "cf": "",
             "x": "The trial took place amid a blaze of (= a lot of) publicity."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự quảng bá",
+        "definition_vi": "sự chú ý mà báo chí, truyền hình, v.v. dành cho ai đó/điều gì đó"
       },
       {
         "definition": "the business of attracting the attention of the public to something/somebody; the things that are done to attract attention",
@@ -6355,7 +7053,9 @@
             "cf": "",
             "x": "He’s in charge of the publicity for next year’s festival."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoạt động quảng bá",
+        "definition_vi": "ngành kinh doanh thu hút sự chú ý của công chúng đến một điều gì đó/ai đó; những gì được thực hiện để thu hút sự chú ý"
       }
     ]
   },
@@ -6404,7 +7104,9 @@
             "cf": "purchase by somebody",
             "x": "Such massive purchases by single investors were extremely rare."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự mua",
+        "definition_vi": "hành động hoặc quá trình mua một cái gì đó"
       },
       {
         "definition": "something that you have bought",
@@ -6421,7 +7123,9 @@
             "cf": "",
             "x": "If you are not satisfied with your purchase we will give you a full refund."
           }
-        ]
+        ],
+        "short_meaning_vi": "vật mua được",
+        "definition_vi": "một cái gì đó bạn đã mua"
       },
       {
         "definition": "a strong hold on something with the hands or feet, for example when you are climbing",
@@ -6430,7 +7134,9 @@
             "cf": "",
             "x": "She tried to get a purchase on the slippery rock."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự nắm giữ",
+        "definition_vi": "sự giữ chặt một cái gì đó bằng tay hoặc chân, ví dụ khi bạn đang leo trèo"
       }
     ]
   }

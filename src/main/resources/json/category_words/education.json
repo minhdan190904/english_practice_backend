@@ -40,7 +40,9 @@
             "cf": "",
             "x": "We are deeply committed to safeguarding academic freedom. "
           }
-        ]
+        ],
+        "short_meaning_vi": "học thuật",
+        "definition_vi": "liên quan đến giáo dục, đặc biệt là việc học ở trường học và đại học"
       },
       {
         "definition": "involving a lot of reading and studying rather than practical or technical skills",
@@ -57,7 +59,9 @@
             "cf": "",
             "x": "academic qualifications/subjects"
           }
-        ]
+        ],
+        "short_meaning_vi": "lý thuyết",
+        "definition_vi": "liên quan đến việc đọc và học nhiều thay vì các kỹ năng thực tế hoặc kỹ thuật"
       },
       {
         "definition": "good at subjects involving a lot of reading and studying",
@@ -66,7 +70,9 @@
             "cf": "",
             "x": "She wasn't very academic and hated school."
           }
-        ]
+        ],
+        "short_meaning_vi": "giỏi học",
+        "definition_vi": "giỏi các môn học liên quan đến việc đọc và học nhiều"
       },
       {
         "definition": "not connected to a real or practical situation and therefore not important",
@@ -83,7 +89,9 @@
             "cf": "",
             "x": "Most of his questions were of an academic nature."
           }
-        ]
+        ],
+        "short_meaning_vi": "lý thuyết suông",
+        "definition_vi": "không liên quan đến một tình huống thực tế hoặc thực tiễn và do đó không quan trọng"
       }
     ]
   },
@@ -108,7 +116,9 @@
             "cf": "",
             "x": "a police/military academy"
           }
-        ]
+        ],
+        "short_meaning_vi": "học viện",
+        "definition_vi": "một trường học hoặc cao đẳng để đào tạo đặc biệt"
       },
       {
         "definition": "a type of official organization that aims to encourage and develop art, literature, science, etc.",
@@ -117,7 +127,9 @@
             "cf": "",
             "x": "the Royal Academy of Arts"
           }
-        ]
+        ],
+        "short_meaning_vi": "viện hàn lâm",
+        "definition_vi": "một loại tổ chức chính thức nhằm mục đích khuyến khích và phát triển nghệ thuật, văn học, khoa học, v.v."
       },
       {
         "definition": "a secondary school in Scotland",
@@ -126,15 +138,21 @@
             "cf": "",
             "x": "He went to Ayr Academy."
           }
-        ]
+        ],
+        "short_meaning_vi": "học viện (Scotland)",
+        "definition_vi": "một trường trung học ở Scotland"
       },
       {
         "definition": "a private school in the US",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "học viện (Mỹ)",
+        "definition_vi": "một trường tư thục ở Mỹ"
       },
       {
         "definition": "a school in England that is independent of local authority control",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "học viện (Anh)",
+        "definition_vi": "một trường học ở Anh không thuộc sự kiểm soát của chính quyền địa phương"
       }
     ]
   },
@@ -187,7 +205,9 @@
             "cf": "",
             "x": "Last admissions to the park are at 4 p.m."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự cho phép vào",
+        "definition_vi": "hành động chấp nhận ai đó vào một tổ chức, đoàn thể, v.v.; quyền được vào một địa điểm hoặc tham gia một tổ chức hoặc đoàn thể"
       },
       {
         "definition": "a statement in which somebody admits that something is true, especially something wrong or bad that they have done",
@@ -204,7 +224,9 @@
             "cf": "admission that…",
             "x": "The minister's resignation was an admission that she had lied."
           }
-        ]
+        ],
+        "short_meaning_vi": "lời thú nhận",
+        "definition_vi": "một lời tuyên bố trong đó ai đó thừa nhận rằng điều gì đó là đúng, đặc biệt là điều gì đó sai trái hoặc tồi tệ mà họ đã làm"
       },
       {
         "definition": "the amount of money that you pay to go into a building or to an event",
@@ -221,7 +243,9 @@
             "cf": "",
             "x": "What's the admission?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiền vé vào cửa",
+        "definition_vi": "số tiền bạn phải trả để vào một tòa nhà hoặc một sự kiện"
       }
     ]
   },
@@ -258,7 +282,9 @@
             "cf": "",
             "x": "his assessment of the situation"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đánh giá",
+        "definition_vi": "một ý kiến hoặc một nhận định về ai đó/điều gì đó đã được suy nghĩ rất kỹ lưỡng"
       },
       {
         "definition": "the act of judging or forming an opinion about somebody/something",
@@ -271,7 +297,9 @@
             "cf": "",
             "x": "Needs assessment is crucial if the hospital is to deliver effective healthcare."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đánh giá",
+        "definition_vi": "hành động phán xét hoặc hình thành ý kiến về ai đó/điều gì đó"
       },
       {
         "definition": "the process of testing students and making a judgement about their knowledge, ability or progress",
@@ -280,7 +308,9 @@
             "cf": "",
             "x": "written exams and other forms of assessment"
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh giá học sinh",
+        "definition_vi": "quá trình kiểm tra học sinh và đưa ra nhận định về kiến thức, khả năng hoặc sự tiến bộ của họ"
       },
       {
         "definition": "an amount that has been calculated and that must be paid",
@@ -289,7 +319,9 @@
             "cf": "",
             "x": "a tax assessment"
           }
-        ]
+        ],
+        "short_meaning_vi": "khoản phải trả",
+        "definition_vi": "một số tiền đã được tính toán và phải thanh toán"
       }
     ]
   },
@@ -330,7 +362,9 @@
             "cf": "on assignment",
             "x": "one of our reporters on assignment in China"
           }
-        ]
+        ],
+        "short_meaning_vi": "bài tập",
+        "definition_vi": "một nhiệm vụ hoặc công việc mà ai đó được giao làm, thường là một phần công việc hoặc học tập của họ"
       },
       {
         "definition": "the act of giving something to somebody; the act of giving somebody a particular task",
@@ -339,7 +373,9 @@
             "cf": "",
             "x": "his assignment to other duties in the same company"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự phân công",
+        "definition_vi": "hành động giao một cái gì đó cho ai đó; hành động giao cho ai đó một nhiệm vụ cụ thể"
       }
     ]
   },
@@ -372,7 +408,9 @@
             "cf": "",
             "x": "a degree in geography"
           }
-        ]
+        ],
+        "short_meaning_vi": "địa lý học",
+        "definition_vi": "nghiên cứu khoa học về bề mặt trái đất, các đặc điểm vật lý, sự phân chia, sản phẩm, dân số, v.v."
       },
       {
         "definition": "the way in which the physical features of a place are arranged",
@@ -389,7 +427,9 @@
             "cf": "",
             "x": "Kim knew the geography of the building and strode along the corridor."
           }
-        ]
+        ],
+        "short_meaning_vi": "địa hình",
+        "definition_vi": "cách bố trí các đặc điểm vật lý của một địa điểm"
       },
       {
         "definition": "the way in which a particular aspect of life or society is influenced by geography or varies according to geography",
@@ -398,7 +438,9 @@
             "cf": "",
             "x": "The geography of poverty and the geography of voting are connected."
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh hưởng địa lý",
+        "definition_vi": "cách một khía cạnh cụ thể của cuộc sống hoặc xã hội bị ảnh hưởng bởi địa lý hoặc thay đổi theo địa lý"
       },
       {
         "definition": "a country, area or region",
@@ -407,7 +449,9 @@
             "cf": "",
             "x": "We are now operational across multiple geographies."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực",
+        "definition_vi": "một quốc gia, khu vực hoặc vùng miền"
       }
     ]
   },
@@ -436,7 +480,9 @@
             "cf": "",
             "x": "70 per cent of students achieved Grade C or above."
           }
-        ]
+        ],
+        "short_meaning_vi": "điểm số",
+        "definition_vi": "một điểm được cho trong một kỳ thi hoặc cho một bài tập ở trường"
       },
       {
         "definition": "(in the US school system) one of the levels in a school with children of similar age",
@@ -445,7 +491,9 @@
             "cf": "",
             "x": "Sam is in (the) second grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "khối lớp",
+        "definition_vi": "(trong hệ thống trường học của Mỹ) một trong các cấp lớp trong trường với những học sinh có độ tuổi tương đương"
       },
       {
         "definition": "the quality of a particular product or material",
@@ -454,7 +502,9 @@
             "cf": "",
             "x": "All the materials used were of the highest grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất lượng",
+        "definition_vi": "chất lượng của một sản phẩm hoặc vật liệu cụ thể"
       },
       {
         "definition": "a level of ability or rank that somebody has in an organization",
@@ -467,7 +517,9 @@
             "cf": "",
             "x": "She's still only on an entry grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấp bậc",
+        "definition_vi": "một cấp độ về khả năng hoặc thứ hạng mà ai đó có trong một tổ chức"
       },
       {
         "definition": "how serious an illness is",
@@ -476,7 +528,9 @@
             "cf": "",
             "x": "low/high grade fever"
           }
-        ]
+        ],
+        "short_meaning_vi": "mức độ nghiêm trọng",
+        "definition_vi": "mức độ nghiêm trọng của một căn bệnh"
       },
       {
         "definition": "a slope on a road or railway; the degree to which the ground slopes",
@@ -489,7 +543,9 @@
             "cf": "",
             "x": "We hiked up a short steep grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "độ dốc",
+        "definition_vi": "độ dốc trên đường hoặc đường sắt; mức độ dốc của mặt đất"
       },
       {
         "definition": "a level of exam in musical skill",
@@ -498,7 +554,9 @@
             "cf": "",
             "x": "grade 6 piano"
           }
-        ]
+        ],
+        "short_meaning_vi": "cấp độ nhạc lý",
+        "definition_vi": "một cấp độ thi trong kỹ năng âm nhạc"
       },
       {
         "definition": "to be a decision or an area of work that somebody does not have the authority or expert knowledge to deal with",
@@ -507,7 +565,9 @@
             "cf": "",
             "x": "This decision is above my pay grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt quá thẩm quyền",
+        "definition_vi": "là một quyết định hoặc một lĩnh vực công việc mà ai đó không có thẩm quyền hoặc kiến thức chuyên môn để giải quyết"
       },
       {
         "definition": "to reach the necessary standard; to succeed",
@@ -516,7 +576,9 @@
             "cf": "",
             "x": "About 10 per cent of trainees fail to make the grade."
           }
-        ]
+        ],
+        "short_meaning_vi": "đạt tiêu chuẩn",
+        "definition_vi": "đạt tiêu chuẩn cần thiết; thành công"
       }
     ]
   },
@@ -569,7 +631,9 @@
             "cf": "",
             "x": "graduate programs/degrees/studies"
           }
-        ]
+        ],
+        "short_meaning_vi": "người tốt nghiệp",
+        "definition_vi": "một người có bằng đại học"
       },
       {
         "definition": "a person who has completed their school studies",
@@ -578,7 +642,9 @@
             "cf": "",
             "x": "a high school graduate"
           }
-        ]
+        ],
+        "short_meaning_vi": "học sinh tốt nghiệp",
+        "definition_vi": "một người đã hoàn thành chương trình học của mình"
       }
     ]
   },
@@ -607,7 +673,9 @@
             "cf": "",
             "x": "The helpline was set up for young people in need of guidance and support."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hướng dẫn",
+        "definition_vi": "sự giúp đỡ hoặc lời khuyên được đưa ra cho ai đó, đặc biệt là bởi một người lớn tuổi hơn hoặc có kinh nghiệm hơn"
       },
       {
         "definition": "the process of controlling the direction of a rocket, etc., using electronic equipment",
@@ -616,7 +684,9 @@
             "cf": "",
             "x": "a missile guidance system"
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống dẫn đường",
+        "definition_vi": "quá trình điều khiển hướng đi của tên lửa, v.v., bằng thiết bị điện tử"
       }
     ]
   },
@@ -669,7 +739,9 @@
             "cf": "knowledge about something",
             "x": "There is a lack of knowledge about the tax system."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiến thức",
+        "definition_vi": "thông tin, sự hiểu biết và kỹ năng mà bạn có được thông qua giáo dục hoặc kinh nghiệm"
       },
       {
         "definition": "the state of knowing about a particular fact or situation",
@@ -702,7 +774,9 @@
             "cf": "",
             "x": "Their delight in the win was tempered by the knowledge that the competition would only get fiercer."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự hiểu biết",
+        "definition_vi": "trạng thái biết về một sự kiện hoặc tình huống cụ thể"
       },
       {
         "definition": "information, considered as a resource to be used and supplied in industry, rather than producing goods",
@@ -727,7 +801,9 @@
             "cf": "",
             "x": "The successful candidate will have experience in data and knowledge management."
           }
-        ]
+        ],
+        "short_meaning_vi": "tri thức công nghiệp",
+        "definition_vi": "thông tin, được coi là một nguồn lực để sử dụng và cung cấp trong công nghiệp, thay vì sản xuất hàng hóa"
       },
       {
         "definition": "to be something that everyone knows, especially in a particular community or group",
@@ -736,7 +812,9 @@
             "cf": "",
             "x": "Their relationship is common knowledge."
           }
-        ]
+        ],
+        "short_meaning_vi": "ai cũng biết",
+        "definition_vi": "là một điều mà mọi người đều biết, đặc biệt là trong một cộng đồng hoặc nhóm cụ thể"
       },
       {
         "definition": "to become known by somebody",
@@ -745,7 +823,9 @@
             "cf": "",
             "x": "It has come to our knowledge that you have been taking time off without permission."
           }
-        ]
+        ],
+        "short_meaning_vi": "trở nên biết",
+        "definition_vi": "trở nên được ai đó biết đến"
       },
       {
         "definition": "as far as you know",
@@ -754,7 +834,9 @@
             "cf": "",
             "x": "He never made a will, to the best of my knowledge."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo hiểu biết",
+        "definition_vi": "trong phạm vi hiểu biết của bạn"
       },
       {
         "definition": "from the information you have, although you may not know everything",
@@ -767,7 +849,9 @@
             "cf": "",
             "x": "She never, to my knowledge, considered resigning."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo thông tin",
+        "definition_vi": "từ thông tin bạn có, mặc dù bạn có thể không biết mọi thứ"
       }
     ]
   },
@@ -832,7 +916,9 @@
             "cf": "learn what, where, etc…",
             "x": "Students need to learn what to do in an emergency."
           }
-        ]
+        ],
+        "short_meaning_vi": "học hỏi",
+        "definition_vi": "để tiếp thu kiến thức hoặc kỹ năng bằng cách học, từ kinh nghiệm, từ việc được dạy, v.v."
       },
       {
         "definition": "to study and repeat something in order to be able to remember it",
@@ -849,7 +935,9 @@
             "cf": "",
             "x": "You'll have to learn your lines by next week."
           }
-        ]
+        ],
+        "short_meaning_vi": "học thuộc",
+        "definition_vi": "học và lặp lại một cái gì đó để có thể ghi nhớ nó"
       },
       {
         "definition": "to gradually change your attitudes about something so that you behave in a different way",
@@ -882,7 +970,9 @@
             "cf": "",
             "x": "I soon learned not to ask too many questions."
           }
-        ]
+        ],
+        "short_meaning_vi": "thay đổi thái độ",
+        "definition_vi": "dần dần thay đổi thái độ của bạn về một điều gì đó để bạn hành xử theo một cách khác"
       },
       {
         "definition": "to become aware of something by hearing about it from somebody else",
@@ -911,7 +1001,9 @@
             "cf": "it is learned that…",
             "x": "It has been learned that 500 jobs are to be lost at the factory."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghe nói",
+        "definition_vi": "biết điều gì đó vì nghe ai đó nói lại"
       },
       {
         "definition": "to know something because of something unpleasant that has happened to you",
@@ -920,23 +1012,33 @@
             "cf": "",
             "x": "She is a tough competitor, as I know to my cost."
           }
-        ]
+        ],
+        "short_meaning_vi": "rút kinh nghiệm",
+        "definition_vi": "biết điều gì đó vì điều khó chịu đã xảy ra với bạn"
       },
       {
         "definition": "to find out how to behave by learning from your mistakes or from unpleasant experiences, rather than from being told",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "học từ sai lầm",
+        "definition_vi": "tìm hiểu cách hành xử bằng cách học hỏi từ những sai lầm hoặc từ những trải nghiệm khó chịu, thay vì được người khác nói cho"
       },
       {
         "definition": "to learn what to do or not to do in the future because you have had a bad experience in the past",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rút kinh nghiệm",
+        "definition_vi": "học những gì nên làm hoặc không nên làm trong tương lai vì bạn đã có một trải nghiệm tồi tệ trong quá khứ"
       },
       {
         "definition": "to show somebody/know/learn how a particular job should be done",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "học cách làm",
+        "definition_vi": "chỉ cho ai đó/biết/học cách thực hiện một công việc cụ thể như thế nào"
       },
       {
         "definition": "used to express surprise at something new or unexpected you have been told",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thật vậy sao",
+        "definition_vi": "dùng để bày tỏ sự ngạc nhiên về một điều gì đó mới hoặc bất ngờ mà bạn được kể"
       }
     ]
   },
@@ -985,7 +1087,9 @@
             "cf": "",
             "x": "A large part of children's learning takes place in the home."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự học hỏi",
+        "definition_vi": "quá trình học hỏi một điều gì đó"
       },
       {
         "definition": "knowledge that you get from reading and studying",
@@ -994,7 +1098,9 @@
             "cf": "",
             "x": "a woman of great learning"
           }
-        ]
+        ],
+        "short_meaning_vi": "kiến thức học được",
+        "definition_vi": "kiến thức bạn nhận được từ việc đọc và học"
       },
       {
         "definition": "something that you learn, especially from your experience of working on something ",
@@ -1003,7 +1109,9 @@
             "cf": "",
             "x": "We will be sharing key learnings from our project."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài học kinh nghiệm",
+        "definition_vi": "điều bạn học được, đặc biệt là từ kinh nghiệm làm việc về một điều gì đó"
       }
     ]
   },
@@ -1064,7 +1172,9 @@
             "cf": "at a lecture",
             "x": "There were very few students at his lecture that morning."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài giảng",
+        "definition_vi": "một bài nói chuyện được thực hiện cho một nhóm người để dạy họ về một chủ đề cụ thể, thường là một phần của khóa học đại học hoặc cao đẳng"
       },
       {
         "definition": "a long, angry talk that somebody gives to one person or a group of people because they have done something wrong",
@@ -1073,7 +1183,9 @@
             "cf": "",
             "x": "I know I should eat more healthily—don't give me a lecture about it."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài thuyết giáo",
+        "definition_vi": "một bài nói dài, giận dữ mà ai đó nói với một người hoặc một nhóm người vì họ đã làm điều gì đó sai trái"
       }
     ]
   },
@@ -1126,7 +1238,9 @@
             "cf": "",
             "x": "What did we do last lesson?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiết học",
+        "definition_vi": "một khoảng thời gian trong đó ai đó được dạy một điều gì đó"
       },
       {
         "definition": "something that is intended to be learned",
@@ -1139,7 +1253,9 @@
             "cf": "lesson on something",
             "x": "Other countries can teach us a lesson or two on industrial policy."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài học",
+        "definition_vi": "một điều gì đó được dự định để học"
       },
       {
         "definition": "an experience, especially an unpleasant one, that somebody can learn from so that it does not happen again in the future",
@@ -1188,7 +1304,9 @@
             "cf": "lesson for somebody",
             "x": "The lesson for the leaders of Western governments is clear."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài học kinh nghiệm",
+        "definition_vi": "một trải nghiệm, đặc biệt là một trải nghiệm khó chịu, mà ai đó có thể học hỏi để nó không xảy ra lần nữa trong tương lai"
       },
       {
         "definition": "a passage from the Bible that is read to people during a church service in the Church of England",
@@ -1197,11 +1315,15 @@
             "cf": "",
             "x": "The first lesson is taken from St John’s Gospel."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài đọc kinh thánh",
+        "definition_vi": "một đoạn Kinh thánh được đọc cho mọi người trong một buổi lễ nhà thờ ở Giáo hội Anh"
       },
       {
         "definition": "to learn what to do or not to do in the future because you have had a bad experience in the past",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "rút kinh nghiệm",
+        "definition_vi": "học những gì nên làm hoặc không nên làm trong tương lai vì bạn đã có một trải nghiệm tồi tệ trong quá khứ"
       }
     ]
   },
@@ -1226,7 +1348,9 @@
             "cf": "",
             "x": "Add a level tablespoon of flour (= enough to fill the spoon but not so much that it goes above the level of the edge of the spoon)."
           }
-        ]
+        ],
+        "short_meaning_vi": "bằng phẳng",
+        "definition_vi": "có bề mặt phẳng không dốc"
       },
       {
         "definition": "having the same height, position, value, etc. as something",
@@ -1255,7 +1379,9 @@
             "cf": "",
             "x": "The water came level with the top of her boots."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngang bằng",
+        "definition_vi": "có cùng chiều cao, vị trí, giá trị, v.v. với một cái gì đó"
       },
       {
         "definition": "having the same score as somebody",
@@ -1272,7 +1398,9 @@
             "cf": "",
             "x": "France took an early lead but Wales soon drew level (= scored the same number of points)."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngang điểm",
+        "definition_vi": "có cùng điểm số với ai đó"
       },
       {
         "definition": "not showing any emotion; steady",
@@ -1281,7 +1409,9 @@
             "cf": "",
             "x": "a level gaze"
           }
-        ]
+        ],
+        "short_meaning_vi": "điềm tĩnh",
+        "definition_vi": "không biểu lộ cảm xúc; ổn định"
       },
       {
         "definition": "to have an equal or even score",
@@ -1294,15 +1424,21 @@
             "cf": "",
             "x": " Five minutes later it was level pegging when Kane banged in the equalizer."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngang bằng",
+        "definition_vi": "có điểm số bằng hoặc ngang bằng"
       },
       {
         "definition": "to do as much as you can to try to achieve something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cố gắng hết sức",
+        "definition_vi": "làm hết sức mình để cố gắng đạt được điều gì đó"
       },
       {
         "definition": "a situation in which everyone has the same opportunities",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cơ hội ngang bằng",
+        "definition_vi": "một tình huống mà mọi người đều có cơ hội như nhau"
       }
     ]
   },
@@ -1347,7 +1483,9 @@
             "cf": "",
             "x": "Councillors have made a commitment that no library services will be lost in the county."
           }
-        ]
+        ],
+        "short_meaning_vi": "thư viện",
+        "definition_vi": "một tòa nhà nơi lưu giữ các bộ sưu tập sách, báo, v.v. và đôi khi cả phim ảnh và nhạc thu âm để mọi người đọc, nghiên cứu hoặc mượn"
       },
       {
         "definition": "a collection of books, newspapers, films, recorded music, etc. held in a library or stored in digital form",
@@ -1360,11 +1498,15 @@
             "cf": "",
             "x": "The Media Centre houses a digital library of radio and television programmes."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ sưu tập",
+        "definition_vi": "một bộ sưu tập sách, báo, phim, nhạc thu âm, v.v. được lưu giữ trong thư viện hoặc lưu trữ ở dạng kỹ thuật số"
       },
       {
         "definition": "a room in a large house where most of the books are kept",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phòng đọc sách",
+        "definition_vi": "một căn phòng trong một ngôi nhà lớn nơi hầu hết sách được cất giữ"
       },
       {
         "definition": "a personal collection of books, music recordings, etc.",
@@ -1385,7 +1527,9 @@
             "cf": "",
             "x": "a personal library of over 1 000 volumes"
           }
-        ]
+        ],
+        "short_meaning_vi": "tủ sách cá nhân",
+        "definition_vi": "một bộ sưu tập sách, bản ghi âm nhạc, v.v. cá nhân"
       },
       {
         "definition": "a series of books, recordings, etc. produced by the same company and similar in appearance",
@@ -1394,7 +1538,9 @@
             "cf": "",
             "x": "a library of children’s classics"
           }
-        ]
+        ],
+        "short_meaning_vi": "tủ sách",
+        "definition_vi": "một loạt sách, bản ghi âm, v.v. do cùng một công ty sản xuất và có ngoại hình tương tự"
       }
     ]
   },
@@ -1423,7 +1569,9 @@
             "cf": "",
             "x": "He has been a lifelong supporter of the club."
           }
-        ]
+        ],
+        "short_meaning_vi": "suốt đời",
+        "definition_vi": "kéo dài hoặc tồn tại trong suốt cuộc đời bạn"
       }
     ]
   },
@@ -1452,7 +1600,9 @@
             "cf": "",
             "x": "Most of the students here need help with literacy and numeracy."
           }
-        ]
+        ],
+        "short_meaning_vi": "biết đọc viết",
+        "definition_vi": "khả năng đọc và viết"
       },
       {
         "definition": "knowledge or skills in a specific area",
@@ -1465,7 +1615,9 @@
             "cf": "",
             "x": "We’re looking to hire an assistant with a high level of digital literacy."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiến thức chuyên môn",
+        "definition_vi": "kiến thức hoặc kỹ năng trong một lĩnh vực cụ thể"
       }
     ]
   },
@@ -1490,7 +1642,9 @@
             "cf": "",
             "x": "The two parts of the plan were governed by the same logic."
           }
-        ]
+        ],
+        "short_meaning_vi": "lý lẽ",
+        "definition_vi": "một cách suy nghĩ hoặc giải thích một điều gì đó"
       },
       {
         "definition": "sensible reasons for doing something",
@@ -1507,7 +1661,9 @@
             "cf": "logic to/in something",
             "x": "There is no logic in any of their claims."
           }
-        ]
+        ],
+        "short_meaning_vi": "lý do hợp lý",
+        "definition_vi": "những lý do hợp lý để làm một điều gì đó"
       },
       {
         "definition": "the science of thinking about or explaining the reason for something using formal methods",
@@ -1520,11 +1676,15 @@
             "cf": "",
             "x": "Philosophers use logic to prove their arguments."
           }
-        ]
+        ],
+        "short_meaning_vi": "logic học",
+        "definition_vi": "khoa học về suy nghĩ hoặc giải thích lý do tại sao một điều gì đó xảy ra bằng các phương pháp chính thức"
       },
       {
         "definition": "a system or set of principles used in preparing a computer or electronic device to perform a particular task",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thuật toán",
+        "definition_vi": "một hệ thống hoặc tập hợp các nguyên tắc được sử dụng để chuẩn bị cho máy tính hoặc thiết bị điện tử thực hiện một nhiệm vụ cụ thể"
       }
     ]
   },
@@ -1561,7 +1721,9 @@
             "cf": "",
             "x": "What 's the next logical step?"
           }
-        ]
+        ],
+        "short_meaning_vi": "hợp lý",
+        "definition_vi": "có vẻ tự nhiên, hợp lý hoặc đúng đắn."
       },
       {
         "definition": "following or able to follow the rules of logic in which ideas or facts are based on other true ideas or facts",
@@ -1574,7 +1736,9 @@
             "cf": "",
             "x": "Computer programming needs someone with a logical mind."
           }
-        ]
+        ],
+        "short_meaning_vi": "logic",
+        "definition_vi": "theo hoặc có khả năng tuân theo các quy tắc logic mà ý tưởng hoặc sự kiện dựa trên các ý tưởng hoặc sự kiện đúng khác."
       }
     ]
   },
@@ -1607,7 +1771,9 @@
             "cf": "",
             "x": "Every image is made up of hundreds of brush marks."
           }
-        ]
+        ],
+        "short_meaning_vi": "dấu hiệu",
+        "definition_vi": "một ký hiệu viết hoặc in được sử dụng như một dấu hiệu của điều gì đó, ví dụ như chất lượng của một thứ gì đó hoặc ai đã tạo ra hoặc sở hữu nó."
       },
       {
         "definition": "a number or letter that is given to show the standard of somebody’s work or performance or is given to somebody for answering something correctly",
@@ -1624,7 +1790,9 @@
             "cf": "",
             "x": "What's the pass mark (= the mark you need in order to pass)?"
           }
-        ]
+        ],
+        "short_meaning_vi": "điểm số",
+        "definition_vi": "một con số hoặc chữ cái được đưa ra để thể hiện tiêu chuẩn công việc hoặc thành tích của ai đó hoặc được đưa cho ai đó vì đã trả lời đúng một câu hỏi."
       },
       {
         "definition": "a point given for a correct answer in an exam or competition",
@@ -1645,7 +1813,9 @@
             "cf": "",
             "x": "‘You're wearing a tie!’ ‘Full marks for observation.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "điểm",
+        "definition_vi": "một điểm được cho cho một câu trả lời đúng trong một kỳ thi hoặc cuộc thi."
       },
       {
         "definition": "a small area of dirt, a spot or a cut on a surface that makes it look less good",
@@ -1666,7 +1836,9 @@
             "cf": "",
             "x": "Detectives found no marks on the body."
           }
-        ]
+        ],
+        "short_meaning_vi": "vết bẩn",
+        "definition_vi": "một vùng nhỏ bụi bẩn, một vết đốm hoặc một vết cắt trên bề mặt làm cho nó trông kém đẹp hơn."
       },
       {
         "definition": "a spot or area of colour on the body of a person or an animal that helps you to recognize them",
@@ -1683,7 +1855,9 @@
             "cf": "",
             "x": "Look for a bird with a blue mark on its wings."
           }
-        ]
+        ],
+        "short_meaning_vi": "đốm",
+        "definition_vi": "một đốm hoặc vùng màu trên cơ thể người hoặc động vật giúp bạn nhận ra chúng."
       },
       {
         "definition": "a sign that a quality or feeling exists",
@@ -1696,7 +1870,9 @@
             "cf": "",
             "x": "Such coolness under pressure is the mark of a champion."
           }
-        ]
+        ],
+        "short_meaning_vi": "dấu hiệu",
+        "definition_vi": "một dấu hiệu cho thấy một phẩm chất hoặc cảm xúc tồn tại."
       },
       {
         "definition": "a level or point that something reaches that is thought to be important",
@@ -1717,7 +1893,9 @@
             "cf": "",
             "x": "She was leading at the halfway mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "mức độ",
+        "definition_vi": "một cấp độ hoặc điểm mà một cái gì đó đạt tới được coi là quan trọng."
       },
       {
         "definition": "a particular type or model of a machine or vehicle",
@@ -1726,7 +1904,9 @@
             "cf": "",
             "x": "the Mark II engine"
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểu máy",
+        "definition_vi": "một loại hoặc mẫu máy móc hoặc phương tiện cụ thể."
       },
       {
         "definition": "a particular level of temperature in a gas oven",
@@ -1735,11 +1915,15 @@
             "cf": "",
             "x": "Preheat the oven to gas Mark 6."
           }
-        ]
+        ],
+        "short_meaning_vi": "mức nhiệt",
+        "definition_vi": "một mức nhiệt độ cụ thể trong lò nướng gas."
       },
       {
         "definition": "a cross made on a document instead of a signature by somebody who is not able to write their name",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dấu thập",
+        "definition_vi": "một dấu thập được thực hiện trên một tài liệu thay cho chữ ký của người không biết viết tên mình."
       },
       {
         "definition": "a target",
@@ -1756,11 +1940,15 @@
             "cf": "",
             "x": "Shock tactics often fall wide of their mark (= are not successful)."
           }
-        ]
+        ],
+        "short_meaning_vi": "mục tiêu",
+        "definition_vi": "một mục tiêu."
       },
       {
         "definition": "the former unit of money in Germany (replaced in 2002 by the euro)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "mác",
+        "definition_vi": "đơn vị tiền tệ cũ ở Đức (được thay thế vào năm 2002 bằng đồng euro)."
       },
       {
         "definition": "to be fairly accurate in a guess, statement, etc.",
@@ -1773,7 +1961,9 @@
             "cf": "",
             "x": "‘The Times’ was nearer the mark when it said…"
           }
-        ]
+        ],
+        "short_meaning_vi": "đoán đúng",
+        "definition_vi": "khá chính xác trong một phỏng đoán, tuyên bố, v.v."
       },
       {
         "definition": "not to be accurate in a guess, statement, etc.",
@@ -1782,7 +1972,9 @@
             "cf": "",
             "x": "No, you're way off the mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "đoán sai",
+        "definition_vi": "không chính xác trong một phỏng đoán, tuyên bố, v.v."
       },
       {
         "definition": "to be accurate or correct",
@@ -1795,7 +1987,9 @@
             "cf": "",
             "x": "I think that your idea is right on the mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "chính xác hoặc đúng."
       },
       {
         "definition": "to fail to reach the standard that you expected or need",
@@ -1804,7 +1998,9 @@
             "cf": "",
             "x": "Taylor's solution falls short of the mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "thất bại",
+        "definition_vi": "không đạt được tiêu chuẩn mà bạn mong đợi hoặc cần."
       },
       {
         "definition": "to start scoring in a game or sport",
@@ -1813,7 +2009,9 @@
             "cf": "",
             "x": "Stewart got off the mark with a four."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu ghi bàn",
+        "definition_vi": "bắt đầu ghi điểm trong một trò chơi hoặc môn thể thao."
       },
       {
         "definition": "to succeed/fail in achieving or guessing something",
@@ -1826,7 +2024,9 @@
             "cf": "",
             "x": "The film misses the mark because it just isn't believable."
           }
-        ]
+        ],
+        "short_meaning_vi": "đạt được/đoán được",
+        "definition_vi": "thành công/thất bại trong việc đạt được hoặc đoán một cái gì đó."
       },
       {
         "definition": "to have an effect on something/somebody, especially a bad one, that lasts for a long time",
@@ -1847,7 +2047,9 @@
             "cf": "",
             "x": "The experience left a deep mark on his memory."
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh hưởng lâu dài",
+        "definition_vi": "có tác động đến một cái gì đó/ai đó, đặc biệt là một tác động xấu, kéo dài trong một thời gian dài."
       },
       {
         "definition": "to become famous and successful in a particular area",
@@ -1864,7 +2066,9 @@
             "cf": "",
             "x": "Women are continuing to make their mark in business."
           }
-        ]
+        ],
+        "short_meaning_vi": "trở nên nổi tiếng",
+        "definition_vi": "trở nên nổi tiếng và thành công trong một lĩnh vực cụ thể."
       },
       {
         "definition": "not to feel as well or lively as usual",
@@ -1873,11 +2077,15 @@
             "cf": "",
             "x": "I’m not feeling up to the mark at the moment."
           }
-        ]
+        ],
+        "short_meaning_vi": "không khỏe",
+        "definition_vi": "không cảm thấy khỏe hoặc tràn đầy sức sống như bình thường."
       },
       {
         "definition": "used to tell runners in a race to get ready and then to start",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chuẩn bị/bắt đầu",
+        "definition_vi": "được sử dụng để yêu cầu những người chạy trong cuộc đua chuẩn bị và sau đó bắt đầu."
       },
       {
         "definition": "to behave in a way that people think is not acceptable",
@@ -1886,7 +2094,9 @@
             "cf": "",
             "x": "She realized she had overstepped the mark and quickly apologized."
           }
-        ]
+        ],
+        "short_meaning_vi": "hành xử sai",
+        "definition_vi": "hành xử theo cách mà mọi người cho là không thể chấp nhận được."
       },
       {
         "definition": "fast/slow in reacting to a situation",
@@ -1899,7 +2109,9 @@
             "cf": "",
             "x": "The government was slow off the mark in responding to the crisis."
           }
-        ]
+        ],
+        "short_meaning_vi": "phản ứng nhanh/chậm",
+        "definition_vi": "nhanh/chậm trong phản ứng với một tình huống."
       },
       {
         "definition": "to say or do what somebody in authority tells you to say or do, even if you do not share the same opinions, etc.",
@@ -1912,7 +2124,9 @@
             "cf": "",
             "x": "They rarely fail to toe the mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuân lệnh",
+        "definition_vi": "nói hoặc làm những gì người có thẩm quyền yêu cầu bạn nói hoặc làm, ngay cả khi bạn không chia sẻ cùng ý kiến, v.v."
       },
       {
         "definition": "as good as it/they should be",
@@ -1921,7 +2135,9 @@
             "cf": "",
             "x": "Your work isn't really up to the mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "đạt tiêu chuẩn",
+        "definition_vi": "tốt như nó/chúng nên có."
       },
       {
         "definition": "not accurate",
@@ -1930,7 +2146,9 @@
             "cf": "",
             "x": "Their predictions turned out to be wide of the mark."
           }
-        ]
+        ],
+        "short_meaning_vi": "không chính xác",
+        "definition_vi": "không chính xác."
       }
     ]
   },
@@ -1955,7 +2173,9 @@
             "cf": "",
             "x": "He placed a marker where the ball had landed."
           }
-        ]
+        ],
+        "short_meaning_vi": "vật đánh dấu",
+        "definition_vi": "một vật thể hoặc dấu hiệu cho biết vị trí của một cái gì đó."
       },
       {
         "definition": "a sign that something exists or that shows what it is like",
@@ -1964,19 +2184,27 @@
             "cf": "",
             "x": "Price is not always an accurate marker of quality."
           }
-        ]
+        ],
+        "short_meaning_vi": "dấu hiệu",
+        "definition_vi": "một dấu hiệu cho thấy một cái gì đó tồn tại hoặc cho biết nó như thế nào."
       },
       {
         "definition": "a pen with a thick felt tip",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bút dạ",
+        "definition_vi": "một cây bút có đầu felt dày."
       },
       {
         "definition": "a person who marks students’ work or exam papers",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người chấm bài",
+        "definition_vi": "một người chấm bài tập hoặc bài thi của học sinh."
       },
       {
         "definition": "a player who stays close to a player on the other team in order to stop them getting the ball",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người kèm",
+        "definition_vi": "một cầu thủ bám sát một cầu thủ của đội đối phương để ngăn họ lấy bóng."
       },
       {
         "definition": "to do something that sets a standard for your competitors or shows what you intend to do or achieve in the future",
@@ -1989,7 +2217,9 @@
             "cf": "",
             "x": "The prime minister has put down a marker for a Washington visit in May."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiết lập tiêu chuẩn",
+        "definition_vi": "làm điều gì đó đặt ra tiêu chuẩn cho đối thủ cạnh tranh của bạn hoặc cho thấy những gì bạn dự định làm hoặc đạt được trong tương lai."
       }
     ]
   },
@@ -2014,7 +2244,9 @@
             "cf": "",
             "x": "Their relationship was one of master and servant."
           }
-        ]
+        ],
+        "short_meaning_vi": "chủ nhân",
+        "definition_vi": "một người đàn ông có người làm việc cho mình, thường là người hầu trong nhà của ông ta."
       },
       {
         "definition": "a person who is in charge of an organization or group",
@@ -2023,7 +2255,9 @@
             "cf": "",
             "x": "The police had to obey their political masters."
           }
-        ]
+        ],
+        "short_meaning_vi": "người đứng đầu",
+        "definition_vi": "một người chịu trách nhiệm về một tổ chức hoặc nhóm."
       },
       {
         "definition": "a person who is able to control something",
@@ -2032,7 +2266,9 @@
             "cf": "",
             "x": "She was no longer master of her own future."
           }
-        ]
+        ],
+        "short_meaning_vi": "người làm chủ",
+        "definition_vi": "một người có khả năng kiểm soát một cái gì đó."
       },
       {
         "definition": "a person who shows a lot of skill at something",
@@ -2053,7 +2289,9 @@
             "cf": "master at doing something",
             "x": "a master at managing money"
           }
-        ]
+        ],
+        "short_meaning_vi": "bậc thầy",
+        "definition_vi": "một người thể hiện kỹ năng cao trong một lĩnh vực nào đó."
       },
       {
         "definition": "a famous painter who lived in the past",
@@ -2070,7 +2308,9 @@
             "cf": "",
             "x": "This portrait is the work of an acknowledged master."
           }
-        ]
+        ],
+        "short_meaning_vi": "họa sĩ bậc thầy",
+        "definition_vi": "một họa sĩ nổi tiếng sống trong quá khứ."
       },
       {
         "definition": "a second university degree, or, in Scotland, a first university degree, such as an MA",
@@ -2083,7 +2323,9 @@
             "cf": "",
             "x": "She holds a master's degree in journalism."
           }
-        ]
+        ],
+        "short_meaning_vi": "bằng thạc sĩ",
+        "definition_vi": "bằng đại học thứ hai, hoặc, ở Scotland, bằng đại học đầu tiên, chẳng hạn như bằng MA"
       },
       {
         "definition": "a person who has a master’s degree",
@@ -2092,7 +2334,9 @@
             "cf": "",
             "x": "a Master of Arts/Science"
           }
-        ]
+        ],
+        "short_meaning_vi": "người có bằng thạc sĩ",
+        "definition_vi": "một người có bằng thạc sĩ"
       },
       {
         "definition": "the owner of an animal, especially a dog or horse",
@@ -2109,7 +2353,9 @@
             "cf": "",
             "x": "The horses watched their masters placidly."
           }
-        ]
+        ],
+        "short_meaning_vi": "chủ vật nuôi",
+        "definition_vi": "chủ sở hữu của một con vật, đặc biệt là chó hoặc ngựa"
       },
       {
         "definition": "a male teacher at a school, especially a private school",
@@ -2122,11 +2368,15 @@
             "cf": "",
             "x": "He was ballet master at several dance schools."
           }
-        ]
+        ],
+        "short_meaning_vi": "thầy giáo",
+        "definition_vi": "một giáo viên nam tại một trường học, đặc biệt là trường tư"
       },
       {
         "definition": "the captain of a ship that transports goods",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thuyền trưởng",
+        "definition_vi": "thuyền trưởng của một con tàu vận chuyển hàng hóa"
       },
       {
         "definition": "a version of a recording from which copies are made",
@@ -2135,11 +2385,15 @@
             "cf": "",
             "x": "the master copy"
           }
-        ]
+        ],
+        "short_meaning_vi": "bản gốc thu âm",
+        "definition_vi": "một phiên bản của bản ghi âm từ đó các bản sao được tạo ra"
       },
       {
         "definition": "a title used when speaking to or about a boy who is too young to be called Mr (also used in front of the name on an envelope, etc.)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cậu bé",
+        "definition_vi": "một danh hiệu được sử dụng khi nói chuyện với hoặc về một cậu bé còn quá nhỏ để được gọi là Mr (cũng được sử dụng ở đầu thư gửi đi, v.v.)"
       },
       {
         "definition": "(in the UK) the title of the head of some schools and university colleges",
@@ -2148,19 +2402,27 @@
             "cf": "",
             "x": "the Master of Wolfson College"
           }
-        ]
+        ],
+        "short_meaning_vi": "hiệu trưởng",
+        "definition_vi": "(ở Vương quốc Anh) danh hiệu của người đứng đầu một số trường học và cao đẳng đại học"
       },
       {
         "definition": "a title used for speaking to or about some religious teachers or leaders",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thầy tu",
+        "definition_vi": "một danh hiệu được sử dụng để nói chuyện với hoặc về một số giáo viên hoặc lãnh đạo tôn giáo"
       },
       {
         "definition": "to be free to make your own decisions rather than being told what to do by somebody else",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm chủ",
+        "definition_vi": "được tự do đưa ra quyết định của riêng mình thay vì bị người khác sai bảo"
       },
       {
         "definition": "to support two different parties, principles, etc. at the same time",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lưỡng lự",
+        "definition_vi": "ủng hộ hai bên, nguyên tắc, v.v. khác nhau cùng một lúc"
       }
     ]
   },
@@ -2185,7 +2447,9 @@
             "cf": "",
             "x": "to assess children’s mathematical ability"
           }
-        ]
+        ],
+        "short_meaning_vi": "toán học",
+        "definition_vi": "liên quan đến hoặc liên quan đến toán học"
       }
     ]
   },
@@ -2210,7 +2474,9 @@
             "cf": "",
             "x": "applied/pure mathematics"
           }
-        ]
+        ],
+        "short_meaning_vi": "toán học",
+        "definition_vi": "nghiên cứu về số và hình dạng. Các nhánh của toán học bao gồm số học, đại số, hình học và lượng giác."
       },
       {
         "definition": "the process of calculating using numbers",
@@ -2227,7 +2493,9 @@
             "cf": "",
             "x": "The mathematics of baseball is/are very interesting."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính toán",
+        "definition_vi": "quá trình tính toán bằng số"
       }
     ]
   },
@@ -2252,7 +2520,9 @@
             "cf": "",
             "x": "a maths teacher"
           }
-        ]
+        ],
+        "short_meaning_vi": "toán học",
+        "definition_vi": "toán học, đặc biệt là một môn học ở trường"
       },
       {
         "definition": "the process of calculating using numbers",
@@ -2269,7 +2539,9 @@
             "cf": "",
             "x": "Working out the quantities of the ingredients involved some complicated maths."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính toán",
+        "definition_vi": "quá trình tính toán bằng số"
       },
       {
         "definition": "to think carefully about something before doing it so that you know all the relevant facts or figures",
@@ -2282,7 +2554,9 @@
             "cf": "",
             "x": "If only someone had done the maths!"
           }
-        ]
+        ],
+        "short_meaning_vi": "suy tính",
+        "definition_vi": "suy nghĩ cẩn thận về điều gì đó trước khi thực hiện nó để bạn biết tất cả các sự kiện hoặc số liệu có liên quan"
       }
     ]
   },
@@ -2319,7 +2593,9 @@
             "cf": "",
             "x": "‘Honesty’? He doesn't know the meaning of the word!"
           }
-        ]
+        ],
+        "short_meaning_vi": "ý nghĩa",
+        "definition_vi": "điều hoặc ý tưởng mà một âm thanh, từ, dấu hiệu, v.v. đại diện"
       },
       {
         "definition": "the things or ideas that somebody wishes to communicate to you by what they say or do",
@@ -2336,7 +2612,9 @@
             "cf": "",
             "x": "What's the meaning of this? I explicitly told you not to leave the room."
           }
-        ]
+        ],
+        "short_meaning_vi": "ý muốn nói",
+        "definition_vi": "những điều hoặc ý tưởng mà ai đó muốn truyền đạt cho bạn bằng những gì họ nói hoặc làm"
       },
       {
         "definition": "the real importance of a feeling or an experience",
@@ -2353,7 +2631,9 @@
             "cf": "",
             "x": "It is difficult to grasp the meaning of these events."
           }
-        ]
+        ],
+        "short_meaning_vi": "ý nghĩa",
+        "definition_vi": "tầm quan trọng thực sự của một cảm xúc hoặc trải nghiệm"
       },
       {
         "definition": "the ideas that a writer, artist, etc. wishes to communicate through a book, painting, etc.",
@@ -2370,7 +2650,9 @@
             "cf": "",
             "x": "This chapter is important if the reader is to understand the full meaning of this novel."
           }
-        ]
+        ],
+        "short_meaning_vi": "ý đồ",
+        "definition_vi": "những ý tưởng mà một nhà văn, nghệ sĩ, v.v. muốn truyền đạt thông qua một cuốn sách, bức tranh, v.v."
       },
       {
         "definition": "the quality or sense of purpose that makes you feel that your life is valuable",
@@ -2383,7 +2665,9 @@
             "cf": "",
             "x": "Having a child gave new meaning to their lives."
           }
-        ]
+        ],
+        "short_meaning_vi": "ý nghĩa cuộc sống",
+        "definition_vi": "phẩm chất hoặc ý nghĩa của mục đích khiến bạn cảm thấy cuộc sống của mình có giá trị"
       }
     ]
   },
@@ -2408,7 +2692,9 @@
             "cf": "",
             "x": "His former coach had remained his mentor throughout his career."
           }
-        ]
+        ],
+        "short_meaning_vi": "người cố vấn",
+        "definition_vi": "một người có kinh nghiệm cố vấn và giúp đỡ người ít kinh nghiệm hơn trong một khoảng thời gian"
       },
       {
         "definition": "an experienced person in a company, university, etc. who trains and advises new employees or students",
@@ -2421,7 +2707,9 @@
             "cf": "",
             "x": "The company runs a mentor programme."
           }
-        ]
+        ],
+        "short_meaning_vi": "người hướng dẫn",
+        "definition_vi": "một người có kinh nghiệm trong công ty, trường đại học, v.v. đào tạo và tư vấn cho nhân viên hoặc sinh viên mới"
       }
     ]
   },
@@ -2454,7 +2742,9 @@
             "cf": "",
             "x": "He was awarded a certificate of merit for his piano playing."
           }
-        ]
+        ],
+        "short_meaning_vi": "xứng đáng",
+        "definition_vi": "phẩm chất tốt và xứng đáng được khen ngợi hoặc khen thưởng"
       },
       {
         "definition": "a good feature that deserves praise or reward",
@@ -2467,11 +2757,15 @@
             "cf": "",
             "x": "They weighed up the relative merits of the four candidates."
           }
-        ]
+        ],
+        "short_meaning_vi": "ưu điểm",
+        "definition_vi": "một đặc điểm tốt xứng đáng được khen ngợi hoặc khen thưởng"
       },
       {
         "definition": "a grade in an exam or for a piece of work at school or university that is very good",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "điểm xuất sắc",
+        "definition_vi": "một điểm trong kỳ thi hoặc cho một bài làm ở trường học hoặc đại học rất tốt"
       },
       {
         "definition": "a special mark or award given as a reward for good behaviour at school",
@@ -2480,7 +2774,9 @@
             "cf": "",
             "x": "Other schools already have merit systems in place that reward good behaviour and attitudes."
           }
-        ]
+        ],
+        "short_meaning_vi": "khen thưởng",
+        "definition_vi": "một dấu hiệu đặc biệt hoặc giải thưởng được trao như một phần thưởng cho hành vi tốt ở trường"
       }
     ]
   },
@@ -2533,7 +2829,9 @@
             "cf": "",
             "x": "He's quite critical of modern teaching methods."
           }
-        ]
+        ],
+        "short_meaning_vi": "phương pháp",
+        "definition_vi": "một cách cụ thể để làm điều gì đó"
       },
       {
         "definition": "the quality of being well planned and organized",
@@ -2546,11 +2844,15 @@
             "cf": "",
             "x": "We have to apply some method to this investigation."
           }
-        ]
+        ],
+        "short_meaning_vi": "có phương pháp",
+        "definition_vi": "phẩm chất được lên kế hoạch và tổ chức tốt"
       },
       {
         "definition": "there is a reason for somebody’s behaviour and it is not as strange or as stupid as it seems",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "có lý do",
+        "definition_vi": "có lý do cho hành vi của ai đó và nó không kỳ lạ hoặc ngu ngốc như vẻ ngoài"
       }
     ]
   },
@@ -2575,7 +2877,9 @@
             "cf": "",
             "x": "research methodologies"
           }
-        ]
+        ],
+        "short_meaning_vi": "phương pháp luận",
+        "definition_vi": "một tập hợp các phương pháp và nguyên tắc được sử dụng để thực hiện một hoạt động cụ thể"
       }
     ]
   },
@@ -2612,7 +2916,9 @@
             "cf": "multiply something up",
             "x": "If you are cooking for more people, just multiply up the quantities."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhân lên",
+        "definition_vi": "cộng một số với chính nó một số lần nhất định"
       },
       {
         "definition": "to increase or make something increase very much in number or amount",
@@ -2625,7 +2931,9 @@
             "cf": "multiply something",
             "x": "Cigarette smoking multiplies the risk of cancer."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng lên",
+        "definition_vi": "tăng hoặc làm cho cái gì đó tăng lên rất nhiều về số lượng hoặc khối lượng"
       },
       {
         "definition": "to produce young animals, bacteria, etc. in large numbers",
@@ -2646,7 +2954,9 @@
             "cf": "multiply something",
             "x": "It is possible to multiply these bacteria in the laboratory."
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh sản",
+        "definition_vi": "sinh sản động vật non, vi khuẩn, v.v. với số lượng lớn"
       }
     ]
   },
@@ -2675,7 +2985,9 @@
             "cf": "",
             "x": "Note to self (= a mental instruction): book more holidays."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi chú",
+        "definition_vi": "một đoạn viết ngắn để giúp bạn nhớ điều gì đó"
       },
       {
         "definition": "a short informal letter",
@@ -2692,7 +3004,9 @@
             "cf": "",
             "x": "He wrote a note to his parents saying he was leaving."
           }
-        ]
+        ],
+        "short_meaning_vi": "thư ngắn",
+        "definition_vi": "một lá thư ngắn không chính thức"
       },
       {
         "definition": "information that you write down when somebody is speaking, or when you are reading a book, etc.",
@@ -2705,7 +3019,9 @@
             "cf": "",
             "x": "Can I borrow your lecture notes?"
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi chép",
+        "definition_vi": "thông tin bạn ghi lại khi ai đó đang nói, hoặc khi bạn đang đọc sách, v.v."
       },
       {
         "definition": "detailed information that is kept about a particular person, topic or situation",
@@ -2718,7 +3034,9 @@
             "cf": "notes on something",
             "x": "He kept notes on the birds, mammals, reptiles and plants he saw on walks."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông tin chi tiết",
+        "definition_vi": "thông tin chi tiết được lưu giữ về một người, chủ đề hoặc tình huống cụ thể"
       },
       {
         "definition": "information about a performance, an actor’s career, a piece of music, etc. printed in a special book or on a record cover, etc.",
@@ -2735,7 +3053,9 @@
             "cf": "",
             "x": "The sleeve notes include a short biography of the performers on this recording."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông tin",
+        "definition_vi": "thông tin về một buổi biểu diễn, sự nghiệp của một diễn viên, một tác phẩm âm nhạc, v.v. được in trong một cuốn sách đặc biệt hoặc trên bìa đĩa, v.v."
       },
       {
         "definition": "a short comment on a word or passage in a book",
@@ -2748,7 +3068,9 @@
             "cf": "",
             "x": "See note 3, page 259."
           }
-        ]
+        ],
+        "short_meaning_vi": "chú thích",
+        "definition_vi": "một lời bình ngắn gọn về một từ hoặc một đoạn văn trong sách."
       },
       {
         "definition": "a piece of paper money",
@@ -2765,7 +3087,9 @@
             "cf": "",
             "x": "a thick wad of notes"
           }
-        ]
+        ],
+        "short_meaning_vi": "tờ tiền",
+        "definition_vi": "một tờ tiền giấy."
       },
       {
         "definition": "a single sound of a particular length and pitch (= how high or low a sound is), made by the voice or a musical instrument; the written or printed sign for a musical note",
@@ -2782,7 +3106,9 @@
             "cf": "",
             "x": "I played a lot of wrong notes because I was so nervous."
           }
-        ]
+        ],
+        "short_meaning_vi": "nốt nhạc",
+        "definition_vi": "một âm thanh đơn lẻ có độ dài và cao độ cụ thể (= âm thanh cao hay thấp), được tạo ra bởi giọng nói hoặc nhạc cụ; ký hiệu viết hoặc in cho một nốt nhạc."
       },
       {
         "definition": "a particular quality in something, for example in somebody’s voice or the atmosphere at an event; a comment on something with a particular quality",
@@ -2811,7 +3137,9 @@
             "cf": "",
             "x": "As a side note, the entire festival is free. "
           }
-        ]
+        ],
+        "short_meaning_vi": "sắc thái",
+        "definition_vi": "một phẩm chất đặc biệt trong một cái gì đó, ví dụ như trong giọng nói của ai đó hoặc bầu không khí tại một sự kiện; một nhận xét về một cái gì đó có phẩm chất đặc biệt."
       },
       {
         "definition": "an official document with a particular purpose",
@@ -2828,7 +3156,9 @@
             "cf": "",
             "x": "Students returning to school after absence must bring a note from their parents."
           }
-        ]
+        ],
+        "short_meaning_vi": "văn bản chính thức",
+        "definition_vi": "một tài liệu chính thức với một mục đích cụ thể."
       },
       {
         "definition": "an official letter from the representative of one government to another",
@@ -2837,7 +3167,9 @@
             "cf": "",
             "x": "an exchange of diplomatic notes"
           }
-        ]
+        ],
+        "short_meaning_vi": "công hàm",
+        "definition_vi": "một bức thư chính thức từ đại diện của chính phủ này gửi cho chính phủ khác."
       },
       {
         "definition": "if two or more people compare notes, they each say what they think about the same event, situation, etc.",
@@ -2850,7 +3182,9 @@
             "cf": "",
             "x": "Let's compare notes on our experiences."
           }
-        ]
+        ],
+        "short_meaning_vi": "trao đổi thông tin",
+        "definition_vi": "nếu hai hoặc nhiều người so sánh ghi chú, họ mỗi người nói lên suy nghĩ của mình về cùng một sự kiện, tình huống, v.v."
       },
       {
         "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
@@ -2863,7 +3197,9 @@
             "cf": "",
             "x": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
           }
-        ]
+        ],
+        "short_meaning_vi": "phù hợp",
+        "definition_vi": "làm, nói hoặc viết điều gì đó phù hợp/không phù hợp với một dịp cụ thể."
       },
       {
         "definition": "of importance or of great interest",
@@ -2876,7 +3212,9 @@
             "cf": "",
             "x": "The museum contains nothing of great note."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng chú ý",
+        "definition_vi": "quan trọng hoặc đáng quan tâm."
       },
       {
         "definition": "to express feelings or opinions of a particular kind",
@@ -2889,7 +3227,9 @@
             "cf": "",
             "x": "The touch of cynicism struck a slightly sour note."
           }
-        ]
+        ],
+        "short_meaning_vi": "bày tỏ",
+        "definition_vi": "bày tỏ những cảm xúc hoặc ý kiến ​​về một loại cụ thể."
       },
       {
         "definition": "to pay attention to something and be sure to remember it",
@@ -2906,7 +3246,9 @@
             "cf": "",
             "x": "He took careful note of the suspicious-looking man in the corner of the bar."
           }
-        ]
+        ],
+        "short_meaning_vi": "ghi nhớ",
+        "definition_vi": "chú ý đến một điều gì đó và chắc chắn ghi nhớ nó."
       },
       {
         "definition": "worth paying attention to",
@@ -2915,7 +3257,9 @@
             "cf": "",
             "x": "The frescoes are worthy of note."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng chú ý",
+        "definition_vi": "đáng để chú ý."
       }
     ]
   },
@@ -2940,15 +3284,21 @@
             "cf": "",
             "x": "She kept a notebook (= wrote notes in it) during the trip."
           }
-        ]
+        ],
+        "short_meaning_vi": "sổ ghi chú",
+        "definition_vi": "một cuốn sách nhỏ bằng giấy trắng để ghi chú."
       },
       {
         "definition": "a small book for students to write their work in",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vở ghi",
+        "definition_vi": "một cuốn sách nhỏ để học sinh viết bài của mình vào."
       },
       {
         "definition": "a small computer that can work with a battery and be easily carried",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "máy tính xách tay",
+        "definition_vi": "một máy tính nhỏ có thể hoạt động bằng pin và dễ dàng mang theo."
       }
     ]
   },
@@ -2997,7 +3347,9 @@
             "cf": "notion about something",
             "x": "I don't have any romantic notions about rural living."
           }
-        ]
+        ],
+        "short_meaning_vi": "khái niệm",
+        "definition_vi": "một ý tưởng, một niềm tin hoặc một sự hiểu biết về một cái gì đó."
       }
     ]
   },
@@ -3022,19 +3374,27 @@
             "cf": "",
             "x": "The children are at nursery three days a week."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà trẻ",
+        "definition_vi": "một nơi chăm sóc trẻ nhỏ trong khi cha mẹ làm việc; nhà trẻ hoặc trường mẫu giáo."
       },
       {
         "definition": "a room in a house where a baby sleeps",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phòng trẻ",
+        "definition_vi": "một căn phòng trong nhà nơi em bé ngủ."
       },
       {
         "definition": "a room in a house where young children can play",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phòng chơi",
+        "definition_vi": "một căn phòng trong nhà nơi trẻ nhỏ có thể chơi."
       },
       {
         "definition": "a place where young plants and trees are grown for sale or for planting somewhere else",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vườn ươm",
+        "definition_vi": "một nơi trồng cây và cây non để bán hoặc để trồng ở nơi khác."
       }
     ]
   },
@@ -3095,7 +3455,9 @@
             "cf": "over the page",
             "x": "The address is over the page (= on the next page)."
           }
-        ]
+        ],
+        "short_meaning_vi": "trang",
+        "definition_vi": "một mặt hoặc cả hai mặt của một tờ giấy trong sách, tạp chí, v.v."
       },
       {
         "definition": "a section of data or information that can be shown on a computer screen at any one time",
@@ -3128,7 +3490,9 @@
             "cf": "",
             "x": "This photo will no longer appear on your profile page."
           }
-        ]
+        ],
+        "short_meaning_vi": "màn hình",
+        "definition_vi": "một phần dữ liệu hoặc thông tin có thể hiển thị trên màn hình máy tính tại một thời điểm bất kỳ."
       },
       {
         "definition": "an important event or period of history",
@@ -3137,23 +3501,33 @@
             "cf": "",
             "x": "a glorious page of Arab history"
           }
-        ]
+        ],
+        "short_meaning_vi": "cột mốc",
+        "definition_vi": "một sự kiện quan trọng hoặc một giai đoạn lịch sử."
       },
       {
         "definition": "a small boy who helps or follows a bride during a marriage ceremony",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phù dâu",
+        "definition_vi": "một cậu bé nhỏ giúp đỡ hoặc đi theo cô dâu trong lễ cưới."
       },
       {
         "definition": "a boy or young man, usually in uniform, employed in a hotel to open doors, deliver messages for people, etc.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người phục vụ",
+        "definition_vi": "một cậu bé hoặc thanh niên, thường mặc đồng phục, làm việc trong khách sạn để mở cửa, chuyển tin nhắn cho mọi người, v.v."
       },
       {
         "definition": "a student who works as an assistant to a member of the US Congress",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trợ lý nghị sĩ",
+        "definition_vi": "một sinh viên làm trợ lý cho một thành viên của Quốc hội Hoa Kỳ."
       },
       {
         "definition": "a boy or young man who worked for a knight while training to be a knight himself",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hầu cận",
+        "definition_vi": "một cậu bé hoặc thanh niên làm việc cho một hiệp sĩ trong khi được đào tạo để trở thành một hiệp sĩ."
       },
       {
         "definition": "if two or more people or groups are on the same page, they agree about what they are trying to achieve",
@@ -3166,7 +3540,9 @@
             "cf": "",
             "x": "It was an effort to get us all on the same page."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng lòng",
+        "definition_vi": "nếu hai hoặc nhiều người hoặc nhóm ở cùng một trang, họ đồng ý về những gì họ đang cố gắng đạt được."
       },
       {
         "definition": "what is published in books, newspapers, etc.",
@@ -3175,7 +3551,9 @@
             "cf": "",
             "x": "the power of the printed word"
           }
-        ]
+        ],
+        "short_meaning_vi": "ấn phẩm",
+        "definition_vi": "những gì được xuất bản trên sách, báo, v.v."
       },
       {
         "definition": "to begin doing things in a different way and thinking in a more positive way after a period of difficulties",
@@ -3188,7 +3566,9 @@
             "cf": "",
             "x": "He turned the page on that chapter in his life a long time ago."
           }
-        ]
+        ],
+        "short_meaning_vi": "bước sang trang mới",
+        "definition_vi": "bắt đầu làm mọi thứ theo một cách khác và suy nghĩ theo một cách tích cực hơn sau một thời gian khó khăn."
       }
     ]
   },
@@ -3253,7 +3633,9 @@
             "cf": "",
             "x": "paper losses/profits (= that are shown in accounts but which may not exist in reality)"
           }
-        ]
+        ],
+        "short_meaning_vi": "giấy",
+        "definition_vi": "chất liệu mỏng mà bạn viết và vẽ lên và cũng được dùng để gói và đóng gói đồ vật."
       },
       {
         "definition": "a newspaper",
@@ -3286,7 +3668,9 @@
             "cf": "",
             "x": "The papers (= newspapers in general) soon got hold of the story."
           }
-        ]
+        ],
+        "short_meaning_vi": "báo",
+        "definition_vi": "một tờ báo."
       },
       {
         "definition": "pieces of paper with writing on them, such as letters, pieces of work or private documents",
@@ -3351,7 +3735,9 @@
             "cf": "",
             "x": "I found some papers relating to the case in his desk."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài liệu",
+        "definition_vi": "các tờ giấy có chữ viết trên đó, chẳng hạn như thư từ, bài làm hoặc tài liệu riêng tư."
       },
       {
         "definition": "official documents that prove your identity, give you permission to do something, etc.",
@@ -3372,7 +3758,9 @@
             "cf": "",
             "x": "Immigration officials will ask to see your papers."
           }
-        ]
+        ],
+        "short_meaning_vi": "giấy tờ tùy thân",
+        "definition_vi": "các tài liệu chính thức chứng minh danh tính của bạn, cho phép bạn làm điều gì đó, v.v."
       },
       {
         "definition": "a set of exam questions on a particular subject; the answers that people write to the questions",
@@ -3385,7 +3773,9 @@
             "cf": "",
             "x": "She spent the evening marking exam papers."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài thi",
+        "definition_vi": "một bộ câu hỏi thi về một chủ đề cụ thể; các câu trả lời mà mọi người viết cho các câu hỏi."
       },
       {
         "definition": "an academic article about a particular subject that is written by and for specialists",
@@ -3406,7 +3796,9 @@
             "cf": "",
             "x": "She was invited to give a paper (= a talk) at an international scientific congress."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài báo khoa học",
+        "definition_vi": "một bài báo học thuật về một chủ đề cụ thể được viết bởi và dành cho các chuyên gia."
       },
       {
         "definition": "a piece of written work done by a student",
@@ -3419,7 +3811,9 @@
             "cf": "paper on something",
             "x": "I'm writing a paper on ‘Macbeth’."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài luận",
+        "definition_vi": "một bài viết do sinh viên thực hiện."
       },
       {
         "definition": "paper that you use to cover and decorate the walls of a room",
@@ -3428,15 +3822,21 @@
             "cf": "",
             "x": "The room was damp and the paper was peeling off."
           }
-        ]
+        ],
+        "short_meaning_vi": "giấy dán tường",
+        "definition_vi": "giấy bạn dùng để che và trang trí tường phòng."
       },
       {
         "definition": "having no value, especially legally, or because one of the people involved has no intention of doing what they said they would",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vô giá trị",
+        "definition_vi": "không có giá trị, đặc biệt là về mặt pháp lý, hoặc vì một trong những người tham gia không có ý định thực hiện những gì họ đã nói sẽ làm."
       },
       {
         "definition": "when you put something on paper, you write it down",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ghi lại",
+        "definition_vi": "khi bạn đặt một cái gì đó lên giấy, bạn viết nó ra."
       },
       {
         "definition": "judged from written information only, but not proved in practice",
@@ -3445,11 +3845,15 @@
             "cf": "",
             "x": "The idea looks good on paper."
           }
-        ]
+        ],
+        "short_meaning_vi": "lý thuyết",
+        "definition_vi": "chỉ dựa trên thông tin bằng văn bản, nhưng chưa được chứng minh trong thực tế"
       },
       {
         "definition": "to write or start to write something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "viết",
+        "definition_vi": "viết hoặc bắt đầu viết một cái gì đó"
       }
     ]
   },
@@ -3482,7 +3886,9 @@
             "cf": "",
             "x": "The basic idea is summarized in the following paragraphs."
           }
-        ]
+        ],
+        "short_meaning_vi": "đoạn văn",
+        "definition_vi": "một phần của một bài viết, thường bao gồm nhiều câu đề cập đến một chủ đề duy nhất. Câu đầu tiên của một đoạn văn bắt đầu trên một dòng mới."
       }
     ]
   },
@@ -3535,7 +3941,9 @@
             "cf": "",
             "x": "Details of the competition are available at all participating stores."
           }
-        ]
+        ],
+        "short_meaning_vi": "tham gia",
+        "definition_vi": "tham gia hoặc trở thành một phần của một hoạt động"
       }
     ]
   },
@@ -3560,7 +3968,9 @@
             "cf": "",
             "x": "a secret underground passage"
           }
-        ]
+        ],
+        "short_meaning_vi": "lối đi",
+        "definition_vi": "một khu vực dài, hẹp có tường hai bên nối liền một căn phòng hoặc địa điểm này với một căn phòng hoặc địa điểm khác"
       },
       {
         "definition": "a tube in the body through which air, liquid, etc. passes",
@@ -3569,7 +3979,9 @@
             "cf": "",
             "x": "blocked nasal passages"
           }
-        ]
+        ],
+        "short_meaning_vi": "đường dẫn",
+        "definition_vi": "một ống trong cơ thể mà qua đó không khí, chất lỏng, v.v. đi qua"
       },
       {
         "definition": "a short section from a book, piece of music, etc.",
@@ -3586,7 +3998,9 @@
             "cf": "passage from/in something",
             "x": "a passage from the Bible "
           }
-        ]
+        ],
+        "short_meaning_vi": "đoạn trích",
+        "definition_vi": "một phần ngắn từ một cuốn sách, một tác phẩm âm nhạc, v.v."
       },
       {
         "definition": "the process of time passing",
@@ -3599,7 +4013,9 @@
             "cf": "",
             "x": "rituals which mark the passage of the seasons"
           }
-        ]
+        ],
+        "short_meaning_vi": "thời gian trôi qua",
+        "definition_vi": "quá trình thời gian trôi qua"
       },
       {
         "definition": "the process of discussing a bill in a parliament so that it can become law",
@@ -3608,7 +4024,9 @@
             "cf": "",
             "x": "The bill is now guaranteed an easy passage through the House of Representatives."
           }
-        ]
+        ],
+        "short_meaning_vi": "thông qua dự luật",
+        "definition_vi": "quá trình thảo luận một dự luật trong quốc hội để nó có thể trở thành luật"
       },
       {
         "definition": "a journey from one place to another by ship",
@@ -3617,7 +4035,9 @@
             "cf": "",
             "x": "Her grandfather had worked his passage (= worked on a ship to pay for the journey) to America."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyến đi biển",
+        "definition_vi": "một hành trình từ nơi này đến nơi khác bằng tàu thủy"
       },
       {
         "definition": "a way through something",
@@ -3626,7 +4046,9 @@
             "cf": "",
             "x": "The officers forced a passage through the crowd."
           }
-        ]
+        ],
+        "short_meaning_vi": "lối đi",
+        "definition_vi": "một con đường xuyên qua một cái gì đó"
       },
       {
         "definition": "the action of going across, through or past something",
@@ -3635,7 +4057,9 @@
             "cf": "",
             "x": "Large trees may obstruct the passage of light."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đi qua",
+        "definition_vi": "hành động đi ngang qua, xuyên qua hoặc vượt qua một cái gì đó"
       },
       {
         "definition": "the permission to travel across a particular area of land",
@@ -3648,7 +4072,9 @@
             "cf": "",
             "x": "If the law were passed, EU nationals would no longer enjoy free passage through member states."
           }
-        ]
+        ],
+        "short_meaning_vi": "quyền đi qua",
+        "definition_vi": "sự cho phép đi qua một khu vực đất đai cụ thể"
       }
     ]
   },
@@ -3677,11 +4103,15 @@
             "cf": "",
             "x": "She wore a passive expression on her face as if she didn’t care what happened."
           }
-        ]
+        ],
+        "short_meaning_vi": "thụ động",
+        "definition_vi": "chấp nhận những gì xảy ra hoặc những gì mọi người làm mà không cố gắng thay đổi hoặc phản đối"
       },
       {
         "definition": "connected with the form of a verb used when the subject is affected by the action of the verb, for example He was bitten by a dog.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thể bị động",
+        "definition_vi": "liên quan đến dạng động từ được sử dụng khi chủ ngữ bị ảnh hưởng bởi hành động của động từ, ví dụ: Anh ấy bị một con chó cắn."
       }
     ]
   },
@@ -3702,7 +4132,9 @@
             "cf": "",
             "x": "They came out of the woods and onto a pathway."
           }
-        ]
+        ],
+        "short_meaning_vi": "lối mòn",
+        "definition_vi": "một con đường đóng vai trò là lối đi"
       },
       {
         "definition": "a plan of action or way of achieving something",
@@ -3711,7 +4143,9 @@
             "cf": "",
             "x": "We help students define and develop a clear career pathway."
           }
-        ]
+        ],
+        "short_meaning_vi": "kế hoạch hành động",
+        "definition_vi": "một kế hoạch hành động hoặc cách để đạt được điều gì đó"
       },
       {
         "definition": "a route formed by a chain of nerve cells along which electrical signals travel from one part of the body to another",
@@ -3720,7 +4154,9 @@
             "cf": "",
             "x": "neural pathways"
           }
-        ]
+        ],
+        "short_meaning_vi": "đường dẫn thần kinh",
+        "definition_vi": "một con đường hình thành bởi một chuỗi tế bào thần kinh dọc theo đó các tín hiệu điện truyền từ bộ phận này của cơ thể sang bộ phận khác"
       }
     ]
   },
@@ -3765,7 +4201,9 @@
             "cf": "",
             "x": "The music contains repeated rhythmic patterns."
           }
-        ]
+        ],
+        "short_meaning_vi": "khuôn mẫu",
+        "definition_vi": "cách thức thường xuyên mà một cái gì đó xảy ra hoặc được thực hiện"
       },
       {
         "definition": "an excellent example to copy",
@@ -3774,7 +4212,9 @@
             "cf": "",
             "x": "This system sets the pattern for others to follow."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấm gương",
+        "definition_vi": "một ví dụ xuất sắc để noi theo"
       },
       {
         "definition": "a regular arrangement of lines, shapes, colours, etc. for example as a design on material, carpets, etc.",
@@ -3791,7 +4231,9 @@
             "cf": "",
             "x": "complex geometric patterns"
           }
-        ]
+        ],
+        "short_meaning_vi": "họa tiết",
+        "definition_vi": "sự sắp xếp đều đặn của các đường nét, hình dạng, màu sắc, v.v., ví dụ như một thiết kế trên vải, thảm, v.v."
       },
       {
         "definition": "a design, set of instructions or shape to cut around that you use in order to make something",
@@ -3804,7 +4246,9 @@
             "cf": "",
             "x": "She bought a dress pattern and some material."
           }
-        ]
+        ],
+        "short_meaning_vi": "mẫu rập",
+        "definition_vi": "một thiết kế, bộ hướng dẫn hoặc hình dạng để cắt xung quanh mà bạn sử dụng để làm một cái gì đó"
       },
       {
         "definition": "a small piece of material, paper, etc. that helps you choose the design of something ",
@@ -3813,7 +4257,9 @@
             "cf": "",
             "x": "wallpaper patterns"
           }
-        ]
+        ],
+        "short_meaning_vi": "mẫu thử",
+        "definition_vi": "một mảnh nhỏ vật liệu, giấy, v.v. giúp bạn chọn thiết kế của một cái gì đó"
       }
     ]
   },
@@ -3854,7 +4300,9 @@
             "cf": "from the pen of somebody",
             "x": "a new book from the pen of (= written by) Zadie Smith"
           }
-        ]
+        ],
+        "short_meaning_vi": "bút mực",
+        "definition_vi": "một dụng cụ làm bằng nhựa hoặc kim loại dùng để viết bằng mực (= chất lỏng có màu để viết, v.v.)"
       },
       {
         "definition": "a small piece of land surrounded by a fence in which farm animals are kept",
@@ -3863,11 +4311,15 @@
             "cf": "",
             "x": "a sheep pen"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuồng",
+        "definition_vi": "một mảnh đất nhỏ được bao quanh bởi hàng rào, nơi nuôi gia súc"
       },
       {
         "definition": "a penitentiary (= a prison)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhà tù",
+        "definition_vi": "một nhà tù (= một nhà tù)"
       },
       {
         "definition": "a penalty (= a chance to score a goal without any defending players, except the goalkeeper, trying to stop it)",
@@ -3876,15 +4328,21 @@
             "cf": "",
             "x": "That was a terrible pen."
           }
-        ]
+        ],
+        "short_meaning_vi": "quả phạt đền",
+        "definition_vi": "một quả phạt đền (= cơ hội ghi bàn mà không có cầu thủ phòng ngự nào, ngoại trừ thủ môn, cố gắng cản phá)"
       },
       {
         "definition": "people who write books, poems, etc. have a greater effect on history and human affairs than soldiers and wars",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngòi bút",
+        "definition_vi": "những người viết sách, thơ, v.v. có ảnh hưởng lớn hơn đến lịch sử và các vấn đề của con người so với binh lính và chiến tranh"
       },
       {
         "definition": "to write or start to write something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "viết",
+        "definition_vi": "viết hoặc bắt đầu viết một cái gì đó"
       },
       {
         "definition": "a small mistake in something that you write or say",
@@ -3893,7 +4351,9 @@
             "cf": "",
             "x": "Sorry, it was a slip of the pen—I meant to write ‘pheasants’, not ‘peasants’."
           }
-        ]
+        ],
+        "short_meaning_vi": "lỗi nhỏ",
+        "definition_vi": "một lỗi nhỏ trong một cái gì đó bạn viết hoặc nói"
       }
     ]
   },
@@ -3938,7 +4398,9 @@
             "cf": "",
             "x": "a pencil drawing/sketch"
           }
-        ]
+        ],
+        "short_meaning_vi": "bút chì",
+        "definition_vi": "một mảnh gỗ hẹp, hoặc một vỏ kim loại hoặc nhựa, chứa một chất màu đen hoặc màu, dùng để vẽ hoặc viết"
       }
     ]
   },
@@ -3971,7 +4433,9 @@
             "cf": "perceive somebody/something to be/have something",
             "x": "They were widely perceived to have been unlucky."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhận thức",
+        "definition_vi": "hiểu hoặc nghĩ về ai đó/điều gì đó theo một cách cụ thể"
       },
       {
         "definition": "to notice or become aware of something",
@@ -3988,7 +4452,9 @@
             "cf": "perceive somebody/something to be/have something",
             "x": "The patient was perceived to have difficulty in breathing."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhận thấy",
+        "definition_vi": "nhận thấy hoặc nhận thức được điều gì đó"
       }
     ]
   },
@@ -4029,7 +4495,9 @@
             "cf": "",
             "x": "Interest rates are expected to rise by one percentage point (= a unit of one per cent)."
           }
-        ]
+        ],
+        "short_meaning_vi": "phần trăm",
+        "definition_vi": "số lượng, khối lượng hoặc tỷ lệ của một cái gì đó, được biểu thị như thể nó là một phần của tổng số là 100; một phần hoặc cổ phần của một cái toàn thể"
       },
       {
         "definition": "a share of the profits of something",
@@ -4042,7 +4510,9 @@
             "cf": "",
             "x": "The artist's agent receives commission on a percentage basis."
           }
-        ]
+        ],
+        "short_meaning_vi": "cổ phần lợi nhuận",
+        "definition_vi": "một phần lợi nhuận của một cái gì đó"
       }
     ]
   },
@@ -4067,7 +4537,9 @@
             "cf": "perception that…",
             "x": "There is a general public perception that standards in schools are falling."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhận thức",
+        "definition_vi": "một ý tưởng, một niềm tin hoặc một hình ảnh bạn có được từ cách bạn nhìn hoặc hiểu một điều gì đó"
       },
       {
         "definition": "the way you notice things, especially with the senses",
@@ -4080,7 +4552,9 @@
             "cf": "",
             "x": "visual perception"
           }
-        ]
+        ],
+        "short_meaning_vi": "cảm nhận",
+        "definition_vi": "cách bạn nhận thấy mọi thứ, đặc biệt là bằng các giác quan"
       },
       {
         "definition": "the ability to understand the true nature of something",
@@ -4093,7 +4567,9 @@
             "cf": "",
             "x": "They have little perception of how ordinary people live their lives."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả năng thấu hiểu",
+        "definition_vi": "khả năng hiểu bản chất thực sự của một điều gì đó"
       }
     ]
   },
@@ -4138,7 +4614,9 @@
             "cf": "perspective on something",
             "x": "The exhibition provides us with a unique perspective on her work."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan điểm",
+        "definition_vi": "một thái độ cụ thể đối với một cái gì đó; một cách suy nghĩ về một cái gì đó"
       },
       {
         "definition": "the ability to think about problems and decisions in a reasonable way without making them seem worse or more important than they really are",
@@ -4159,7 +4637,9 @@
             "cf": "",
             "x": "It is important not to let things get out of perspective."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự nhìn nhận",
+        "definition_vi": "khả năng suy nghĩ về các vấn đề và quyết định một cách hợp lý mà không làm cho chúng có vẻ tồi tệ hơn hoặc quan trọng hơn thực tế"
       },
       {
         "definition": "the art of creating an effect of depth and distance in a picture by representing people and things that are far away as being smaller than those that are nearer the front",
@@ -4176,7 +4656,9 @@
             "cf": "out of perspective",
             "x": "The tree on the left is out of perspective."
           }
-        ]
+        ],
+        "short_meaning_vi": "Phối cảnh",
+        "definition_vi": "nghệ thuật tạo ra hiệu ứng chiều sâu và khoảng cách trong một bức tranh bằng cách thể hiện những người và vật ở xa nhỏ hơn những người và vật ở gần phía trước"
       },
       {
         "definition": "a view, especially one in which you can see far into the distance",
@@ -4185,7 +4667,9 @@
             "cf": "",
             "x": "a perspective of the whole valley"
           }
-        ]
+        ],
+        "short_meaning_vi": "Góc nhìn",
+        "definition_vi": "một cái nhìn, đặc biệt là cái nhìn mà bạn có thể nhìn thấy rất xa"
       }
     ]
   },
@@ -4218,7 +4702,9 @@
             "cf": "",
             "x": "colourful words and phrases "
           }
-        ]
+        ],
+        "short_meaning_vi": "Cụm từ",
+        "definition_vi": "một nhóm từ có nghĩa đặc biệt khi được sử dụng cùng nhau"
       },
       {
         "definition": "a small group of words (usually without a finite verb) that together have a particular meaning and that typically form part of a sentence. ‘the green car’ and ‘on Friday morning’ are phrases.",
@@ -4227,11 +4713,15 @@
             "cf": "",
             "x": "a two-word phrase"
           }
-        ]
+        ],
+        "short_meaning_vi": "Cụm từ",
+        "definition_vi": "một nhóm từ nhỏ (thường không có động từ chia theo ngôi) mà cùng nhau có một ý nghĩa đặc biệt và thường là một phần của câu. Ví dụ: ‘chiếc xe màu xanh’ và ‘vào sáng thứ Sáu’ là các cụm từ."
       },
       {
         "definition": "a short series of notes that form a unit within a longer passage in a piece of music",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "Cụm nhạc",
+        "definition_vi": "một chuỗi nốt nhạc ngắn tạo thành một đơn vị trong một đoạn dài hơn của một bản nhạc"
       },
       {
         "definition": "used to introduce a well-known expression that you have changed slightly in order to be funny",
@@ -4240,7 +4730,9 @@
             "cf": "",
             "x": "Tasting is believing, to coin a phrase! (= the usual phrase is ‘seeing is believing’)."
           }
-        ]
+        ],
+        "short_meaning_vi": "Nói lái",
+        "definition_vi": "được sử dụng để giới thiệu một cách diễn đạt quen thuộc mà bạn đã thay đổi một chút để gây cười"
       },
       {
         "definition": "used to show that you are aware that you are using an expression that is not new",
@@ -4249,7 +4741,9 @@
             "cf": "",
             "x": "Oh well, no news is good news, to coin a phrase."
           }
-        ]
+        ],
+        "short_meaning_vi": "Biết cũ",
+        "definition_vi": "được sử dụng để cho thấy bạn nhận thức được rằng bạn đang sử dụng một cách diễn đạt không mới"
       },
       {
         "definition": "a particular way of describing something",
@@ -4258,7 +4752,9 @@
             "cf": "",
             "x": "He is meticulous in his choice of words and turns of phrase."
           }
-        ]
+        ],
+        "short_meaning_vi": "Cách diễn đạt",
+        "definition_vi": "một cách cụ thể để mô tả điều gì đó"
       }
     ]
   },
@@ -4307,7 +4803,9 @@
             "cf": "",
             "x": "We had an extra practice session on Friday."
           }
-        ]
+        ],
+        "short_meaning_vi": "Thực hành",
+        "definition_vi": "việc thực hiện một hoạt động hoặc đào tạo thường xuyên để bạn có thể cải thiện kỹ năng của mình; thời gian bạn dành cho việc này"
       },
       {
         "definition": "action rather than ideas",
@@ -4324,7 +4822,9 @@
             "cf": "in practice",
             "x": "the complications that arise in actual practice"
           }
-        ]
+        ],
+        "short_meaning_vi": "Thực tế",
+        "definition_vi": "hành động thay vì ý tưởng"
       },
       {
         "definition": "a way of doing something that is the usual or expected way in a particular organization or situation",
@@ -4373,7 +4873,9 @@
             "cf": "",
             "x": "The company has ended its practice of pumping raw sewage out to sea."
           }
-        ]
+        ],
+        "short_meaning_vi": "Quy tắc",
+        "definition_vi": "một cách làm điều gì đó theo cách thông thường hoặc được mong đợi trong một tổ chức hoặc tình huống cụ thể"
       },
       {
         "definition": "a thing that is done regularly; a habit or a custom",
@@ -4386,7 +4888,9 @@
             "cf": "it is somebody's practice to do something",
             "x": "It is his practice to read several books a week."
           }
-        ]
+        ],
+        "short_meaning_vi": "Tập quán",
+        "definition_vi": "một điều được thực hiện thường xuyên; một thói quen hoặc một phong tục"
       },
       {
         "definition": "the work or the business of some professional people such as doctors, dentists and lawyers; the place where they work",
@@ -4411,7 +4915,9 @@
             "cf": "",
             "x": "a successful medical/dental/law practice"
           }
-        ]
+        ],
+        "short_meaning_vi": "Phòng khám",
+        "definition_vi": "công việc hoặc hoạt động kinh doanh của một số người chuyên nghiệp như bác sĩ, nha sĩ và luật sư; nơi họ làm việc"
       },
       {
         "definition": "to be/become less good at doing something than you were because you have not spent time doing it recently",
@@ -4424,7 +4930,9 @@
             "cf": "",
             "x": "If you don't play regularly you soon get out of practice."
           }
-        ]
+        ],
+        "short_meaning_vi": "Sa sút",
+        "definition_vi": "trở nên kém giỏi hơn trong việc làm điều gì đó so với trước đây vì bạn đã không dành thời gian làm điều đó gần đây"
       },
       {
         "definition": "in reality",
@@ -4437,11 +4945,15 @@
             "cf": "",
             "x": "The idea sounds fine in theory, but would it work in practice?"
           }
-        ]
+        ],
+        "short_meaning_vi": "Thực tế",
+        "definition_vi": "trong thực tế"
       },
       {
         "definition": "a way of encouraging people by telling them that if you do an activity regularly and try to improve your skill, you will become very good at it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "Khuyến khích",
+        "definition_vi": "một cách khuyến khích mọi người bằng cách nói với họ rằng nếu bạn thực hiện một hoạt động thường xuyên và cố gắng cải thiện kỹ năng của mình, bạn sẽ trở nên rất giỏi về nó"
       }
     ]
   },
@@ -4486,7 +4998,9 @@
             "cf": "practise doing something",
             "x": "Practise reversing the car into the garage."
           }
-        ]
+        ],
+        "short_meaning_vi": "Thực hành",
+        "definition_vi": "thực hiện một hoạt động hoặc đào tạo thường xuyên để bạn có thể cải thiện kỹ năng của mình"
       },
       {
         "definition": "to work as a doctor, lawyer, etc.",
@@ -4507,7 +5021,9 @@
             "cf": "",
             "x": "She practised law for more than a decade."
           }
-        ]
+        ],
+        "short_meaning_vi": "Hành nghề",
+        "definition_vi": "làm bác sĩ, luật sư, v.v."
       },
       {
         "definition": "to do something regularly as part of your normal behaviour",
@@ -4520,11 +5036,15 @@
             "cf": "",
             "x": "Do you still practise your religion?"
           }
-        ]
+        ],
+        "short_meaning_vi": "Thực hành",
+        "definition_vi": "làm điều gì đó thường xuyên như một phần hành vi bình thường của bạn"
       },
       {
         "definition": "to do the things yourself that you tell other people to do",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "Làm gương",
+        "definition_vi": "tự mình làm những điều mà bạn bảo người khác làm"
       }
     ]
   },
@@ -4553,7 +5073,9 @@
             "cf": "",
             "x": "I can be reasonably precise about the time of the incident."
           }
-        ]
+        ],
+        "short_meaning_vi": "Rõ ràng",
+        "definition_vi": "rõ ràng và chính xác"
       },
       {
         "definition": "used to emphasize that something happens at a particular time or in a particular way",
@@ -4566,7 +5088,9 @@
             "cf": "",
             "x": "Doctors found it hard to establish the precise nature of her illness."
           }
-        ]
+        ],
+        "short_meaning_vi": "Chính xác",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng điều gì đó xảy ra vào một thời điểm hoặc theo một cách cụ thể"
       },
       {
         "definition": "taking care to be exact and accurate, especially about small details",
@@ -4587,7 +5111,9 @@
             "cf": "",
             "x": "She's rather prim and precise."
           }
-        ]
+        ],
+        "short_meaning_vi": "Cẩn thận",
+        "definition_vi": "cẩn thận để chính xác và đúng đắn, đặc biệt là về các chi tiết nhỏ"
       },
       {
         "definition": "used to show that you are giving more detailed and accurate information about something you have just mentioned",
@@ -4596,7 +5122,9 @@
             "cf": "",
             "x": "The shelf is about a metre long—well, 98cm, to be precise."
           }
-        ]
+        ],
+        "short_meaning_vi": "Cụ thể hơn",
+        "definition_vi": "được sử dụng để cho thấy bạn đang cung cấp thông tin chi tiết và chính xác hơn về một điều bạn vừa đề cập"
       }
     ]
   },
@@ -4629,7 +5157,9 @@
             "cf": "",
             "x": "The meeting starts at 2 o'clock precisely."
           }
-        ]
+        ],
+        "short_meaning_vi": "Chính xác",
+        "definition_vi": "chính xác"
       },
       {
         "definition": "accurately; carefully",
@@ -4642,7 +5172,9 @@
             "cf": "",
             "x": "She pronounced the word very slowly and precisely."
           }
-        ]
+        ],
+        "short_meaning_vi": "Cẩn thận",
+        "definition_vi": "chính xác; cẩn thận"
       },
       {
         "definition": "used to emphasize that something is very true or obvious",
@@ -4655,7 +5187,9 @@
             "cf": "",
             "x": "The children are precisely the ones who will suffer if they get divorced."
           }
-        ]
+        ],
+        "short_meaning_vi": "Rõ ràng",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng điều gì đó rất đúng hoặc hiển nhiên"
       },
       {
         "definition": "used to emphasize that you agree with a statement, especially because you think it is obvious or is similar to what you have just said",
@@ -4664,7 +5198,9 @@
             "cf": "",
             "x": "‘It's not that easy, is it?’ ‘No, precisely.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "Chắc chắn",
+        "definition_vi": "được sử dụng để nhấn mạnh rằng bạn đồng ý với một tuyên bố, đặc biệt là vì bạn nghĩ rằng nó hiển nhiên hoặc tương tự như những gì bạn vừa nói"
       },
       {
         "definition": "used to show that you are giving more detailed and accurate information about something you have just mentioned",
@@ -4673,7 +5209,9 @@
             "cf": "",
             "x": "The problem is due to discipline, or, more precisely, the lack of discipline, in schools."
           }
-        ]
+        ],
+        "short_meaning_vi": "Cụ thể hơn",
+        "definition_vi": "được sử dụng để cho thấy bạn đang cung cấp thông tin chi tiết và chính xác hơn về một điều bạn vừa đề cập"
       }
     ]
   },
@@ -4706,7 +5244,9 @@
             "cf": "preliminary to something",
             "x": "pilot studies preliminary to a full-scale study"
           }
-        ]
+        ],
+        "short_meaning_vi": "Sơ bộ",
+        "definition_vi": "xảy ra trước một hành động hoặc sự kiện quan trọng hơn"
       }
     ]
   },
@@ -4739,7 +5279,9 @@
             "cf": "",
             "x": "The premise on which they worked was that there would always be enough natural resources to support them."
           }
-        ]
+        ],
+        "short_meaning_vi": "Tiền đề",
+        "definition_vi": "một tuyên bố hoặc một ý tưởng tạo cơ sở cho một lập luận hợp lý"
       }
     ]
   },
@@ -4788,7 +5330,9 @@
             "cf": "preparation of something",
             "x": "She helped in the preparation of several of his manuscripts. "
           }
-        ]
+        ],
+        "short_meaning_vi": "Chuẩn bị",
+        "definition_vi": "hành động hoặc quá trình chuẩn bị cho một cái gì đó hoặc làm cho một cái gì đó sẵn sàng"
       },
       {
         "definition": "things that you do to get ready for something or make something ready",
@@ -4813,7 +5357,9 @@
             "cf": "",
             "x": "She flew in from Paris to oversee the final preparations."
           }
-        ]
+        ],
+        "short_meaning_vi": "Chuẩn bị",
+        "definition_vi": "những việc bạn làm để chuẩn bị cho một cái gì đó hoặc làm cho một cái gì đó sẵn sàng"
       },
       {
         "definition": "a substance that has been specially prepared for use as a medicine, cosmetic, etc.",
@@ -4826,7 +5372,9 @@
             "cf": "",
             "x": "preparations for the hair and skin"
           }
-        ]
+        ],
+        "short_meaning_vi": "Chất chuẩn bị",
+        "definition_vi": "một chất đã được chuẩn bị đặc biệt để sử dụng làm thuốc, mỹ phẩm, v.v."
       }
     ]
   },
@@ -4859,7 +5407,9 @@
             "cf": "",
             "x": "a slide/video/multimedia presentation"
           }
-        ]
+        ],
+        "short_meaning_vi": "Trình bày",
+        "definition_vi": "một cuộc họp mà tại đó một cái gì đó, đặc biệt là một sản phẩm hoặc ý tưởng mới, hoặc một tác phẩm, được giới thiệu cho một nhóm người"
       },
       {
         "definition": "the act of showing something or of giving something to somebody",
@@ -4888,7 +5438,9 @@
             "cf": "",
             "x": "a presentation ceremony/evening"
           }
-        ]
+        ],
+        "short_meaning_vi": "Trình bày",
+        "definition_vi": "hành động giới thiệu một cái gì đó hoặc trao một cái gì đó cho ai đó"
       },
       {
         "definition": "the way in which something is offered, shown, explained, etc. to others",
@@ -4905,7 +5457,9 @@
             "cf": "",
             "x": "The main emphasis of the training will be on presentation skills."
           }
-        ]
+        ],
+        "short_meaning_vi": "Cách trình bày",
+        "definition_vi": "cách một cái gì đó được cung cấp, hiển thị, giải thích, v.v. cho người khác"
       },
       {
         "definition": "the series of computer slides (= images) that are shown with the talk when somebody gives a presentation at a meeting",
@@ -4914,7 +5468,9 @@
             "cf": "",
             "x": "I've put my presentation on a memory stick."
           }
-        ]
+        ],
+        "short_meaning_vi": "Slide thuyết trình",
+        "definition_vi": "chuỗi các slide máy tính (= hình ảnh) được hiển thị cùng với bài nói khi ai đó thuyết trình tại một cuộc họp"
       },
       {
         "definition": "a ceremony or formal occasion during which a gift or prize is given",
@@ -4923,15 +5479,21 @@
             "cf": "",
             "x": "the school's annual presentation evening"
           }
-        ]
+        ],
+        "short_meaning_vi": "Trao giải",
+        "definition_vi": "một buổi lễ hoặc dịp trang trọng mà trong đó một món quà hoặc giải thưởng được trao"
       },
       {
         "definition": "a performance of a play, etc. in a theatre",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "Biểu diễn",
+        "definition_vi": "sự biểu diễn của một vở kịch, v.v. trong một nhà hát"
       },
       {
         "definition": "the position in which a baby is lying in the mother’s body just before birth",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tư thế thai nhi",
+        "definition_vi": "tư thế của em bé trong bụng mẹ ngay trước khi sinh."
       }
     ]
   },
@@ -4956,7 +5518,9 @@
             "cf": "",
             "x": "primary education"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiểu học",
+        "definition_vi": "liên quan đến giáo dục trẻ em trong độ tuổi từ khoảng năm đến mười một."
       },
       {
         "definition": "main; most important; basic",
@@ -4985,7 +5549,9 @@
             "cf": "",
             "x": "What is the primary reason for global warming? "
           }
-        ]
+        ],
+        "short_meaning_vi": "chính, chủ yếu",
+        "definition_vi": "chính; quan trọng nhất; cơ bản."
       },
       {
         "definition": "developing or happening first; earliest",
@@ -4998,7 +5564,9 @@
             "cf": "",
             "x": "The disease is still in its primary stage."
           }
-        ]
+        ],
+        "short_meaning_vi": "sơ cấp, ban đầu",
+        "definition_vi": "đang phát triển hoặc xảy ra đầu tiên; sớm nhất."
       }
     ]
   },
@@ -5035,7 +5603,9 @@
             "cf": "",
             "x": "The violins have the principal tune."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính, chủ yếu",
+        "definition_vi": "quan trọng nhất; chính."
       }
     ]
   },
@@ -5072,7 +5642,9 @@
             "cf": "",
             "x": "She refuses to allow her family to help her as a matter of principle."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguyên tắc đạo đức",
+        "definition_vi": "một quy tắc đạo đức hoặc một niềm tin mạnh mẽ ảnh hưởng đến hành động của bạn."
       },
       {
         "definition": "a law, a rule or a theory that something is based on",
@@ -5129,7 +5701,9 @@
             "cf": "",
             "x": "The court derived a set of principles from this general rule."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguyên lý",
+        "definition_vi": "một quy luật, một quy tắc hoặc một lý thuyết mà dựa trên đó một cái gì đó được hình thành."
       },
       {
         "definition": "a belief that is accepted as a reason for acting or thinking in a particular way",
@@ -5162,7 +5736,9 @@
             "cf": "in accordance with a principle",
             "x": "Ethical behaviour entails acting in accordance with established principles of right and wrong"
           }
-        ]
+        ],
+        "short_meaning_vi": "nguyên tắc",
+        "definition_vi": "một niềm tin được chấp nhận làm lý do để hành động hoặc suy nghĩ theo một cách nhất định."
       },
       {
         "definition": "a general or scientific law that explains how something works or why something happens",
@@ -5179,7 +5755,9 @@
             "cf": "in principle",
             "x": "A tidal current turbine is similar in principle to a windmill."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguyên lý khoa học",
+        "definition_vi": "một quy luật chung hoặc khoa học giải thích cách thức hoạt động hoặc lý do tại sao một điều gì đó xảy ra."
       },
       {
         "definition": "if something can be done in principle, there is no good reason why it should not be done although it has not yet been done and there may be some difficulties",
@@ -5188,7 +5766,9 @@
             "cf": "",
             "x": "In principle there is nothing that a human can do that a machine might not be able to do one day."
           }
-        ]
+        ],
+        "short_meaning_vi": "về nguyên tắc",
+        "definition_vi": "về nguyên tắc có nghĩa là không có lý do chính đáng nào để không thực hiện, mặc dù nó chưa được thực hiện và có thể có một số khó khăn."
       },
       {
         "definition": "in general but not in detail",
@@ -5201,7 +5781,9 @@
             "cf": "",
             "x": "I agree with you in principle, but we'll need to discuss the details."
           }
-        ]
+        ],
+        "short_meaning_vi": "nói chung",
+        "definition_vi": "nói chung nhưng không đi vào chi tiết."
       }
     ]
   },
@@ -5230,7 +5812,9 @@
             "cf": "",
             "x": "He was made (a) professor at the age of 40."
           }
-        ]
+        ],
+        "short_meaning_vi": "giáo sư",
+        "definition_vi": "giảng viên đại học có cấp bậc cao nhất."
       },
       {
         "definition": "a teacher at a university or college",
@@ -5251,7 +5835,9 @@
             "cf": "",
             "x": "She was my professor when I was a grad student."
           }
-        ]
+        ],
+        "short_meaning_vi": "giáo sư",
+        "definition_vi": "giảng viên tại một trường đại học hoặc cao đẳng."
       }
     ]
   },
@@ -5312,7 +5898,9 @@
             "cf": "",
             "x": "They asked for a progress report on the building work."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiến bộ",
+        "definition_vi": "quá trình cải thiện hoặc phát triển, hoặc tiến gần hơn đến việc đạt được hoặc hoàn thành một cái gì đó."
       },
       {
         "definition": "movement forwards or towards a place",
@@ -5329,7 +5917,9 @@
             "cf": "",
             "x": "We watched the ship's stately progress out of the docks."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tiến lên",
+        "definition_vi": "sự di chuyển về phía trước hoặc về một địa điểm."
       },
       {
         "definition": "happening at this time",
@@ -5342,7 +5932,9 @@
             "cf": "",
             "x": "Please be quiet—examination in progress."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang diễn ra",
+        "definition_vi": "đang xảy ra vào lúc này."
       }
     ]
   },
@@ -5375,7 +5967,9 @@
             "cf": "",
             "x": "I found it difficult to pronounce the name of the port. "
           }
-        ]
+        ],
+        "short_meaning_vi": "phát âm",
+        "definition_vi": "tạo ra âm thanh của một từ hoặc một chữ cái theo một cách nhất định."
       },
       {
         "definition": "to give a judgement, opinion or statement formally, officially or publicly",
@@ -5432,7 +6026,9 @@
             "cf": "pronounce against somebody/something",
             "x": "My opinion in this case is that I must pronounce against this claim."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyên bố",
+        "definition_vi": "đưa ra một phán quyết, ý kiến hoặc tuyên bố một cách trang trọng, chính thức hoặc công khai."
       }
     ]
   },
@@ -5457,7 +6053,9 @@
             "cf": "",
             "x": "She has very pronounced views on art."
           }
-        ]
+        ],
+        "short_meaning_vi": "rõ rệt",
+        "definition_vi": "rất rõ ràng, dễ nhận thấy hoặc được thể hiện mạnh mẽ."
       }
     ]
   },
@@ -5514,7 +6112,9 @@
             "cf": "",
             "x": "plans to lower the standard of proof required to convict people of crimes under the Terrorism Act"
           }
-        ]
+        ],
+        "short_meaning_vi": "bằng chứng",
+        "definition_vi": "thông tin, tài liệu, v.v. cho thấy điều gì đó là đúng."
       },
       {
         "definition": "the process of testing whether something is true or a fact",
@@ -5523,11 +6123,15 @@
             "cf": "",
             "x": "Is the claim capable of proof?"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự kiểm chứng",
+        "definition_vi": "quá trình kiểm tra xem điều gì đó có đúng sự thật hay không."
       },
       {
         "definition": "a way of proving that a statement is true or that what you have calculated is correct",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bằng chứng",
+        "definition_vi": "một cách để chứng minh rằng một tuyên bố là đúng hoặc những gì bạn đã tính toán là chính xác."
       },
       {
         "definition": "a copy of printed material which is produced so that mistakes can be corrected",
@@ -5536,11 +6140,15 @@
             "cf": "",
             "x": "She was checking the proofs of her latest novel."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản in thử",
+        "definition_vi": "một bản sao của tài liệu in được tạo ra để có thể sửa lỗi."
       },
       {
         "definition": "a standard used to measure the strength of alcoholic drinks",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "độ cồn",
+        "definition_vi": "một tiêu chuẩn được sử dụng để đo độ mạnh của đồ uống có cồn."
       },
       {
         "definition": "to show by your actions or qualities that a particular fact is true",
@@ -5553,11 +6161,15 @@
             "cf": "",
             "x": "He is living proof that age is no barrier to new challenges."
           }
-        ]
+        ],
+        "short_meaning_vi": "chứng minh",
+        "definition_vi": "thể hiện qua hành động hoặc phẩm chất của bạn rằng một sự thật cụ thể là đúng."
       },
       {
         "definition": "you can only judge if something is good or bad when you have tried it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thử mới biết",
+        "definition_vi": "chỉ có thể phán xét điều gì đó tốt hay xấu khi đã thử nó."
       }
     ]
   },
@@ -5582,7 +6194,9 @@
             "cf": "",
             "x": "He was trying to make it look like an attractive proposition."
           }
-        ]
+        ],
+        "short_meaning_vi": "đề xuất",
+        "definition_vi": "một ý tưởng hoặc một kế hoạch hành động được đề xuất, đặc biệt là trong kinh doanh."
       },
       {
         "definition": "a thing that you intend to do; a problem, task or person to be dealt with",
@@ -5591,7 +6205,9 @@
             "cf": "",
             "x": "Getting a work permit in the UK is not always a simple proposition."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhiệm vụ",
+        "definition_vi": "một việc bạn dự định làm; một vấn đề, nhiệm vụ hoặc người cần giải quyết."
       },
       {
         "definition": "(in the US) a suggested change to the law that people can vote on",
@@ -5600,7 +6216,9 @@
             "cf": "",
             "x": "How did you vote on Proposition 8?"
           }
-        ]
+        ],
+        "short_meaning_vi": "dự luật",
+        "definition_vi": "(ở Mỹ) một đề xuất thay đổi luật mà mọi người có thể bỏ phiếu."
       },
       {
         "definition": "a statement that expresses an opinion",
@@ -5613,7 +6231,9 @@
             "cf": "",
             "x": "The book puts forward a number of extreme propositions about the nature of language."
           }
-        ]
+        ],
+        "short_meaning_vi": "luận điểm",
+        "definition_vi": "một tuyên bố bày tỏ một ý kiến."
       },
       {
         "definition": "a statement of a theorem, and an explanation of how it can be proved",
@@ -5622,7 +6242,9 @@
             "cf": "",
             "x": "First of all we need to examine whether this proposition is true."
           }
-        ]
+        ],
+        "short_meaning_vi": "mệnh đề",
+        "definition_vi": "một tuyên bố về một định lý, và một lời giải thích về cách nó có thể được chứng minh."
       }
     ]
   },
@@ -5699,7 +6321,9 @@
             "cf": "it is proved that…",
             "x": "Can it be proved that he did commit these offences?"
           }
-        ]
+        ],
+        "short_meaning_vi": "chứng minh",
+        "definition_vi": "sử dụng sự kiện, bằng chứng, v.v. để chứng tỏ điều gì đó là đúng."
       },
       {
         "definition": "if something proves dangerous, expensive, etc. or if it proves to be dangerous, etc., you discover that it is dangerous, etc. over a period of time",
@@ -5744,7 +6368,9 @@
             "cf": "",
             "x": "Their fears proved to be groundless."
           }
-        ]
+        ],
+        "short_meaning_vi": "hóa ra",
+        "definition_vi": "nếu một điều gì đó hóa ra nguy hiểm, tốn kém, v.v. hoặc nếu nó hóa ra là nguy hiểm, v.v., bạn sẽ phát hiện ra rằng nó nguy hiểm, v.v. trong một khoảng thời gian."
       },
       {
         "definition": "to show other people how good you are at doing something or that you are capable of doing something",
@@ -5757,7 +6383,9 @@
             "cf": "prove yourself",
             "x": "She wants a chance to prove herself."
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện tài năng",
+        "definition_vi": "thể hiện cho người khác thấy bạn giỏi làm điều gì đó như thế nào hoặc bạn có khả năng làm điều gì đó."
       },
       {
         "definition": "to show other people that you are a particular type of person or that you have a particular quality",
@@ -5770,7 +6398,9 @@
             "cf": "prove yourself to be something",
             "x": "She proved herself to be a skilful negotiator."
           }
-        ]
+        ],
+        "short_meaning_vi": "chứng tỏ bản thân",
+        "definition_vi": "thể hiện cho người khác thấy bạn là một kiểu người cụ thể hoặc bạn có một phẩm chất cụ thể."
       },
       {
         "definition": "to swell (= become larger or rounder) before being baked because of the action of yeast; to leave bread dough to prove",
@@ -5783,7 +6413,9 @@
             "cf": "prove something",
             "x": "Prove the dough until it has doubled in size."
           }
-        ]
+        ],
+        "short_meaning_vi": "ủ bột",
+        "definition_vi": "bột nở (= trở nên lớn hơn hoặc tròn hơn) trước khi nướng do tác động của men; để bột bánh mì ủ."
       },
       {
         "definition": "people say that something is the exception that proves the rule when they are stating something that seems to be different from the normal situation, but they mean that the normal situation remains true in general",
@@ -5792,7 +6424,9 @@
             "cf": "",
             "x": "Most electronics companies have not done well this year, but ours is the exception that proves the rule."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngoại lệ",
+        "definition_vi": "người ta nói rằng một điều gì đó là ngoại lệ chứng minh quy tắc khi họ nêu một điều gì đó có vẻ khác với tình huống bình thường, nhưng họ có ý rằng tình huống bình thường vẫn đúng nói chung."
       }
     ]
   },
@@ -5829,7 +6463,9 @@
             "cf": "",
             "x": "Spending per pupil will rise."
           }
-        ]
+        ],
+        "short_meaning_vi": "học sinh",
+        "definition_vi": "một người đang được dạy, đặc biệt là một đứa trẻ ở trường."
       },
       {
         "definition": "a person who is taught artistic, musical, etc. skills by an expert",
@@ -5842,7 +6478,9 @@
             "cf": "pupil of somebody",
             "x": "The painting is by a pupil of Rembrandt."
           }
-        ]
+        ],
+        "short_meaning_vi": "học trò",
+        "definition_vi": "một người được một chuyên gia dạy các kỹ năng nghệ thuật, âm nhạc, v.v."
       },
       {
         "definition": "the small round black area at the centre of the eye",
@@ -5851,7 +6489,9 @@
             "cf": "",
             "x": "Her pupils were dilated."
           }
-        ]
+        ],
+        "short_meaning_vi": "con ngươi",
+        "definition_vi": "vùng tròn nhỏ màu đen ở trung tâm của mắt."
       }
     ]
   },
@@ -5872,7 +6512,9 @@
             "cf": "",
             "x": "a brilliant and thought-provoking play"
           }
-        ]
+        ],
+        "short_meaning_vi": "kích thích tư duy",
+        "definition_vi": "khiến mọi người suy nghĩ nghiêm túc về một chủ đề hoặc vấn đề cụ thể"
       }
     ]
   }

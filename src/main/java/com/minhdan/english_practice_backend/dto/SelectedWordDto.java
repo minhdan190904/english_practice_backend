@@ -15,7 +15,11 @@ public class SelectedWordDto {
     private String category;
     private String pos;
     private String definition;
+    private String definitionVi;
+    private String shortMeaningVi;
     private String example;
     private String phoneticText;
     private String phoneticAmText;
+    private String phoneticUrl;
+    private String phoneticAmUrl;
 }

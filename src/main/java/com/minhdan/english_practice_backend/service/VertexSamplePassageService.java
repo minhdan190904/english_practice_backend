@@ -54,6 +54,7 @@ public class VertexSamplePassageService {
                 - Keep the passage between %d and %d words.
                 - IMPORTANT: The passage must be pure plain text only. No markdown, no bullet points, no asterisks, no dashes, no special formatting characters of any kind. Only regular letters, spaces, commas, periods, question marks, and exclamation marks.
                 - Write in flowing prose paragraphs. Do not use numbered lists or bullet lists.
+                - Finally, provide a precise and natural Vietnamese translation of the passage you generated.
                 """, level, category, wordsListStr, level, minWords, maxWords);
 
         Map<String, Object> requestBody = Map.of(
@@ -69,9 +70,10 @@ public class VertexSamplePassageService {
                     "type", "object",
                     "properties", Map.of(
                         "title", Map.of("type", "string", "description", "A short attractive title"),
-                        "passage", Map.of("type", "string", "description", "The generated English passage.")
+                        "passage", Map.of("type", "string", "description", "The generated English passage."),
+                        "passageVi", Map.of("type", "string", "description", "The Vietnamese translation of the passage.")
                     ),
-                    "required", List.of("title", "passage")
+                    "required", List.of("title", "passage", "passageVi")
                 )
             )
         );
@@ -103,6 +105,7 @@ public class VertexSamplePassageService {
             return GenerateSamplePassageResponse.builder()
                     .title(passageMap.get("title"))
                     .passage(generatedPassage)
+                    .passageVi(passageMap.get("passageVi"))
                     .selectedWords(selectedWords)
                     .category(category)
                     .level(level)
@@ -116,9 +119,14 @@ public class VertexSamplePassageService {
                 + "It is important to understand basic concepts. Let's study the new words carefully. "
                 + "Please practice them every day. " + selectedWords.stream().map(w -> "Remember the word " + w.getWord() + ". ").collect(Collectors.joining());
             
+            String fallbackPassageVi = "Chào mừng đến với phần học thuật của chúng tôi. Hôm nay chúng ta sẽ học về " + category + ". "
+                + "Điều quan trọng là phải hiểu các khái niệm cơ bản. Hãy nghiên cứu kỹ các từ mới. "
+                + "Hãy luyện tập chúng mỗi ngày. " + selectedWords.stream().map(w -> "Hãy nhớ từ " + w.getWord() + ". ").collect(Collectors.joining());
+            
             return GenerateSamplePassageResponse.builder()
                     .title("Sample " + category + " Passage")
                     .passage(fallbackPassage)
+                    .passageVi(fallbackPassageVi)
                     .selectedWords(selectedWords)
                     .category(category)
                     .level(level)

@@ -14,6 +14,7 @@ import java.util.List;
 public class GenerateSamplePassageResponse {
     private String title;
     private String passage;
+    private String passageVi;
     private List<SelectedWordDto> selectedWords;
     private String category;
     private String level;

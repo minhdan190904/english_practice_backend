@@ -44,7 +44,9 @@
             "cf": "",
             "x": "He was evicted from his Manhattan apartment."
           }
-        ]
+        ],
+        "short_meaning_vi": "căn hộ",
+        "definition_vi": "một tập hợp các phòng để sinh sống, thường nằm trên một tầng của một tòa nhà"
       },
       {
         "definition": "a set of rooms used for a holiday",
@@ -57,7 +59,9 @@
             "cf": "",
             "x": "They are staying in a luxury apartment overlooking the beach."
           }
-        ]
+        ],
+        "short_meaning_vi": "căn hộ nghỉ dưỡng",
+        "definition_vi": "một tập hợp các phòng dùng cho kỳ nghỉ"
       },
       {
         "definition": "a room in a house, especially a large or famous house",
@@ -66,7 +70,9 @@
             "cf": "",
             "x": "You can visit the whole palace except for the private apartments."
           }
-        ]
+        ],
+        "short_meaning_vi": "phòng ở",
+        "definition_vi": "một căn phòng trong nhà, đặc biệt là một ngôi nhà lớn hoặc nổi tiếng"
       }
     ]
   },
@@ -87,7 +93,9 @@
             "cf": "",
             "x": "No attachment was included."
           }
-        ]
+        ],
+        "short_meaning_vi": "tệp đính kèm",
+        "definition_vi": "một tài liệu mà bạn gửi cho ai đó qua email"
       },
       {
         "definition": "the act of joining one thing to another; a thing that joins two things together",
@@ -104,7 +112,9 @@
             "cf": "attachment to something",
             "x": "They had to check the strength of the seat attachments to the floor of the plane."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự gắn bó",
+        "definition_vi": "hành động nối một vật với vật khác; một vật nối hai vật lại với nhau"
       },
       {
         "definition": "a feeling of love for somebody/something",
@@ -117,7 +127,9 @@
             "cf": "",
             "x": "Prisoners can develop attachments to their guards."
           }
-        ]
+        ],
+        "short_meaning_vi": "tình cảm yêu mến",
+        "definition_vi": "cảm giác yêu thương ai đó/điều gì đó"
       },
       {
         "definition": "belief in and support for an idea or a set of values",
@@ -126,7 +138,9 @@
             "cf": "",
             "x": "the popular attachment to democratic government"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự ủng hộ",
+        "definition_vi": "niềm tin và sự ủng hộ đối với một ý tưởng hoặc một bộ giá trị"
       },
       {
         "definition": "a tool that you can fix onto a machine, to make it do another job",
@@ -135,7 +149,9 @@
             "cf": "",
             "x": "an electric drill with a range of different attachments"
           }
-        ]
+        ],
+        "short_meaning_vi": "phụ kiện",
+        "definition_vi": "một công cụ có thể gắn vào máy để làm cho máy đó thực hiện một công việc khác"
       },
       {
         "definition": "a short time spent working with an organization such as a hospital, school or part of the armed forces",
@@ -148,7 +164,9 @@
             "cf": "on attachment (to something)",
             "x": "She's on attachment to the local hospital."
           }
-        ]
+        ],
+        "short_meaning_vi": "thực tập",
+        "definition_vi": "một khoảng thời gian ngắn làm việc với một tổ chức như bệnh viện, trường học hoặc một bộ phận của quân đội"
       }
     ]
   },
@@ -189,7 +207,9 @@
             "cf": "",
             "x": "Did you shut the garage door?"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà để xe",
+        "definition_vi": "một tòa nhà để chứa một hoặc nhiều ô tô hoặc phương tiện khác"
       },
       {
         "definition": "a place where vehicles are repaired and/or where you can buy a car or buy petrol and oil",
@@ -206,15 +226,21 @@
             "cf": "",
             "x": "a garage mechanic"
           }
-        ]
+        ],
+        "short_meaning_vi": "gara sửa chữa",
+        "definition_vi": "một nơi sửa chữa xe cộ và/hoặc nơi bạn có thể mua xe hoặc mua xăng và dầu"
       },
       {
         "definition": "a style of rock music played with great energy but not necessarily great technique, popular in the 1960s",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhạc garage",
+        "definition_vi": "một phong cách nhạc rock được chơi với năng lượng lớn nhưng không nhất thiết phải kỹ thuật cao, phổ biến vào những năm 1960"
       },
       {
         "definition": "a type of electronic dance music with elements of drum and bass, house music and soul",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhạc garage",
+        "definition_vi": "một loại nhạc dance điện tử với các yếu tố của drum and bass, nhạc house và soul"
       }
     ]
   },
@@ -259,7 +285,9 @@
             "cf": "",
             "x": "garden flowers/plants"
           }
-        ]
+        ],
+        "short_meaning_vi": "vườn",
+        "definition_vi": "một mảnh đất liền kề hoặc xung quanh nhà bạn, nơi bạn có thể trồng hoa, trái cây, rau, v.v., thường có bãi cỏ (= một khu vực trồng cỏ)"
       },
       {
         "definition": "an area in a yard where you grow flowers or plants",
@@ -268,7 +296,9 @@
             "cf": "",
             "x": "These flowers brighten up backyard gardens all over the country."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vườn",
+        "definition_vi": "một khu vực trong sân nơi bạn trồng hoa hoặc cây"
       },
       {
         "definition": "a public park",
@@ -281,7 +311,9 @@
             "cf": "in the gardens",
             "x": "The concert will take place in the gardens."
           }
-        ]
+        ],
+        "short_meaning_vi": "công viên",
+        "definition_vi": "một công viên công cộng"
       },
       {
         "definition": "used in the name of streets",
@@ -290,19 +322,27 @@
             "cf": "",
             "x": "39 Belvoir Gardens"
           }
-        ]
+        ],
+        "short_meaning_vi": "tên đường",
+        "definition_vi": "được sử dụng trong tên đường phố"
       },
       {
         "definition": "ordinary; with no special features",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thông thường",
+        "definition_vi": "bình thường; không có đặc điểm đặc biệt"
       },
       {
         "definition": "everything is fine",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "mọi thứ ổn",
+        "definition_vi": "mọi thứ đều ổn"
       },
       {
         "definition": "to make somebody believe something that is not true",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lừa dối",
+        "definition_vi": "làm cho ai đó tin vào điều không đúng sự thật"
       }
     ]
   },
@@ -351,7 +391,9 @@
             "cf": "gate to something",
             "x": "Someone was waiting by the gate to his house."
           }
-        ]
+        ],
+        "short_meaning_vi": "cổng",
+        "definition_vi": "một rào chắn giống như cửa được sử dụng để đóng một lối vào hàng rào hoặc tường bên ngoài tòa nhà"
       },
       {
         "definition": "an opening that can be closed by a gate or gates",
@@ -364,7 +406,9 @@
             "cf": "through a gate",
             "x": "We drove through the palace gates."
           }
-        ]
+        ],
+        "short_meaning_vi": "lối vào",
+        "definition_vi": "một lối vào có thể được đóng lại bằng một hoặc nhiều cổng"
       },
       {
         "definition": "a way out of an airport through which passengers go to get on their plane",
@@ -377,7 +421,9 @@
             "cf": "at a gate",
             "x": "BA flight 726 to Paris is now boarding at gate 16."
           }
-        ]
+        ],
+        "short_meaning_vi": "cửa lên máy bay",
+        "definition_vi": "một lối ra khỏi sân bay, nơi hành khách đi để lên máy bay của họ"
       },
       {
         "definition": "a barrier that is used to control the flow of water on a river or canal",
@@ -386,7 +432,9 @@
             "cf": "",
             "x": "a lock/sluice gate "
           }
-        ]
+        ],
+        "short_meaning_vi": "cửa cống",
+        "definition_vi": "một rào chắn được sử dụng để kiểm soát dòng chảy của nước trên sông hoặc kênh"
       },
       {
         "definition": "the number of people who attend a sports event",
@@ -395,7 +443,9 @@
             "cf": "",
             "x": "Tonight's game has attracted the largest gate of the season."
           }
-        ]
+        ],
+        "short_meaning_vi": "lượng khán giả",
+        "definition_vi": "số lượng người tham dự một sự kiện thể thao"
       },
       {
         "definition": "the amount of money made by selling tickets for a sports event",
@@ -404,7 +454,9 @@
             "cf": "",
             "x": "Today's gate will be given to charity."
           }
-        ]
+        ],
+        "short_meaning_vi": "doanh thu vé",
+        "definition_vi": "số tiền thu được từ việc bán vé cho một sự kiện thể thao"
       },
       {
         "definition": "a political scandal connected with the person, place or event mentioned, usually involving a cover-up (= an attempt to hide an illegal activity)",
@@ -413,11 +465,15 @@
             "cf": "",
             "x": "The newspapers have been running stories on the Partygate scandal for months."
           }
-        ]
+        ],
+        "short_meaning_vi": "vụ bê bối",
+        "definition_vi": "một vụ bê bối chính trị liên quan đến người, địa điểm hoặc sự kiện được đề cập, thường liên quan đến việc che đậy (= một nỗ lực che giấu một hoạt động bất hợp pháp)"
       },
       {
         "definition": "an electronic switch that reacts in one of two ways to data that is put into it. A computer performs operations by passing data through a very large number of gates.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cổng logic",
+        "definition_vi": "một công tắc điện tử phản ứng theo một trong hai cách với dữ liệu được đưa vào nó. Máy tính thực hiện các phép toán bằng cách truyền dữ liệu qua một số lượng lớn các cổng."
       },
       {
         "definition": "to be successful from the beginning, especially in sport",
@@ -430,7 +486,9 @@
             "cf": "",
             "x": "The team has struggled to get out of the gate this year."
           }
-        ]
+        ],
+        "short_meaning_vi": "thắng lợi",
+        "definition_vi": "thành công ngay từ đầu, đặc biệt là trong thể thao"
       },
       {
         "definition": "right from the beginning of a situation or an activity",
@@ -443,7 +501,9 @@
             "cf": "",
             "x": "The Democrats had a clear advantage out of the gate."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngay từ đầu",
+        "definition_vi": "ngay từ đầu của một tình huống hoặc một hoạt động"
       }
     ]
   },
@@ -488,7 +548,9 @@
             "cf": "under glass",
             "x": "The vegetables are grown under glass (= in a greenhouse)."
           }
-        ]
+        ],
+        "short_meaning_vi": "thủy tinh",
+        "definition_vi": "một chất cứng, thường trong suốt, được sử dụng, ví dụ, để làm cửa sổ và chai lọ"
       },
       {
         "definition": "a container made of glass, used for drinking out of",
@@ -509,7 +571,9 @@
             "cf": "",
             "x": "a pint glass"
           }
-        ]
+        ],
+        "short_meaning_vi": "cốc thủy tinh",
+        "definition_vi": "một vật chứa bằng thủy tinh, dùng để uống"
       },
       {
         "definition": "the contents of a glass",
@@ -522,7 +586,9 @@
             "cf": "glass of something",
             "x": "a glass of wine/water"
           }
-        ]
+        ],
+        "short_meaning_vi": "lượng đồ uống",
+        "definition_vi": "lượng chứa trong một cốc thủy tinh"
       },
       {
         "definition": "two lenses in a frame that rests on the nose and ears. People wear glasses in order to be able to see better or to protect their eyes from bright light.",
@@ -539,7 +605,9 @@
             "cf": "",
             "x": "I wear glasses for driving."
           }
-        ]
+        ],
+        "short_meaning_vi": "kính mắt",
+        "definition_vi": "hai tròng kính trong một gọng kính đặt trên mũi và tai. Mọi người đeo kính để nhìn rõ hơn hoặc để bảo vệ mắt khỏi ánh sáng chói."
       },
       {
         "definition": "objects made of glass",
@@ -552,7 +620,9 @@
             "cf": "",
             "x": "She has a fine collection of Bohemian glass."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồ thủy tinh",
+        "definition_vi": "các vật làm bằng thủy tinh"
       },
       {
         "definition": "a protecting cover made of glass on a watch, picture or photograph frame, fire alarm, etc.",
@@ -561,15 +631,21 @@
             "cf": "",
             "x": "In case of emergency, break the glass and press the button."
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt kính",
+        "definition_vi": "một lớp vỏ bảo vệ bằng thủy tinh trên đồng hồ, khung tranh hoặc ảnh, báo cháy, v.v."
       },
       {
         "definition": "a mirror",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "gương",
+        "definition_vi": "một tấm gương"
       },
       {
         "definition": "a barometer",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kính thủy",
+        "definition_vi": "một cái khí áp kế"
       },
       {
         "definition": "used to refer to the attitude of somebody who always looks at the bad things in a situation rather than the good ones",
@@ -582,7 +658,9 @@
             "cf": "",
             "x": "If you start to look at things with a glass half-empty mentality, your problems soon pile up."
           }
-        ]
+        ],
+        "short_meaning_vi": "bi quan",
+        "definition_vi": "được sử dụng để chỉ thái độ của người luôn nhìn vào những điều tồi tệ trong một tình huống thay vì những điều tốt đẹp"
       },
       {
         "definition": "used to refer to the attitude of somebody who always looks at the good things in a situation rather than the bad ones ",
@@ -595,15 +673,21 @@
             "cf": "",
             "x": "She always looks on the bright side—she's a glass half-full kind of person."
           }
-        ]
+        ],
+        "short_meaning_vi": "lạc quan",
+        "definition_vi": "được sử dụng để chỉ thái độ của người luôn nhìn vào những điều tốt đẹp trong một tình huống thay vì những điều tồi tệ"
       },
       {
         "definition": "you should not criticize other people, because they will easily find ways of criticizing you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhìn vào mình",
+        "definition_vi": "bạn không nên chỉ trích người khác, vì họ sẽ dễ dàng tìm ra cách chỉ trích bạn."
       },
       {
         "definition": "to hold up your glass and wish somebody happiness, good luck, etc. before you drink",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nâng cốc",
+        "definition_vi": "giơ ly của bạn lên và chúc ai đó hạnh phúc, may mắn, v.v. trước khi bạn uống."
       }
     ]
   },
@@ -656,7 +740,9 @@
             "cf": "key to doing something",
             "x": "Better training for our staff has been key to improving the service."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan trọng",
+        "definition_vi": "quan trọng nhất; thiết yếu."
       }
     ]
   },
@@ -693,7 +779,9 @@
             "cf": "",
             "x": "The house has a fully fitted kitchen with custom-built units."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhà bếp",
+        "definition_vi": "một căn phòng nơi các bữa ăn được nấu hoặc chuẩn bị."
       },
       {
         "definition": "a very large number of things, probably more than is necessary",
@@ -702,11 +790,15 @@
             "cf": "",
             "x": "We seem to take everything but the kitchen sink when we go camping."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều",
+        "definition_vi": "một số lượng lớn các thứ, có lẽ nhiều hơn mức cần thiết."
       },
       {
         "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bỏ cuộc đi",
+        "definition_vi": "dùng để nói với ai đó ngừng cố gắng làm điều gì đó nếu họ thấy quá khó khăn, đặc biệt là để gợi ý rằng họ kém cỏi hơn những người khác."
       }
     ]
   },
@@ -751,7 +843,9 @@
             "cf": "",
             "x": "She was murdered in a frenzied knife attack."
           }
-        ]
+        ],
+        "short_meaning_vi": "dao",
+        "definition_vi": "một lưỡi dao sắc bén có tay cầm, dùng để cắt hoặc làm vũ khí."
       },
       {
         "definition": "the situation has become so bad that people are preparing to make one person take the blame, for example by taking away their job",
@@ -760,15 +854,21 @@
             "cf": "",
             "x": "The knives are out for the chancellor."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu trách nhiệm",
+        "definition_vi": "tình hình đã trở nên tồi tệ đến mức mọi người chuẩn bị để một người nào đó phải chịu trách nhiệm, ví dụ bằng cách tước bỏ công việc của họ."
       },
       {
         "definition": "easily; without meeting any difficulty",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dễ dàng",
+        "definition_vi": "dễ dàng; không gặp bất kỳ khó khăn nào."
       },
       {
         "definition": "to behave towards somebody in an unfriendly way and try to harm them",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hãm hại",
+        "definition_vi": "hành xử với ai đó một cách không thân thiện và cố gắng làm hại họ."
       },
       {
         "definition": "to say or do something unkind deliberately; to make somebody who is unhappy feel even more unhappy",
@@ -781,7 +881,9 @@
             "cf": "",
             "x": "Just to twist the knife, the filmmakers have provided a surprise ending."
           }
-        ]
+        ],
+        "short_meaning_vi": "chọc tức",
+        "definition_vi": "nói hoặc làm điều gì đó không hay một cách cố ý; làm cho ai đó đang không hạnh phúc cảm thấy tồi tệ hơn."
       },
       {
         "definition": "having a medical operation",
@@ -790,7 +892,9 @@
             "cf": "",
             "x": "He is to go under the surgeon's knife again on Thursday."
           }
-        ]
+        ],
+        "short_meaning_vi": "phẫu thuật",
+        "definition_vi": "đã trải qua một ca phẫu thuật y tế."
       }
     ]
   },
@@ -811,7 +915,9 @@
             "cf": "",
             "x": "to climb up/fall off a ladder"
           }
-        ]
+        ],
+        "short_meaning_vi": "thang",
+        "definition_vi": "một thiết bị để leo lên xuống tường, mặt bên của tòa nhà, v.v., bao gồm hai thanh gỗ hoặc kim loại được nối với nhau bằng các bậc hoặc thanh ngang."
       },
       {
         "definition": "a series of stages by which you can make progress in your life or career",
@@ -824,7 +930,9 @@
             "cf": "",
             "x": "the career ladder"
           }
-        ]
+        ],
+        "short_meaning_vi": "lộ trình",
+        "definition_vi": "một chuỗi các giai đoạn mà bạn có thể tiến bộ trong cuộc sống hoặc sự nghiệp của mình."
       },
       {
         "definition": "a long, thin hole in tights or stockings where some threads have broken",
@@ -833,7 +941,9 @@
             "cf": "",
             "x": "I've got a ladder in my new tights."
           }
-        ]
+        ],
+        "short_meaning_vi": "tụt chỉ",
+        "definition_vi": "một lỗ dài, mỏng trên quần tất hoặc tất, nơi một số sợi bị đứt."
       },
       {
         "definition": "a competition in a particular sport or game in which teams or players are arranged in a list and they can move up the list by defeating one of the teams or players above",
@@ -842,7 +952,9 @@
             "cf": "",
             "x": "He’s third on the tennis ladder at work."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảng xếp hạng",
+        "definition_vi": "một cuộc thi đấu trong một môn thể thao hoặc trò chơi cụ thể, trong đó các đội hoặc người chơi được sắp xếp trong một danh sách và họ có thể thăng hạng bằng cách đánh bại một trong những đội hoặc người chơi ở trên."
       }
     ]
   },
@@ -887,7 +999,9 @@
             "cf": "",
             "x": "to switch on/turn off a lamp"
           }
-        ]
+        ],
+        "short_meaning_vi": "đèn",
+        "definition_vi": "một thiết bị sử dụng điện, dầu hoặc khí đốt để tạo ra ánh sáng."
       },
       {
         "definition": "an electrical device that produces rays of heat and that is used for medical or scientific purposes",
@@ -900,7 +1014,9 @@
             "cf": "",
             "x": "The specimen was viewed under an ultraviolet lamp."
           }
-        ]
+        ],
+        "short_meaning_vi": "đèn hồng ngoại",
+        "definition_vi": "một thiết bị điện tạo ra tia nhiệt và được sử dụng cho mục đích y tế hoặc khoa học."
       }
     ]
   },
@@ -921,11 +1037,15 @@
             "cf": "",
             "x": "a buy-to-let landlord (= who buys houses and flats in order to rent them out)"
           }
-        ]
+        ],
+        "short_meaning_vi": "chủ nhà",
+        "definition_vi": "một người hoặc công ty mà bạn thuê phòng, nhà, văn phòng, v.v. từ đó."
       },
       {
         "definition": "a man who owns or manages a pub or a guest house",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chủ quán",
+        "definition_vi": "một người đàn ông sở hữu hoặc quản lý một quán rượu hoặc nhà khách."
       }
     ]
   },
@@ -954,11 +1074,15 @@
             "cf": "",
             "x": "They served afternoon tea on the lawn (= a large area of grass, near a big house, for example)."
           }
-        ]
+        ],
+        "short_meaning_vi": "bãi cỏ",
+        "definition_vi": "một khu vực đất được bao phủ bởi cỏ ngắn trong vườn hoặc công viên, hoặc dùng để chơi một trò chơi."
       },
       {
         "definition": "a type of fine cotton or linen cloth used for making clothes",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vải lanh",
+        "definition_vi": "một loại vải cotton hoặc lanh mịn dùng để may quần áo."
       }
     ]
   },
@@ -991,7 +1115,9 @@
             "cf": "",
             "x": "The building needs improved security and lighting."
           }
-        ]
+        ],
+        "short_meaning_vi": "ánh sáng",
+        "definition_vi": "sự sắp xếp hoặc loại ánh sáng trong một địa điểm."
       },
       {
         "definition": "the use of electric lights in a place",
@@ -1012,7 +1138,9 @@
             "cf": "",
             "x": "exterior lighting and alarm systems"
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống chiếu sáng",
+        "definition_vi": "việc sử dụng đèn điện ở một địa điểm."
       }
     ]
   },
@@ -1037,7 +1165,9 @@
             "cf": "",
             "x": "It's a good idea to have locks fitted on all your windows."
           }
-        ]
+        ],
+        "short_meaning_vi": "ổ khóa",
+        "definition_vi": "một thiết bị giữ cho cửa, cửa sổ, hộp, v.v. đóng lại, thường cần chìa khóa để mở."
       },
       {
         "definition": "a device that prevents a vehicle, machine or piece of equipment from being used",
@@ -1054,7 +1184,9 @@
             "cf": "",
             "x": "safety locks for handguns"
           }
-        ]
+        ],
+        "short_meaning_vi": "khóa",
+        "definition_vi": "một thiết bị ngăn không cho xe cộ, máy móc hoặc thiết bị được sử dụng."
       },
       {
         "definition": "a feature on a computer or mobile phone that prevents somebody from accessing it without a code",
@@ -1063,11 +1195,15 @@
             "cf": "",
             "x": "There's a security lock on the phone."
           }
-        ]
+        ],
+        "short_meaning_vi": "mật khẩu",
+        "definition_vi": "một tính năng trên máy tính hoặc điện thoại di động ngăn ai đó truy cập mà không có mã."
       },
       {
         "definition": "a state in which the parts of a machine, etc. do not move",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khớp",
+        "definition_vi": "một trạng thái mà các bộ phận của máy móc, v.v. không di chuyển."
       },
       {
         "definition": "the amount that the front wheels can be turned in one direction or the other in order to turn the vehicle",
@@ -1076,11 +1212,15 @@
             "cf": "",
             "x": "I had the steering wheel on full lock (= I had turned it as far as it would turn)."
           }
-        ]
+        ],
+        "short_meaning_vi": "góc lái",
+        "definition_vi": "lượng bánh trước có thể quay theo một hướng hoặc hướng khác để quay xe."
       },
       {
         "definition": "a section of canal or river with a gate at either end, in which the water level can be changed so that boats can move from one level of the canal or river to another",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cống",
+        "definition_vi": "một đoạn kênh hoặc sông có cổng ở mỗi đầu, trong đó mực nước có thể được thay đổi để thuyền có thể di chuyển từ cấp độ này sang cấp độ khác của kênh hoặc sông."
       },
       {
         "definition": "a few hairs that hang or lie together on your head",
@@ -1093,7 +1233,9 @@
             "cf": "",
             "x": "She kept a lock of her mother’s hair."
           }
-        ]
+        ],
+        "short_meaning_vi": "lọn tóc",
+        "definition_vi": "một vài sợi tóc treo hoặc nằm cùng nhau trên đầu bạn."
       },
       {
         "definition": "a person’s hair",
@@ -1102,11 +1244,15 @@
             "cf": "",
             "x": "She shook her long, flowing locks."
           }
-        ]
+        ],
+        "short_meaning_vi": "tóc",
+        "definition_vi": "tóc của một người."
       },
       {
         "definition": "a player in the second row of the scrum",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tiền vệ",
+        "definition_vi": "một cầu thủ ở hàng thứ hai của scrum."
       },
       {
         "definition": "total control of something",
@@ -1115,7 +1261,9 @@
             "cf": "",
             "x": "One company had a virtual lock on all orange juice sales in the state."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm soát hoàn toàn",
+        "definition_vi": "kiểm soát hoàn toàn một cái gì đó."
       },
       {
         "definition": "including everything",
@@ -1124,7 +1272,9 @@
             "cf": "",
             "x": "He sold the business lock, stock and barrel."
           }
-        ]
+        ],
+        "short_meaning_vi": "bao gồm tất cả",
+        "definition_vi": "bao gồm mọi thứ."
       },
       {
         "definition": "to open a lock without a key, using something such as a piece of wire",
@@ -1133,7 +1283,9 @@
             "cf": "",
             "x": "The burglars must have picked the lock on the back door."
           }
-        ]
+        ],
+        "short_meaning_vi": "mở khóa",
+        "definition_vi": "mở khóa mà không cần chìa khóa, sử dụng thứ gì đó như một đoạn dây thép."
       },
       {
         "definition": "locked up safely somewhere; in prison",
@@ -1150,7 +1302,9 @@
             "cf": "",
             "x": "Prisoners are kept under lock and key 24 hours a day."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị giam",
+        "definition_vi": "được khóa an toàn ở đâu đó; trong tù."
       }
     ]
   },
@@ -1179,7 +1333,9 @@
             "cf": "",
             "x": "the bathroom mirror"
           }
-        ]
+        ],
+        "short_meaning_vi": "gương",
+        "definition_vi": "một miếng kính phẳng đặc biệt phản chiếu hình ảnh, để bạn có thể nhìn thấy chính mình khi nhìn vào đó."
       },
       {
         "definition": "something that shows what something else is like",
@@ -1192,11 +1348,15 @@
             "cf": "",
             "x": "Dickens' novels are a mirror of his times."
           }
-        ]
+        ],
+        "short_meaning_vi": "phản ánh",
+        "definition_vi": "một cái gì đó cho thấy cái khác giống như thế nào."
       },
       {
         "definition": "a website that is a copy of another website but that has a different address on the internet",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bản sao",
+        "definition_vi": "một trang web là bản sao của một trang web khác nhưng có địa chỉ khác trên internet."
       },
       {
         "definition": "the fact of hiding the truth with information that is not important or relevant ",
@@ -1205,7 +1365,9 @@
             "cf": "",
             "x": "There's a lot of smoke and mirrors in the financing of this film."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự che đậy",
+        "definition_vi": "sự che giấu sự thật bằng thông tin không quan trọng hoặc không liên quan"
       }
     ]
   },
@@ -1230,7 +1392,9 @@
             "cf": "",
             "x": "sanitary pads (= that a woman uses during her period)"
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng đệm",
+        "definition_vi": "một miếng vật liệu mềm, dày được sử dụng, ví dụ, để làm sạch hoặc bảo vệ thứ gì đó hoặc để giữ chất lỏng"
       },
       {
         "definition": "a number of pieces of paper for writing or drawing on, that are fastened together at one edge",
@@ -1247,7 +1411,9 @@
             "cf": "",
             "x": "She doodled on a pad as she spoke."
           }
-        ]
+        ],
+        "short_meaning_vi": "tập giấy",
+        "definition_vi": "một số tờ giấy để viết hoặc vẽ, được dán lại với nhau ở một cạnh"
       },
       {
         "definition": "the soft part under the foot of a cat, dog, etc.",
@@ -1256,7 +1422,9 @@
             "cf": "",
             "x": "A cat detects vibrations through the pads of its feet."
           }
-        ]
+        ],
+        "short_meaning_vi": "đệm chân",
+        "definition_vi": "phần mềm dưới chân của mèo, chó, v.v."
       },
       {
         "definition": "a small piece of rough material used for cleaning pans, surfaces, etc.",
@@ -1265,7 +1433,9 @@
             "cf": "",
             "x": "a scouring pad"
           }
-        ]
+        ],
+        "short_meaning_vi": "miếng cọ rửa",
+        "definition_vi": "một miếng vật liệu thô nhỏ dùng để làm sạch nồi, bề mặt, v.v."
       },
       {
         "definition": "a flat surface where a spacecraft or a helicopter takes off and lands",
@@ -1278,7 +1448,9 @@
             "cf": "",
             "x": "Two booster rockets will power the shuttle off the pad."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân đáp",
+        "definition_vi": "bề mặt phẳng nơi tàu vũ trụ hoặc máy bay trực thăng cất cánh và hạ cánh"
       },
       {
         "definition": "a piece of thick material that you wear in some sports, for example football and cricket, to protect parts of your body",
@@ -1287,7 +1459,9 @@
             "cf": "",
             "x": "knee pads"
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo hộ",
+        "definition_vi": "một miếng vật liệu dày mà bạn đeo trong một số môn thể thao, ví dụ như bóng đá và cricket, để bảo vệ các bộ phận cơ thể"
       },
       {
         "definition": "the large flat leaf of some water plants, especially the water lily",
@@ -1296,7 +1470,9 @@
             "cf": "",
             "x": "floating lily pads"
           }
-        ]
+        ],
+        "short_meaning_vi": "lá súng",
+        "definition_vi": "lá lớn, phẳng của một số loài thực vật thủy sinh, đặc biệt là hoa súng"
       },
       {
         "definition": "the place where somebody lives, especially a flat",
@@ -1305,7 +1481,9 @@
             "cf": "",
             "x": "He moved back into his old bachelor pad."
           }
-        ]
+        ],
+        "short_meaning_vi": "căn hộ",
+        "definition_vi": "nơi ai đó sống, đặc biệt là một căn hộ"
       }
     ]
   },
@@ -1350,7 +1528,9 @@
             "cf": "",
             "x": "Insulation may reduce the danger of pipes bursting in winter."
           }
-        ]
+        ],
+        "short_meaning_vi": "ống dẫn",
+        "definition_vi": "một ống dẫn mà chất lỏng và khí có thể chảy qua"
       },
       {
         "definition": "a narrow tube with a bowl at one end, used for smoking tobacco",
@@ -1371,19 +1551,27 @@
             "cf": "",
             "x": "He knocked out his pipe in the big glass ashtray."
           }
-        ]
+        ],
+        "short_meaning_vi": "tẩu hút thuốc",
+        "definition_vi": "một ống hẹp có bầu ở một đầu, dùng để hút thuốc lá"
       },
       {
         "definition": "a musical instrument in the shape of a tube, played by blowing",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kèn",
+        "definition_vi": "một nhạc cụ có hình dạng ống, được thổi để chơi"
       },
       {
         "definition": "any of the tubes from which sound is produced in an organ",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ống hơi",
+        "definition_vi": "bất kỳ ống nào tạo ra âm thanh trong một cây đàn organ"
       },
       {
         "definition": "a musical instrument played especially in Scotland. The player blows air into a bag held under the arm and then slowly forces the air out through pipes to produce a noise.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "kèn túi",
+        "definition_vi": "một nhạc cụ được chơi đặc biệt ở Scotland. Người chơi thổi không khí vào một túi giữ dưới cánh tay và sau đó từ từ ép không khí ra qua các ống để tạo ra âm thanh."
       }
     ]
   },
@@ -1412,7 +1600,9 @@
             "cf": "",
             "x": "Be careful not to damage other people's property."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài sản",
+        "definition_vi": "một hoặc nhiều thứ thuộc sở hữu của ai đó; một hoặc nhiều vật sở hữu"
       },
       {
         "definition": "land and buildings",
@@ -1449,7 +1639,9 @@
             "cf": "",
             "x": "The storms caused millions of pounds worth of property damage."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất động sản",
+        "definition_vi": "đất đai và nhà cửa"
       },
       {
         "definition": "a building or buildings and the surrounding land",
@@ -1466,7 +1658,9 @@
             "cf": "",
             "x": "There are a lot of empty properties in the area."
           }
-        ]
+        ],
+        "short_meaning_vi": "khu đất",
+        "definition_vi": "một tòa nhà hoặc các tòa nhà và đất đai xung quanh"
       },
       {
         "definition": "a quality or characteristic that something has",
@@ -1487,7 +1681,9 @@
             "cf": "",
             "x": "The difference occurs because of local variation in soil properties."
           }
-        ]
+        ],
+        "short_meaning_vi": "thuộc tính",
+        "definition_vi": "một phẩm chất hoặc đặc điểm mà một thứ gì đó có"
       }
     ]
   },
@@ -1512,7 +1708,9 @@
             "cf": "",
             "x": "My next-door neighbor was watering her yard."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân vườn",
+        "definition_vi": "một mảnh đất liền kề hoặc xung quanh nhà bạn, nơi bạn có thể trồng hoa, trái cây, rau, v.v., thường có bãi cỏ (= một khu vực cỏ)"
       },
       {
         "definition": "an area outside a building, usually with a hard surface and a surrounding wall",
@@ -1525,7 +1723,9 @@
             "cf": "",
             "x": "The children were playing in the yard at the front of the school."
           }
-        ]
+        ],
+        "short_meaning_vi": "sân",
+        "definition_vi": "một khu vực bên ngoài một tòa nhà, thường có bề mặt cứng và tường bao quanh"
       },
       {
         "definition": "an area of land used for a special purpose or business",
@@ -1534,7 +1734,9 @@
             "cf": "",
             "x": "a boat yard"
           }
-        ]
+        ],
+        "short_meaning_vi": "khu vực",
+        "definition_vi": "một khu vực đất được sử dụng cho một mục đích hoặc kinh doanh đặc biệt"
       },
       {
         "definition": "a unit for measuring length, equal to 3 feet (36 inches) or 0.9144 of a metre",
@@ -1551,15 +1753,21 @@
             "cf": "",
             "x": "The accident happened less than 50 yards from his home."
           }
-        ]
+        ],
+        "short_meaning_vi": "thước đo",
+        "definition_vi": "một đơn vị đo chiều dài, bằng 3 feet (36 inch) hoặc 0,9144 mét"
       },
       {
         "definition": "a long piece of wood fastened to a mast that supports a sail on a boat or ship",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cọc buồm",
+        "definition_vi": "một thanh gỗ dài gắn vào cột buồm để đỡ cánh buồm trên thuyền hoặc tàu"
       },
       {
         "definition": "used to say that if you allow some people a small amount of freedom or power they will see you as weak and try to take a lot more",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhượng bộ",
+        "definition_vi": "dùng để nói rằng nếu bạn cho phép một số người một lượng nhỏ tự do hoặc quyền lực, họ sẽ coi bạn là yếu đuối và cố gắng đòi hỏi nhiều hơn"
       },
       {
         "definition": "everything, or a situation which includes everything",
@@ -1568,7 +1776,9 @@
             "cf": "",
             "x": "When Dan cooks dinner he always goes the whole nine yards, with three courses and a choice of dessert."
           }
-        ]
+        ],
+        "short_meaning_vi": "toàn bộ",
+        "definition_vi": "mọi thứ, hoặc một tình huống bao gồm mọi thứ"
       }
     ]
   }
