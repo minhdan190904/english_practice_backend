@@ -62806,7 +62806,9 @@
             "cf": "",
             "x": "Everyone was entirely subject to the whim of the Sultan."
           }
-        ]
+        ],
+        "short_meaning_vi": "thuộc quyền",
+        "definition_vi": "dưới quyền lực của cái gì/ai đó"
       },
       {
         "definition": "controlled by the government of another country",
@@ -62815,7 +62817,9 @@
             "cf": "",
             "x": "subject peoples"
           }
-        ]
+        ],
+        "short_meaning_vi": "thuộc địa",
+        "definition_vi": "bị kiểm soát bởi chính phủ của một quốc gia khác"
       }
     ]
   },
@@ -62878,7 +62882,9 @@
             "cf": "",
             "x": "The university runs a wide range of research programmes in different subject areas."
           }
-        ]
+        ],
+        "short_meaning_vi": "chủ đề",
+        "definition_vi": "một sự vật hoặc người đang được thảo luận, mô tả hoặc xử lý"
       },
       {
         "definition": "an area of knowledge studied in a school, college, etc.",
@@ -62895,7 +62901,9 @@
             "cf": "",
             "x": "The college offers a wide range of subjects."
           }
-        ]
+        ],
+        "short_meaning_vi": "môn học",
+        "definition_vi": "một lĩnh vực kiến thức được nghiên cứu ở trường học, cao đẳng, v.v."
       },
       {
         "definition": "a person or thing that is the main feature of a picture or photograph, or that a work of art is based on",
@@ -62908,7 +62916,9 @@
             "cf": "",
             "x": "Classical landscapes were a popular subject with many 18th century painters."
           }
-        ]
+        ],
+        "short_meaning_vi": "đối tượng",
+        "definition_vi": "một người hoặc vật là đặc điểm chính của một bức tranh hoặc ảnh, hoặc là cơ sở để một tác phẩm nghệ thuật dựa vào"
       },
       {
         "definition": "a person or thing being used to study something, especially in an experiment",
@@ -62917,11 +62927,15 @@
             "cf": "",
             "x": "We need male subjects between the ages of 18 and 25 for the experiment."
           }
-        ]
+        ],
+        "short_meaning_vi": "đối tượng thí nghiệm",
+        "definition_vi": "một người hoặc vật được sử dụng để nghiên cứu một cái gì đó, đặc biệt là trong một thí nghiệm"
       },
       {
         "definition": "a noun, noun phrase or pronoun representing the person or thing that performs the action of the verb (I in I sat down.), about which something is stated (the house in the house is very old) or, in a passive sentence, that is affected by the action of the verb (the tree in the tree was blown down in the storm)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chủ ngữ",
+        "definition_vi": "một danh từ, cụm danh từ hoặc đại từ đại diện cho người hoặc vật thực hiện hành động của động từ (tôi trong 'tôi đã ngồi xuống'), về người hoặc vật đó có điều gì đó được phát biểu (ngôi nhà trong 'ngôi nhà rất cũ') hoặc, trong câu bị động, người hoặc vật đó bị ảnh hưởng bởi hành động của động từ (cây trong 'cây đã bị gió quật đổ trong cơn bão')"
       },
       {
         "definition": "a person who belongs to a particular country, especially one with a king or queen",
@@ -62934,7 +62948,9 @@
             "cf": "",
             "x": "The prince had to tax his subjects heavily to raise money for the war."
           }
-        ]
+        ],
+        "short_meaning_vi": "công dân",
+        "definition_vi": "một người thuộc về một quốc gia cụ thể, đặc biệt là một quốc gia có vua hoặc nữ hoàng"
       }
     ]
   },
@@ -62961,7 +62977,9 @@
             "cf": "",
             "x": "His response was one of resistance, not submission."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự quy phục",
+        "definition_vi": "hành động chấp nhận rằng ai đó đã đánh bại bạn và bạn phải tuân theo họ"
       },
       {
         "definition": "the act of giving a document, proposal, etc. to somebody in authority so that they can study or consider it; the document, etc. that you give",
@@ -62982,7 +63000,9 @@
             "cf": "",
             "x": "Many diploma courses require the submission of a project."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự nộp",
+        "definition_vi": "hành động nộp một tài liệu, đề xuất, v.v. cho người có thẩm quyền để họ nghiên cứu hoặc xem xét; tài liệu, v.v. mà bạn nộp"
       },
       {
         "definition": "a statement that is made to a judge in court",
@@ -62995,7 +63015,9 @@
             "cf": "",
             "x": "The judge upheld the defendant's submission and quashed his conviction."
           }
-        ]
+        ],
+        "short_meaning_vi": "lời khai",
+        "definition_vi": "một lời tuyên bố được đưa ra cho thẩm phán tại tòa"
       }
     ]
   },
@@ -63026,7 +63048,9 @@
             "cf": "",
             "x": "Articles should be submitted electronically as email attachments."
           }
-        ]
+        ],
+        "short_meaning_vi": "nộp",
+        "definition_vi": "nộp một tài liệu, đề xuất, v.v. cho người có thẩm quyền để họ nghiên cứu hoặc xem xét"
       },
       {
         "definition": "to accept the authority, control or greater strength of somebody/something; to agree to something because of this",
@@ -63039,7 +63063,9 @@
             "cf": "submit yourself to somebody/something",
             "x": "He submitted himself to a search by the guards."
           }
-        ]
+        ],
+        "short_meaning_vi": "chấp nhận",
+        "definition_vi": "chấp nhận quyền lực, sự kiểm soát hoặc sức mạnh lớn hơn của ai đó/cái gì đó; đồng ý với điều gì đó vì điều này"
       },
       {
         "definition": "to say or suggest something",
@@ -63048,7 +63074,9 @@
             "cf": "",
             "x": "Counsel for the defence submitted that the evidence was inadmissible."
           }
-        ]
+        ],
+        "short_meaning_vi": "đề xuất",
+        "definition_vi": "nói hoặc đề xuất một điều gì đó"
       }
     ]
   },
@@ -63071,7 +63099,9 @@
             "cf": "",
             "x": "Subscribers to the magazine can take advantage of this special offer."
           }
-        ]
+        ],
+        "short_meaning_vi": "người đăng ký",
+        "definition_vi": "một người trả tiền, thường là hàng năm, để nhận các bản sao thường xuyên của tạp chí hoặc báo hoặc có quyền truy cập trực tuyến"
       },
       {
         "definition": "a person who pays to receive a service",
@@ -63080,7 +63110,9 @@
             "cf": "",
             "x": "subscribers to cable television"
           }
-        ]
+        ],
+        "short_meaning_vi": "người đăng ký",
+        "definition_vi": "một người trả tiền để nhận một dịch vụ"
       },
       {
         "definition": "a person who gives money regularly to help the work of an organization such as a charity",
@@ -63089,7 +63121,9 @@
             "cf": "",
             "x": "subscribers to Oxfam"
           }
-        ]
+        ],
+        "short_meaning_vi": "người ủng hộ",
+        "definition_vi": "một người thường xuyên đóng góp tiền để giúp đỡ công việc của một tổ chức như tổ chức từ thiện"
       }
     ]
   },
@@ -63132,7 +63166,9 @@
             "cf": "",
             "x": "Subscriptions are due annually by the end of January."
           }
-        ]
+        ],
+        "short_meaning_vi": "phí đăng ký",
+        "definition_vi": "một khoản tiền bạn phải trả thường xuyên để nhận một dịch vụ, trở thành thành viên của một câu lạc bộ, ủng hộ một tổ chức từ thiện hoặc nhận các bản sao thường xuyên của báo hoặc tạp chí; hành động trả số tiền này"
       },
       {
         "definition": "the act of people paying money for something to be done",
@@ -63141,7 +63177,9 @@
             "cf": "",
             "x": "A statue in his memory was erected by public subscription."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đóng góp",
+        "definition_vi": "hành động mọi người trả tiền để thực hiện một việc gì đó"
       }
     ]
   },
@@ -63168,7 +63206,9 @@
             "cf": "",
             "x": "Developments on this issue will be dealt with in a subsequent report."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếp theo",
+        "definition_vi": "xảy ra hoặc đến sau một cái gì đó khác"
       }
     ]
   },
@@ -63195,7 +63235,9 @@
             "cf": "",
             "x": "He subsequently became chairman of the party."
           }
-        ]
+        ],
+        "short_meaning_vi": "sau đó",
+        "definition_vi": "sau đó; sau này; sau khi một điều gì đó khác đã xảy ra"
       }
     ]
   },
@@ -63218,7 +63260,9 @@
             "cf": "",
             "x": "to reduce the level of subsidy"
           }
-        ]
+        ],
+        "short_meaning_vi": "trợ cấp",
+        "definition_vi": "tiền được chính phủ hoặc tổ chức trả để giảm chi phí dịch vụ hoặc sản xuất hàng hóa để giá của chúng có thể được giữ ở mức thấp"
       }
     ]
   },
@@ -63245,7 +63289,9 @@
             "cf": "",
             "x": "Some frogs produce toxic substances in their skin."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất",
+        "definition_vi": "một loại chất rắn, lỏng hoặc khí có các đặc tính nhất định"
       },
       {
         "definition": "a drug, especially an illegal one",
@@ -63262,7 +63308,9 @@
             "cf": "",
             "x": "Adolescent substance use remains high in the United States."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất cấm",
+        "definition_vi": "một loại thuốc, đặc biệt là một loại thuốc bất hợp pháp"
       },
       {
         "definition": "the quality of being based on facts or the truth",
@@ -63279,7 +63327,9 @@
             "cf": "without substance",
             "x": "It was malicious gossip, completely without substance."
           }
-        ]
+        ],
+        "short_meaning_vi": "tính xác thực",
+        "definition_vi": "chất lượng dựa trên sự thật hoặc sự thật"
       },
       {
         "definition": "the most important or main part of something",
@@ -63300,7 +63350,9 @@
             "cf": "",
             "x": "There seems to be no difference in substance between the two procedures."
           }
-        ]
+        ],
+        "short_meaning_vi": "phần cốt lõi",
+        "definition_vi": "phần quan trọng nhất hoặc chính của một cái gì đó"
       },
       {
         "definition": "importance",
@@ -63313,11 +63365,15 @@
             "cf": "",
             "x": "Nothing of any substance was achieved in the meeting."
           }
-        ]
+        ],
+        "short_meaning_vi": "tầm quan trọng",
+        "definition_vi": "sự quan trọng"
       },
       {
         "definition": "a rich and powerful man or woman",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người có địa vị",
+        "definition_vi": "một người đàn ông hoặc phụ nữ giàu có và quyền lực"
       }
     ]
   },
@@ -63360,7 +63416,9 @@
             "cf": "",
             "x": "We were able to see a substantial improvement."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng kể",
+        "definition_vi": "lớn về số lượng, giá trị hoặc tầm quan trọng"
       },
       {
         "definition": "large and solid; strongly built",
@@ -63373,7 +63431,9 @@
             "cf": "",
             "x": "a street of substantial Victorian villas"
           }
-        ]
+        ],
+        "short_meaning_vi": "vững chắc",
+        "definition_vi": "lớn và rắn; được xây dựng chắc chắn"
       }
     ]
   },
@@ -63400,7 +63460,9 @@
             "cf": "",
             "x": "The company’s profits have been substantially lower this year."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng kể",
+        "definition_vi": "rất nhiều; nhiều"
       },
       {
         "definition": "mainly; in most details, even if not completely",
@@ -63409,7 +63471,9 @@
             "cf": "",
             "x": "What she says is substantially true."
           }
-        ]
+        ],
+        "short_meaning_vi": "chủ yếu",
+        "definition_vi": "chủ yếu; về hầu hết các chi tiết, ngay cả khi không hoàn toàn"
       }
     ]
   },
@@ -63444,7 +63508,9 @@
             "cf": "",
             "x": "The local bus service was a poor substitute for their car."
           }
-        ]
+        ],
+        "short_meaning_vi": "vật thay thế",
+        "definition_vi": "một người hoặc vật mà bạn sử dụng hoặc có thay vì người hoặc vật bạn thường sử dụng hoặc có"
       },
       {
         "definition": "a player who replaces another player in a sports game",
@@ -63453,7 +63519,9 @@
             "cf": "",
             "x": "He was brought on as (a) substitute after half-time."
           }
-        ]
+        ],
+        "short_meaning_vi": "cầu thủ dự bị",
+        "definition_vi": "một cầu thủ thay thế một cầu thủ khác trong một trận đấu thể thao"
       }
     ]
   },
@@ -63488,7 +63556,9 @@
             "cf": "substitute somebody/something",
             "x": "Kane was substituted in the second half after a knee injury (= somebody else played instead of Kane in the second half)."
           }
-        ]
+        ],
+        "short_meaning_vi": "thay thế",
+        "definition_vi": "thay thế vị trí của ai đó/cái gì đó khác; sử dụng ai đó/cái gì đó thay cho ai đó/cái gì đó khác"
       }
     ]
   },
@@ -63515,7 +63585,9 @@
             "cf": "substitution of B with A",
             "x": "the substitution of butter with low-fat spreads"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thay thế",
+        "definition_vi": "hành động sử dụng một người hoặc vật này thay cho một người hoặc vật khác"
       }
     ]
   },
@@ -63546,7 +63618,9 @@
             "cf": "",
             "x": "She's been dropping subtle hints about what she'd like as a present."
           }
-        ]
+        ],
+        "short_meaning_vi": "tinh tế",
+        "definition_vi": "không quá rõ ràng hoặc dễ nhận thấy"
       },
       {
         "definition": "behaving or organized in a clever way, and using indirect methods, in order to achieve something",
@@ -63563,7 +63637,9 @@
             "cf": "",
             "x": "a subtle use of lighting in the play"
           }
-        ]
+        ],
+        "short_meaning_vi": "khéo léo",
+        "definition_vi": "hành xử hoặc tổ chức một cách thông minh và sử dụng các phương pháp gián tiếp để đạt được điều gì đó"
       },
       {
         "definition": "good at noticing and understanding things",
@@ -63572,7 +63648,9 @@
             "cf": "",
             "x": "The job required a subtle mind."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhạy bén",
+        "definition_vi": "giỏi trong việc nhận biết và hiểu mọi thứ"
       }
     ]
   },
@@ -63599,7 +63677,9 @@
             "cf": "in the suburbs",
             "x": "They live in the suburbs."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngoại ô",
+        "definition_vi": "một khu vực nơi mọi người sinh sống nằm bên ngoài trung tâm thành phố"
       }
     ]
   },
@@ -63626,7 +63706,9 @@
             "cf": "",
             "x": "life in suburban London"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngoại ô",
+        "definition_vi": "ở hoặc liên quan đến vùng ngoại ô"
       },
       {
         "definition": "boring and ordinary",
@@ -63635,7 +63717,9 @@
             "cf": "",
             "x": "a suburban lifestyle"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhàm chán",
+        "definition_vi": "nhàm chán và bình thường"
       }
     ]
   },
@@ -63666,7 +63750,9 @@
             "cf": "",
             "x": "I tried to discuss it with her but only succeeded in making her angry (= I failed and did the opposite of what I intended)."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "đạt được điều gì đó mà bạn đã cố gắng làm hoặc có được; có kết quả hoặc tác dụng như dự định"
       },
       {
         "definition": "to be successful in your job, earning money, power, respect, etc.",
@@ -63683,7 +63769,9 @@
             "cf": "succeed as something",
             "x": "He had hoped to succeed as a violinist."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "thành công trong công việc, kiếm tiền, quyền lực, sự tôn trọng, v.v."
       },
       {
         "definition": "to come next after somebody/something and take their/its place or position",
@@ -63700,7 +63788,9 @@
             "cf": "",
             "x": "Strands of DNA are reproduced through succeeding generations."
           }
-        ]
+        ],
+        "short_meaning_vi": "kế nhiệm",
+        "definition_vi": "tiếp theo sau ai đó/điều gì đó và đảm nhận vị trí hoặc vai trò của họ/nó"
       },
       {
         "definition": "to gain the right to a title, property, etc. when somebody dies",
@@ -63713,11 +63803,15 @@
             "cf": "",
             "x": "He had no right to succeed to the tenancy when his father died."
           }
-        ]
+        ],
+        "short_meaning_vi": "thừa kế",
+        "definition_vi": "giành được quyền đối với một danh hiệu, tài sản, v.v. khi ai đó qua đời"
       },
       {
         "definition": "when you are successful in one area of your life, it often leads to success in other areas",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thành công lan tỏa",
+        "definition_vi": "khi bạn thành công trong một lĩnh vực của cuộc sống, nó thường dẫn đến thành công trong các lĩnh vực khác"
       }
     ]
   },
@@ -63760,7 +63854,9 @@
             "cf": "",
             "x": "The success or failure of the project was now in the students' control."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành tựu",
+        "definition_vi": "việc bạn đã đạt được điều gì đó mà bạn muốn và đã cố gắng làm hoặc có được"
       },
       {
         "definition": "the fact of becoming rich or famous or of getting a high social position",
@@ -63777,7 +63873,9 @@
             "cf": "",
             "x": "She was surprised by the book's success (= that it had sold a lot of copies)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự giàu sang",
+        "definition_vi": "việc trở nên giàu có hoặc nổi tiếng hoặc có được địa vị xã hội cao"
       },
       {
         "definition": "a person or thing that has achieved a good result and been successful",
@@ -63810,11 +63908,15 @@
             "cf": "",
             "x": "It is important to learn from both successes and failures."
           }
-        ]
+        ],
+        "short_meaning_vi": "người/vật thành công",
+        "definition_vi": "một người hoặc vật đã đạt được kết quả tốt và thành công"
       },
       {
         "definition": "when you are successful in one area of your life, it often leads to success in other areas",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thành công lan tỏa",
+        "definition_vi": "khi bạn thành công trong một lĩnh vực của cuộc sống, nó thường dẫn đến thành công trong các lĩnh vực khác"
       },
       {
         "definition": "a very great success",
@@ -63827,11 +63929,15 @@
             "cf": "",
             "x": "The latest Disneyland has been a roaring success."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công lớn",
+        "definition_vi": "một thành công rất lớn"
       },
       {
         "definition": "the pleasant feeling of being successful",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cảm giác thành công",
+        "definition_vi": "cảm giác dễ chịu khi thành công"
       }
     ]
   },
@@ -63870,7 +63976,9 @@
             "cf": "successful at doing something",
             "x": "I wasn't very successful at keeping the news secret."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "đạt được mục tiêu của bạn hoặc những gì đã được dự định"
       },
       {
         "definition": "having become popular and/or made a lot of money",
@@ -63891,7 +63999,9 @@
             "cf": "",
             "x": "The company has had another successful year."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "đã trở nên nổi tiếng và/hoặc kiếm được nhiều tiền"
       }
     ]
   },
@@ -63922,7 +64032,9 @@
             "cf": "",
             "x": "This arrangement has operated successfully for the past six years."
           }
-        ]
+        ],
+        "short_meaning_vi": "một cách thành công",
+        "definition_vi": "theo cách đạt được mục tiêu của bạn hoặc những gì đã được dự định"
       }
     ]
   },
@@ -63957,7 +64069,9 @@
             "cf": "",
             "x": "The gunman fired three times in rapid succession."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuỗi",
+        "definition_vi": "một số người hoặc vật theo sau nhau theo thời gian hoặc thứ tự"
       },
       {
         "definition": "the regular pattern of one thing following another thing",
@@ -63970,7 +64084,9 @@
             "cf": "",
             "x": "the succession of images on a screen"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuỗi liên tiếp",
+        "definition_vi": "mô hình đều đặn của việc này theo sau việc khác"
       },
       {
         "definition": "the act of taking over an official position or title; the right to take over an official position or title, especially to become the king or queen of a country",
@@ -63987,7 +64103,9 @@
             "cf": "",
             "x": "a line of succession"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự kế nhiệm",
+        "definition_vi": "hành động tiếp quản một vị trí hoặc danh hiệu chính thức; quyền tiếp quản một vị trí hoặc danh hiệu chính thức, đặc biệt là để trở thành vua hoặc nữ hoàng của một quốc gia"
       }
     ]
   },
@@ -64014,7 +64132,9 @@
             "cf": "",
             "x": "There has been low rainfall for two successive years."
           }
-        ]
+        ],
+        "short_meaning_vi": "liên tiếp",
+        "definition_vi": "theo ngay sau nhau"
       }
     ]
   },
@@ -64041,7 +64161,9 @@
             "cf": "",
             "x": "He chose as his successor a relative newcomer to the organization."
           }
-        ]
+        ],
+        "short_meaning_vi": "người kế nhiệm",
+        "definition_vi": "một người hoặc vật đến sau ai đó/điều gì đó và đảm nhận vị trí hoặc vai trò của họ/nó"
       }
     ]
   },
@@ -64072,7 +64194,9 @@
             "cf": "such is something that…",
             "x": "Such is the elegance of this typeface that it is still a favourite of designers."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất",
+        "definition_vi": "được sử dụng để nhấn mạnh mức độ lớn của một cái gì đó"
       },
       {
         "definition": "of the type already mentioned",
@@ -64097,7 +64221,9 @@
             "cf": "",
             "x": "Accountants were boring. Such (= that) was her opinion before meeting Ian!"
           }
-        ]
+        ],
+        "short_meaning_vi": "loại đó",
+        "definition_vi": "thuộc loại đã được đề cập"
       },
       {
         "definition": "of the type that you are just going to mention",
@@ -64118,7 +64244,9 @@
             "cf": "",
             "x": "The damage was such that it would cost thousands to repair."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại đó",
+        "definition_vi": "thuộc loại mà bạn sắp đề cập"
       },
       {
         "definition": "and similar things or people",
@@ -64127,7 +64255,9 @@
             "cf": "",
             "x": "The centre offers activities like canoeing and sailing and such."
           }
-        ]
+        ],
+        "short_meaning_vi": "và tương tự",
+        "definition_vi": "và những thứ hoặc người tương tự"
       },
       {
         "definition": "as the word is usually understood; in the exact sense of the word",
@@ -64140,7 +64270,9 @@
             "cf": "",
             "x": "‘Well, did they offer it to you?’ ‘No, not as such, but they said I had a good chance.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "theo đúng nghĩa",
+        "definition_vi": "như từ thường được hiểu; theo đúng nghĩa của từ"
       },
       {
         "definition": "for example",
@@ -64153,7 +64285,9 @@
             "cf": "",
             "x": "‘There are loads of things to do.’ ‘Such as?’ (= give me an example)"
           }
-        ]
+        ],
+        "short_meaning_vi": "ví dụ",
+        "definition_vi": "ví dụ"
       },
       {
         "definition": "of a kind that; like",
@@ -64162,7 +64296,9 @@
             "cf": "",
             "x": "Opportunities such as this did not come every day."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại như",
+        "definition_vi": "thuộc loại; giống như"
       },
       {
         "definition": "used to say that there is not much of something or that it is of poor quality",
@@ -64171,7 +64307,9 @@
             "cf": "",
             "x": "The food, such as it was, was served at nine o'clock."
           }
-        ]
+        ],
+        "short_meaning_vi": "ít",
+        "definition_vi": "được sử dụng để nói rằng có không nhiều thứ hoặc nó có chất lượng kém"
       }
     ]
   },
@@ -64202,7 +64340,9 @@
             "cf": "such is something that…",
             "x": "Such is the elegance of this typeface that it is still a favourite of designers."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất",
+        "definition_vi": "được sử dụng để nhấn mạnh mức độ lớn của một cái gì đó"
       },
       {
         "definition": "of the type already mentioned",
@@ -64227,7 +64367,9 @@
             "cf": "",
             "x": "Accountants were boring. Such (= that) was her opinion before meeting Ian!"
           }
-        ]
+        ],
+        "short_meaning_vi": "loại đó",
+        "definition_vi": "thuộc loại đã được đề cập"
       },
       {
         "definition": "of the type that you are just going to mention",
@@ -64248,7 +64390,9 @@
             "cf": "",
             "x": "The damage was such that it would cost thousands to repair."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại đó",
+        "definition_vi": "thuộc loại mà bạn sắp đề cập"
       },
       {
         "definition": "and similar things or people",
@@ -64257,7 +64401,9 @@
             "cf": "",
             "x": "The centre offers activities like canoeing and sailing and such."
           }
-        ]
+        ],
+        "short_meaning_vi": "và tương tự",
+        "definition_vi": "và những thứ hoặc người tương tự"
       },
       {
         "definition": "as the word is usually understood; in the exact sense of the word",
@@ -64270,7 +64416,9 @@
             "cf": "",
             "x": "‘Well, did they offer it to you?’ ‘No, not as such, but they said I had a good chance.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "theo đúng nghĩa",
+        "definition_vi": "như từ thường được hiểu; theo đúng nghĩa của từ"
       },
       {
         "definition": "for example",
@@ -64283,7 +64431,9 @@
             "cf": "",
             "x": "‘There are loads of things to do.’ ‘Such as?’ (= give me an example)"
           }
-        ]
+        ],
+        "short_meaning_vi": "ví dụ",
+        "definition_vi": "ví dụ"
       },
       {
         "definition": "of a kind that; like",
@@ -64292,7 +64442,9 @@
             "cf": "",
             "x": "Opportunities such as this did not come every day."
           }
-        ]
+        ],
+        "short_meaning_vi": "loại như",
+        "definition_vi": "thuộc loại; giống như"
       },
       {
         "definition": "used to say that there is not much of something or that it is of poor quality",
@@ -64301,7 +64453,9 @@
             "cf": "",
             "x": "The food, such as it was, was served at nine o'clock."
           }
-        ]
+        ],
+        "short_meaning_vi": "ít",
+        "definition_vi": "được sử dụng để nói rằng có không nhiều thứ hoặc nó có chất lượng kém"
       }
     ]
   },
@@ -64328,7 +64482,9 @@
             "cf": "",
             "x": "He sucked the blood from a cut on his finger."
           }
-        ]
+        ],
+        "short_meaning_vi": "hút",
+        "definition_vi": "hút chất lỏng, không khí, v.v. vào miệng bằng cách sử dụng cơ môi"
       },
       {
         "definition": "to keep something in your mouth and pull on it with your lips and tongue",
@@ -64353,7 +64509,9 @@
             "cf": "",
             "x": "Stop sucking your thumb!"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngậm",
+        "definition_vi": "ngậm thứ gì đó trong miệng và kéo nó bằng môi và lưỡi"
       },
       {
         "definition": "to take liquid, air, etc. out of something",
@@ -64370,7 +64528,9 @@
             "cf": "",
             "x": "The machine sucks up mud and stones from the bottom of the pond."
           }
-        ]
+        ],
+        "short_meaning_vi": "hút ra",
+        "definition_vi": "hút chất lỏng, không khí, v.v. ra khỏi thứ gì đó"
       },
       {
         "definition": "to pull somebody/something with great force in a particular direction",
@@ -64383,7 +64543,9 @@
             "cf": "",
             "x": "The mud had sucked him in up to his waist."
           }
-        ]
+        ],
+        "short_meaning_vi": "hút",
+        "definition_vi": "kéo ai đó/cái gì đó bằng một lực mạnh theo một hướng cụ thể"
       },
       {
         "definition": "used to say that something is very bad",
@@ -64392,7 +64554,9 @@
             "cf": "",
             "x": "Their new album sucks."
           }
-        ]
+        ],
+        "short_meaning_vi": "tệ",
+        "definition_vi": "dùng để nói rằng điều gì đó rất tệ"
       },
       {
         "definition": "to get from somebody/something all the money, help, information, etc. they have, usually giving nothing in return",
@@ -64401,19 +64565,27 @@
             "cf": "",
             "x": "By earning millions from racing and giving pennies back, the bookmakers are sucking the sport dry."
           }
-        ]
+        ],
+        "short_meaning_vi": "bòn rút",
+        "definition_vi": "lấy hết tiền, sự giúp đỡ, thông tin, v.v. từ ai đó/cái gì đó, thường là không cho lại gì"
       },
       {
         "definition": "used to say that the only way to know if something is suitable is to try it",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thử đi",
+        "definition_vi": "dùng để nói rằng cách duy nhất để biết điều gì đó có phù hợp hay không là thử nó"
       },
       {
         "definition": "to accept something bad and deal with it well, controlling your emotions",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chấp nhận và chịu đựng",
+        "definition_vi": "chấp nhận điều gì đó tồi tệ và đối phó tốt với nó, kiểm soát cảm xúc của bạn"
       },
       {
         "definition": "to tell or show somebody how to do something that they can already do well, and probably better than you can",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chỉ dạy",
+        "definition_vi": "nói hoặc chỉ cho ai đó cách làm điều gì đó mà họ đã làm tốt, và có lẽ tốt hơn bạn"
       }
     ]
   },
@@ -64452,7 +64624,9 @@
             "cf": "",
             "x": "His death was very sudden."
           }
-        ]
+        ],
+        "short_meaning_vi": "đột ngột",
+        "definition_vi": "xảy ra hoặc được thực hiện nhanh chóng và bất ngờ"
       },
       {
         "definition": "quickly and unexpectedly",
@@ -64461,7 +64635,9 @@
             "cf": "",
             "x": "All of a sudden someone grabbed me around the neck."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất ngờ",
+        "definition_vi": "nhanh chóng và bất ngờ"
       }
     ]
   },
@@ -64500,7 +64676,9 @@
             "cf": "",
             "x": "I tried to sit up but I suddenly felt dizzy."
           }
-        ]
+        ],
+        "short_meaning_vi": "đột ngột",
+        "definition_vi": "nhanh chóng và bất ngờ"
       }
     ]
   },
@@ -64539,7 +64717,9 @@
             "cf": "sue somebody/something",
             "x": "The water authority was successfully sued over his illness."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiện",
+        "definition_vi": "đưa ra yêu cầu chống lại một người hoặc một tổ chức tại tòa án về điều gì đó mà họ đã nói hoặc làm để gây hại cho bạn"
       },
       {
         "definition": "to formally ask for something, especially in court",
@@ -64552,7 +64732,9 @@
             "cf": "",
             "x": "The rebels were forced to sue for peace."
           }
-        ]
+        ],
+        "short_meaning_vi": "yêu cầu",
+        "definition_vi": "chính thức yêu cầu một cái gì đó, đặc biệt là tại tòa án"
       }
     ]
   },
@@ -64611,7 +64793,9 @@
             "cf": "",
             "x": "Women continue to suffer in silence under the repressive regime."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu đựng",
+        "definition_vi": "bị ảnh hưởng xấu bởi bệnh tật, đau đớn, nỗi buồn, sự thiếu thốn, v.v."
       },
       {
         "definition": "to experience something unpleasant, such as injury, defeat or loss",
@@ -64640,7 +64824,9 @@
             "cf": "",
             "x": "His mother died young, and his sister suffered the same fate (= his sister also died young)."
           }
-        ]
+        ],
+        "short_meaning_vi": "trải qua",
+        "definition_vi": "trải qua điều gì đó khó chịu, chẳng hạn như bị thương, thất bại hoặc mất mát"
       },
       {
         "definition": "to become worse",
@@ -64649,7 +64835,9 @@
             "cf": "",
             "x": "His school work is suffering because of family problems."
           }
-        ]
+        ],
+        "short_meaning_vi": "xấu đi",
+        "definition_vi": "trở nên tồi tệ hơn"
       },
       {
         "definition": "to be very impatient with people that you think are stupid",
@@ -64658,7 +64846,9 @@
             "cf": "",
             "x": "She was a forceful personality who didn't suffer fools gladly."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiếu kiên nhẫn",
+        "definition_vi": "rất thiếu kiên nhẫn với những người mà bạn cho là ngu ngốc"
       }
     ]
   },
@@ -64681,7 +64871,9 @@
             "cf": "",
             "x": "This war has caused widespread human suffering."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đau khổ",
+        "definition_vi": "đau đớn về thể chất hoặc tinh thần"
       },
       {
         "definition": "feelings of pain and unhappiness",
@@ -64690,7 +64882,9 @@
             "cf": "",
             "x": "The hospice aims to ease the sufferings of the dying."
           }
-        ]
+        ],
+        "short_meaning_vi": "nỗi đau",
+        "definition_vi": "cảm giác đau đớn và bất hạnh"
       }
     ]
   },
@@ -64729,7 +64923,9 @@
             "cf": "",
             "x": "The salary proved sufficient for his needs."
           }
-        ]
+        ],
+        "short_meaning_vi": "đủ",
+        "definition_vi": "đủ cho một mục đích cụ thể; nhiều như bạn cần"
       }
     ]
   },
@@ -64752,7 +64948,9 @@
             "cf": "",
             "x": "By 1995, bald eagles had recovered sufficiently to be removed from the endangered list."
           }
-        ]
+        ],
+        "short_meaning_vi": "đủ",
+        "definition_vi": "đủ cho một mục đích cụ thể; nhiều như bạn cần"
       }
     ]
   },
@@ -64791,7 +64989,9 @@
             "cf": "",
             "x": "He stirred another spoonful of sugar into his tea."
           }
-        ]
+        ],
+        "short_meaning_vi": "đường",
+        "definition_vi": "một chất ngọt, thường ở dạng tinh thể trắng hoặc nâu, được làm từ nước ép của các loại cây khác nhau, được sử dụng trong nấu ăn hoặc để làm cho trà, cà phê, v.v. ngọt hơn"
       },
       {
         "definition": "the amount of sugar that a small spoon can hold or that is contained in a small cube, added to tea, coffee, etc.",
@@ -64800,7 +65000,9 @@
             "cf": "",
             "x": "How many sugars do you take in coffee?"
           }
-        ]
+        ],
+        "short_meaning_vi": "lượng đường",
+        "definition_vi": "lượng đường mà một thìa nhỏ có thể giữ hoặc có trong một viên nhỏ, được thêm vào trà, cà phê, v.v."
       },
       {
         "definition": "any of various sweet substances that are found naturally in plants, fruit, etc.",
@@ -64813,7 +65015,9 @@
             "cf": "",
             "x": "Fruit juices contain natural sugars."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất ngọt",
+        "definition_vi": "bất kỳ chất ngọt nào được tìm thấy tự nhiên trong thực vật, trái cây, v.v."
       },
       {
         "definition": "a way of addressing somebody that you like or love",
@@ -64822,7 +65026,9 @@
             "cf": "",
             "x": "See you later, sugar."
           }
-        ]
+        ],
+        "short_meaning_vi": "anh yêu",
+        "definition_vi": "một cách xưng hô với ai đó mà bạn thích hoặc yêu"
       }
     ]
   },
@@ -64873,7 +65079,9 @@
             "cf": "+ speech",
             "x": "‘We could go for a drive,’ Nate suggested hopefully."
           }
-        ]
+        ],
+        "short_meaning_vi": "đề xuất",
+        "definition_vi": "đưa ra một ý tưởng hoặc kế hoạch để người khác suy nghĩ"
       },
       {
         "definition": "to tell somebody about a suitable person, thing, method, etc. for a particular job or purpose",
@@ -64906,7 +65114,9 @@
             "cf": "suggest how, what, etc…",
             "x": "Can you suggest how I might contact him?"
           }
-        ]
+        ],
+        "short_meaning_vi": "giới thiệu",
+        "definition_vi": "nói cho ai đó biết về một người, vật, phương pháp, v.v. phù hợp cho một công việc hoặc mục đích cụ thể"
       },
       {
         "definition": "to put an idea into somebody’s mind; to make somebody think that something is true",
@@ -64935,7 +65145,9 @@
             "cf": "suggest something to somebody",
             "x": "What do these results suggest to you?"
           }
-        ]
+        ],
+        "short_meaning_vi": "gợi ý",
+        "definition_vi": "đưa một ý tưởng vào tâm trí ai đó; làm cho ai đó nghĩ rằng điều gì đó là đúng"
       },
       {
         "definition": "to state something indirectly",
@@ -64968,7 +65180,9 @@
             "cf": "",
             "x": "I am merely suggesting that there is more than one way to view this matter."
           }
-        ]
+        ],
+        "short_meaning_vi": "ám chỉ",
+        "definition_vi": "nói điều gì đó một cách gián tiếp"
       }
     ]
   },
@@ -65027,7 +65241,9 @@
             "cf": "",
             "x": "We need to get it there by four. Any suggestions?"
           }
-        ]
+        ],
+        "short_meaning_vi": "gợi ý",
+        "definition_vi": "một ý tưởng hoặc kế hoạch mà bạn đề cập để người khác suy nghĩ"
       },
       {
         "definition": "a reason to think that something, especially something bad, is true",
@@ -65044,7 +65260,9 @@
             "cf": "suggestion that…",
             "x": "There was no suggestion that he was doing anything illegal."
           }
-        ]
+        ],
+        "short_meaning_vi": "dấu hiệu",
+        "definition_vi": "một lý do để nghĩ rằng điều gì đó, đặc biệt là điều gì đó tồi tệ, là đúng"
       },
       {
         "definition": "putting an idea into people’s minds by connecting it with other ideas",
@@ -65057,7 +65275,9 @@
             "cf": "",
             "x": "the power of suggestion"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự gợi ý",
+        "definition_vi": "đưa một ý tưởng vào tâm trí mọi người bằng cách liên kết nó với các ý tưởng khác"
       },
       {
         "definition": "a slight amount or sign of something",
@@ -65074,7 +65294,9 @@
             "cf": "",
             "x": "Her eyes contained a strong suggestion of mischief."
           }
-        ]
+        ],
+        "short_meaning_vi": "một chút",
+        "definition_vi": "một lượng nhỏ hoặc dấu hiệu của một cái gì đó"
       },
       {
         "definition": "because somebody suggested it",
@@ -65087,7 +65309,9 @@
             "cf": "",
             "x": "At the suggestion of his boss, he resigned."
           }
-        ]
+        ],
+        "short_meaning_vi": "vì được đề nghị",
+        "definition_vi": "bởi vì ai đó đã đề nghị nó"
       }
     ]
   },
@@ -65114,7 +65338,9 @@
             "cf": "",
             "x": "a suicide bomber (= who expects to die while trying to kill other people with a bomb)"
           }
-        ]
+        ],
+        "short_meaning_vi": "tự sát",
+        "definition_vi": "hành động tự sát"
       },
       {
         "definition": "a course of action that is likely to destroy your career, position in society, etc.",
@@ -65123,11 +65349,15 @@
             "cf": "",
             "x": "It would have been political suicide for him to challenge the allegations in court."
           }
-        ]
+        ],
+        "short_meaning_vi": "hủy hoại sự nghiệp",
+        "definition_vi": "một quá trình hành động có khả năng hủy hoại sự nghiệp, vị trí của bạn trong xã hội, v.v."
       },
       {
         "definition": "a person who commits suicide",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người tự sát",
+        "definition_vi": "một người tự sát"
       }
     ]
   },
@@ -65162,7 +65392,9 @@
             "cf": "",
             "x": "a pinstripe suit"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ com-lê",
+        "definition_vi": "một bộ quần áo làm từ cùng một loại vải, bao gồm áo khoác và quần hoặc váy"
       },
       {
         "definition": "a set of clothing worn for a particular activity",
@@ -65179,7 +65411,9 @@
             "cf": "",
             "x": "His parents had bought him a new suit of clothes for the occasion."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ trang phục",
+        "definition_vi": "một bộ quần áo mặc cho một hoạt động cụ thể"
       },
       {
         "definition": "any of the four sets that form a pack of cards",
@@ -65188,7 +65422,9 @@
             "cf": "",
             "x": "The suits are called hearts, clubs, diamonds and spades."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất cơ",
+        "definition_vi": "bất kỳ bộ nào trong bốn bộ tạo thành một bộ bài"
       },
       {
         "definition": "a claim or complaint against somebody that a person or an organization can make in court",
@@ -65201,7 +65437,9 @@
             "cf": "",
             "x": "a divorce suit"
           }
-        ]
+        ],
+        "short_meaning_vi": "vụ kiện",
+        "definition_vi": "một yêu cầu hoặc khiếu nại chống lại ai đó mà một người hoặc một tổ chức có thể đưa ra tại tòa án"
       },
       {
         "definition": "a person with an important job as a manager in a company or organization, especially one who is thought to work mainly with financial matters or to have a lot of influence",
@@ -65214,7 +65452,9 @@
             "cf": "",
             "x": "He’s a ‘suit’, not a ‘creative’."
           }
-        ]
+        ],
+        "short_meaning_vi": "giám đốc",
+        "definition_vi": "một người có chức vụ quan trọng với tư cách là người quản lý trong một công ty hoặc tổ chức, đặc biệt là người được cho là chủ yếu làm việc với các vấn đề tài chính hoặc có nhiều ảnh hưởng"
       },
       {
         "definition": "to be a subject that somebody knows a lot about",
@@ -65223,19 +65463,27 @@
             "cf": "",
             "x": "I'm afraid geography is not my strong suit."
           }
-        ]
+        ],
+        "short_meaning_vi": "phù hợp",
+        "definition_vi": "là một chủ đề mà ai đó biết rất nhiều về nó"
       },
       {
         "definition": "to play a card of the same suit that has just been played",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chơi đồng chất",
+        "definition_vi": "chơi một lá bài cùng chất với lá bài vừa được đánh ra"
       },
       {
         "definition": "to act or behave in the way that somebody else has just done",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hành động theo",
+        "definition_vi": "hành động hoặc cư xử theo cách mà người khác vừa làm"
       },
       {
         "definition": "not wearing any clothes",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không mặc quần áo",
+        "definition_vi": "không mặc bất kỳ quần áo nào"
       }
     ]
   },
@@ -65274,7 +65522,9 @@
             "cf": "it suits somebody to do something",
             "x": "It suits me to start work at a later time."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiện lợi",
+        "definition_vi": "thuận tiện hoặc hữu ích cho ai đó"
       },
       {
         "definition": "to make you look attractive",
@@ -65287,7 +65537,9 @@
             "cf": "",
             "x": "I don't think this coat really suits me."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm nổi bật",
+        "definition_vi": "làm cho bạn trông hấp dẫn"
       },
       {
         "definition": "to be right or good for somebody/something",
@@ -65296,7 +65548,9 @@
             "cf": "",
             "x": "This hot weather doesn't suit me."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích hợp",
+        "definition_vi": "đúng hoặc phù hợp với một mục đích hoặc dịp cụ thể"
       },
       {
         "definition": "to be convenient or useful for you/somebody",
@@ -65305,7 +65559,9 @@
             "cf": "",
             "x": "Well, if you’re honest and hard-working, that suits our book."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiện lợi",
+        "definition_vi": "thuận tiện hoặc hữu ích cho bạn/ai đó"
       },
       {
         "definition": "to be very convenient or acceptable for somebody",
@@ -65318,7 +65574,9 @@
             "cf": "",
             "x": "Country life suits me down to the ground!"
           }
-        ]
+        ],
+        "short_meaning_vi": "rất tiện lợi",
+        "definition_vi": "rất thuận tiện hoặc chấp nhận được đối với ai đó"
       },
       {
         "definition": "to do exactly what you would like",
@@ -65327,7 +65585,9 @@
             "cf": "",
             "x": "I choose my assignments to suit myself."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm theo ý muốn",
+        "definition_vi": "làm chính xác những gì bạn muốn"
       },
       {
         "definition": "usually used in orders to tell somebody to do what they want, even though it annoys you",
@@ -65336,7 +65596,9 @@
             "cf": "",
             "x": "‘I think I'll stay in this evening.’ ‘Suit yourself!’"
           }
-        ]
+        ],
+        "short_meaning_vi": "làm theo ý muốn",
+        "definition_vi": "thường được sử dụng trong các mệnh lệnh để bảo ai đó làm theo ý muốn của họ, ngay cả khi điều đó làm bạn khó chịu"
       }
     ]
   },
@@ -65379,7 +65641,9 @@
             "cf": "",
             "x": "Would now be a suitable moment to discuss my report?"
           }
-        ]
+        ],
+        "short_meaning_vi": "thích hợp",
+        "definition_vi": "đúng hoặc phù hợp với một mục đích hoặc dịp cụ thể"
       }
     ]
   },
@@ -65402,7 +65666,9 @@
             "cf": "",
             "x": "a suite of rooms/offices"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ phòng",
+        "definition_vi": "một bộ phòng, đặc biệt là trong khách sạn"
       },
       {
         "definition": "a set of matching pieces of furniture",
@@ -65415,7 +65681,9 @@
             "cf": "",
             "x": "a three-piece suite with two armchairs and a sofa"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ đồ nội thất",
+        "definition_vi": "một bộ đồ nội thất tương xứng"
       },
       {
         "definition": "a piece of music made up of three or more related parts, for example pieces from an opera",
@@ -65424,7 +65692,9 @@
             "cf": "",
             "x": "Stravinsky’s Firebird Suite"
           }
-        ]
+        ],
+        "short_meaning_vi": "bản tổ khúc",
+        "definition_vi": "một bản nhạc gồm ba hoặc nhiều phần liên quan, ví dụ như các trích đoạn từ một vở opera"
       },
       {
         "definition": "a set of related computer programs",
@@ -65433,7 +65703,9 @@
             "cf": "",
             "x": "a suite of software development tools"
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ phần mềm",
+        "definition_vi": "một bộ các chương trình máy tính liên quan"
       }
     ]
   },
@@ -65468,7 +65740,9 @@
             "cf": "",
             "x": "The team has raised substantial sums for local charities."
           }
-        ]
+        ],
+        "short_meaning_vi": "số tiền",
+        "definition_vi": "một khoản tiền"
       },
       {
         "definition": "the number you get when you add two or more numbers together",
@@ -65481,7 +65755,9 @@
             "cf": "",
             "x": "Calculate the sum of the following figures."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổng",
+        "definition_vi": "số bạn nhận được khi cộng hai hoặc nhiều số lại với nhau"
       },
       {
         "definition": "all of something, especially when you think that it is not very much",
@@ -65490,7 +65766,9 @@
             "cf": "",
             "x": "This is the sum of my achievements so far."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổng cộng",
+        "definition_vi": "tất cả mọi thứ, đặc biệt là khi bạn nghĩ rằng nó không nhiều lắm"
       },
       {
         "definition": "a simple problem that involves calculating numbers",
@@ -65507,7 +65785,9 @@
             "cf": "",
             "x": "If I've got my sums right, I should be able to afford the rent."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài toán",
+        "definition_vi": "một bài toán đơn giản liên quan đến việc tính toán các con số"
       },
       {
         "definition": "to be better or more effective as a group than you would think just by looking at the individual members of the group",
@@ -65516,7 +65796,9 @@
             "cf": "",
             "x": "The team is greater than the sum of its parts."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổng hợp lại",
+        "definition_vi": "tốt hơn hoặc hiệu quả hơn khi là một nhóm so với những gì bạn nghĩ chỉ bằng cách nhìn vào các thành viên riêng lẻ của nhóm"
       },
       {
         "definition": "used to introduce a short statement of the main points of a discussion, speech, etc.",
@@ -65525,7 +65807,9 @@
             "cf": "",
             "x": "In sum, we have no chance of winning the case."
           }
-        ]
+        ],
+        "short_meaning_vi": "tóm lại",
+        "definition_vi": "dùng để giới thiệu một tuyên bố ngắn gọn về các điểm chính của một cuộc thảo luận, bài phát biểu, v.v."
       }
     ]
   },
@@ -65577,7 +65861,9 @@
             "cf": "",
             "x": "The argument can be summarized as follows:…"
           }
-        ]
+        ],
+        "short_meaning_vi": "tóm tắt",
+        "definition_vi": "đưa ra một bản tóm tắt về điều gì đó"
       }
     ]
   },
@@ -65620,7 +65906,9 @@
             "cf": "in summary ",
             "x": "In summary, this was a disappointing performance."
           }
-        ]
+        ],
+        "short_meaning_vi": "bản tóm tắt",
+        "definition_vi": "một tuyên bố ngắn gọn chỉ nêu những điểm chính của một điều gì đó, không có chi tiết"
       }
     ]
   },
@@ -65703,11 +65991,15 @@
             "cf": "",
             "x": "Are you looking for a summer job? "
           }
-        ]
+        ],
+        "short_meaning_vi": "mùa hè",
+        "definition_vi": "mùa ấm nhất trong năm, đến giữa mùa xuân và mùa thu"
       },
       {
         "definition": "you must not take too seriously a small sign that something is happening or will happen in the future, because the situation could change",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chớ coi thường",
+        "definition_vi": "bạn không nên coi quá nghiêm túc một dấu hiệu nhỏ cho thấy điều gì đó đang xảy ra hoặc sẽ xảy ra trong tương lai, vì tình hình có thể thay đổi"
       }
     ]
   },
@@ -65734,7 +66026,9 @@
             "cf": "",
             "x": "the summit of his career"
           }
-        ]
+        ],
+        "short_meaning_vi": "đỉnh",
+        "definition_vi": "điểm cao nhất của một cái gì đó, đặc biệt là đỉnh núi"
       },
       {
         "definition": "an official meeting or series of meetings between the leaders of two or more governments at which they discuss important matters",
@@ -65747,7 +66041,9 @@
             "cf": "",
             "x": "a summit conference"
           }
-        ]
+        ],
+        "short_meaning_vi": "hội nghị thượng đỉnh",
+        "definition_vi": "một cuộc họp chính thức hoặc một loạt các cuộc họp giữa các nhà lãnh đạo của hai hoặc nhiều chính phủ để thảo luận về các vấn đề quan trọng"
       }
     ]
   },
@@ -65790,7 +66086,9 @@
             "cf": "",
             "x": "The vampire is killed by the first rays of the morning sun. "
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt trời",
+        "definition_vi": "ngôi sao chiếu sáng trên bầu trời vào ban ngày và mang lại cho trái đất nhiệt và ánh sáng"
       },
       {
         "definition": "the light and heat from the sun",
@@ -65839,19 +66137,27 @@
             "cf": "",
             "x": "Patients are advised to avoid sun exposure for six weeks. "
           }
-        ]
+        ],
+        "short_meaning_vi": "ánh nắng",
+        "definition_vi": "ánh sáng và nhiệt từ mặt trời"
       },
       {
         "definition": "any star around which planets move",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngôi sao",
+        "definition_vi": "bất kỳ ngôi sao nào mà các hành tinh quay quanh"
       },
       {
         "definition": "to make good use of opportunities, good conditions, etc. while they last",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tận dụng",
+        "definition_vi": "tận dụng tốt các cơ hội, điều kiện tốt, v.v. khi chúng còn tồn tại"
       },
       {
         "definition": "a position in which you are comfortable or have an advantage over other people",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vị trí thuận lợi",
+        "definition_vi": "một vị trí mà bạn cảm thấy thoải mái hoặc có lợi thế hơn những người khác"
       },
       {
         "definition": "used to emphasize that you are talking about a very large number of things",
@@ -65868,7 +66174,9 @@
             "cf": "",
             "x": "There is nothing new under the sun (= in the world)."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều",
+        "definition_vi": "dùng để nhấn mạnh rằng bạn đang nói về một số lượng rất lớn các thứ"
       },
       {
         "definition": "when the sun rises or sets",
@@ -65877,7 +66185,9 @@
             "cf": "",
             "x": "I get up with the sun."
           }
-        ]
+        ],
+        "short_meaning_vi": "bình minh/hoàng hôn",
+        "definition_vi": "khi mặt trời mọc hoặc lặn"
       }
     ]
   },
@@ -65960,11 +66270,15 @@
             "cf": "",
             "x": "Come back Sunday week (= a week after next Sunday)."
           }
-        ]
+        ],
+        "short_meaning_vi": "Chủ Nhật",
+        "definition_vi": "ngày trong tuần sau thứ Bảy và trước thứ Hai, được coi là ngày đầu tiên hoặc ngày cuối cùng của tuần"
       },
       {
         "definition": "a newspaper published on a Sunday",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "báo Chủ Nhật",
+        "definition_vi": "một tờ báo xuất bản vào Chủ Nhật"
       },
       {
         "definition": "used to emphasize that something will never happen or will take a very long time",
@@ -65977,7 +66291,9 @@
             "cf": "",
             "x": "It is possible to learn to skydive in Britain, but with our weather it might take a month of Sundays to do it."
           }
-        ]
+        ],
+        "short_meaning_vi": "không bao giờ",
+        "definition_vi": "dùng để nhấn mạnh rằng điều gì đó sẽ không bao giờ xảy ra hoặc sẽ mất rất nhiều thời gian"
       },
       {
         "definition": "your best clothes",
@@ -65986,7 +66302,9 @@
             "cf": "",
             "x": "I put on my Sunday best for the occasion."
           }
-        ]
+        ],
+        "short_meaning_vi": "trang phục đẹp nhất",
+        "definition_vi": "quần áo đẹp nhất của bạn"
       }
     ]
   },
@@ -66017,7 +66335,9 @@
             "cf": "",
             "x": "She was super (= very kind) when I was having problems."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyệt vời",
+        "definition_vi": "cực kỳ tốt"
       }
     ]
   },
@@ -66048,7 +66368,9 @@
             "cf": "",
             "x": "You look superb."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyệt vời",
+        "definition_vi": "xuất sắc; có chất lượng rất tốt"
       }
     ]
   },
@@ -66087,7 +66409,9 @@
             "cf": "",
             "x": "The enemy won because of their superior numbers (= there were more of them)."
           }
-        ]
+        ],
+        "short_meaning_vi": "tốt hơn",
+        "definition_vi": "tốt hơn về chất lượng so với người/vật khác; lớn hơn người/vật khác"
       },
       {
         "definition": "higher in rank, importance or position",
@@ -66104,7 +66428,9 @@
             "cf": "",
             "x": "a superior court of law"
           }
-        ]
+        ],
+        "short_meaning_vi": "cấp cao",
+        "definition_vi": "cao hơn về cấp bậc, tầm quan trọng hoặc vị trí"
       },
       {
         "definition": "showing by your behaviour that you think you are better than others",
@@ -66117,7 +66443,9 @@
             "cf": "",
             "x": "He always looks so superior."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự cao",
+        "definition_vi": "thể hiện qua hành vi của bạn rằng bạn nghĩ mình giỏi hơn người khác"
       },
       {
         "definition": "of very good quality; better than other similar things",
@@ -66130,7 +66458,9 @@
             "cf": "",
             "x": "The hotel offers superior accommodation and leisure facilities."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất lượng cao",
+        "definition_vi": "có chất lượng rất tốt; tốt hơn các thứ tương tự khác"
       }
     ]
   },
@@ -66165,7 +66495,9 @@
             "cf": "",
             "x": "a supermarket trolley"
           }
-        ]
+        ],
+        "short_meaning_vi": "siêu thị",
+        "definition_vi": "một cửa hàng lớn bán thực phẩm, đồ uống và hàng hóa dùng trong gia đình. Mọi người tự chọn những gì họ muốn từ các kệ hàng và thanh toán khi rời đi."
       }
     ]
   },
@@ -66192,7 +66524,9 @@
             "cf": "supervise somebody doing something",
             "x": "She supervised the children playing near the pool."
           }
-        ]
+        ],
+        "short_meaning_vi": "giám sát",
+        "definition_vi": "chịu trách nhiệm về ai đó/thứ gì đó và đảm bảo rằng mọi thứ được thực hiện một cách chính xác, an toàn, v.v."
       }
     ]
   },
@@ -66215,7 +66549,9 @@
             "cf": "under supervision",
             "x": "The drug should only be used under medical supervision."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự giám sát",
+        "definition_vi": "công việc hoặc hoạt động liên quan đến việc chịu trách nhiệm về ai đó/thứ gì đó và đảm bảo rằng mọi thứ được thực hiện một cách chính xác, an toàn, v.v."
       },
       {
         "definition": "a meeting between a student and their tutor or supervisor that involves teaching and discussion of the student's work",
@@ -66224,7 +66560,9 @@
             "cf": "",
             "x": "I have weekly supervisions."
           }
-        ]
+        ],
+        "short_meaning_vi": "buổi hướng dẫn",
+        "definition_vi": "một buổi gặp mặt giữa sinh viên và người hướng dẫn hoặc giám sát viên, bao gồm việc giảng dạy và thảo luận về công việc của sinh viên"
       }
     ]
   },
@@ -66247,7 +66585,9 @@
             "cf": "",
             "x": "All work is done under the guidance of a supervisor."
           }
-        ]
+        ],
+        "short_meaning_vi": "người giám sát",
+        "definition_vi": "một người giám sát ai đó/thứ gì đó"
       }
     ]
   },
@@ -66270,7 +66610,9 @@
             "cf": "supplement to something",
             "x": "Industrial sponsorship is a supplement to government funding."
           }
-        ]
+        ],
+        "short_meaning_vi": "bổ sung",
+        "definition_vi": "một thứ được thêm vào thứ khác để cải thiện hoặc hoàn thiện nó"
       },
       {
         "definition": "an extra separate section, often in the form of a magazine, that is sold with a newspaper",
@@ -66283,7 +66625,9 @@
             "cf": "",
             "x": "Our special supplement is packed with ideas for healthy hair."
           }
-        ]
+        ],
+        "short_meaning_vi": "phụ trương",
+        "definition_vi": "một phần bổ sung riêng biệt, thường dưới dạng tạp chí, được bán kèm với báo"
       },
       {
         "definition": "a book or a section at the end of a book that gives extra information or deals with a special subject",
@@ -66300,7 +66644,9 @@
             "cf": "",
             "x": "You can use these books as supplements to the basic English course."
           }
-        ]
+        ],
+        "short_meaning_vi": "phần bổ sung",
+        "definition_vi": "một cuốn sách hoặc một phần ở cuối sách cung cấp thông tin bổ sung hoặc đề cập đến một chủ đề đặc biệt"
       },
       {
         "definition": "an amount of money that you pay for an extra service or item, especially in addition to the basic cost of a holiday",
@@ -66317,7 +66663,9 @@
             "cf": "at/for a supplement",
             "x": "Safety deposit boxes are available at a supplement."
           }
-        ]
+        ],
+        "short_meaning_vi": "phụ phí",
+        "definition_vi": "một khoản tiền bạn trả cho một dịch vụ hoặc mặt hàng bổ sung, đặc biệt là ngoài chi phí cơ bản của kỳ nghỉ"
       }
     ]
   },
@@ -66340,7 +66688,9 @@
             "cf": "supplement something",
             "x": "He supplements his income by giving private lessons."
           }
-        ]
+        ],
+        "short_meaning_vi": "bổ sung",
+        "definition_vi": "thêm một cái gì đó vào một cái gì đó để cải thiện hoặc làm cho nó hoàn chỉnh hơn"
       }
     ]
   },
@@ -66371,7 +66721,9 @@
             "cf": "",
             "x": "We cannot guarantee adequate supplies of raw materials."
           }
-        ]
+        ],
+        "short_meaning_vi": "lượng cung",
+        "definition_vi": "một lượng của một thứ gì đó được cung cấp hoặc có sẵn để sử dụng"
       },
       {
         "definition": "the things such as food, medicines, fuel, etc. that are needed by a group of people, for example an army or expedition",
@@ -66384,7 +66736,9 @@
             "cf": "",
             "x": "food and medical supplies for refugees"
           }
-        ]
+        ],
+        "short_meaning_vi": "vật tư",
+        "definition_vi": "những thứ như thực phẩm, thuốc men, nhiên liệu, v.v. cần thiết cho một nhóm người, ví dụ như quân đội hoặc đoàn thám hiểm"
       },
       {
         "definition": "the act of supplying something; the fact of receiving something that is being supplied",
@@ -66409,7 +66763,9 @@
             "cf": "",
             "x": "a contract for the supply of timber"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự cung cấp",
+        "definition_vi": "hành động cung cấp một thứ gì đó; việc nhận một thứ gì đó đang được cung cấp"
       },
       {
         "definition": "not existing in large enough quantities to satisfy demand",
@@ -66426,7 +66782,9 @@
             "cf": "",
             "x": "Safe drinking water is in desperately short supply."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiếu hụt",
+        "definition_vi": "không tồn tại với số lượng đủ lớn để đáp ứng nhu cầu"
       }
     ]
   },
@@ -66469,7 +66827,9 @@
             "cf": "",
             "x": "He was charged with intent to supply (= planning to sell) class A drugs."
           }
-        ]
+        ],
+        "short_meaning_vi": "cung cấp",
+        "definition_vi": "cung cấp cho ai đó/thứ gì đó những gì họ cần hoặc muốn, đặc biệt là với số lượng lớn"
       }
     ]
   },
@@ -66524,7 +66884,9 @@
             "cf": "",
             "x": "organizations that provide advice and support to small businesses"
           }
-        ]
+        ],
+        "short_meaning_vi": "ủng hộ",
+        "definition_vi": "sự tán thành mà bạn dành cho ai đó/thứ gì đó vì bạn muốn họ thành công"
       },
       {
         "definition": "money or goods that you give to somebody/something in order to help them",
@@ -66537,7 +66899,9 @@
             "cf": "",
             "x": "She has no visible means of support (= no work, income etc.)."
           }
-        ]
+        ],
+        "short_meaning_vi": "hỗ trợ tài chính",
+        "definition_vi": "tiền hoặc hàng hóa bạn cung cấp cho ai đó/thứ gì đó để giúp đỡ họ"
       },
       {
         "definition": "sympathy and help that you give to somebody who is in a difficult or unhappy situation",
@@ -66562,7 +66926,9 @@
             "cf": "",
             "x": "a support network/system"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đồng cảm",
+        "definition_vi": "sự đồng cảm và giúp đỡ bạn dành cho ai đó đang ở trong hoàn cảnh khó khăn hoặc không vui"
       },
       {
         "definition": "evidence that helps to show that something is true or correct",
@@ -66579,7 +66945,9 @@
             "cf": "in support of something",
             "x": "There is little evidence in support of this hypothesis. "
           }
-        ]
+        ],
+        "short_meaning_vi": "bằng chứng",
+        "definition_vi": "bằng chứng giúp chứng tỏ điều gì đó là đúng hoặc chính xác"
       },
       {
         "definition": "a thing that holds something and prevents it from falling",
@@ -66592,7 +66960,9 @@
             "cf": "",
             "x": "When my father died, Jim was a real support."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ dựa",
+        "definition_vi": "một thứ giữ một vật và ngăn nó rơi xuống"
       },
       {
         "definition": "the act of holding something in position or preventing it from falling",
@@ -66609,7 +66979,9 @@
             "cf": "",
             "x": "A firmer mattress gives your back an improved level of support."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự chống đỡ",
+        "definition_vi": "hành động giữ một vật ở vị trí hoặc ngăn nó rơi xuống"
       },
       {
         "definition": "something you wear to hold an injured or weak part of your body in position",
@@ -66618,7 +66990,9 @@
             "cf": "",
             "x": "a knee/back support "
           }
-        ]
+        ],
+        "short_meaning_vi": "đai hỗ trợ",
+        "definition_vi": "thứ bạn mặc để giữ một bộ phận cơ thể bị thương hoặc yếu ở đúng vị trí"
       },
       {
         "definition": "a band or singer who performs in a pop or rock concert before the main performer",
@@ -66627,7 +67001,9 @@
             "cf": "",
             "x": "The support (act) has yet to be confirmed."
           }
-        ]
+        ],
+        "short_meaning_vi": "người mở màn",
+        "definition_vi": "một ca sĩ hoặc ban nhạc biểu diễn trong một buổi hòa nhạc pop hoặc rock trước người biểu diễn chính"
       },
       {
         "definition": "technical help that a company gives to customers using their computers or other products",
@@ -66636,7 +67012,9 @@
             "cf": "",
             "x": "There is a lack of decent home user support."
           }
-        ]
+        ],
+        "short_meaning_vi": "hỗ trợ kỹ thuật",
+        "definition_vi": "sự trợ giúp kỹ thuật mà một công ty cung cấp cho khách hàng sử dụng máy tính hoặc các sản phẩm khác của họ"
       }
     ]
   },
@@ -66675,7 +67053,9 @@
             "cf": "support somebody/something in something",
             "x": "The government supported the unions in their demand for a minimum wage."
           }
-        ]
+        ],
+        "short_meaning_vi": "tán thành",
+        "definition_vi": "giúp đỡ hoặc khuyến khích ai đó/thứ gì đó bằng cách nói hoặc thể hiện rằng bạn đồng ý với họ/nó"
       },
       {
         "definition": "to give or be ready to give help to somebody if they need it",
@@ -66692,7 +67072,9 @@
             "cf": "",
             "x": "The company will support customers in Europe (= solve their problems with a product)."
           }
-        ]
+        ],
+        "short_meaning_vi": "hỗ trợ",
+        "definition_vi": "cung cấp hoặc sẵn sàng cung cấp sự giúp đỡ cho ai đó nếu họ cần"
       },
       {
         "definition": "to like a particular sports team, watch their games, etc.",
@@ -66705,7 +67087,9 @@
             "cf": "",
             "x": "Who do you support? "
           }
-        ]
+        ],
+        "short_meaning_vi": "hâm mộ",
+        "definition_vi": "thích một đội thể thao cụ thể, xem các trận đấu của họ, v.v."
       },
       {
         "definition": "to help or encourage something to be successful by giving it money",
@@ -66722,7 +67106,9 @@
             "cf": "",
             "x": "Several major companies are supporting the project."
           }
-        ]
+        ],
+        "short_meaning_vi": "tài trợ",
+        "definition_vi": "giúp đỡ hoặc khuyến khích một cái gì đó thành công bằng cách cung cấp tiền cho nó"
       },
       {
         "definition": "to provide everything necessary, especially money, so that somebody/something can live or exist",
@@ -66743,7 +67129,9 @@
             "cf": "",
             "x": "The atmosphere of Mars could not support life."
           }
-        ]
+        ],
+        "short_meaning_vi": "nuôi sống",
+        "definition_vi": "cung cấp mọi thứ cần thiết, đặc biệt là tiền, để ai đó/thứ gì đó có thể sống hoặc tồn tại"
       },
       {
         "definition": "to help to show that something is true",
@@ -66764,7 +67152,9 @@
             "cf": "",
             "x": "He said the figures were questionable and not well supported."
           }
-        ]
+        ],
+        "short_meaning_vi": "chứng minh",
+        "definition_vi": "giúp chứng tỏ rằng một điều gì đó là đúng"
       },
       {
         "definition": "to hold somebody/something in position; to prevent somebody/something from falling",
@@ -66781,7 +67171,9 @@
             "cf": "",
             "x": "She walked carefully down the stairs, supported by her grandson."
           }
-        ]
+        ],
+        "short_meaning_vi": "chống đỡ",
+        "definition_vi": "giữ ai đó/thứ gì đó ở đúng vị trí; ngăn ai đó/thứ gì đó rơi xuống"
       },
       {
         "definition": "to perform in a pop or rock concert before the main performer",
@@ -66790,7 +67182,9 @@
             "cf": "",
             "x": "They were supported by a local Liverpool band."
           }
-        ]
+        ],
+        "short_meaning_vi": "biểu diễn mở màn",
+        "definition_vi": "biểu diễn trong một buổi hòa nhạc pop hoặc rock trước người biểu diễn chính"
       },
       {
         "definition": "to allow a particular program, language or device to be used with it",
@@ -66799,7 +67193,9 @@
             "cf": "",
             "x": "This digital audio player supports multiple formats."
           }
-        ]
+        ],
+        "short_meaning_vi": "hỗ trợ",
+        "definition_vi": "cho phép một chương trình, ngôn ngữ hoặc thiết bị cụ thể được sử dụng với nó"
       }
     ]
   },
@@ -66830,7 +67226,9 @@
             "cf": "",
             "x": "About a hundred of his supporters rallied to demand justice."
           }
-        ]
+        ],
+        "short_meaning_vi": "người ủng hộ",
+        "definition_vi": "một người ủng hộ một đảng chính trị, một ý tưởng, v.v."
       },
       {
         "definition": "a person who supports a particular sports team",
@@ -66839,7 +67237,9 @@
             "cf": "",
             "x": "I'm an Arsenal supporter."
           }
-        ]
+        ],
+        "short_meaning_vi": "người hâm mộ",
+        "definition_vi": "một người ủng hộ một đội thể thao cụ thể"
       }
     ]
   },
@@ -66870,7 +67270,9 @@
             "cf": "",
             "x": "He was strongly supportive of my career."
           }
-        ]
+        ],
+        "short_meaning_vi": "ủng hộ",
+        "definition_vi": "khuyến khích ai đó hoặc giúp đỡ hoặc đồng cảm với họ"
       }
     ]
   },
@@ -66925,7 +67327,9 @@
             "cf": "",
             "x": "I had supposed him a younger man."
           }
-        ]
+        ],
+        "short_meaning_vi": "cho rằng",
+        "definition_vi": "nghĩ hoặc tin rằng điều gì đó là đúng hoặc có thể (dựa trên kiến thức bạn có)"
       },
       {
         "definition": "used to make a statement, request or suggestion less direct or less strong",
@@ -66950,7 +67354,9 @@
             "cf": "",
             "x": "Suppose we take a later train?"
           }
-        ]
+        ],
+        "short_meaning_vi": "giả sử",
+        "definition_vi": "được sử dụng để làm cho một tuyên bố, yêu cầu hoặc đề xuất ít trực tiếp hơn hoặc yếu hơn"
       },
       {
         "definition": "to pretend that something is true; to imagine what would happen if something were true",
@@ -66975,7 +67381,9 @@
             "cf": "suppose somebody/something (to be/have) something",
             "x": "Suppose him (to be) dead—what then?"
           }
-        ]
+        ],
+        "short_meaning_vi": "tưởng tượng",
+        "definition_vi": "giả vờ rằng điều gì đó là đúng; tưởng tượng điều gì sẽ xảy ra nếu điều gì đó là đúng"
       },
       {
         "definition": "to be expected or required to do/be something according to a rule, a custom, an arrangement, etc.",
@@ -67012,7 +67420,9 @@
             "cf": "",
             "x": "‘Yes and no.’ ‘What is that supposed to mean?’ (= showing that you are annoyed)"
           }
-        ]
+        ],
+        "short_meaning_vi": "được mong đợi",
+        "definition_vi": "được mong đợi hoặc yêu cầu để làm/là một cái gì đó theo quy tắc, phong tục, thỏa thuận, v.v."
       },
       {
         "definition": "to be generally believed or expected to be/do something",
@@ -67029,7 +67439,9 @@
             "cf": "",
             "x": "She's supposed to have had hundreds of lovers."
           }
-        ]
+        ],
+        "short_meaning_vi": "được cho là",
+        "definition_vi": "được tin hoặc mong đợi nói chung là/làm một cái gì đó"
       },
       {
         "definition": "to not be allowed to do something",
@@ -67038,7 +67450,9 @@
             "cf": "",
             "x": "You're not supposed to walk on the grass."
           }
-        ]
+        ],
+        "short_meaning_vi": "không được phép",
+        "definition_vi": "không được phép làm một cái gì đó"
       }
     ]
   },
@@ -67065,7 +67479,9 @@
             "cf": "",
             "x": "Police have found the supposedly stolen car."
           }
-        ]
+        ],
+        "short_meaning_vi": "được cho là",
+        "definition_vi": "theo những gì thường được nghĩ hoặc tin nhưng không chắc chắn"
       }
     ]
   },
@@ -67084,7 +67500,9 @@
             "cf": "",
             "x": "The rebellion was brutally suppressed."
           }
-        ]
+        ],
+        "short_meaning_vi": "đàn áp",
+        "definition_vi": "chấm dứt, thường bằng vũ lực, một nhóm hoặc một hoạt động được cho là đe dọa quyền lực"
       },
       {
         "definition": "to prevent something from being published or made known",
@@ -67097,7 +67515,9 @@
             "cf": "",
             "x": "This information had been deliberately suppressed."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm duyệt",
+        "definition_vi": "ngăn chặn một cái gì đó được xuất bản hoặc công khai"
       },
       {
         "definition": "to prevent yourself from having or expressing a feeling or an emotion",
@@ -67134,7 +67554,9 @@
             "cf": "",
             "x": "He couldn't suppress the excitement in his voice."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiềm chế",
+        "definition_vi": "ngăn bản thân có hoặc thể hiện một cảm giác hoặc cảm xúc"
       },
       {
         "definition": "to prevent something from growing, developing or continuing",
@@ -67143,7 +67565,9 @@
             "cf": "",
             "x": "drugs that suppress the appetite"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngăn chặn",
+        "definition_vi": "ngăn chặn một cái gì đó phát triển, phát triển hoặc tiếp tục"
       }
     ]
   },
@@ -67170,7 +67594,9 @@
             "cf": "",
             "x": "It is an event in which she reigns supreme."
           }
-        ]
+        ],
+        "short_meaning_vi": "tối cao",
+        "definition_vi": "cao nhất về thứ hạng hoặc vị trí"
       },
       {
         "definition": "very great or the greatest in degree",
@@ -67187,7 +67613,9 @@
             "cf": "",
             "x": "She smiled with supreme confidence."
           }
-        ]
+        ],
+        "short_meaning_vi": "tối thượng",
+        "definition_vi": "rất lớn hoặc lớn nhất về mức độ"
       }
     ]
   },
@@ -67250,7 +67678,9 @@
             "cf": "",
             "x": "I like this bit, but I'm not so sure about that one."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn",
+        "definition_vi": "tự tin rằng bạn biết điều gì đó hoặc rằng bạn đúng"
       },
       {
         "definition": "certain that you will receive something or that something will happen",
@@ -67267,7 +67697,9 @@
             "cf": "sure of doing something",
             "x": "England must win this game to be sure of qualifying for the World Cup."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn nhận",
+        "definition_vi": "chắc chắn rằng bạn sẽ nhận được một cái gì đó hoặc rằng một cái gì đó sẽ xảy ra"
       },
       {
         "definition": "certain to do something or to happen",
@@ -67288,7 +67720,9 @@
             "cf": "",
             "x": "She's sure to be picked for the team."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn xảy ra",
+        "definition_vi": "chắc chắn sẽ làm một cái gì đó hoặc xảy ra"
       },
       {
         "definition": "that can be trusted or relied on",
@@ -67309,7 +67743,9 @@
             "cf": "",
             "x": "I told my friends that our winning was a sure thing."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng tin cậy",
+        "definition_vi": "có thể tin tưởng hoặc dựa vào"
       },
       {
         "definition": "steady and confident",
@@ -67318,7 +67754,9 @@
             "cf": "",
             "x": "We admired her sure touch at the keyboard."
           }
-        ]
+        ],
+        "short_meaning_vi": "vững vàng",
+        "definition_vi": "vững vàng và tự tin"
       },
       {
         "definition": "used to tell somebody to do something",
@@ -67331,7 +67769,9 @@
             "cf": "",
             "x": "Be sure to check out our website."
           }
-        ]
+        ],
+        "short_meaning_vi": "hãy",
+        "definition_vi": "được sử dụng để yêu cầu ai đó làm điều gì đó"
       },
       {
         "definition": "without doubt",
@@ -67352,7 +67792,9 @@
             "cf": "",
             "x": "‘Will you be there?’ ‘For sure.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn rồi",
+        "definition_vi": "không còn nghi ngờ gì nữa"
       },
       {
         "definition": "something that is likely to happen, to succeed or to be suitable",
@@ -67369,7 +67811,9 @@
             "cf": "",
             "x": "The movie looks like a sure bet for Best Film."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả năng thành công",
+        "definition_vi": "một cái gì đó có khả năng xảy ra, thành công hoặc phù hợp"
       },
       {
         "definition": "to do something in order to be certain that something else happens",
@@ -67390,7 +67834,9 @@
             "cf": "",
             "x": "To make doubly sure they would not be disturbed she turned the key in the lock."
           }
-        ]
+        ],
+        "short_meaning_vi": "đảm bảo",
+        "definition_vi": "làm một cái gì đó để chắc chắn rằng một cái gì đó khác xảy ra"
       },
       {
         "definition": "to check that something is true or has been done",
@@ -67403,7 +67849,9 @@
             "cf": "",
             "x": "I think the door's locked, but I'll just go and make sure."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm tra",
+        "definition_vi": "kiểm tra xem một cái gì đó có đúng hay đã được thực hiện"
       },
       {
         "definition": "very confident",
@@ -67412,7 +67860,9 @@
             "cf": "",
             "x": "She seems very sure of herself."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất tự tin",
+        "definition_vi": "rất tự tin"
       },
       {
         "definition": "used to say ‘yes’ to a suggestion or request",
@@ -67421,7 +67871,9 @@
             "cf": "",
             "x": "‘Are you coming?’ ‘Sure thing.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được sử dụng để nói 'có' với một gợi ý hoặc yêu cầu"
       },
       {
         "definition": "used to admit that something is true",
@@ -67430,7 +67882,9 @@
             "cf": "",
             "x": "He is intelligent, to be sure, but he's also very lazy."
           }
-        ]
+        ],
+        "short_meaning_vi": "thừa nhận",
+        "definition_vi": "được sử dụng để thừa nhận rằng một cái gì đó là đúng"
       }
     ]
   },
@@ -67457,7 +67911,9 @@
             "cf": "",
             "x": "Sure, no problem."
           }
-        ]
+        ],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được sử dụng để nói 'có' với ai đó"
       },
       {
         "definition": "used to emphasize something that you are saying",
@@ -67490,7 +67946,9 @@
             "cf": "",
             "x": "I sure do agree with that."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn mạnh",
+        "definition_vi": "được sử dụng để nhấn mạnh một điều gì đó bạn đang nói"
       },
       {
         "definition": "used to reply to somebody who has just thanked you for something",
@@ -67499,11 +67957,15 @@
             "cf": "",
             "x": "‘Thanks for the ride.’ ‘Sure—anytime.’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không có gì",
+        "definition_vi": "được sử dụng để trả lời ai đó vừa cảm ơn bạn vì điều gì đó"
       },
       {
         "definition": "used to say that something is definitely true",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chắc chắn là",
+        "definition_vi": "được sử dụng để nói rằng một cái gì đó chắc chắn là đúng"
       },
       {
         "definition": "used to say that something happened as expected",
@@ -67516,7 +67978,9 @@
             "cf": "",
             "x": "‘Stop,’ she said, ‘I can hear something.’ Sure enough, in the distance we could hear the sound of a car approaching."
           }
-        ]
+        ],
+        "short_meaning_vi": "đúng như mong đợi",
+        "definition_vi": "được sử dụng để nói rằng một cái gì đó đã xảy ra như mong đợi"
       }
     ]
   },
@@ -67547,7 +68011,9 @@
             "cf": "",
             "x": "Oil prices will surely have some impact on trade."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn rồi",
+        "definition_vi": "được sử dụng để cho thấy bạn gần như chắc chắn về những gì bạn đang nói và muốn người khác đồng ý với bạn"
       },
       {
         "definition": "used with a negative to show that something surprises you and you do not want to believe it",
@@ -67564,7 +68030,9 @@
             "cf": "",
             "x": "They won't go, surely?"
           }
-        ]
+        ],
+        "short_meaning_vi": "thật ngạc nhiên",
+        "definition_vi": "được sử dụng với phủ định để cho thấy điều gì đó làm bạn ngạc nhiên và bạn không muốn tin điều đó"
       },
       {
         "definition": "without doubt; certainly",
@@ -67573,11 +68041,15 @@
             "cf": "",
             "x": "He knew that if help did not arrive soon they would surely die."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn",
+        "definition_vi": "không còn nghi ngờ gì nữa; chắc chắn"
       },
       {
         "definition": "used to say ‘yes’ to somebody or to agree to something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vâng",
+        "definition_vi": "được sử dụng để nói 'có' với ai đó hoặc đồng ý với một cái gì đó"
       },
       {
         "definition": "making slow but definite progress",
@@ -67586,7 +68058,9 @@
             "cf": "",
             "x": "We'll get there slowly but surely."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiến triển vững chắc",
+        "definition_vi": "tiến triển chậm nhưng chắc chắn"
       }
     ]
   },
@@ -67621,7 +68095,9 @@
             "cf": "",
             "x": "Teeth have a hard surface layer called enamel."
           }
-        ]
+        ],
+        "short_meaning_vi": "bề mặt",
+        "definition_vi": "lớp ngoài hoặc trên cùng của một cái gì đó"
       },
       {
         "definition": "the top layer of an area of water or land",
@@ -67646,7 +68122,9 @@
             "cf": "",
             "x": "The earth’s surface temperature is rising."
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt nước",
+        "definition_vi": "lớp trên cùng của một vùng nước hoặc đất liền"
       },
       {
         "definition": "the flat upper part of a piece of furniture, that is used for working on",
@@ -67659,7 +68137,9 @@
             "cf": "",
             "x": "You'll need a large smooth surface for rolling out the pastry."
           }
-        ]
+        ],
+        "short_meaning_vi": "mặt bàn",
+        "definition_vi": "phần trên phẳng của một món đồ nội thất, được sử dụng để làm việc"
       },
       {
         "definition": "the outer appearance of a person, thing or situation; the qualities that you see or notice, that are not hidden",
@@ -67672,7 +68152,9 @@
             "cf": "",
             "x": "She gives the impression of being rather conventional, but under the surface she is wildly eccentric."
           }
-        ]
+        ],
+        "short_meaning_vi": "bề ngoài",
+        "definition_vi": "bề ngoài của một người, sự vật hoặc tình huống; những phẩm chất mà bạn nhìn thấy hoặc nhận thấy, không bị che giấu."
       },
       {
         "definition": "when not thought about deeply or carefully and completely; when not looked at carefully",
@@ -67689,7 +68171,9 @@
             "cf": "",
             "x": "On the surface his words were funny, but I detected a lot of anger behind them."
           }
-        ]
+        ],
+        "short_meaning_vi": "hời hợt",
+        "definition_vi": "khi không suy nghĩ sâu sắc hoặc cẩn thận và hoàn toàn; khi không xem xét kỹ lưỡng."
       },
       {
         "definition": "to deal with, understand, or find out about only a small part of a subject or problem",
@@ -67702,7 +68186,9 @@
             "cf": "",
             "x": "The investigation barely scratched the surface of the city's drug problem."
           }
-        ]
+        ],
+        "short_meaning_vi": "xem xét sơ bộ",
+        "definition_vi": "để giải quyết, hiểu hoặc tìm hiểu chỉ một phần nhỏ của một chủ đề hoặc vấn đề."
       }
     ]
   },
@@ -67725,7 +68211,9 @@
             "cf": "",
             "x": "a surge of excitement"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự dâng lên",
+        "definition_vi": "sự gia tăng đột ngột của một cảm xúc mạnh mẽ."
       },
       {
         "definition": "a sudden increase in the amount or number of something",
@@ -67746,7 +68234,9 @@
             "cf": "surge of something",
             "x": "After an initial surge of interest, there has been little call for our services."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tăng vọt",
+        "definition_vi": "sự gia tăng đột ngột về số lượng hoặc số lượng của một cái gì đó."
       },
       {
         "definition": "a sudden, strong movement forward or upwards",
@@ -67763,7 +68253,9 @@
             "cf": "",
             "x": "Police struggled to control the sudden surge forward by the demonstrators."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự trào dâng",
+        "definition_vi": "một chuyển động đột ngột, mạnh mẽ về phía trước hoặc lên trên."
       },
       {
         "definition": "a sudden increase in the flow of electrical power through a system",
@@ -67776,7 +68268,9 @@
             "cf": "",
             "x": "The National Grid was hit by a huge power surge."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tăng điện",
+        "definition_vi": "sự gia tăng đột ngột của dòng điện qua một hệ thống."
       }
     ]
   },
@@ -67803,7 +68297,9 @@
             "cf": "",
             "x": "He surged past the other runners on the last lap."
           }
-        ]
+        ],
+        "short_meaning_vi": "trào dâng",
+        "definition_vi": "di chuyển nhanh chóng và mạnh mẽ theo một hướng cụ thể."
       },
       {
         "definition": "to fill somebody with a strong feeling",
@@ -67812,7 +68308,9 @@
             "cf": "",
             "x": "Relief surged through her."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm dâng trào",
+        "definition_vi": "làm cho ai đó tràn đầy một cảm xúc mạnh mẽ."
       },
       {
         "definition": "to suddenly increase in value",
@@ -67821,11 +68319,15 @@
             "cf": "",
             "x": "Share prices surged."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng giá",
+        "definition_vi": "tăng đột ngột về giá trị."
       },
       {
         "definition": "to increase suddenly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tăng đột ngột",
+        "definition_vi": "tăng đột ngột."
       }
     ]
   },
@@ -67848,7 +68350,9 @@
             "cf": "",
             "x": "Surgeons performed two operations on him yesterday."
           }
-        ]
+        ],
+        "short_meaning_vi": "bác sĩ phẫu thuật",
+        "definition_vi": "một bác sĩ được đào tạo để thực hiện phẫu thuật (= các ca phẫu thuật y tế liên quan đến việc rạch cơ thể người)."
       }
     ]
   },
@@ -67887,7 +68391,9 @@
             "cf": "",
             "x": "The president is to undergo minor surgery to remove a small growth from his hand."
           }
-        ]
+        ],
+        "short_meaning_vi": "phẫu thuật",
+        "definition_vi": "điều trị y tế các vết thương hoặc bệnh tật liên quan đến việc rạch cơ thể người và thường là loại bỏ hoặc thay thế một số bộ phận; lĩnh vực y học liên quan đến việc điều trị này."
       },
       {
         "definition": "a place where a doctor, dentist or vet sees patients",
@@ -67896,7 +68402,9 @@
             "cf": "",
             "x": "a doctor’s/dentist’s/vet's surgery"
           }
-        ]
+        ],
+        "short_meaning_vi": "phòng khám",
+        "definition_vi": "một nơi mà bác sĩ, nha sĩ hoặc bác sĩ thú y khám bệnh."
       },
       {
         "definition": "the time during which a doctor, dentist or vet is available to see patients",
@@ -67917,7 +68425,9 @@
             "cf": "",
             "x": "He holds surgery from 10 a.m. to 1 p.m."
           }
-        ]
+        ],
+        "short_meaning_vi": "giờ khám",
+        "definition_vi": "thời gian mà bác sĩ, nha sĩ hoặc bác sĩ thú y có mặt để khám bệnh."
       },
       {
         "definition": "a time when people can meet their Member of Parliament to ask questions and get help",
@@ -67926,7 +68436,9 @@
             "cf": "",
             "x": "a constituency surgery"
           }
-        ]
+        ],
+        "short_meaning_vi": "giờ tiếp dân",
+        "definition_vi": "một thời điểm mà mọi người có thể gặp Nghị sĩ của họ để đặt câu hỏi và nhận trợ giúp."
       }
     ]
   },
@@ -67949,7 +68461,9 @@
             "cf": "",
             "x": "a surgical ward (= for patients having operations)"
           }
-        ]
+        ],
+        "short_meaning_vi": "phẫu thuật",
+        "definition_vi": "được sử dụng trong hoặc liên quan đến phẫu thuật."
       },
       {
         "definition": "very accurate",
@@ -67966,7 +68480,9 @@
             "cf": "",
             "x": "The quarterback found the wide receiver with a pass of almost surgical precision."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "rất chính xác."
       }
     ]
   },
@@ -67989,7 +68505,9 @@
             "cf": "in surplus",
             "x": "Wheat was in surplus that year."
           }
-        ]
+        ],
+        "short_meaning_vi": "thặng dư",
+        "definition_vi": "một số lượng dư thừa hoặc nhiều hơn bạn cần."
       },
       {
         "definition": "the amount by which the amount of money received is greater than the amount of money spent",
@@ -68002,7 +68520,9 @@
             "cf": "in surplus",
             "x": "The balance of payments was in surplus last year (= the value of exports was greater than the value of imports)."
           }
-        ]
+        ],
+        "short_meaning_vi": "thặng dư",
+        "definition_vi": "số tiền mà số tiền nhận được lớn hơn số tiền chi tiêu."
       }
     ]
   },
@@ -68069,7 +68589,9 @@
             "cf": "",
             "x": "Visitors to the gallery are in for a few surprises."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự ngạc nhiên",
+        "definition_vi": "một sự kiện, một tin tức, v.v. bất ngờ hoặc xảy ra đột ngột."
       },
       {
         "definition": "a feeling caused by something happening suddenly or unexpectedly",
@@ -68118,7 +68640,9 @@
             "cf": "",
             "x": "They expressed surprise at the outcome."
           }
-        ]
+        ],
+        "short_meaning_vi": "cảm giác ngạc nhiên",
+        "definition_vi": "một cảm giác gây ra bởi điều gì đó xảy ra đột ngột hoặc bất ngờ."
       },
       {
         "definition": "the use of methods that cause feelings of surprise",
@@ -68127,7 +68651,9 @@
             "cf": "",
             "x": "A successful campaign should have an element of surprise."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự bất ngờ",
+        "definition_vi": "việc sử dụng các phương pháp gây ra cảm giác ngạc nhiên."
       },
       {
         "definition": "used to show that something is not a surprise to you, as you could easily have predicted that it would happen or be true",
@@ -68140,7 +68666,9 @@
             "cf": "",
             "x": "Bob turned up half an hour late, surprise surprise."
           }
-        ]
+        ],
+        "short_meaning_vi": "không ngạc nhiên",
+        "definition_vi": "được sử dụng để chỉ ra rằng điều gì đó không phải là một sự ngạc nhiên đối với bạn, vì bạn có thể dễ dàng dự đoán rằng điều đó sẽ xảy ra hoặc đúng."
       },
       {
         "definition": "used when giving somebody a surprise",
@@ -68149,7 +68677,9 @@
             "cf": "",
             "x": "Surprise, surprise! Look who's here!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tặng quà",
+        "definition_vi": "được sử dụng khi tặng ai đó một món quà bất ngờ."
       },
       {
         "definition": "to happen unexpectedly so that somebody is slightly shocked; to surprise somebody",
@@ -68162,7 +68692,9 @@
             "cf": "",
             "x": "The storm took us completely by surprise."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm ngạc nhiên",
+        "definition_vi": "xảy ra bất ngờ khiến ai đó hơi sốc; làm ai đó ngạc nhiên."
       },
       {
         "definition": "to attack or capture somebody/something unexpectedly or without warning",
@@ -68171,7 +68703,9 @@
             "cf": "",
             "x": "The police took the burglars by surprise."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấn công bất ngờ",
+        "definition_vi": "tấn công hoặc bắt giữ ai đó/điều gì đó bất ngờ hoặc không báo trước."
       }
     ]
   },
@@ -68206,7 +68740,9 @@
             "cf": "it surprises somebody to do something",
             "x": "Would it surprise you to know that I'm thinking of leaving?"
           }
-        ]
+        ],
+        "short_meaning_vi": "làm ngạc nhiên",
+        "definition_vi": "làm cho ai đó cảm thấy ngạc nhiên."
       },
       {
         "definition": "to attack, discover, etc., somebody suddenly and unexpectedly",
@@ -68219,7 +68755,9 @@
             "cf": "",
             "x": "We arrived home early and surprised a burglar trying to break in."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất ngờ",
+        "definition_vi": "tấn công, phát hiện, v.v., ai đó một cách đột ngột và bất ngờ."
       }
     ]
   },
@@ -68282,7 +68820,9 @@
             "cf": "",
             "x": "She seemed somewhat surprised at his reaction."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngạc nhiên",
+        "definition_vi": "cảm thấy hoặc thể hiện sự ngạc nhiên."
       }
     ]
   },
@@ -68321,7 +68861,9 @@
             "cf": "",
             "x": "It’s surprising how many people applied for the job."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng ngạc nhiên",
+        "definition_vi": "gây ngạc nhiên."
       }
     ]
   },
@@ -68348,7 +68890,9 @@
             "cf": "surrender yourself (to somebody)",
             "x": "The hijackers eventually surrendered themselves to the police."
           }
-        ]
+        ],
+        "short_meaning_vi": "đầu hàng",
+        "definition_vi": "thừa nhận rằng bạn đã bị đánh bại và muốn ngừng chiến đấu; cho phép bản thân bị bắt, bị bắt làm tù binh, v.v."
       },
       {
         "definition": "to give up something/somebody when you are forced to",
@@ -68369,7 +68913,9 @@
             "cf": "",
             "x": "The dictator surrendered power to Parliament."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhượng lại",
+        "definition_vi": "từ bỏ điều gì đó/ai đó khi bạn bị buộc phải làm vậy."
       }
     ]
   },
@@ -68408,7 +68954,9 @@
             "cf": "be surrounded with something",
             "x": "The lake is surrounded with trees."
           }
-        ]
+        ],
+        "short_meaning_vi": "bao quanh",
+        "definition_vi": "ở xung quanh ai đó/điều gì đó."
       },
       {
         "definition": "to move into position all around somebody/something, especially so as to prevent them from escaping; to move somebody/something into position in this way",
@@ -68421,7 +68969,9 @@
             "cf": "surround somebody/something with somebody/something",
             "x": "They've surrounded the building with police."
           }
-        ]
+        ],
+        "short_meaning_vi": "vây quanh",
+        "definition_vi": "di chuyển vào vị trí xung quanh ai đó/điều gì đó, đặc biệt là để ngăn họ trốn thoát; di chuyển ai đó/điều gì đó vào vị trí theo cách này."
       },
       {
         "definition": "to be closely connected with something/somebody",
@@ -68438,7 +68988,9 @@
             "cf": "",
             "x": "The report explores the issues surrounding the case."
           }
-        ]
+        ],
+        "short_meaning_vi": "liên quan mật thiết",
+        "definition_vi": "liên quan chặt chẽ đến ai đó/điều gì đó."
       },
       {
         "definition": "to choose to have particular people or things near you all the time",
@@ -68447,7 +68999,9 @@
             "cf": "",
             "x": "I like to surround myself with beautiful things."
           }
-        ]
+        ],
+        "short_meaning_vi": "chọn ở gần",
+        "definition_vi": "chọn có những người hoặc vật cụ thể ở gần bạn mọi lúc."
       }
     ]
   },
@@ -68478,7 +69032,9 @@
             "cf": "",
             "x": "The college tries to respond to the needs of the surrounding community. "
           }
-        ]
+        ],
+        "short_meaning_vi": "xung quanh",
+        "definition_vi": "ở gần hoặc xung quanh một cái gì đó."
       }
     ]
   },
@@ -68501,7 +69057,9 @@
             "cf": "",
             "x": "surveillance cameras/equipment"
           }
-        ]
+        ],
+        "short_meaning_vi": "giám sát",
+        "definition_vi": "hành động theo dõi cẩn thận một người bị nghi phạm tội hoặc một địa điểm có thể xảy ra tội phạm."
       }
     ]
   },
@@ -68544,7 +69102,9 @@
             "cf": "",
             "x": "The results of the survey come as no surprise to us."
           }
-        ]
+        ],
+        "short_meaning_vi": "khảo sát",
+        "definition_vi": "một cuộc điều tra về ý kiến, hành vi, v.v. của một nhóm người cụ thể, thường được thực hiện bằng cách đặt câu hỏi cho họ."
       },
       {
         "definition": "the act of examining and recording the measurements, features, etc. of an area of land in order to make a map or plan of it",
@@ -68557,7 +69117,9 @@
             "cf": "",
             "x": "A geological survey revealed the presence of oil beneath the ground."
           }
-        ]
+        ],
+        "short_meaning_vi": "khảo sát đất đai",
+        "definition_vi": "hành động kiểm tra và ghi lại các phép đo, đặc điểm, v.v. của một khu vực đất để lập bản đồ hoặc sơ đồ của nó"
       },
       {
         "definition": "an examination of the condition of a house, etc., usually done for somebody who is thinking of buying it",
@@ -68566,7 +69128,9 @@
             "cf": "",
             "x": "a detailed structural survey"
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm định nhà cửa",
+        "definition_vi": "một cuộc kiểm tra tình trạng của một ngôi nhà, v.v., thường được thực hiện cho người đang cân nhắc mua nó"
       },
       {
         "definition": "a general study, view or description of something",
@@ -68579,7 +69143,9 @@
             "cf": "",
             "x": "a historical survey of children's clothing"
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiên cứu tổng quan",
+        "definition_vi": "một nghiên cứu, cái nhìn hoặc mô tả tổng quát về một cái gì đó"
       }
     ]
   },
@@ -68606,7 +69172,9 @@
             "cf": "",
             "x": "She opened her eyes and surveyed her surroundings."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan sát bao quát",
+        "definition_vi": "nhìn kỹ toàn bộ một cái gì đó, đặc biệt là để có được ấn tượng chung về nó"
       },
       {
         "definition": "to study and give a general description of something",
@@ -68615,7 +69183,9 @@
             "cf": "",
             "x": "This chapter briefly surveys the current state of European politics."
           }
-        ]
+        ],
+        "short_meaning_vi": "mô tả tổng quan",
+        "definition_vi": "nghiên cứu và đưa ra một mô tả tổng quát về một cái gì đó"
       },
       {
         "definition": "to investigate the opinions or behaviour of a group of people by asking them a series of questions",
@@ -68636,11 +69206,15 @@
             "cf": "",
             "x": "62 percent of those surveyed disapprove of the president's handling of the problem. "
           }
-        ]
+        ],
+        "short_meaning_vi": "khảo sát ý kiến",
+        "definition_vi": "điều tra ý kiến hoặc hành vi của một nhóm người bằng cách đặt cho họ một loạt câu hỏi"
       },
       {
         "definition": "to measure and record the features of an area of land, for example in order to make a map or in preparation for building",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đo đạc đất đai",
+        "definition_vi": "đo lường và ghi lại các đặc điểm của một khu vực đất, ví dụ để lập bản đồ hoặc chuẩn bị xây dựng"
       },
       {
         "definition": "to examine a building to make sure it is in good condition",
@@ -68649,7 +69223,9 @@
             "cf": "",
             "x": "Have the house surveyed before you decide whether to buy it."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểm tra công trình",
+        "definition_vi": "kiểm tra một tòa nhà để đảm bảo nó ở trong tình trạng tốt"
       }
     ]
   },
@@ -68680,7 +69256,9 @@
             "cf": "",
             "x": "Continued trade in these products is a threat to the survival of the species."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự sống sót",
+        "definition_vi": "tình trạng tiếp tục sống hoặc tồn tại, thường bất chấp khó khăn hoặc nguy hiểm"
       },
       {
         "definition": "something that has continued to exist from an earlier time",
@@ -68689,11 +69267,15 @@
             "cf": "",
             "x": "The ceremony is a survival from pre-Christian times."
           }
-        ]
+        ],
+        "short_meaning_vi": "di vật",
+        "definition_vi": "thứ gì đó đã tiếp tục tồn tại từ thời kỳ trước đó"
       },
       {
         "definition": "the principle that only the people or things that are best adapted to their environment will continue to exist",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thuyết sinh tồn",
+        "definition_vi": "nguyên tắc chỉ những người hoặc vật thích nghi tốt nhất với môi trường của họ mới tiếp tục tồn tại"
       }
     ]
   },
@@ -68752,7 +69334,9 @@
             "cf": "survive as something",
             "x": "He survived as party leader until his second election defeat."
           }
-        ]
+        ],
+        "short_meaning_vi": "sống sót",
+        "definition_vi": "tiếp tục sống hoặc tồn tại"
       },
       {
         "definition": "to continue to live or exist despite a dangerous event or time",
@@ -68777,7 +69361,9 @@
             "cf": "survive something + adj.",
             "x": "Few buildings survived the war intact."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt qua",
+        "definition_vi": "tiếp tục sống hoặc tồn tại bất chấp một sự kiện hoặc thời gian nguy hiểm"
       },
       {
         "definition": "to live or exist longer than somebody/something",
@@ -68790,7 +69376,9 @@
             "cf": "",
             "x": "He is survived by his wife and two sons (= he has just died but they are still alive)."
           }
-        ]
+        ],
+        "short_meaning_vi": "sống lâu hơn",
+        "definition_vi": "sống hoặc tồn tại lâu hơn ai đó/cái gì đó"
       }
     ]
   },
@@ -68825,7 +69413,9 @@
             "cf": "",
             "x": "A movie has been made about the last remaining survivor of the tribe."
           }
-        ]
+        ],
+        "short_meaning_vi": "người sống sót",
+        "definition_vi": "một người tiếp tục sống, đặc biệt là bất chấp việc suýt chết hoặc trải qua nguy hiểm hoặc khó khăn lớn"
       }
     ]
   },
@@ -68856,7 +69446,9 @@
             "cf": "",
             "x": "Do you have a list of likely suspects?"
           }
-        ]
+        ],
+        "short_meaning_vi": "nghi phạm",
+        "definition_vi": "một người bị nghi ngờ phạm tội hoặc đã làm điều gì đó sai trái"
       },
       {
         "definition": "the people you would usually expect to do something or be included in something",
@@ -68865,7 +69457,9 @@
             "cf": "",
             "x": "She thanked all the usual suspects in her acceptance speech: her family, the director, the cast and the crew."
           }
-        ]
+        ],
+        "short_meaning_vi": "những người dự kiến",
+        "definition_vi": "những người bạn thường mong đợi sẽ làm điều gì đó hoặc được bao gồm trong điều gì đó"
       }
     ]
   },
@@ -68920,7 +69514,9 @@
             "cf": "suspect somebody/something to be/have something",
             "x": "She suspected him to be an impostor."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghi ngờ",
+        "definition_vi": "có ý tưởng rằng điều gì đó có thể đúng hoặc có khả năng xảy ra, đặc biệt là điều gì đó tồi tệ, nhưng không có bằng chứng xác định"
       },
       {
         "definition": "to have an idea that somebody is guilty of something, without having definite proof",
@@ -68953,7 +69549,9 @@
             "cf": "suspect somebody/something",
             "x": "Whom do the police suspect?"
           }
-        ]
+        ],
+        "short_meaning_vi": "nghi ngờ tội",
+        "definition_vi": "có ý tưởng rằng ai đó có tội về điều gì đó, mà không có bằng chứng xác định"
       },
       {
         "definition": "to feel that something is not completely right, legal or honest, without having any proof; to not trust something",
@@ -68966,7 +69564,9 @@
             "cf": "",
             "x": "He dealt through a broker whose honesty he had no reason to suspect."
           }
-        ]
+        ],
+        "short_meaning_vi": "cảm thấy không ổn",
+        "definition_vi": "cảm thấy rằng điều gì đó không hoàn toàn đúng, hợp pháp hoặc trung thực, mà không có bằng chứng; không tin tưởng điều gì đó"
       }
     ]
   },
@@ -68993,7 +69593,9 @@
             "cf": "be suspended by/on something from something",
             "x": "A boat was suspended on wires from the rafters."
           }
-        ]
+        ],
+        "short_meaning_vi": "treo",
+        "definition_vi": "treo một cái gì đó lên một cái gì đó khác"
       },
       {
         "definition": "to officially stop something for a time; to prevent something from being active, used, etc. for a time",
@@ -69010,7 +69612,9 @@
             "cf": "",
             "x": "In the theatre we willingly suspend disbelief (= temporarily believe that the characters, etc. are real)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đình chỉ",
+        "definition_vi": "chính thức dừng một cái gì đó trong một thời gian; ngăn một cái gì đó hoạt động, được sử dụng, v.v. trong một thời gian"
       },
       {
         "definition": "to officially delay something; to arrange for something to happen later than planned",
@@ -69023,7 +69627,9 @@
             "cf": "",
             "x": "to suspend judgement (= delay forming or expressing an opinion)"
           }
-        ]
+        ],
+        "short_meaning_vi": "hoãn lại",
+        "definition_vi": "chính thức trì hoãn một cái gì đó; sắp xếp để một cái gì đó xảy ra muộn hơn dự kiến"
       },
       {
         "definition": "to officially prevent somebody from doing their job, going to school, etc. for a time, as a punishment or while a complaint against them is investigated",
@@ -69036,7 +69642,9 @@
             "cf": "be suspended from something",
             "x": "She was suspended from school for a week."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạm đình chỉ",
+        "definition_vi": "chính thức ngăn cản ai đó làm công việc, đi học, v.v. trong một thời gian, như một hình phạt hoặc trong khi một khiếu nại chống lại họ đang được điều tra"
       },
       {
         "definition": "to float in liquid or air without moving",
@@ -69045,7 +69653,9 @@
             "cf": "",
             "x": "Small droplets are held suspended in the atmosphere."
           }
-        ]
+        ],
+        "short_meaning_vi": "lơ lửng",
+        "definition_vi": "nổi trong chất lỏng hoặc không khí mà không di chuyển"
       }
     ]
   },
@@ -69068,7 +69678,9 @@
             "cf": "",
             "x": "The two players are appealing against their suspensions."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đình chỉ",
+        "definition_vi": "hành động chính thức khai trừ ai đó khỏi công việc, trường học, đội, v.v. trong một khoảng thời gian, thường là một hình phạt"
       },
       {
         "definition": "the act of delaying something for a period of time, until a decision has been taken",
@@ -69081,7 +69693,9 @@
             "cf": "",
             "x": "Many movies require the viewer to engage in a willing suspension of disbelief."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự trì hoãn",
+        "definition_vi": "hành động trì hoãn một cái gì đó trong một khoảng thời gian, cho đến khi một quyết định được đưa ra"
       },
       {
         "definition": "the system of springs, etc. by which a vehicle is supported on its wheels and that makes it more comfortable to ride in when the road surface is not even",
@@ -69094,7 +69708,9 @@
             "cf": "",
             "x": "The new model is fitted with computer-controlled suspension."
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống treo",
+        "definition_vi": "hệ thống lò xo, v.v. mà nhờ đó một phương tiện được đỡ trên bánh xe của nó và làm cho nó thoải mái hơn khi đi lại khi mặt đường không bằng phẳng"
       },
       {
         "definition": "a liquid with very small pieces of solid matter floating in it; the state of such a liquid",
@@ -69107,7 +69723,9 @@
             "cf": "",
             "x": "The material carried in suspension by the tide is deposited on the shore."
           }
-        ]
+        ],
+        "short_meaning_vi": "hỗn hợp lơ lửng",
+        "definition_vi": "một chất lỏng với các hạt rắn rất nhỏ lơ lửng trong đó; trạng thái của một chất lỏng như vậy"
       }
     ]
   },
@@ -69150,7 +69768,9 @@
             "cf": "",
             "x": "It’s time to confront him with our suspicions."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự nghi ngờ",
+        "definition_vi": "cảm giác rằng ai đó đã làm điều gì đó sai trái, bất hợp pháp hoặc không trung thực, mặc dù bạn không có bằng chứng"
       },
       {
         "definition": "a feeling or belief that something is true, even though you have no proof",
@@ -69159,7 +69779,9 @@
             "cf": "",
             "x": "I have a horrible suspicion that we've come to the wrong station."
           }
-        ]
+        ],
+        "short_meaning_vi": "linh cảm",
+        "definition_vi": "cảm giác hoặc niềm tin rằng điều gì đó là đúng, mặc dù bạn không có bằng chứng"
       },
       {
         "definition": "the feeling that you cannot trust somebody/something",
@@ -69172,7 +69794,9 @@
             "cf": "",
             "x": "Water from shallow wells should be regarded with suspicion, as it may be contaminated."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự không tin tưởng",
+        "definition_vi": "cảm giác rằng bạn không thể tin tưởng ai đó/cái gì đó"
       },
       {
         "definition": "a small amount of something",
@@ -69185,7 +69809,9 @@
             "cf": "",
             "x": "Wasn’t there even a suspicion of truth in what he said?"
           }
-        ]
+        ],
+        "short_meaning_vi": "một chút",
+        "definition_vi": "một lượng nhỏ của một cái gì đó"
       },
       {
         "definition": "too good, honest, etc. to have done something wrong, illegal or dishonest",
@@ -69198,7 +69824,9 @@
             "cf": "",
             "x": "They thought the head teacher was beyond suspicion."
           }
-        ]
+        ],
+        "short_meaning_vi": "quá tốt",
+        "definition_vi": "quá tốt, trung thực, v.v. để đã làm điều gì đó sai trái, bất hợp pháp hoặc không trung thực"
       },
       {
         "definition": "if the finger of blame/suspicion points or is pointed at somebody, they are suspected of having committed a crime, being responsible for something, etc.",
@@ -69211,7 +69839,9 @@
             "cf": "",
             "x": "The finger of suspicion was pointed at the chicken served for lunch."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngón tay chỉ trích",
+        "definition_vi": "nếu ngón tay đổ lỗi/nghi ngờ chỉ vào ai đó, họ bị nghi ngờ đã phạm tội, chịu trách nhiệm về điều gì đó, v.v."
       },
       {
         "definition": "suspected of doing something wrong, illegal or dishonest",
@@ -69228,7 +69858,9 @@
             "cf": "",
             "x": "He fell under suspicion of tax evasion."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị nghi ngờ",
+        "definition_vi": "bị nghi ngờ đã làm điều gì đó sai trái, bất hợp pháp hoặc không trung thực"
       }
     ]
   },
@@ -69255,7 +69887,9 @@
             "cf": "",
             "x": "You have a very suspicious mind (= you always think that people are behaving in an illegal or dishonest way)."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghi ngờ",
+        "definition_vi": "cảm thấy rằng ai đó đã làm điều gì đó sai trái, bất hợp pháp hoặc không trung thực, mà không có bằng chứng"
       },
       {
         "definition": "making you feel that something is wrong, illegal or dishonest",
@@ -69280,7 +69914,9 @@
             "cf": "",
             "x": "It was all very suspicious."
           }
-        ]
+        ],
+        "short_meaning_vi": "đáng ngờ",
+        "definition_vi": "làm cho bạn cảm thấy rằng điều gì đó là sai trái, bất hợp pháp hoặc không trung thực"
       },
       {
         "definition": "not willing or able to trust somebody/something",
@@ -69293,7 +69929,9 @@
             "cf": "",
             "x": "Many were suspicious of reform."
           }
-        ]
+        ],
+        "short_meaning_vi": "không tin tưởng",
+        "definition_vi": "không sẵn lòng hoặc không thể tin tưởng ai đó/cái gì đó"
       }
     ]
   },
@@ -69328,7 +69966,9 @@
             "cf": "",
             "x": "The soil was so badly eroded it could no longer sustain crop production."
           }
-        ]
+        ],
+        "short_meaning_vi": "nuôi dưỡng",
+        "definition_vi": "cung cấp đủ những gì ai đó/cái gì đó cần để sống hoặc tồn tại"
       },
       {
         "definition": "to make something continue for some time without becoming less",
@@ -69349,7 +69989,9 @@
             "cf": "",
             "x": "This relationship would be very difficult to sustain."
           }
-        ]
+        ],
+        "short_meaning_vi": "duy trì",
+        "definition_vi": "để làm cho cái gì đó tiếp tục trong một thời gian mà không bị suy giảm"
       },
       {
         "definition": "to experience something bad",
@@ -69362,7 +70004,9 @@
             "cf": "",
             "x": "The company sustained losses of millions of dollars."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu đựng",
+        "definition_vi": "trải qua điều gì đó tồi tệ"
       },
       {
         "definition": "to provide evidence to support an opinion, a theory, etc.",
@@ -69371,7 +70015,9 @@
             "cf": "",
             "x": "The evidence is not detailed enough to sustain his argument."
           }
-        ]
+        ],
+        "short_meaning_vi": "cung cấp bằng chứng",
+        "definition_vi": "cung cấp bằng chứng để hỗ trợ một ý kiến, một lý thuyết, v.v."
       },
       {
         "definition": "to support a weight without breaking or falling",
@@ -69380,7 +70026,9 @@
             "cf": "",
             "x": "The ice will not sustain your weight."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu lực",
+        "definition_vi": "chịu một trọng lượng mà không bị gãy hoặc đổ"
       },
       {
         "definition": "to decide that a claim, etc. is true or legally valid",
@@ -69393,7 +70041,9 @@
             "cf": "",
             "x": "Objection sustained! (= said by a judge when a lawyer makes an objection in court)"
           }
-        ]
+        ],
+        "short_meaning_vi": "xác nhận tính hợp lệ",
+        "definition_vi": "quyết định rằng một yêu cầu, v.v. là đúng hoặc có giá trị pháp lý"
       }
     ]
   },
@@ -69420,7 +70070,9 @@
             "cf": "",
             "x": "This type of farming is simply not sustainable any more."
           }
-        ]
+        ],
+        "short_meaning_vi": "bền vững",
+        "definition_vi": "liên quan đến việc sử dụng các sản phẩm tự nhiên và năng lượng theo cách không gây hại cho môi trường"
       },
       {
         "definition": "that can continue or be continued for a long time",
@@ -69433,7 +70085,9 @@
             "cf": "",
             "x": "Unfortunately, this level of output is not sustainable."
           }
-        ]
+        ],
+        "short_meaning_vi": "bền vững",
+        "definition_vi": "có thể tiếp tục hoặc được tiếp tục trong một thời gian dài"
       }
     ]
   },
@@ -69460,7 +70114,9 @@
             "cf": "swallow something + adj.",
             "x": "The pills should be swallowed whole."
           }
-        ]
+        ],
+        "short_meaning_vi": "nuốt",
+        "definition_vi": "làm cho thức ăn, đồ uống, v.v. đi xuống cổ họng của bạn vào dạ dày"
       },
       {
         "definition": "to move the muscles of your throat as if you were swallowing something, especially because you are nervous",
@@ -69469,7 +70125,9 @@
             "cf": "",
             "x": "She swallowed hard and told him the bad news."
           }
-        ]
+        ],
+        "short_meaning_vi": "nuốt nước bọt",
+        "definition_vi": "di chuyển các cơ ở cổ họng như thể bạn đang nuốt thứ gì đó, đặc biệt là vì bạn lo lắng"
       },
       {
         "definition": "to take somebody/something in or completely cover them/it so that they/it cannot be seen or exist separately any longer",
@@ -69482,7 +70140,9 @@
             "cf": "swallow somebody/something up",
             "x": "Large areas of countryside have been swallowed up by towns."
           }
-        ]
+        ],
+        "short_meaning_vi": "nuốt chửng",
+        "definition_vi": "tiếp nhận ai đó/thứ gì đó hoặc bao phủ hoàn toàn họ/nó đến mức họ/nó không thể nhìn thấy hoặc tồn tại riêng biệt nữa"
       },
       {
         "definition": "to use up something completely, especially an amount of money",
@@ -69491,7 +70151,9 @@
             "cf": "",
             "x": "Most of my salary gets swallowed (up) by the rent and bills."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiêu thụ",
+        "definition_vi": "sử dụng hết thứ gì đó, đặc biệt là một lượng tiền"
       },
       {
         "definition": "to accept that something is true; to believe something",
@@ -69504,7 +70166,9 @@
             "cf": "swallow something + adj.",
             "x": "He told her a pack of lies, but she swallowed it whole."
           }
-        ]
+        ],
+        "short_meaning_vi": "chấp nhận",
+        "definition_vi": "chấp nhận rằng điều gì đó là đúng; tin vào điều gì đó"
       },
       {
         "definition": "to hide your feelings",
@@ -69517,7 +70181,9 @@
             "cf": "",
             "x": "You're going to have to swallow your pride and ask for your job back."
           }
-        ]
+        ],
+        "short_meaning_vi": "giấu giếm cảm xúc",
+        "definition_vi": "giấu giếm cảm xúc của bạn"
       },
       {
         "definition": "to accept offensive remarks, criticisms, etc. without complaining or protesting",
@@ -69526,7 +70192,9 @@
             "cf": "",
             "x": "I was surprised that he just sat there and swallowed all their remarks."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu đựng",
+        "definition_vi": "chấp nhận những lời nhận xét, chỉ trích, v.v. xúc phạm mà không phàn nàn hoặc phản đối"
       },
       {
         "definition": "a fact or an event that is unpleasant and difficult to accept",
@@ -69535,7 +70203,9 @@
             "cf": "",
             "x": "The election defeat was a bitter pill for the party to swallow."
           }
-        ]
+        ],
+        "short_meaning_vi": "điều khó chấp nhận",
+        "definition_vi": "một sự thật hoặc một sự kiện khó chịu và khó chấp nhận"
       },
       {
         "definition": "very pleased with yourself",
@@ -69544,7 +70214,9 @@
             "cf": "",
             "x": "She looked like the cat that’s swallowed the canary. She was almost purring with pleasure."
           }
-        ]
+        ],
+        "short_meaning_vi": "tự mãn",
+        "definition_vi": "rất hài lòng về bản thân"
       }
     ]
   },
@@ -69579,7 +70251,9 @@
             "cf": "swear at somebody/something",
             "x": "Why did you let him swear at you like that?"
           }
-        ]
+        ],
+        "short_meaning_vi": "chửi thề",
+        "definition_vi": "sử dụng ngôn ngữ thô tục hoặc xúc phạm, thường là vì bạn đang tức giận"
       },
       {
         "definition": "to make a serious promise to do something",
@@ -69608,7 +70282,9 @@
             "cf": "",
             "x": "He left, swearing never to return."
           }
-        ]
+        ],
+        "short_meaning_vi": "thề",
+        "definition_vi": "đưa ra một lời hứa nghiêm túc để làm điều gì đó"
       },
       {
         "definition": "to promise that you are telling the truth",
@@ -69625,7 +70301,9 @@
             "cf": "swear to somebody/on something (that)…",
             "x": "I swear to God I had nothing to do with it."
           }
-        ]
+        ],
+        "short_meaning_vi": "thề sống thề chết",
+        "definition_vi": "hứa rằng bạn đang nói sự thật"
       },
       {
         "definition": "to make a public or official promise, especially in court",
@@ -69654,7 +70332,9 @@
             "cf": "",
             "x": "They refused to swear allegiance to the new ruler."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyên thệ",
+        "definition_vi": "đưa ra một lời hứa công khai hoặc chính thức, đặc biệt là tại tòa"
       },
       {
         "definition": "to make somebody promise not to tell something to anyone",
@@ -69663,7 +70343,9 @@
             "cf": "",
             "x": "Everyone was sworn to secrecy about what had happened."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm cho thề",
+        "definition_vi": "yêu cầu ai đó hứa không nói điều gì đó cho bất kỳ ai"
       },
       {
         "definition": "to say that something is definitely true",
@@ -69676,11 +70358,15 @@
             "cf": "",
             "x": "He swore blind that you knew all about it."
           }
-        ]
+        ],
+        "short_meaning_vi": "khẳng định",
+        "definition_vi": "nói rằng điều gì đó là chắc chắn đúng"
       },
       {
         "definition": "to often use very rude or offensive language",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "hay chửi thề",
+        "definition_vi": "thường xuyên sử dụng ngôn ngữ rất thô tục hoặc xúc phạm"
       }
     ]
   },
@@ -69711,7 +70397,9 @@
             "cf": "",
             "x": "a grey merino wool turtleneck sweater"
           }
-        ]
+        ],
+        "short_meaning_vi": "áo len",
+        "definition_vi": "một món quần áo cho phần thân trên, làm bằng len hoặc cotton, có tay dài"
       }
     ]
   },
@@ -69746,7 +70434,9 @@
             "cf": "sweep something + adj.",
             "x": "The showroom had been emptied and swept clean."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét nhà",
+        "definition_vi": "làm sạch một căn phòng, bề mặt, v.v. bằng chổi (= một loại bàn chải có cán dài)"
       },
       {
         "definition": "to remove something from a surface using a brush, your hand, etc.",
@@ -69763,7 +70453,9 @@
             "cf": "",
             "x": "She swept the clothes onto the floor and invited him to sit down."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét sạch",
+        "definition_vi": "loại bỏ thứ gì đó khỏi bề mặt bằng bàn chải, tay, v.v."
       },
       {
         "definition": "to move or push somebody/something suddenly and with a lot of force",
@@ -69780,7 +70472,9 @@
             "cf": "",
             "x": "She let herself be swept along by the crowd."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét",
+        "definition_vi": "di chuyển hoặc đẩy ai đó/thứ gì đó đột ngột và với rất nhiều lực"
       },
       {
         "definition": "to move suddenly and/or with force over an area or in a particular direction",
@@ -69797,7 +70491,9 @@
             "cf": "sweep something",
             "x": "Strong winds regularly sweep the islands."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét qua",
+        "definition_vi": "di chuyển đột ngột và/hoặc mạnh mẽ qua một khu vực hoặc theo một hướng cụ thể"
       },
       {
         "definition": "to move quickly and/or smoothly, especially in a way that impresses or is intended to impress other people",
@@ -69822,7 +70518,9 @@
             "cf": "",
             "x": "He swept into the lead with an almost perfect performance."
           }
-        ]
+        ],
+        "short_meaning_vi": "lướt qua",
+        "definition_vi": "di chuyển nhanh chóng và/hoặc mượt mà, đặc biệt là theo cách gây ấn tượng hoặc nhằm mục đích gây ấn tượng với người khác"
       },
       {
         "definition": "to move something, especially your hand or arm, quickly and smoothly in a particular direction",
@@ -69831,7 +70529,9 @@
             "cf": "",
             "x": "He rushed to greet her, sweeping his arms wide."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét tay",
+        "definition_vi": "di chuyển thứ gì đó, đặc biệt là tay hoặc cánh tay của bạn, nhanh chóng và mượt mà theo một hướng cụ thể"
       },
       {
         "definition": "to suddenly affect somebody strongly",
@@ -69844,7 +70544,9 @@
             "cf": "",
             "x": "Memories came sweeping back."
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh hưởng mạnh",
+        "definition_vi": "ảnh hưởng mạnh mẽ đến ai đó một cách đột ngột"
       },
       {
         "definition": "to spread quickly",
@@ -69857,7 +70559,9 @@
             "cf": "sweep something",
             "x": "the latest craze sweeping the nation"
           }
-        ]
+        ],
+        "short_meaning_vi": "lan rộng nhanh chóng",
+        "definition_vi": "lan nhanh"
       },
       {
         "definition": "to move over an area, especially in order to look for something",
@@ -69878,7 +70582,9 @@
             "cf": "",
             "x": "She swept the crowd with her binoculars."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét tìm",
+        "definition_vi": "di chuyển qua một khu vực, đặc biệt là để tìm kiếm thứ gì đó"
       },
       {
         "definition": "to move, or move something, over a surface, touching it lightly",
@@ -69887,7 +70593,9 @@
             "cf": "",
             "x": "Her dress swept the ground as she walked."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét nhẹ",
+        "definition_vi": "di chuyển, hoặc di chuyển thứ gì đó, qua một bề mặt, chạm nhẹ vào nó"
       },
       {
         "definition": "to brush, comb, etc. your hair in a particular direction",
@@ -69896,7 +70604,9 @@
             "cf": "",
             "x": "Her hair was swept back from her face."
           }
-        ]
+        ],
+        "short_meaning_vi": "chải tóc",
+        "definition_vi": "chải, lược, v.v. tóc của bạn theo một hướng cụ thể"
       },
       {
         "definition": "to form a long, smooth curve",
@@ -69905,7 +70615,9 @@
             "cf": "",
             "x": "The hotel gardens sweep down to the beach."
           }
-        ]
+        ],
+        "short_meaning_vi": "uốn cong",
+        "definition_vi": "tạo thành một đường cong dài, mượt mà"
       },
       {
         "definition": "to win all the games in a series of games against another team or all the parts of a contest",
@@ -69918,11 +70630,15 @@
             "cf": "",
             "x": "New Jersey swept Detroit last season."
           }
-        ]
+        ],
+        "short_meaning_vi": "thắng tất cả",
+        "definition_vi": "thắng tất cả các trận đấu trong một loạt trận đấu với đội khác hoặc tất cả các phần của một cuộc thi"
       },
       {
         "definition": "to win all the prizes, etc. in a competition",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giành tất cả giải thưởng",
+        "definition_vi": "thắng tất cả các giải thưởng, v.v. trong một cuộc thi"
       },
       {
         "definition": "to make somebody fall suddenly and deeply in love with you",
@@ -69931,11 +70647,15 @@
             "cf": "",
             "x": "She’s waiting for some hero to come and sweep her off her feet."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm say đắm",
+        "definition_vi": "làm cho ai đó đột ngột và sâu sắc yêu bạn"
       },
       {
         "definition": "to win an election by a large number of votes; to make somebody win an election with a large number of votes",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thắng áp đảo",
+        "definition_vi": "thắng một cuộc bầu cử với số phiếu lớn; làm cho ai đó thắng một cuộc bầu cử với số phiếu lớn"
       },
       {
         "definition": "to win a contest easily",
@@ -69944,7 +70664,9 @@
             "cf": "",
             "x": "Macron swept to victory in 2017."
           }
-        ]
+        ],
+        "short_meaning_vi": "thắng dễ dàng",
+        "definition_vi": "thắng một cuộc thi một cách dễ dàng"
       },
       {
         "definition": "to try to stop people from finding out about something wrong, illegal, embarrassing, etc. that has happened or that you have done",
@@ -69953,7 +70675,9 @@
             "cf": "",
             "x": "An earlier report, implicating the government, had been conveniently swept under the carpet."
           }
-        ]
+        ],
+        "short_meaning_vi": "che giấu",
+        "definition_vi": "cố gắng ngăn mọi người phát hiện ra điều gì đó sai trái, bất hợp pháp, đáng xấu hổ, v.v. đã xảy ra hoặc bạn đã làm"
       }
     ]
   },
@@ -69996,7 +70720,9 @@
             "cf": "",
             "x": "I found the dessert a bit sweet for my taste."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngọt",
+        "definition_vi": "chứa, hoặc có vị như thể chứa, nhiều đường"
       },
       {
         "definition": "having a pleasant smell",
@@ -70009,7 +70735,9 @@
             "cf": "",
             "x": "The air was sweet with incense."
           }
-        ]
+        ],
+        "short_meaning_vi": "thơm",
+        "definition_vi": "có mùi dễ chịu"
       },
       {
         "definition": "having a pleasant sound",
@@ -70018,7 +70746,9 @@
             "cf": "",
             "x": "a sweet voice"
           }
-        ]
+        ],
+        "short_meaning_vi": "du dương",
+        "definition_vi": "có âm thanh dễ chịu"
       },
       {
         "definition": "pleasant and not containing any harmful substances",
@@ -70027,7 +70757,9 @@
             "cf": "",
             "x": "the sweet air of a mountain village"
           }
-        ]
+        ],
+        "short_meaning_vi": "lành tính",
+        "definition_vi": "dễ chịu và không chứa bất kỳ chất độc hại nào"
       },
       {
         "definition": "making you feel happy and/or satisfied",
@@ -70048,7 +70780,9 @@
             "cf": "",
             "x": "an act of sweet revenge"
           }
-        ]
+        ],
+        "short_meaning_vi": "hài lòng",
+        "definition_vi": "làm cho bạn cảm thấy hạnh phúc và/hoặc hài lòng"
       },
       {
         "definition": "attractive",
@@ -70065,7 +70799,9 @@
             "cf": "",
             "x": "We stayed in a sweet little hotel on the seafront."
           }
-        ]
+        ],
+        "short_meaning_vi": "hấp dẫn",
+        "definition_vi": "hấp dẫn"
       },
       {
         "definition": "having or showing a kind character",
@@ -70086,7 +70822,9 @@
             "cf": "",
             "x": "He’s not what you’d call sweet-tempered!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tốt bụng",
+        "definition_vi": "có hoặc thể hiện một tính cách tốt bụng"
       },
       {
         "definition": "used to show that you approve of something",
@@ -70095,19 +70833,27 @@
             "cf": "",
             "x": "Free tickets? Sweet!"
           }
-        ]
+        ],
+        "short_meaning_vi": "tán thành",
+        "definition_vi": "được sử dụng để thể hiện sự tán thành của bạn đối với điều gì đó"
       },
       {
         "definition": "to like somebody very much in a romantic way",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thích (lãng mạn)",
+        "definition_vi": "rất thích ai đó theo cách lãng mạn"
       },
       {
         "definition": "to like food that contains a lot of sugar",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thích đồ ngọt",
+        "definition_vi": "thích đồ ăn chứa nhiều đường"
       },
       {
         "definition": "used to say how pleasant your home is (especially when you really mean that it is not pleasant at all)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhà cửa (mỉa mai)",
+        "definition_vi": "nói về sự dễ chịu của nhà bạn (đặc biệt khi bạn thực sự có ý rằng nó không dễ chịu chút nào)"
       },
       {
         "definition": "how and when you want to, even though this might annoy other people",
@@ -70120,7 +70866,9 @@
             "cf": "",
             "x": "She just ignores all the criticism and continues in her own sweet way."
           }
-        ]
+        ],
+        "short_meaning_vi": "tùy thích",
+        "definition_vi": "một cách tùy thích, ngay cả khi điều đó có thể làm phiền người khác"
       },
       {
         "definition": "to say or do pleasant things in order to keep somebody in a good mood so that they will agree to do something for you",
@@ -70129,15 +70877,21 @@
             "cf": "",
             "x": "You’d better keep her sweet if you want her to lend you the money."
           }
-        ]
+        ],
+        "short_meaning_vi": "lấy lòng",
+        "definition_vi": "nói hoặc làm những điều dễ chịu để giữ tâm trạng tốt của ai đó để họ đồng ý làm điều gì đó cho bạn"
       },
       {
         "definition": "what is important is what people or things are, not what they are called",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bản chất quan trọng hơn tên gọi",
+        "definition_vi": "điều quan trọng là con người hoặc sự vật là gì, không phải tên gọi của chúng"
       },
       {
         "definition": "everything is all right",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ổn thỏa",
+        "definition_vi": "mọi thứ đều ổn"
       },
       {
         "definition": "pleasant but not lasting a long time",
@@ -70146,11 +70900,15 @@
             "cf": "",
             "x": "We haven't much time so I'll keep it short and sweet."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngắn ngủi",
+        "definition_vi": "dễ chịu nhưng không kéo dài lâu"
       },
       {
         "definition": "nothing at all. People say ‘sweet FA’ to avoid saying ‘fuck all’.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không có gì cả",
+        "definition_vi": "không có gì cả. Người ta nói 'sweet FA' để tránh nói 'fuck all'."
       },
       {
         "definition": "romantic words",
@@ -70159,11 +70917,15 @@
             "cf": "",
             "x": "to whisper sweet nothings in somebody’s ear"
           }
-        ]
+        ],
+        "short_meaning_vi": "lời lẽ lãng mạn",
+        "definition_vi": "những lời lẽ lãng mạn"
       },
       {
         "definition": "the pleasant feeling of being successful",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "niềm vui chiến thắng",
+        "definition_vi": "cảm giác dễ chịu khi thành công"
       }
     ]
   },
@@ -70186,7 +70948,9 @@
             "cf": "",
             "x": "a sweet shop"
           }
-        ]
+        ],
+        "short_meaning_vi": "kẹo",
+        "definition_vi": "một miếng đồ ăn ngọt nhỏ, thường làm bằng đường và/hoặc sô cô la và ăn giữa các bữa ăn"
       },
       {
         "definition": "a sweet dish eaten at the end of a meal",
@@ -70199,7 +70963,9 @@
             "cf": "",
             "x": "Would you like some more sweet?"
           }
-        ]
+        ],
+        "short_meaning_vi": "món tráng miệng",
+        "definition_vi": "một món ngọt ăn vào cuối bữa ăn"
       },
       {
         "definition": "a way of addressing somebody that you like or love",
@@ -70208,7 +70974,9 @@
             "cf": "",
             "x": "Don't you worry, my sweet."
           }
-        ]
+        ],
+        "short_meaning_vi": "cưng à",
+        "definition_vi": "một cách gọi ai đó mà bạn thích hoặc yêu"
       }
     ]
   },
@@ -70239,7 +71007,9 @@
             "cf": "",
             "x": "a sponsored swim"
           }
-        ]
+        ],
+        "short_meaning_vi": "lượt bơi",
+        "definition_vi": "một khoảng thời gian bạn bơi"
       },
       {
         "definition": "(in compounds) related to or used for swimming",
@@ -70252,7 +71022,9 @@
             "cf": "",
             "x": "swim trunks"
           }
-        ]
+        ],
+        "short_meaning_vi": "liên quan đến bơi lội",
+        "definition_vi": "(trong các hợp chất) liên quan đến hoặc dùng để bơi"
       },
       {
         "definition": "involved in things that are happening in society or in a particular situation",
@@ -70261,7 +71033,9 @@
             "cf": "",
             "x": "Since leaving the company, he’s no longer in the swim of things."
           }
-        ]
+        ],
+        "short_meaning_vi": "hòa mình vào",
+        "definition_vi": "tham gia vào những gì đang xảy ra trong xã hội hoặc trong một tình huống cụ thể"
       }
     ]
   },
@@ -70312,7 +71086,9 @@
             "cf": "",
             "x": "How long will it take her to swim the Channel?"
           }
-        ]
+        ],
+        "short_meaning_vi": "bơi",
+        "definition_vi": "di chuyển trong nước bằng cách cử động tay chân, không chạm đáy"
       },
       {
         "definition": "to spend time swimming for pleasure",
@@ -70325,7 +71101,9 @@
             "cf": "",
             "x": "We always went swimming together in our indoor pool."
           }
-        ]
+        ],
+        "short_meaning_vi": "tắm",
+        "definition_vi": "dành thời gian bơi để giải trí"
       },
       {
         "definition": "to move through or across water",
@@ -70346,7 +71124,9 @@
             "cf": "",
             "x": "A beaver swam vigorously upstream."
           }
-        ]
+        ],
+        "short_meaning_vi": "bơi qua",
+        "definition_vi": "di chuyển qua hoặc ngang qua nước"
       },
       {
         "definition": "to be covered with a lot of liquid",
@@ -70359,7 +71139,9 @@
             "cf": "swim (with something)",
             "x": "Her eyes were swimming with tears."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngập nước",
+        "definition_vi": "bị bao phủ bởi nhiều chất lỏng"
       },
       {
         "definition": "to seem to be moving around, especially when you are ill or drunk",
@@ -70368,7 +71150,9 @@
             "cf": "",
             "x": "The pages swam before her eyes."
           }
-        ]
+        ],
+        "short_meaning_vi": "quay cuồng",
+        "definition_vi": "có vẻ như đang di chuyển xung quanh, đặc biệt là khi bạn bị ốm hoặc say rượu"
       },
       {
         "definition": "to feel confused and/or as if everything is turning round and round",
@@ -70377,7 +71161,9 @@
             "cf": "",
             "x": "His head swam and he swayed dizzily."
           }
-        ]
+        ],
+        "short_meaning_vi": "choáng váng",
+        "definition_vi": "cảm thấy bối rối và/hoặc như thể mọi thứ đang quay cuồng"
       },
       {
         "definition": "to be in a situation where you will either succeed by your own efforts or fail completely",
@@ -70390,7 +71176,9 @@
             "cf": "",
             "x": "In a situation like this, you either sink or swim."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành bại do mình",
+        "definition_vi": "ở trong một tình huống mà bạn sẽ thành công bằng nỗ lực của mình hoặc thất bại hoàn toàn"
       }
     ]
   },
@@ -70409,7 +71197,9 @@
             "cf": "",
             "x": "Swimming is a good form of exercise."
           }
-        ]
+        ],
+        "short_meaning_vi": "môn bơi lội",
+        "definition_vi": "môn thể thao hoặc hoạt động bơi lội"
       }
     ]
   },
@@ -70432,7 +71222,9 @@
             "cf": "",
             "x": "the swing of her hips"
           }
-        ]
+        ],
+        "short_meaning_vi": "dao động",
+        "definition_vi": "một chuyển động hoặc nhịp điệu đu đưa"
       },
       {
         "definition": "a change from one opinion or situation to another; the amount by which something changes",
@@ -70445,7 +71237,9 @@
             "cf": "",
             "x": "There are indications of a swing towards nuclear power."
           }
-        ]
+        ],
+        "short_meaning_vi": "biến động",
+        "definition_vi": "sự thay đổi từ ý kiến hoặc tình huống này sang tình huống khác; mức độ thay đổi của một cái gì đó"
       },
       {
         "definition": "a seat for swinging on, hung from above on ropes or chains",
@@ -70458,7 +71252,9 @@
             "cf": "",
             "x": "Her dad pushed her on the swing."
           }
-        ]
+        ],
+        "short_meaning_vi": "xích đu",
+        "definition_vi": "một chỗ ngồi để đu, được treo từ trên cao bằng dây hoặc xích"
       },
       {
         "definition": "the swinging movement you make with your arms and body when you hit the ball in the game of golf ",
@@ -70467,11 +71263,15 @@
             "cf": "",
             "x": "I need to work on my swing."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đánh golf",
+        "definition_vi": "chuyển động đu đưa bạn thực hiện bằng tay và cơ thể khi đánh bóng trong môn golf"
       },
       {
         "definition": "a type of jazz with a smooth rhythm, played especially by big dance bands in the 1930s",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhạc swing",
+        "definition_vi": "một loại nhạc jazz có nhịp điệu mượt mà, đặc biệt được chơi bởi các ban nhạc khiêu vũ lớn vào những năm 1930"
       },
       {
         "definition": "a quick journey, especially one made by a politician, in which somebody visits several different places in a short time",
@@ -70480,7 +71280,9 @@
             "cf": "",
             "x": "a three-day campaign swing through California"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyến đi",
+        "definition_vi": "một chuyến đi nhanh, đặc biệt là chuyến đi của một chính trị gia, trong đó người đó đến thăm nhiều nơi khác nhau trong một thời gian ngắn"
       },
       {
         "definition": "to get used to an activity or a situation and become fully involved in it",
@@ -70489,7 +71291,9 @@
             "cf": "",
             "x": "I’ve only been here a week so I haven’t got into the swing of things yet."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm quen",
+        "definition_vi": "làm quen với một hoạt động hoặc một tình huống và trở nên hoàn toàn tham gia vào nó"
       },
       {
         "definition": "to be lively and fun",
@@ -70498,11 +71302,15 @@
             "cf": "",
             "x": "She made the whole party go with a swing."
           }
-        ]
+        ],
+        "short_meaning_vi": "sôi động",
+        "definition_vi": "trở nên sôi nổi và vui vẻ"
       },
       {
         "definition": "to have a strong rhythm",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhịp điệu mạnh",
+        "definition_vi": "có một nhịp điệu mạnh mẽ"
       },
       {
         "definition": "having reached a very lively level",
@@ -70511,7 +71319,9 @@
             "cf": "",
             "x": "When we arrived the party was already in full swing."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất sôi động",
+        "definition_vi": "đã đạt đến một mức độ rất sôi nổi"
       },
       {
         "definition": "used to say that there are advantages and disadvantages whatever decision you make",
@@ -70524,7 +71334,9 @@
             "cf": "",
             "x": "What you gain on the swings you may lose on the roundabouts."
           }
-        ]
+        ],
+        "short_meaning_vi": "hai mặt",
+        "definition_vi": "được sử dụng để nói rằng có những ưu và nhược điểm bất kể quyết định nào bạn đưa ra"
       }
     ]
   },
@@ -70555,7 +71367,9 @@
             "cf": "swing something",
             "x": "He sat on the stool, swinging his legs."
           }
-        ]
+        ],
+        "short_meaning_vi": "đu đưa",
+        "definition_vi": "di chuyển tới lui hoặc từ bên này sang bên kia khi treo vào một điểm cố định; làm cho cái gì đó di chuyển như vậy"
       },
       {
         "definition": "to move from one place to another by holding something that is fixed and pulling yourself along, up, etc.",
@@ -70568,7 +71382,9 @@
             "cf": "swing yourself + adv./prep.",
             "x": "He swung himself out of the car."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt qua",
+        "definition_vi": "di chuyển từ nơi này sang nơi khác bằng cách nắm lấy thứ gì đó cố định và kéo mình đi, lên, v.v."
       },
       {
         "definition": "to move or make something move with a wide curved movement",
@@ -70593,7 +71409,9 @@
             "cf": "swing something + adj.",
             "x": "She swung the door open."
           }
-        ]
+        ],
+        "short_meaning_vi": "quét",
+        "definition_vi": "di chuyển hoặc làm cho cái gì đó di chuyển với một chuyển động cong rộng"
       },
       {
         "definition": "to change or make somebody/something change from one opinion, mood, etc. to another",
@@ -70614,7 +71432,9 @@
             "cf": "swing somebody/something (to something)",
             "x": "I managed to swing them round to my point of view."
           }
-        ]
+        ],
+        "short_meaning_vi": "thay đổi quan điểm",
+        "definition_vi": "thay đổi hoặc làm cho ai đó/cái gì đó thay đổi từ ý kiến, tâm trạng này sang ý kiến, tâm trạng khác"
       },
       {
         "definition": "to turn or change direction suddenly; to make something do this",
@@ -70631,7 +71451,9 @@
             "cf": "swing something + adv./prep.",
             "x": "He swung the camera around to face the opposite direction."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyển hướng",
+        "definition_vi": "quay hoặc thay đổi hướng đột ngột; làm cho cái gì đó làm như vậy"
       },
       {
         "definition": "to try to hit somebody/something",
@@ -70644,7 +71466,9 @@
             "cf": "swing something (at somebody/something)",
             "x": "He swung another punch in my direction."
           }
-        ]
+        ],
+        "short_meaning_vi": "cố gắng đánh",
+        "definition_vi": "cố gắng đánh ai đó/cái gì đó"
       },
       {
         "definition": "to succeed in getting or achieving something, sometimes in a slightly dishonest way",
@@ -70657,19 +71481,27 @@
             "cf": "swing somebody something",
             "x": "Is there any chance of you swinging us a couple of tickets?"
           }
-        ]
+        ],
+        "short_meaning_vi": "đạt được",
+        "definition_vi": "thành công trong việc có được hoặc đạt được điều gì đó, đôi khi bằng một cách hơi không trung thực"
       },
       {
         "definition": "to have a strong rhythm",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhịp điệu mạnh",
+        "definition_vi": "có một nhịp điệu mạnh mẽ"
       },
       {
         "definition": "if a party, etc. is swinging, there are a lot of people there having a good time",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "sôi động",
+        "definition_vi": "khi một bữa tiệc, v.v. đang sôi động, có rất nhiều người đang vui vẻ"
       },
       {
         "definition": "when somebody says there’s no room to swing a cat, they mean that a room is very small and that there is not enough space",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "chật chội",
+        "definition_vi": "khi ai đó nói rằng không có chỗ để đu mèo, họ có nghĩa là căn phòng rất nhỏ và không có đủ không gian"
       },
       {
         "definition": "to affect the result of something in one way rather than another",
@@ -70682,11 +71514,15 @@
             "cf": "",
             "x": "New evidence swung the balance against the prosecution."
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh hưởng",
+        "definition_vi": "ảnh hưởng đến kết quả của một điều gì đó theo cách này hay cách khác"
       },
       {
         "definition": "to be bisexual (= sexually attracted to both men and women)",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "song tính",
+        "definition_vi": "là người song tính (= bị hấp dẫn tình dục bởi cả nam và nữ)"
       },
       {
         "definition": "to really try to achieve something great, even when it is not reasonable to expect to be so successful",
@@ -70699,7 +71535,9 @@
             "cf": "",
             "x": "Investors need to manage risk and not swing for the fences."
           }
-        ]
+        ],
+        "short_meaning_vi": "cố gắng hết sức",
+        "definition_vi": "thực sự cố gắng đạt được điều gì đó lớn lao, ngay cả khi không hợp lý để mong đợi thành công như vậy"
       },
       {
         "definition": "to start doing something quickly and with a lot of energy",
@@ -70716,7 +71554,9 @@
             "cf": "",
             "x": "The emergency services swung into action as soon as the disaster was reported."
           }
-        ]
+        ],
+        "short_meaning_vi": "bắt đầu nhanh",
+        "definition_vi": "bắt đầu làm điều gì đó nhanh chóng và với nhiều năng lượng"
       },
       {
         "definition": "to pretend to be ill when in fact you are not, especially to avoid work",
@@ -70725,7 +71565,9 @@
             "cf": "",
             "x": "I don't think there's anything wrong with her—she's just swinging the lead."
           }
-        ]
+        ],
+        "short_meaning_vi": "giả vờ ốm",
+        "definition_vi": "giả vờ bị ốm trong khi thực tế là không, đặc biệt là để tránh công việc"
       }
     ]
   },
@@ -70768,7 +71610,9 @@
             "cf": "",
             "x": "That was in the days before electricity was available at the flick of a switch (= by simply pressing a switch)."
           }
-        ]
+        ],
+        "short_meaning_vi": "công tắc",
+        "definition_vi": "một thiết bị nhỏ mà bạn nhấn hoặc di chuyển lên xuống để bật hoặc tắt đèn hoặc thiết bị điện"
       },
       {
         "definition": "a change from one thing to another, especially when this is sudden and complete",
@@ -70785,15 +71629,21 @@
             "cf": "switch from A to B",
             "x": "She made the switch from full-time to part-time work when her first child was born."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự thay đổi",
+        "definition_vi": "sự thay đổi từ cái này sang cái khác, đặc biệt là khi nó đột ngột và hoàn toàn"
       },
       {
         "definition": "the points on a railway line",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đường ray",
+        "definition_vi": "các điểm trên đường ray xe lửa"
       },
       {
         "definition": "a thin stick that bends easily",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cành cây",
+        "definition_vi": "một cây gậy mỏng dễ uốn cong"
       },
       {
         "definition": "not paying enough attention to what you need to do",
@@ -70810,7 +71660,9 @@
             "cf": "",
             "x": "Let's hope the regulators are not asleep at the wheel."
           }
-        ]
+        ],
+        "short_meaning_vi": "lơ đễnh",
+        "definition_vi": "không chú ý đủ đến những gì bạn cần làm"
       }
     ]
   },
@@ -70873,7 +71725,9 @@
             "cf": "switch something",
             "x": "He switched sides halfway through the debate."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyển đổi",
+        "definition_vi": "thay đổi hoặc làm cho cái gì đó thay đổi từ cái này sang cái khác"
       },
       {
         "definition": "to exchange one thing for another",
@@ -70894,7 +71748,9 @@
             "cf": "",
             "x": "We asked them if they would switch places with us."
           }
-        ]
+        ],
+        "short_meaning_vi": "trao đổi",
+        "definition_vi": "trao đổi cái này lấy cái khác"
       },
       {
         "definition": "to do somebody else’s job for a short time or work during different hours so that they can do your job or work during your usual hours",
@@ -70911,7 +71767,9 @@
             "cf": "switch (something) (over/around/round)",
             "x": "Can we switch our shifts around?"
           }
-        ]
+        ],
+        "short_meaning_vi": "làm thay",
+        "definition_vi": "làm công việc của người khác trong một thời gian ngắn hoặc làm việc vào những giờ khác để họ có thể làm công việc của bạn hoặc làm việc vào giờ làm việc thông thường của bạn"
       }
     ]
   },
@@ -70930,7 +71788,9 @@
             "cf": "",
             "x": "to draw/sheathe a sword (= to take it out of/put it into its cover)"
           }
-        ]
+        ],
+        "short_meaning_vi": "thanh kiếm",
+        "definition_vi": "một vũ khí có lưỡi kim loại dài (= phần cắt sắc bén) và tay cầm"
       },
       {
         "definition": "to be something that has both advantages and disadvantages",
@@ -70939,15 +71799,21 @@
             "cf": "",
             "x": "Fame is a double-edged sword."
           }
-        ]
+        ],
+        "short_meaning_vi": "có hai mặt",
+        "definition_vi": "là một thứ gì đó có cả ưu điểm và nhược điểm"
       },
       {
         "definition": "to fight or argue with somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tranh cãi",
+        "definition_vi": "chiến đấu hoặc tranh cãi với ai đó"
       },
       {
         "definition": "people who write books, poems, etc. have a greater effect on history and human affairs than soldiers and wars",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bút hơn kiếm",
+        "definition_vi": "những người viết sách, thơ, v.v. có ảnh hưởng lớn hơn đến lịch sử và các vấn đề của con người so với binh lính và chiến tranh"
       },
       {
         "definition": "to kill somebody with a sword",
@@ -70956,15 +71822,21 @@
             "cf": "",
             "x": "All the men were put to the sword."
           }
-        ]
+        ],
+        "short_meaning_vi": "giết bằng kiếm",
+        "definition_vi": "giết ai đó bằng kiếm"
       },
       {
         "definition": "a bad or unpleasant thing that might happen to you at any time and that makes you feel worried or frightened",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "điều tồi tệ",
+        "definition_vi": "một điều tồi tệ hoặc khó chịu có thể xảy ra với bạn bất cứ lúc nào và khiến bạn lo lắng hoặc sợ hãi"
       },
       {
         "definition": "to stop fighting and return to peaceful activities",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngừng chiến đấu",
+        "definition_vi": "ngừng chiến đấu và quay trở lại các hoạt động hòa bình"
       }
     ]
   },
@@ -70991,7 +71863,9 @@
             "cf": "",
             "x": "Mandela became a symbol of the anti-apartheid struggle."
           }
-        ]
+        ],
+        "short_meaning_vi": "biểu tượng",
+        "definition_vi": "một người, một đồ vật, một sự kiện, v.v. đại diện cho một phẩm chất hoặc tình huống chung hơn"
       },
       {
         "definition": "a sign, number, letter, etc. that has a fixed meaning, especially in science, mathematics and music",
@@ -71004,7 +71878,9 @@
             "cf": "",
             "x": "Hotels that display this symbol offer activities for children."
           }
-        ]
+        ],
+        "short_meaning_vi": "ký hiệu",
+        "definition_vi": "một dấu hiệu, số, chữ cái, v.v. có ý nghĩa cố định, đặc biệt trong khoa học, toán học và âm nhạc"
       }
     ]
   },
@@ -71035,7 +71911,9 @@
             "cf": "symbolic of something",
             "x": "The dove is symbolic of peace."
           }
-        ]
+        ],
+        "short_meaning_vi": "tượng trưng",
+        "definition_vi": "chứa các biểu tượng, hoặc được sử dụng như một biểu tượng"
       }
     ]
   },
@@ -71070,7 +71948,9 @@
             "cf": "",
             "x": "I'm here if you need a sympathetic ear (= somebody to talk to about your problems)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng cảm",
+        "definition_vi": "tốt bụng với ai đó đang bị tổn thương hoặc buồn; thể hiện rằng bạn hiểu và quan tâm đến vấn đề của họ"
       },
       {
         "definition": "showing that you approve of somebody/something or that you share their views and are willing to support them",
@@ -71087,7 +71967,9 @@
             "cf": "",
             "x": "Russian newspapers are largely sympathetic to the president."
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng tình",
+        "definition_vi": "thể hiện rằng bạn tán thành ai đó/điều gì đó hoặc bạn chia sẻ quan điểm của họ và sẵn sàng ủng hộ họ"
       },
       {
         "definition": "easy to like",
@@ -71104,7 +71986,9 @@
             "cf": "",
             "x": "The character's faults actually make him more sympathetic."
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ mến",
+        "definition_vi": "dễ được yêu thích"
       }
     ]
   },
@@ -71147,7 +72031,9 @@
             "cf": "",
             "x": "I would like to extend our sincere sympathies to his family at this sad time."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự cảm thông",
+        "definition_vi": "cảm giác tiếc cho ai đó; thể hiện rằng bạn hiểu và quan tâm đến vấn đề của ai đó"
       },
       {
         "definition": "the act of showing support for or approval of an idea, a cause, an organization, etc.",
@@ -71160,7 +72046,9 @@
             "cf": "",
             "x": "Her sympathies lie with the anti-abortion lobby."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự ủng hộ",
+        "definition_vi": "hành động thể hiện sự ủng hộ đối với một ý tưởng, một mục đích, một tổ chức, v.v."
       },
       {
         "definition": "friendship and understanding between people who have similar opinions or interests",
@@ -71173,7 +72061,9 @@
             "cf": "",
             "x": "He has a total lack of sympathy for young people."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự đồng cảm",
+        "definition_vi": "tình bạn và sự thấu hiểu giữa những người có ý kiến hoặc sở thích tương tự"
       },
       {
         "definition": "happening because something else has happened",
@@ -71182,11 +72072,15 @@
             "cf": "",
             "x": "Share prices slipped in sympathy with the German market."
           }
-        ]
+        ],
+        "short_meaning_vi": "xảy ra đồng thời",
+        "definition_vi": "xảy ra vì một điều gì đó khác đã xảy ra"
       },
       {
         "definition": "not agreeing with or not wanting to support somebody/something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không đồng tình",
+        "definition_vi": "không đồng ý hoặc không muốn ủng hộ ai đó/điều gì đó"
       }
     ]
   },
@@ -71221,7 +72115,9 @@
             "cf": "",
             "x": "to relieve/alleviate symptoms"
           }
-        ]
+        ],
+        "short_meaning_vi": "triệu chứng",
+        "definition_vi": "sự thay đổi trong cơ thể hoặc tâm trí bạn cho thấy bạn không khỏe mạnh"
       },
       {
         "definition": "a sign that something exists, especially something bad",
@@ -71234,7 +72130,9 @@
             "cf": "",
             "x": "Their relationship was obviously failing, but they just ignored the symptoms."
           }
-        ]
+        ],
+        "short_meaning_vi": "dấu hiệu",
+        "definition_vi": "một dấu hiệu cho thấy điều gì đó tồn tại, đặc biệt là điều gì đó xấu"
       }
     ]
   },
@@ -71261,7 +72159,9 @@
             "cf": "",
             "x": "This syndrome mostly affects women in their forties."
           }
-        ]
+        ],
+        "short_meaning_vi": "hội chứng",
+        "definition_vi": "một tập hợp các tình trạng thể chất cho thấy bạn mắc một căn bệnh hoặc vấn đề y tế cụ thể"
       },
       {
         "definition": "a set of opinions or a way of behaving that is typical of a particular type of person, attitude or social problem",
@@ -71274,7 +72174,9 @@
             "cf": "",
             "x": "This phenomenon has become known as the ‘Californian syndrome’."
           }
-        ]
+        ],
+        "short_meaning_vi": "khuynh hướng",
+        "definition_vi": "một tập hợp các ý kiến hoặc một cách hành xử điển hình cho một loại người, thái độ hoặc vấn đề xã hội cụ thể"
       }
     ]
   },
@@ -71297,7 +72199,9 @@
             "cf": "synthesis of A and B",
             "x": "a synthesis of traditional and modern values"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tổng hợp",
+        "definition_vi": "hành động kết hợp các ý tưởng, niềm tin, phong cách riêng biệt; một hỗn hợp hoặc sự kết hợp của các ý tưởng, niềm tin, phong cách, v.v."
       },
       {
         "definition": "the natural chemical production of a substance in animals and plants",
@@ -71310,7 +72214,9 @@
             "cf": "",
             "x": "the synthesis of nucleic acids"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tổng hợp hóa học",
+        "definition_vi": "sự sản xuất hóa học tự nhiên của một chất trong động vật và thực vật"
       },
       {
         "definition": "the artificial production of a substance that is present naturally in animals and plants",
@@ -71319,11 +72225,15 @@
             "cf": "",
             "x": "the synthesis of penicillin"
           }
-        ]
+        ],
+        "short_meaning_vi": "sự tổng hợp nhân tạo",
+        "definition_vi": "sự sản xuất nhân tạo một chất có trong tự nhiên ở động vật và thực vật"
       },
       {
         "definition": "the production of sounds, music or speech by electronic means",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tổng hợp âm thanh",
+        "definition_vi": "sự sản xuất âm thanh, âm nhạc hoặc giọng nói bằng phương tiện điện tử"
       }
     ]
   },
@@ -71362,7 +72272,9 @@
             "cf": "system of something",
             "x": "a system of government"
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống",
+        "definition_vi": "một tập hợp có tổ chức các ý tưởng hoặc lý thuyết hoặc một cách cụ thể để làm điều gì đó"
       },
       {
         "definition": "a group of things, pieces of equipment, etc. that are connected or work together",
@@ -71375,7 +72287,9 @@
             "cf": "",
             "x": "How does the system work?"
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống thiết bị",
+        "definition_vi": "một nhóm các vật, thiết bị, v.v. được kết nối hoặc hoạt động cùng nhau"
       },
       {
         "definition": "a set of computer equipment and programs that are used together",
@@ -71392,7 +72306,9 @@
             "cf": "",
             "x": "computerized information systems"
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ thống máy tính",
+        "definition_vi": "một tập hợp các thiết bị và chương trình máy tính được sử dụng cùng nhau"
       },
       {
         "definition": "a human or an animal body, or a part of it, when it is being thought of as the organs and processes that make it function",
@@ -71409,7 +72325,9 @@
             "cf": "",
             "x": "Returning to work after a long break can be a terrible shock to the system (= a big change that is difficult to deal with)."
           }
-        ]
+        ],
+        "short_meaning_vi": "hệ cơ quan",
+        "definition_vi": "cơ thể người hoặc động vật, hoặc một bộ phận của nó, khi được xem xét như các cơ quan và quá trình làm cho nó hoạt động"
       },
       {
         "definition": "the rules or people that control a country or an organization, especially when they seem to be unfair because you cannot change them",
@@ -71426,7 +72344,9 @@
             "cf": "",
             "x": "young people rebelling against the system"
           }
-        ]
+        ],
+        "short_meaning_vi": "chế độ",
+        "definition_vi": "các quy tắc hoặc những người kiểm soát một quốc gia hoặc một tổ chức, đặc biệt là khi chúng có vẻ không công bằng vì bạn không thể thay đổi chúng"
       },
       {
         "definition": "used to say that everything is working well or that everything is ready for something to happen or be successful",
@@ -71439,7 +72359,9 @@
             "cf": "",
             "x": "Last weekend's heavy snowfall means it's all systems go for the ski season."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoạt động tốt",
+        "definition_vi": "được sử dụng để nói rằng mọi thứ đang hoạt động tốt hoặc mọi thứ đã sẵn sàng cho một điều gì đó xảy ra hoặc thành công"
       },
       {
         "definition": "to do something so that you no longer feel a very strong emotion or have a strong desire",
@@ -71448,7 +72370,9 @@
             "cf": "",
             "x": "I was very angry with him, but now I feel I've got it out of my system."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiềm chế cảm xúc",
+        "definition_vi": "làm điều gì đó để bạn không còn cảm thấy một cảm xúc rất mạnh hoặc có một ham muốn mạnh mẽ"
       }
     ]
   },
@@ -71479,7 +72403,9 @@
             "cf": "",
             "x": "the systematic analysis of the risks involved"
           }
-        ]
+        ],
+        "short_meaning_vi": "có hệ thống",
+        "definition_vi": "được thực hiện theo một hệ thống hoặc kế hoạch, một cách toàn diện, hiệu quả hoặc quyết đoán"
       }
     ]
   },
@@ -71502,7 +72428,9 @@
             "cf": "",
             "x": "a sleeveless/long-sleeved T-shirt"
           }
-        ]
+        ],
+        "short_meaning_vi": "áo phông",
+        "definition_vi": "một chiếc áo phông thông thường, thường có tay áo ngắn, không có cổ hoặc cúc, hoặc chỉ có một vài cúc ở phía trên"
       }
     ]
   }
