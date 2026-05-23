@@ -57704,7 +57704,9 @@
             "cf": "",
             "x": "He blew out a stream of cigar smoke."
           }
-        ]
+        ],
+        "short_meaning_vi": "dòng chảy",
+        "definition_vi": "một dòng chảy liên tục của chất lỏng hoặc khí"
       },
       {
         "definition": "a continuous flow of people or vehicles",
@@ -57721,7 +57723,9 @@
             "cf": "in a stream",
             "x": "Cars filed past in an endless stream."
           }
-        ]
+        ],
+        "short_meaning_vi": "dòng người",
+        "definition_vi": "một dòng chảy liên tục của người hoặc phương tiện giao thông"
       },
       {
         "definition": "a continuous supply of something; a large number of things that happen one after the other",
@@ -57738,7 +57742,9 @@
             "cf": "",
             "x": "Most of the letter consisted of a stream of abuse."
           }
-        ]
+        ],
+        "short_meaning_vi": "nguồn cung",
+        "definition_vi": "một nguồn cung cấp liên tục của một cái gì đó; một số lượng lớn các thứ xảy ra liên tiếp nhau"
       },
       {
         "definition": "a continuous flow of video or sound sent over the internet; a continuous flow of computer data or instructions ",
@@ -57747,7 +57753,9 @@
             "cf": "",
             "x": "You can listen to the live audio stream."
           }
-        ]
+        ],
+        "short_meaning_vi": "luồng trực tuyến",
+        "definition_vi": "một luồng video hoặc âm thanh liên tục được gửi qua internet; một luồng dữ liệu máy tính hoặc hướng dẫn liên tục"
       },
       {
         "definition": "a group of students of the same age and level of ability in some schools",
@@ -57756,7 +57764,9 @@
             "cf": "",
             "x": "She was put into the fast stream."
           }
-        ]
+        ],
+        "short_meaning_vi": "lớp học",
+        "definition_vi": "một nhóm học sinh cùng lứa tuổi và trình độ năng lực trong một số trường học"
       },
       {
         "definition": "to be in operation or available",
@@ -57765,7 +57775,9 @@
             "cf": "",
             "x": "The new computer system comes on stream next month."
           }
-        ]
+        ],
+        "short_meaning_vi": "đang hoạt động",
+        "definition_vi": "đang hoạt động hoặc có sẵn"
       }
     ]
   },
@@ -57836,7 +57848,9 @@
             "cf": "",
             "x": "My office is at street level (= on the ground floor)."
           }
-        ]
+        ],
+        "short_meaning_vi": "đường phố",
+        "definition_vi": "một con đường công cộng trong thành phố hoặc thị trấn có nhà cửa và các tòa nhà ở một hoặc cả hai bên"
       },
       {
         "definition": "the ideas and opinions of ordinary people, especially people who live in cities, which are considered important",
@@ -57853,7 +57867,9 @@
             "cf": "",
             "x": "Opinion on the street was divided."
           }
-        ]
+        ],
+        "short_meaning_vi": "dư luận",
+        "definition_vi": "những ý tưởng và quan điểm của người dân bình thường, đặc biệt là những người sống ở thành phố, được coi là quan trọng"
       },
       {
         "definition": "an average or ordinary person, either male or female",
@@ -57866,11 +57882,15 @@
             "cf": "",
             "x": "What really matters to the man and woman in the street?"
           }
-        ]
+        ],
+        "short_meaning_vi": "người thường",
+        "definition_vi": "một người trung bình hoặc bình thường, nam hoặc nữ"
       },
       {
         "definition": "enjoying a comfortable way of life with plenty of money",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "giàu có",
+        "definition_vi": "thưởng thức một lối sống thoải mái với nhiều tiền"
       },
       {
         "definition": "without a home; outside, not in a house or other building",
@@ -57887,11 +57907,15 @@
             "cf": "",
             "x": "She was thrown onto the street."
           }
-        ]
+        ],
+        "short_meaning_vi": "vô gia cư",
+        "definition_vi": "không có nhà; ở ngoài trời, không ở trong nhà hoặc tòa nhà khác"
       },
       {
         "definition": "working as a prostitute",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "làm gái mại dâm",
+        "definition_vi": "làm nghề mại dâm"
       },
       {
         "definition": "much better or more advanced than somebody/something else",
@@ -57904,11 +57928,15 @@
             "cf": "",
             "x": "Beth is streets ahead of all the other students in her year."
           }
-        ]
+        ],
+        "short_meaning_vi": "vượt trội",
+        "definition_vi": "tốt hơn hoặc tiên tiến hơn nhiều so với ai đó/cái gì đó"
       },
       {
         "definition": "used to say that it seems easy to make money in a place",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dễ kiếm tiền",
+        "definition_vi": "được sử dụng để nói rằng có vẻ dễ dàng kiếm tiền ở một nơi nào đó"
       },
       {
         "definition": "very suitable for you because it is something that you know a lot about or are very interested in",
@@ -57917,7 +57945,9 @@
             "cf": "",
             "x": "This job seems right up your street."
           }
-        ]
+        ],
+        "short_meaning_vi": "phù hợp",
+        "definition_vi": "rất phù hợp với bạn vì đó là thứ bạn biết rõ hoặc rất quan tâm"
       }
     ]
   },
@@ -57952,7 +57982,9 @@
             "cf": "strength to do something",
             "x": "She didn't have the strength to walk any further."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức mạnh thể chất",
+        "definition_vi": "phẩm chất của việc khỏe mạnh về thể chất"
       },
       {
         "definition": "the ability that something has to resist force or hold heavy weights without breaking or being damaged",
@@ -57965,7 +57997,9 @@
             "cf": "",
             "x": "The panels are reinforced with steel for extra strength."
           }
-        ]
+        ],
+        "short_meaning_vi": "độ bền",
+        "definition_vi": "khả năng mà một vật có để chống lại lực hoặc chịu trọng lượng nặng mà không bị vỡ hoặc hư hỏng"
       },
       {
         "definition": "the quality of being brave and determined in a difficult situation",
@@ -57982,7 +58016,9 @@
             "cf": "",
             "x": "You have shown great strength of character."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức mạnh tinh thần",
+        "definition_vi": "phẩm chất dũng cảm và quyết tâm trong hoàn cảnh khó khăn"
       },
       {
         "definition": "the power and influence that somebody/something has",
@@ -58003,7 +58039,9 @@
             "cf": "",
             "x": "The rally was intended to be a show of strength by the socialists."
           }
-        ]
+        ],
+        "short_meaning_vi": "quyền lực",
+        "definition_vi": "sức mạnh và ảnh hưởng mà ai đó/cái gì đó có"
       },
       {
         "definition": "how strong or deeply felt an opinion or a feeling is",
@@ -58024,7 +58062,9 @@
             "cf": "",
             "x": "I have been overwhelmed by the strength of feeling that people have about this issue."
           }
-        ]
+        ],
+        "short_meaning_vi": "mức độ cảm xúc",
+        "definition_vi": "mức độ mạnh mẽ hoặc sâu sắc của một ý kiến hoặc cảm xúc"
       },
       {
         "definition": "a quality or an ability that a person or thing has that gives them an advantage",
@@ -58041,7 +58081,9 @@
             "cf": "",
             "x": "The new weapon's strength lies in its accuracy."
           }
-        ]
+        ],
+        "short_meaning_vi": "ưu điểm",
+        "definition_vi": "một phẩm chất hoặc khả năng mà một người hoặc vật có mang lại cho họ lợi thế"
       },
       {
         "definition": "how strong a natural force or a signal is",
@@ -58062,7 +58104,9 @@
             "cf": "",
             "x": "The phone company aims to improve signal strength within buildings."
           }
-        ]
+        ],
+        "short_meaning_vi": "cường độ",
+        "definition_vi": "mức độ mạnh mẽ của một lực tự nhiên hoặc một tín hiệu"
       },
       {
         "definition": "how strong a particular taste or substance is",
@@ -58083,7 +58127,9 @@
             "cf": "",
             "x": "These wines vary in strength between 11° and 15°."
           }
-        ]
+        ],
+        "short_meaning_vi": "nồng độ",
+        "definition_vi": "mức độ mạnh mẽ của một hương vị hoặc chất cụ thể"
       },
       {
         "definition": "how strong a country’s currency is in relation to other countries’ currencies ",
@@ -58100,7 +58146,9 @@
             "cf": "",
             "x": "the continuing strength of the pound"
           }
-        ]
+        ],
+        "short_meaning_vi": "sức mạnh tiền tệ",
+        "definition_vi": "sức mạnh của tiền tệ một quốc gia so với tiền tệ của các quốc gia khác"
       },
       {
         "definition": "the number of people in a group, a team or an organization",
@@ -58125,7 +58173,9 @@
             "cf": "under/below strength",
             "x": "These cuts have left the local police force under strength (= with fewer members than it needs)."
           }
-        ]
+        ],
+        "short_meaning_vi": "số lượng",
+        "definition_vi": "số lượng người trong một nhóm, một đội hoặc một tổ chức"
       },
       {
         "definition": "to become more and more successful",
@@ -58134,7 +58184,9 @@
             "cf": "",
             "x": "Since her appointment the department has gone from strength to strength."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công hơn",
+        "definition_vi": "trở nên ngày càng thành công hơn"
       },
       {
         "definition": "because somebody has been influenced or persuaded by something",
@@ -58147,7 +58199,9 @@
             "cf": "",
             "x": "She hopes to secure a recording contract on the strength of these songs."
           }
-        ]
+        ],
+        "short_meaning_vi": "bị ảnh hưởng",
+        "definition_vi": "vì ai đó đã bị ảnh hưởng hoặc thuyết phục bởi một cái gì đó"
       },
       {
         "definition": "the quality of being strong because you have a great variety of good people, ideas, etc. that can contribute to the success of something",
@@ -58156,7 +58210,9 @@
             "cf": "",
             "x": "The French team does not have the strength in depth that the Australians have."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức mạnh tổng hợp",
+        "definition_vi": "phẩm chất mạnh mẽ vì bạn có sự đa dạng lớn về những người giỏi, ý tưởng, v.v. có thể đóng góp vào sự thành công của một cái gì đó"
       },
       {
         "definition": "being in a group gives you more power",
@@ -58165,7 +58221,9 @@
             "cf": "",
             "x": "There's strength in numbers, so encourage your friends and family to join us."
           }
-        ]
+        ],
+        "short_meaning_vi": "sức mạnh tập thể",
+        "definition_vi": "việc ở trong một nhóm mang lại cho bạn nhiều sức mạnh hơn"
       },
       {
         "definition": "a person that you can rely on to help, protect and comfort you when you are in trouble",
@@ -58174,7 +58232,9 @@
             "cf": "",
             "x": "He was a tower of strength to his sisters when their father died."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỗ dựa",
+        "definition_vi": "một người mà bạn có thể tin cậy để giúp đỡ, bảo vệ và an ủi bạn khi bạn gặp rắc rối"
       }
     ]
   },
@@ -58205,7 +58265,9 @@
             "cf": "",
             "x": "The new manager has strengthened the side by bringing in several younger players."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng cường",
+        "definition_vi": "trở nên mạnh mẽ hơn hoặc hiệu quả hơn; làm cho ai đó/cái gì đó mạnh mẽ hơn hoặc hiệu quả hơn"
       },
       {
         "definition": "to become physically stronger",
@@ -58218,7 +58280,9 @@
             "cf": "",
             "x": "Repairs are necessary to strengthen the bridge."
           }
-        ]
+        ],
+        "short_meaning_vi": "khỏe hơn",
+        "definition_vi": "trở nên khỏe mạnh hơn về thể chất"
       },
       {
         "definition": "to make a feeling, an opinion or a relationship stronger; to become stronger",
@@ -58239,7 +58303,9 @@
             "cf": "",
             "x": "His determination only strengthened in the face of this opposition."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm mạnh mẽ hơn",
+        "definition_vi": "làm cho một cảm xúc, một ý kiến hoặc một mối quan hệ mạnh mẽ hơn; trở nên mạnh mẽ hơn"
       },
       {
         "definition": "to become stronger",
@@ -58248,7 +58314,9 @@
             "cf": "",
             "x": "The wind had strengthened overnight."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh lên",
+        "definition_vi": "trở nên mạnh mẽ hơn"
       },
       {
         "definition": "to become stronger; to make a currency or an economy stronger",
@@ -58265,7 +58333,9 @@
             "cf": "strengthen something",
             "x": "The measures should help create jobs and strengthen the economy."
           }
-        ]
+        ],
+        "short_meaning_vi": "củng cố",
+        "definition_vi": "trở nên mạnh mẽ hơn; làm cho tiền tệ hoặc nền kinh tế mạnh mẽ hơn"
       }
     ]
   },
@@ -58328,7 +58398,9 @@
             "cf": "",
             "x": "Few of us can understand the stresses of a job where an everyday mistake can cost lives."
           }
-        ]
+        ],
+        "short_meaning_vi": "căng thẳng",
+        "definition_vi": "áp lực hoặc lo lắng do các vấn đề trong cuộc sống của ai đó hoặc do có quá nhiều việc phải làm"
       },
       {
         "definition": "physical pressure put on something that can damage it or make it lose its shape",
@@ -58353,7 +58425,9 @@
             "cf": "",
             "x": "a stress fracture of the foot (= one caused by such pressure)"
           }
-        ]
+        ],
+        "short_meaning_vi": "áp lực vật lý",
+        "definition_vi": "áp lực vật lý đặt lên một cái gì đó có thể làm hỏng nó hoặc làm mất hình dạng của nó"
       },
       {
         "definition": "an extra force used when pronouncing a particular word or syllable",
@@ -58370,7 +58444,9 @@
             "cf": "",
             "x": "In ‘strategic’ the stress falls on the second syllable"
           }
-        ]
+        ],
+        "short_meaning_vi": "trọng âm",
+        "definition_vi": "lực nhấn thêm được sử dụng khi phát âm một từ hoặc âm tiết cụ thể"
       },
       {
         "definition": "special importance given to something",
@@ -58383,15 +58459,21 @@
             "cf": "",
             "x": "I think the company places too much stress on cost and not enough on quality."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn mạnh",
+        "definition_vi": "tầm quan trọng đặc biệt được dành cho một cái gì đó"
       },
       {
         "definition": "extra force used when making a particular sound in music",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "cường độ âm thanh",
+        "definition_vi": "lực nhấn thêm được sử dụng khi tạo ra một âm thanh cụ thể trong âm nhạc"
       },
       {
         "definition": "illness caused by difficult physical conditions",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "căng thẳng",
+        "definition_vi": "bệnh tật gây ra bởi các điều kiện thể chất khó khăn"
       }
     ]
   },
@@ -58414,7 +58496,9 @@
             "cf": "",
             "x": "They might (and I stress the word 'might') do the right thing the next time. "
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn mạnh",
+        "definition_vi": "tạo thêm lực vào một từ hoặc âm tiết khi nói"
       },
       {
         "definition": "to emphasize a fact, an idea, etc.",
@@ -58451,7 +58535,9 @@
             "cf": "stress how, what, etc.",
             "x": "I cannot stress too much how important this is."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhấn mạnh",
+        "definition_vi": "nhấn mạnh một sự thật, một ý tưởng, v.v."
       },
       {
         "definition": "to become or make somebody become too anxious or tired to be able to relax",
@@ -58468,7 +58554,9 @@
             "cf": "stress somebody (out)",
             "x": "Driving in cities really stresses me (out)."
           }
-        ]
+        ],
+        "short_meaning_vi": "căng thẳng",
+        "definition_vi": "trở nên hoặc làm cho ai đó quá lo lắng hoặc mệt mỏi đến mức không thể thư giãn"
       }
     ]
   },
@@ -58499,7 +58587,9 @@
             "cf": "",
             "x": "You rarely see boats on this stretch of the river."
           }
-        ]
+        ],
+        "short_meaning_vi": "vùng đất/nước",
+        "definition_vi": "một khu vực đất hoặc nước, đặc biệt là một khu vực dài"
       },
       {
         "definition": "a continuous period of time",
@@ -58512,7 +58602,9 @@
             "cf": "at a stretch",
             "x": "She used to read for hours at a stretch (= without stopping)."
           }
-        ]
+        ],
+        "short_meaning_vi": "khoảng thời gian",
+        "definition_vi": "một khoảng thời gian liên tục"
       },
       {
         "definition": "a period of time that somebody spends in prison",
@@ -58521,7 +58613,9 @@
             "cf": "",
             "x": "He did a ten-year stretch for fraud."
           }
-        ]
+        ],
+        "short_meaning_vi": "thời gian tù",
+        "definition_vi": "một khoảng thời gian mà ai đó phải ở trong tù"
       },
       {
         "definition": "an act of stretching out your arms or legs or your body and pulling the muscles tight; the state of being stretched",
@@ -58538,7 +58632,9 @@
             "cf": "",
             "x": "Stay in this position and feel the stretch in your legs."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự căng cơ",
+        "definition_vi": "hành động duỗi thẳng tay hoặc chân hoặc cơ thể và kéo căng cơ; trạng thái bị kéo căng"
       },
       {
         "definition": "the ability to be made longer or wider without breaking or tearing",
@@ -58551,7 +58647,9 @@
             "cf": "",
             "x": "stretch jeans"
           }
-        ]
+        ],
+        "short_meaning_vi": "độ co giãn",
+        "definition_vi": "khả năng bị kéo dài hoặc rộng ra mà không bị gãy hoặc rách"
       },
       {
         "definition": "a straight part at the end of a racing track",
@@ -58564,7 +58662,9 @@
             "cf": "",
             "x": "The campaign has entered its final stretch."
           }
-        ]
+        ],
+        "short_meaning_vi": "đoạn đường",
+        "definition_vi": "một đoạn thẳng ở cuối đường đua"
       },
       {
         "definition": "using as much energy as possible, or the greatest possible amount of supplies",
@@ -58573,7 +58673,9 @@
             "cf": "",
             "x": "Fire crews have been operating at full stretch."
           }
-        ]
+        ],
+        "short_meaning_vi": "tối đa",
+        "definition_vi": "sử dụng nhiều năng lượng nhất có thể, hoặc lượng cung cấp lớn nhất có thể"
       },
       {
         "definition": "used to say strongly that something is not true, even if you try to imagine or believe it",
@@ -58586,7 +58688,9 @@
             "cf": "",
             "x": "By no stretch of the imagination could the trip be described as relaxing."
           }
-        ]
+        ],
+        "short_meaning_vi": "hoàn toàn không",
+        "definition_vi": "dùng để nói mạnh mẽ rằng điều gì đó không đúng, ngay cả khi bạn cố gắng tưởng tượng hoặc tin vào điều đó"
       }
     ]
   },
@@ -58613,7 +58717,9 @@
             "cf": "",
             "x": "This sweater has stretched."
           }
-        ]
+        ],
+        "short_meaning_vi": "kéo dài",
+        "definition_vi": "làm cho cái gì đó dài hơn, rộng hơn hoặc lỏng hơn, ví dụ bằng cách kéo nó; trở nên dài hơn, v.v. theo cách này"
       },
       {
         "definition": "to become bigger or longer when you pull it and return to its original shape when you stop",
@@ -58622,7 +58728,9 @@
             "cf": "",
             "x": "The jeans stretch to provide a perfect fit."
           }
-        ]
+        ],
+        "short_meaning_vi": "giãn ra",
+        "definition_vi": "trở nên lớn hơn hoặc dài hơn khi bạn kéo nó và trở lại hình dạng ban đầu khi bạn dừng lại"
       },
       {
         "definition": "to pull something so that it is smooth and tight",
@@ -58639,7 +58747,9 @@
             "cf": "stretch something + adj.",
             "x": "Make sure that the rope is stretched tight."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm phẳng",
+        "definition_vi": "kéo cái gì đó để nó phẳng và căng"
       },
       {
         "definition": "to put your arms or legs out straight and contract your muscles ",
@@ -58660,7 +58770,9 @@
             "cf": "",
             "x": "It was impossible to bend or stretch my legs."
           }
-        ]
+        ],
+        "short_meaning_vi": "vươn vai",
+        "definition_vi": "duỗi thẳng tay hoặc chân và co cơ"
       },
       {
         "definition": "to put out an arm or a leg in order to reach something",
@@ -58677,7 +58789,9 @@
             "cf": "stretch something + adv./prep.",
             "x": "I stretched out a hand and picked up the book."
           }
-        ]
+        ],
+        "short_meaning_vi": "vươn tới",
+        "definition_vi": "duỗi thẳng tay hoặc chân để với lấy cái gì đó"
       },
       {
         "definition": "to spread over an area of land",
@@ -58702,7 +58816,9 @@
             "cf": "",
             "x": "Beyond the mountains stretches a vast desert."
           }
-        ]
+        ],
+        "short_meaning_vi": "trải dài",
+        "definition_vi": "trải rộng trên một khu vực đất"
       },
       {
         "definition": "to continue over a period of time",
@@ -58731,7 +58847,9 @@
             "cf": "",
             "x": "The future stretched out endlessly in front of me."
           }
-        ]
+        ],
+        "short_meaning_vi": "kéo dài",
+        "definition_vi": "tiếp tục trong một khoảng thời gian"
       },
       {
         "definition": "to be enough to buy or pay for something",
@@ -58744,7 +58862,9 @@
             "cf": "",
             "x": "There are lots of things I’d like to buy, but our budget just won’t stretch that far."
           }
-        ]
+        ],
+        "short_meaning_vi": "đủ",
+        "definition_vi": "đủ để mua hoặc chi trả cho một cái gì đó"
       },
       {
         "definition": "to make use of a lot of your money, supplies, time, etc.",
@@ -58761,7 +58881,9 @@
             "cf": "",
             "x": "The budget is already stretched to breaking point."
           }
-        ]
+        ],
+        "short_meaning_vi": "tận dụng",
+        "definition_vi": "sử dụng nhiều tiền, nguồn cung cấp, thời gian, v.v. của bạn"
       },
       {
         "definition": "to increase your lead over somebody in a game or competition",
@@ -58770,7 +58892,9 @@
             "cf": "",
             "x": "A minute later, Kelly stretched their lead to eight points."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng khoảng cách",
+        "definition_vi": "tăng khoảng cách của bạn với ai đó trong một trò chơi hoặc cuộc thi"
       },
       {
         "definition": "to make use of all somebody’s skill, intelligence, etc.",
@@ -58787,7 +58911,9 @@
             "cf": "",
             "x": "The book really stretches your imagination."
           }
-        ]
+        ],
+        "short_meaning_vi": "tận dụng",
+        "definition_vi": "sử dụng tất cả kỹ năng, trí thông minh, v.v. của ai đó"
       },
       {
         "definition": "to use something in a way that would not normally be considered fair, acceptable, etc.",
@@ -58800,7 +58926,9 @@
             "cf": "",
             "x": "The play's plot stretches credulity to the limit."
           }
-        ]
+        ],
+        "short_meaning_vi": "lạm dụng",
+        "definition_vi": "sử dụng một cái gì đó theo cách không được coi là công bằng, chấp nhận được, v.v."
       },
       {
         "definition": "to change the rules to suit a particular person or situation",
@@ -58809,7 +58937,9 @@
             "cf": "",
             "x": "Couldn't they just bend the rules and let us in without a ticket?"
           }
-        ]
+        ],
+        "short_meaning_vi": "uốn cong luật",
+        "definition_vi": "thay đổi các quy tắc để phù hợp với một người hoặc tình huống cụ thể"
       },
       {
         "definition": "to go for a short walk after sitting for some time",
@@ -58818,7 +58948,9 @@
             "cf": "",
             "x": "It was good to get out of the car and stretch our legs."
           }
-        ]
+        ],
+        "short_meaning_vi": "đi dạo",
+        "definition_vi": "đi dạo một đoạn ngắn sau khi ngồi một thời gian"
       },
       {
         "definition": "to allow or do something that is not usually acceptable, especially because of a particular situation",
@@ -58827,7 +58959,9 @@
             "cf": "",
             "x": "I was hoping they would stretch a point and let me stay on for a while."
           }
-        ]
+        ],
+        "short_meaning_vi": "linh hoạt",
+        "definition_vi": "cho phép hoặc làm một điều gì đó không thường chấp nhận được, đặc biệt là do một tình huống cụ thể"
       }
     ]
   },
@@ -58866,7 +59000,9 @@
             "cf": "",
             "x": "He expected strict adherence to his rules."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiêm ngặt",
+        "definition_vi": "phải được tuân thủ một cách chính xác"
       },
       {
         "definition": "demanding that rules, especially rules about behaviour, should be obeyed",
@@ -58887,7 +59023,9 @@
             "cf": "strict with somebody",
             "x": "They were always very strict with their children."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiêm khắc",
+        "definition_vi": "yêu cầu các quy tắc, đặc biệt là các quy tắc về hành vi, phải được tuân thủ"
       },
       {
         "definition": "obeying the rules of a particular religion, belief, etc. exactly",
@@ -58900,7 +59038,9 @@
             "cf": "",
             "x": "a strict vegan"
           }
-        ]
+        ],
+        "short_meaning_vi": "sùng đạo",
+        "definition_vi": "tuân thủ nghiêm ngặt các quy tắc của một tôn giáo, tín ngưỡng, v.v. cụ thể"
       },
       {
         "definition": "very exact and clearly defined",
@@ -58913,7 +59053,9 @@
             "cf": "",
             "x": "They insisted on their strict legal rights."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "rất chính xác và được xác định rõ ràng"
       }
     ]
   },
@@ -58936,7 +59078,9 @@
             "cf": "",
             "x": "The industry is strictly regulated."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiêm ngặt",
+        "definition_vi": "với nhiều sự kiểm soát và các quy tắc phải được tuân thủ"
       },
       {
         "definition": "used to emphasize that something happens or must happen in all circumstances",
@@ -58949,7 +59093,9 @@
             "cf": "",
             "x": "My letter is, of course, strictly private and confidential."
           }
-        ]
+        ],
+        "short_meaning_vi": "chắc chắn",
+        "definition_vi": "dùng để nhấn mạnh rằng điều gì đó xảy ra hoặc phải xảy ra trong mọi hoàn cảnh"
       },
       {
         "definition": "in all details; exactly",
@@ -58958,7 +59104,9 @@
             "cf": "",
             "x": "This is not strictly true."
           }
-        ]
+        ],
+        "short_meaning_vi": "chính xác",
+        "definition_vi": "về mọi chi tiết; chính xác"
       },
       {
         "definition": "used to emphasize that something only applies to one particular person, thing or situation",
@@ -58975,7 +59123,9 @@
             "cf": "",
             "x": "Their relationship is strictly platonic."
           }
-        ]
+        ],
+        "short_meaning_vi": "chỉ riêng",
+        "definition_vi": "dùng để nhấn mạnh rằng điều gì đó chỉ áp dụng cho một người, vật hoặc tình huống cụ thể"
       },
       {
         "definition": "if you are using words or rules in their exact or correct sense",
@@ -58988,7 +59138,9 @@
             "cf": "",
             "x": "Using the word in that context is not, strictly speaking, correct."
           }
-        ]
+        ],
+        "short_meaning_vi": "theo nghĩa đen",
+        "definition_vi": "nếu bạn đang sử dụng các từ hoặc quy tắc theo nghĩa đen hoặc đúng của chúng"
       }
     ]
   },
@@ -59043,7 +59195,9 @@
             "cf": "",
             "x": "The student union has called for a rent strike (= a refusal to pay rent as a protest)."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc đình công",
+        "definition_vi": "một khoảng thời gian khi một nhóm nhân viên có tổ chức của một công ty ngừng làm việc vì một cuộc tranh cãi về lương hoặc điều kiện làm việc"
       },
       {
         "definition": "a military attack, especially by aircraft dropping bombs",
@@ -59060,7 +59214,9 @@
             "cf": "",
             "x": "The President ordered missile strikes against them in retaliation for the earlier bombing."
           }
-        ]
+        ],
+        "short_meaning_vi": "cuộc tấn công",
+        "definition_vi": "một cuộc tấn công quân sự, đặc biệt là bởi máy bay thả bom"
       },
       {
         "definition": "an act of hitting or kicking something/somebody",
@@ -59069,19 +59225,27 @@
             "cf": "",
             "x": "His spectacular strike in the second half made the score 2–0."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đánh",
+        "definition_vi": "hành động đánh hoặc đá một cái gì đó/ai đó"
       },
       {
         "definition": "an unsuccessful attempt to hit the ball",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lỗi",
+        "definition_vi": "một nỗ lực không thành công để đánh bóng"
       },
       {
         "definition": "a situation in tenpin bowling when a player knocks down all the pins with the first ball",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đánh đổ tất cả",
+        "definition_vi": "một tình huống trong trò chơi bowling mười pin khi người chơi đánh đổ tất cả các chốt bằng lượt ném đầu tiên"
       },
       {
         "definition": "a sudden discovery of something valuable, especially oil",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "phát hiện đột ngột",
+        "definition_vi": "một sự phát hiện đột ngột về một thứ gì đó có giá trị, đặc biệt là dầu mỏ"
       },
       {
         "definition": "a bad thing or action that damages somebody/something’s reputation",
@@ -59090,11 +59254,15 @@
             "cf": "",
             "x": "The amount of fuel that this car uses is a big strike against it."
           }
-        ]
+        ],
+        "short_meaning_vi": "tổn hại danh tiếng",
+        "definition_vi": "một điều hoặc hành động tồi tệ làm tổn hại đến danh tiếng của ai đó/cái gì đó"
       },
       {
         "definition": "used to describe a law that says that people who commit three crimes will go straight to prison",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "luật ba lần phạm tội",
+        "definition_vi": "được sử dụng để mô tả một luật quy định rằng những người phạm ba tội sẽ bị tống giam ngay lập tức"
       }
     ]
   },
@@ -59141,7 +59309,9 @@
             "cf": "strike against something",
             "x": "The oar struck against something hard."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh mạnh",
+        "definition_vi": "đánh ai đó/cái gì đó mạnh hoặc bằng lực"
       },
       {
         "definition": "to hit somebody/something with your hand or a weapon",
@@ -59166,7 +59336,9 @@
             "cf": "strike somebody/something sth",
             "x": "He struck her two blows on the leg."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấn công bằng tay/vũ khí",
+        "definition_vi": "đánh ai đó/cái gì đó bằng tay hoặc vũ khí của bạn"
       },
       {
         "definition": "to hit or kick a ball, etc.",
@@ -59175,7 +59347,9 @@
             "cf": "",
             "x": "He walked up to the penalty spot and struck the ball firmly into the back of the net."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh bóng",
+        "definition_vi": "đánh hoặc đá một quả bóng, v.v."
       },
       {
         "definition": "to attack somebody/something, especially suddenly",
@@ -59192,7 +59366,9 @@
             "cf": "",
             "x": "The guerrillas struck with deadly force."
           }
-        ]
+        ],
+        "short_meaning_vi": "tấn công bất ngờ",
+        "definition_vi": "tấn công ai đó/cái gì đó, đặc biệt là đột ngột"
       },
       {
         "definition": "to happen suddenly and have a harmful or damaging effect on somebody/something",
@@ -59209,7 +59385,9 @@
             "cf": "strike somebody/something",
             "x": "The area was struck by an outbreak of cholera."
           }
-        ]
+        ],
+        "short_meaning_vi": "ảnh hưởng xấu đột ngột",
+        "definition_vi": "xảy ra đột ngột và có tác động có hại hoặc gây tổn hại đến ai đó/cái gì đó"
       },
       {
         "definition": "to come into somebody’s mind suddenly",
@@ -59230,7 +59408,9 @@
             "cf": "it strikes somebody how, what, etc…",
             "x": "It suddenly struck me how we could improve the situation."
           }
-        ]
+        ],
+        "short_meaning_vi": "chợt nảy ra",
+        "definition_vi": "bỗng nhiên xuất hiện trong tâm trí ai đó"
       },
       {
         "definition": "to give somebody a particular impression",
@@ -59255,7 +59435,9 @@
             "cf": "it strikes somebody that…",
             "x": "It strikes me that nobody is really in favour of the changes."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo ấn tượng",
+        "definition_vi": "tạo cho ai đó một ấn tượng cụ thể"
       },
       {
         "definition": "to refuse to work because of an argument over pay or conditions",
@@ -59276,7 +59458,9 @@
             "cf": "",
             "x": "Striking workers picketed the factory."
           }
-        ]
+        ],
+        "short_meaning_vi": "đình công",
+        "definition_vi": "từ chối làm việc vì một cuộc tranh cãi về lương hoặc điều kiện làm việc"
       },
       {
         "definition": "to fall on a surface",
@@ -59285,7 +59469,9 @@
             "cf": "",
             "x": "The windows sparkled as the sun struck the glass."
           }
-        ]
+        ],
+        "short_meaning_vi": "rơi xuống bề mặt",
+        "definition_vi": "rơi xuống một bề mặt"
       },
       {
         "definition": "to put somebody suddenly into a particular state",
@@ -59294,7 +59480,9 @@
             "cf": "",
             "x": "to be struck dumb/deaf/blind"
           }
-        ]
+        ],
+        "short_meaning_vi": "đặt vào trạng thái",
+        "definition_vi": "đột ngột đặt ai đó vào một trạng thái cụ thể"
       },
       {
         "definition": "to rub something such as a match against a surface so that it produces a flame; to produce a flame when rubbed against a rough surface",
@@ -59311,7 +59499,9 @@
             "cf": "",
             "x": "The matches were damp and he couldn't make them strike."
           }
-        ]
+        ],
+        "short_meaning_vi": "quẹt lửa",
+        "definition_vi": "chà xát thứ gì đó như diêm vào một bề mặt để tạo ra lửa; tạo ra lửa khi chà xát vào bề mặt nhám"
       },
       {
         "definition": "to show the time by making a ringing noise, etc.",
@@ -59328,7 +59518,9 @@
             "cf": "strike something",
             "x": "The clock has just struck three."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuông báo giờ",
+        "definition_vi": "chỉ thời gian bằng cách tạo ra tiếng kêu leng keng, v.v."
       },
       {
         "definition": "to produce a musical note, sound, etc. by pressing a key or hitting something",
@@ -59337,7 +59529,9 @@
             "cf": "",
             "x": "She struck a chord on the piano and the children began to sing."
           }
-        ]
+        ],
+        "short_meaning_vi": "chơi nhạc cụ",
+        "definition_vi": "tạo ra một nốt nhạc, âm thanh, v.v. bằng cách nhấn phím hoặc gõ vào thứ gì đó"
       },
       {
         "definition": "to discover gold, oil, etc. by digging or drilling",
@@ -59346,7 +59540,9 @@
             "cf": "",
             "x": "They had struck oil!"
           }
-        ]
+        ],
+        "short_meaning_vi": "khai thác",
+        "definition_vi": "tìm thấy vàng, dầu, v.v. bằng cách đào hoặc khoan"
       },
       {
         "definition": "to go somewhere with great energy or purpose",
@@ -59363,7 +59559,9 @@
             "cf": "",
             "x": "The German army struck deep into northern France."
           }
-        ]
+        ],
+        "short_meaning_vi": "tiến đến",
+        "definition_vi": "đi đến một nơi nào đó với năng lượng hoặc mục đích lớn"
       },
       {
         "definition": "to be impressed or interested by somebody/something; to like somebody/something very much",
@@ -59376,11 +59574,15 @@
             "cf": "",
             "x": "We're not very struck on that new restaurant."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích thú",
+        "definition_vi": "bị ấn tượng hoặc quan tâm bởi ai đó/cái gì đó; rất thích ai đó/cái gì đó"
       },
       {
         "definition": "to argue in an aggressive way and force somebody to agree on the best possible price or arrangement",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "thương lượng gay gắt",
+        "definition_vi": "tranh luận một cách hung hăng và buộc ai đó phải đồng ý với mức giá hoặc thỏa thuận tốt nhất có thể"
       },
       {
         "definition": "if a remark, etc. hits/strikes home, it has a strong effect on somebody, in a way that makes them realize what the true facts of a situation are",
@@ -59389,7 +59591,9 @@
             "cf": "",
             "x": "Her face went pale as his words hit home."
           }
-        ]
+        ],
+        "short_meaning_vi": "thấm thía",
+        "definition_vi": "nếu một nhận xét, v.v. chạm đến lòng người/đánh trúng đích, nó sẽ có tác động mạnh mẽ đến ai đó, khiến họ nhận ra sự thật của tình huống"
       },
       {
         "definition": "to suddenly be in a successful situation, especially one that makes you rich",
@@ -59398,7 +59602,9 @@
             "cf": "",
             "x": "The band really hit pay dirt with their last album."
           }
-        ]
+        ],
+        "short_meaning_vi": "trúng mánh",
+        "definition_vi": "đột nhiên ở trong một tình huống thành công, đặc biệt là tình huống đó khiến bạn giàu có"
       },
       {
         "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
@@ -59411,7 +59617,9 @@
             "cf": "",
             "x": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích hợp/không thích hợp",
+        "definition_vi": "làm, nói hoặc viết một điều gì đó phù hợp/không phù hợp với một dịp cụ thể"
       },
       {
         "definition": "to hit the wooden frame of the goal in the game of football (soccer), instead of scoring a goal",
@@ -59420,11 +59628,15 @@
             "cf": "",
             "x": "She hit the woodwork twice before scoring."
           }
-        ]
+        ],
+        "short_meaning_vi": "đánh cột gôn",
+        "definition_vi": "đánh vào khung gỗ của khung thành trong môn bóng đá, thay vì ghi bàn"
       },
       {
         "definition": "an unusual or unpleasant event is not likely to happen in the same place or to the same people twice",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không lặp lại",
+        "definition_vi": "một sự kiện bất thường hoặc khó chịu khó có khả năng xảy ra ở cùng một nơi hoặc với cùng những người hai lần"
       },
       {
         "definition": "to express feelings or opinions of a particular kind",
@@ -59437,7 +59649,9 @@
             "cf": "",
             "x": "The touch of cynicism struck a slightly sour note."
           }
-        ]
+        ],
+        "short_meaning_vi": "bày tỏ cảm xúc",
+        "definition_vi": "bày tỏ những cảm xúc hoặc ý kiến ​​cụ thể"
       },
       {
         "definition": "to manage to find a way of being fair to two things that are opposed to each other; to find an acceptable position that is between two things",
@@ -59446,7 +59660,9 @@
             "cf": "",
             "x": "We need to strike a balance between these conflicting interests."
           }
-        ]
+        ],
+        "short_meaning_vi": "cân bằng hai mặt",
+        "definition_vi": "cố gắng tìm cách công bằng với hai điều đối lập nhau; tìm một vị trí chấp nhận được nằm giữa hai điều"
       },
       {
         "definition": "to make an agreement with somebody in which both sides have an advantage",
@@ -59459,7 +59675,9 @@
             "cf": "",
             "x": "The United States has struck a historic deal with India."
           }
-        ]
+        ],
+        "short_meaning_vi": "thỏa thuận đôi bên cùng có lợi",
+        "definition_vi": "thực hiện một thỏa thuận với ai đó mà cả hai bên đều có lợi"
       },
       {
         "definition": "to do something in support of/against a belief, principle, etc.",
@@ -59468,7 +59686,9 @@
             "cf": "",
             "x": "He felt that they had struck a blow for democracy."
           }
-        ]
+        ],
+        "short_meaning_vi": "hành động vì niềm tin",
+        "definition_vi": "làm điều gì đó để ủng hộ/chống lại một niềm tin, nguyên tắc, v.v."
       },
       {
         "definition": "to say or do something that makes people feel sympathy or enthusiasm",
@@ -59477,7 +59697,9 @@
             "cf": "",
             "x": "The speaker had obviously struck a chord with his audience."
           }
-        ]
+        ],
+        "short_meaning_vi": "gây thiện cảm/nhiệt tình",
+        "definition_vi": "nói hoặc làm điều gì đó khiến mọi người cảm thấy thông cảm hoặc nhiệt tình"
       },
       {
         "definition": "to make somebody be afraid, etc.",
@@ -59486,7 +59708,9 @@
             "cf": "",
             "x": "The sound of gunfire struck fear into the hearts of the villagers."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm sợ hãi",
+        "definition_vi": "làm cho ai đó sợ hãi, v.v."
       },
       {
         "definition": "to find or do something that brings you a lot of success or money",
@@ -59495,7 +59719,9 @@
             "cf": "",
             "x": "He has struck gold with his latest novel."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công lớn",
+        "definition_vi": "tìm hoặc làm điều gì đó mang lại cho bạn nhiều thành công hoặc tiền bạc"
       },
       {
         "definition": "if a remark, etc. strikes/hits home, it has a strong effect on somebody, in a way that makes them realize what the true facts of a situation are",
@@ -59504,11 +59730,15 @@
             "cf": "",
             "x": "His face went pale as her words struck home."
           }
-        ]
+        ],
+        "short_meaning_vi": "thấm thía",
+        "definition_vi": "nếu một nhận xét, v.v. chạm đến lòng người/đánh trúng đích, nó sẽ có tác động mạnh mẽ đến ai đó, khiến họ nhận ra sự thật của tình huống"
       },
       {
         "definition": "to get a lot of money, especially suddenly or unexpectedly",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "trúng lớn",
+        "definition_vi": "nhận được nhiều tiền, đặc biệt là đột ngột hoặc bất ngờ"
       },
       {
         "definition": "to have good luck",
@@ -59517,7 +59747,9 @@
             "cf": "",
             "x": "We certainly struck it lucky with the weather."
           }
-        ]
+        ],
+        "short_meaning_vi": "may mắn",
+        "definition_vi": "gặp may mắn"
       },
       {
         "definition": "to have a strong effect",
@@ -59534,7 +59766,9 @@
             "cf": "",
             "x": "Nissan may well strike a popular nerve here."
           }
-        ]
+        ],
+        "short_meaning_vi": "có tác động mạnh",
+        "definition_vi": "có tác động mạnh mẽ"
       },
       {
         "definition": "to suddenly be in a successful situation, especially one that makes you rich",
@@ -59543,7 +59777,9 @@
             "cf": "",
             "x": "The band really struck pay dirt with their last album."
           }
-        ]
+        ],
+        "short_meaning_vi": "trở nên giàu có",
+        "definition_vi": "đột nhiên ở trong một tình huống thành công, đặc biệt là tình huống đó khiến bạn giàu có"
       },
       {
         "definition": "to hold your body in a particular way to create a particular impression",
@@ -59556,7 +59792,9 @@
             "cf": "",
             "x": "He strikes an attitude of bravery and lonely defiance."
           }
-        ]
+        ],
+        "short_meaning_vi": "tạo dáng",
+        "definition_vi": "giữ cơ thể của bạn theo một cách nhất định để tạo ra một ấn tượng cụ thể"
       },
       {
         "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
@@ -59565,11 +59803,15 @@
             "cf": "",
             "x": "It is a bizarre tale and the author strikes just the right note of horror and disbelief."
           }
-        ]
+        ],
+        "short_meaning_vi": "thích hợp/không thích hợp",
+        "definition_vi": "làm, nói hoặc viết một điều gì đó phù hợp/không phù hợp với một dịp cụ thể"
       },
       {
         "definition": "to make use of an opportunity immediately",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "tận dụng cơ hội",
+        "definition_vi": "tận dụng ngay lập tức một cơ hội."
       },
       {
         "definition": "near enough to be reached or attacked easily; near enough to reach or attack something easily",
@@ -59582,7 +59824,9 @@
             "cf": "",
             "x": "The cat was now within striking distance of the duck."
           }
-        ]
+        ],
+        "short_meaning_vi": "trong tầm với",
+        "definition_vi": "đủ gần để có thể tiếp cận hoặc tấn công một cách dễ dàng; đủ gần để tiếp cận hoặc tấn công một thứ gì đó một cách dễ dàng."
       }
     ]
   },
@@ -59613,7 +59857,9 @@
             "cf": "",
             "x": "The similarities between the two cases are striking."
           }
-        ]
+        ],
+        "short_meaning_vi": "nổi bật",
+        "definition_vi": "thú vị và khác thường đủ để thu hút sự chú ý."
       },
       {
         "definition": "very attractive, often in an unusual way",
@@ -59630,7 +59876,9 @@
             "cf": "",
             "x": "That hat looks very striking."
           }
-        ]
+        ],
+        "short_meaning_vi": "hấp dẫn",
+        "definition_vi": "rất hấp dẫn, thường theo một cách khác thường."
       }
     ]
   },
@@ -59657,7 +59905,9 @@
             "cf": "",
             "x": "The key is hanging on a string by the door."
           }
-        ]
+        ],
+        "short_meaning_vi": "sợi dây",
+        "definition_vi": "vật liệu dài, mỏng dùng để buộc đồ vật lại với nhau, được làm từ nhiều sợi chỉ xoắn lại với nhau; một đoạn dây dùng để buộc, kéo hoặc giữ một thứ gì đó ở đúng vị trí."
       },
       {
         "definition": "a set or series of things that are joined together, for example on a string",
@@ -59670,7 +59920,9 @@
             "cf": "",
             "x": "The molecules join together to form long strings."
           }
-        ]
+        ],
+        "short_meaning_vi": "chuỗi",
+        "definition_vi": "một tập hợp hoặc chuỗi các vật được nối với nhau, ví dụ trên một sợi dây."
       },
       {
         "definition": "a series of things or people that come closely one after another",
@@ -59683,7 +59935,9 @@
             "cf": "",
             "x": "He owns a string of racing stables."
           }
-        ]
+        ],
+        "short_meaning_vi": "dãy liên tiếp",
+        "definition_vi": "một chuỗi các vật hoặc người nối tiếp nhau."
       },
       {
         "definition": "a series of characters (= letters, numbers, etc.)",
@@ -59692,7 +59946,9 @@
             "cf": "",
             "x": "to key in/enter a search string"
           }
-        ]
+        ],
+        "short_meaning_vi": "chuỗi ký tự",
+        "definition_vi": "một chuỗi các ký tự (= chữ cái, số, v.v.)."
       },
       {
         "definition": "a tightly stretched piece of wire, nylon, or catgut on a musical instrument, that produces a musical note when the instrument is played",
@@ -59701,7 +59957,9 @@
             "cf": "",
             "x": "Play it on the G string."
           }
-        ]
+        ],
+        "short_meaning_vi": "dây đàn",
+        "definition_vi": "một đoạn dây kim loại, nylon hoặc ruột mèo căng chặt trên nhạc cụ, tạo ra nốt nhạc khi chơi nhạc cụ."
       },
       {
         "definition": "the group of musical instruments in an orchestra that have strings, for example violins; the people who play them",
@@ -59710,11 +59968,15 @@
             "cf": "",
             "x": "The opening theme is taken up by the strings."
           }
-        ]
+        ],
+        "short_meaning_vi": "bộ dây đàn",
+        "definition_vi": "nhóm các nhạc cụ trong dàn nhạc có dây, ví dụ như violin; những người chơi chúng."
       },
       {
         "definition": "any of the tightly stretched pieces of nylon or natural gut in a racket, used for hitting balls in tennis and some other sports",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "dây vợt",
+        "definition_vi": "bất kỳ đoạn nylon hoặc ruột tự nhiên căng chặt nào trong vợt, dùng để đánh bóng trong quần vợt và một số môn thể thao khác."
       },
       {
         "definition": "special conditions or limits",
@@ -59727,7 +59989,9 @@
             "cf": "",
             "x": "It's a business proposition, pure and simple. No strings attached."
           }
-        ]
+        ],
+        "short_meaning_vi": "điều kiện ràng buộc",
+        "definition_vi": "các điều kiện hoặc giới hạn đặc biệt."
       },
       {
         "definition": "(too much under) the influence and control of somebody",
@@ -59736,7 +60000,9 @@
             "cf": "",
             "x": "The British prime minister is too apt to cling to Washington's apron strings."
           }
-        ]
+        ],
+        "short_meaning_vi": "sự kiểm soát",
+        "definition_vi": "(quá nhiều dưới) sự ảnh hưởng và kiểm soát của ai đó."
       },
       {
         "definition": "to have more than one skill or plan that you can use if you need to",
@@ -59745,7 +60011,9 @@
             "cf": "",
             "x": "The exhibition shows that he has other strings to his artistic bow."
           }
-        ]
+        ],
+        "short_meaning_vi": "có nhiều lựa chọn",
+        "definition_vi": "có nhiều hơn một kỹ năng hoặc kế hoạch mà bạn có thể sử dụng nếu cần."
       },
       {
         "definition": "used to say that there is no definite answer to a question",
@@ -59754,15 +60022,21 @@
             "cf": "",
             "x": "‘How long will it take?’ ‘How long's a piece of string?’"
           }
-        ]
+        ],
+        "short_meaning_vi": "không có câu trả lời dứt khoát",
+        "definition_vi": "dùng để nói rằng không có câu trả lời dứt khoát cho một câu hỏi."
       },
       {
         "definition": "to use your influence in order to get an advantage for somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "can thiệp",
+        "definition_vi": "sử dụng ảnh hưởng của bạn để mang lại lợi thế cho ai đó."
       },
       {
         "definition": "to control events or the actions of other people",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "điều khiển",
+        "definition_vi": "kiểm soát các sự kiện hoặc hành động của người khác."
       }
     ]
   },
@@ -59785,7 +60059,9 @@
             "cf": "",
             "x": "Cut the meat into strips."
           }
-        ]
+        ],
+        "short_meaning_vi": "dải",
+        "definition_vi": "một miếng giấy, kim loại, vải, v.v. dài và hẹp."
       },
       {
         "definition": "a long narrow area of land, sea, etc.",
@@ -59802,7 +60078,9 @@
             "cf": "",
             "x": "The islands are separated by a narrow strip of water."
           }
-        ]
+        ],
+        "short_meaning_vi": "vùng đất hẹp",
+        "definition_vi": "một khu vực đất, biển, v.v. dài và hẹp."
       },
       {
         "definition": "the uniform that is worn by the members of a sports team when they are playing",
@@ -59815,7 +60093,9 @@
             "cf": "",
             "x": "the team’s away strip (= that they use when playing games away from home)"
           }
-        ]
+        ],
+        "short_meaning_vi": "đồng phục thi đấu",
+        "definition_vi": "bộ đồng phục mà các thành viên của đội thể thao mặc khi thi đấu."
       },
       {
         "definition": "an act of taking your clothes off, especially in a sexually exciting way and in front of an audience",
@@ -59828,7 +60108,9 @@
             "cf": "",
             "x": "a strip show"
           }
-        ]
+        ],
+        "short_meaning_vi": "khiêu dâm thoát y",
+        "definition_vi": "hành động cởi quần áo của bạn, đặc biệt là theo cách gợi dục và trước mặt khán giả."
       },
       {
         "definition": "a street that has many shops, stores, restaurants, etc. along it",
@@ -59837,15 +60119,21 @@
             "cf": "",
             "x": "Sunset Strip"
           }
-        ]
+        ],
+        "short_meaning_vi": "khu phố mua sắm",
+        "definition_vi": "một con phố có nhiều cửa hàng, cửa hiệu, nhà hàng, v.v. dọc theo đó."
       },
       {
         "definition": "a series of drawings inside boxes that tell a story and are often published in newspapers",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "truyện tranh",
+        "definition_vi": "một loạt các bản vẽ trong các ô vuông kể một câu chuyện và thường được xuất bản trên báo."
       },
       {
         "definition": "to speak angrily to somebody who has done something wrong",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "mắng mỏ",
+        "definition_vi": "nói một cách giận dữ với ai đó đã làm điều gì đó sai trái."
       }
     ]
   },
@@ -59888,11 +60176,15 @@
             "cf": "strip somebody + adj.",
             "x": "He was stripped naked and left in a cell."
           }
-        ]
+        ],
+        "short_meaning_vi": "cởi quần áo",
+        "definition_vi": "cởi bỏ tất cả hoặc hầu hết quần áo của bạn hoặc của người khác."
       },
       {
         "definition": "to take off your clothes as a form of entertainment; to perform a striptease",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "biểu diễn thoát y",
+        "definition_vi": "cởi quần áo của bạn như một hình thức giải trí; biểu diễn một màn thoát y."
       },
       {
         "definition": "to remove a layer from something, especially so that it is completely exposed",
@@ -59913,7 +60205,9 @@
             "cf": "strip B of A",
             "x": "Deer had stripped the tree of its bark."
           }
-        ]
+        ],
+        "short_meaning_vi": "bóc lớp",
+        "definition_vi": "loại bỏ một lớp khỏi một thứ gì đó, đặc biệt là để nó hoàn toàn lộ ra."
       },
       {
         "definition": "to remove all the things from a place and leave it empty",
@@ -59934,7 +60228,9 @@
             "cf": "strip something + adj.",
             "x": "Thieves had stripped the house bare."
           }
-        ]
+        ],
+        "short_meaning_vi": "dọn sạch",
+        "definition_vi": "loại bỏ tất cả mọi thứ khỏi một nơi và để nó trống rỗng."
       },
       {
         "definition": "to separate a machine, etc. into parts so that they can be cleaned or repaired",
@@ -59947,7 +60243,9 @@
             "cf": "",
             "x": "They taught us how to strip down a car engine and put it back together again."
           }
-        ]
+        ],
+        "short_meaning_vi": "tháo rời",
+        "definition_vi": "tháo rời một máy móc, v.v. thành các bộ phận để chúng có thể được làm sạch hoặc sửa chữa."
       },
       {
         "definition": "to take away property or honours from somebody, as a punishment",
@@ -59960,7 +60258,9 @@
             "cf": "",
             "x": "The president had been completely stripped of power."
           }
-        ]
+        ],
+        "short_meaning_vi": "tước đoạt",
+        "definition_vi": "tước đoạt tài sản hoặc danh hiệu của ai đó, như một hình phạt."
       }
     ]
   },
@@ -59995,7 +60295,9 @@
             "cf": "",
             "x": "She strove to find a solution that was acceptable to all."
           }
-        ]
+        ],
+        "short_meaning_vi": "cố gắng hết sức",
+        "definition_vi": "cố gắng rất nhiều để đạt được điều gì đó."
       }
     ]
   },
@@ -60022,7 +60324,9 @@
             "cf": "",
             "x": "He played some powerful backhand strokes throughout the game."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú đánh",
+        "definition_vi": "hành động đánh một quả bóng, ví dụ bằng gậy hoặc vợt."
       },
       {
         "definition": "a single movement of the arm when hitting somebody/something",
@@ -60031,7 +60335,9 @@
             "cf": "",
             "x": "His punishment was six strokes of the cane."
           }
-        ]
+        ],
+        "short_meaning_vi": "cú vung tay",
+        "definition_vi": "một chuyển động đơn lẻ của cánh tay khi đánh ai đó/cái gì đó."
       },
       {
         "definition": "a single successful action or event",
@@ -60056,7 +60362,9 @@
             "cf": "",
             "x": "I had a sudden stroke of inspiration."
           }
-        ]
+        ],
+        "short_meaning_vi": "thành công",
+        "definition_vi": "một hành động hoặc sự kiện thành công duy nhất."
       },
       {
         "definition": "a sudden serious illness when a blood vessel (= tube) in the brain bursts (= breaks open) or is blocked, which can cause death or the loss of the ability to move or to speak clearly",
@@ -60073,7 +60381,9 @@
             "cf": "",
             "x": "Smoking increases the risk of stroke."
           }
-        ]
+        ],
+        "short_meaning_vi": "đột quỵ",
+        "definition_vi": "một căn bệnh nghiêm trọng đột ngột khi một mạch máu (= ống) trong não bị vỡ (= nứt ra) hoặc bị tắc nghẽn, có thể gây tử vong hoặc mất khả năng vận động hoặc nói rõ ràng."
       },
       {
         "definition": "any of a series of repeated movements in swimming or rowing",
@@ -60086,7 +60396,9 @@
             "cf": "",
             "x": "He swam with long powerful strokes."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhịp bơi/chèo",
+        "definition_vi": "bất kỳ chuyển động lặp đi lặp lại nào trong bơi lội hoặc chèo thuyền."
       },
       {
         "definition": "a style of swimming",
@@ -60095,11 +60407,15 @@
             "cf": "",
             "x": "Butterfly is the only stroke I can't do."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểu bơi",
+        "definition_vi": "một kiểu bơi."
       },
       {
         "definition": "the person who sets the speed at which everyone in a boat rows",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người dẫn nhịp",
+        "definition_vi": "người đặt tốc độ mà mọi người trong thuyền chèo."
       },
       {
         "definition": "an act of moving your hand gently over a surface, usually several times",
@@ -60108,7 +60424,9 @@
             "cf": "",
             "x": "He gave the cat a stroke."
           }
-        ]
+        ],
+        "short_meaning_vi": "cái vuốt ve",
+        "definition_vi": "hành động di chuyển tay nhẹ nhàng trên bề mặt, thường là nhiều lần."
       },
       {
         "definition": "a mark made by moving a pen, brush, etc. once across a surface",
@@ -60121,7 +60439,9 @@
             "cf": "",
             "x": "At the stroke of a pen (= by signing something) they removed thousands of people from the welfare system."
           }
-        ]
+        ],
+        "short_meaning_vi": "nét vẽ",
+        "definition_vi": "một dấu được tạo ra bằng cách di chuyển bút, cọ, v.v. một lần trên bề mặt."
       },
       {
         "definition": "each of the sounds made by a clock or bell giving the hours",
@@ -60134,7 +60454,9 @@
             "cf": "",
             "x": "on the stroke of three (= at 3 o’clock exactly)"
           }
-        ]
+        ],
+        "short_meaning_vi": "tiếng chuông",
+        "definition_vi": "một trong những âm thanh được tạo ra bởi đồng hồ hoặc chuông điểm giờ"
       },
       {
         "definition": "with a single immediate action",
@@ -60147,7 +60469,9 @@
             "cf": "",
             "x": "They lost half their fortune at a stroke."
           }
-        ]
+        ],
+        "short_meaning_vi": "trong một hành động",
+        "definition_vi": "với một hành động duy nhất ngay lập tức"
       },
       {
         "definition": "to make somebody make a mistake or hesitate in what they are doing",
@@ -60156,7 +60480,9 @@
             "cf": "",
             "x": "My speech was going well until I was put off my stroke by an interruption."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm cho bối rối",
+        "definition_vi": "làm cho ai đó mắc lỗi hoặc do dự trong những gì họ đang làm"
       }
     ]
   },
@@ -60183,7 +60509,9 @@
             "cf": "",
             "x": "She wasn't a strong swimmer (= she could not swim well)."
           }
-        ]
+        ],
+        "short_meaning_vi": "khỏe mạnh",
+        "definition_vi": "có nhiều sức mạnh thể chất để có thể nâng vật nặng, làm công việc thể chất nặng nhọc, v.v."
       },
       {
         "definition": "having great power",
@@ -60200,7 +60528,9 @@
             "cf": "",
             "x": "a strong magnet/current"
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "có sức mạnh lớn"
       },
       {
         "definition": "having a powerful effect on the body or mind",
@@ -60213,7 +60543,9 @@
             "cf": "",
             "x": "His imagery made a strong impression on the critics."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "có tác động mạnh mẽ đến cơ thể hoặc tâm trí"
       },
       {
         "definition": "having a lot of power or influence",
@@ -60226,11 +60558,15 @@
             "cf": "",
             "x": "What the country needs right now is a strong government."
           }
-        ]
+        ],
+        "short_meaning_vi": "có ảnh hưởng",
+        "definition_vi": "có nhiều quyền lực hoặc ảnh hưởng"
       },
       {
         "definition": "people who are rich or powerful",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "người giàu có",
+        "definition_vi": "những người giàu có hoặc quyền lực"
       },
       {
         "definition": "difficult to attack or criticize",
@@ -60243,7 +60579,9 @@
             "cf": "",
             "x": "You have a strong case for getting your job back."
           }
-        ]
+        ],
+        "short_meaning_vi": "vững chắc",
+        "definition_vi": "khó tấn công hoặc chỉ trích"
       },
       {
         "definition": "very powerful and difficult for people to fight against or defeat",
@@ -60264,7 +60602,9 @@
             "cf": "",
             "x": "He exerts an extremely strong influence on his classmates."
           }
-        ]
+        ],
+        "short_meaning_vi": "bất khả chiến bại",
+        "definition_vi": "rất mạnh mẽ và khó để mọi người chống lại hoặc đánh bại"
       },
       {
         "definition": "very powerful",
@@ -60277,7 +60617,9 @@
             "cf": "",
             "x": "People have strong feelings about this issue."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "rất mạnh mẽ"
       },
       {
         "definition": "holding an opinion or a belief very seriously",
@@ -60294,7 +60636,9 @@
             "cf": "",
             "x": "She has long been one of the strongest advocates of sanctions."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiên định",
+        "definition_vi": "giữ một ý kiến hoặc niềm tin rất nghiêm túc"
       },
       {
         "definition": "easy to see, hear, feel or smell; very great or intense",
@@ -60327,7 +60671,9 @@
             "cf": "",
             "x": "He was under strong pressure to resign."
           }
-        ]
+        ],
+        "short_meaning_vi": "rõ rệt",
+        "definition_vi": "dễ nhìn, nghe, cảm nhận hoặc ngửi thấy; rất lớn hoặc mãnh liệt"
       },
       {
         "definition": "having a lot of taste",
@@ -60340,7 +60686,9 @@
             "cf": "",
             "x": "You'll need to use plenty of strong French mustard."
           }
-        ]
+        ],
+        "short_meaning_vi": "đậm đà",
+        "definition_vi": "có nhiều hương vị"
       },
       {
         "definition": "containing a lot of a substance",
@@ -60349,7 +60697,9 @@
             "cf": "",
             "x": "strong black coffee"
           }
-        ]
+        ],
+        "short_meaning_vi": "đặc",
+        "definition_vi": "chứa nhiều một chất"
       },
       {
         "definition": "not easily broken or damaged; made well",
@@ -60358,7 +60708,9 @@
             "cf": "",
             "x": "The box looks strong enough."
           }
-        ]
+        ],
+        "short_meaning_vi": "bền chắc",
+        "definition_vi": "không dễ bị vỡ hoặc hư hỏng; được làm tốt"
       },
       {
         "definition": "not easily upset or frightened; not easily influenced by other people",
@@ -60387,7 +60739,9 @@
             "cf": "",
             "x": "We must stand strong in the face of adversity."
           }
-        ]
+        ],
+        "short_meaning_vi": "kiên cường",
+        "definition_vi": "không dễ bị tổn thương hoặc sợ hãi; không dễ bị ảnh hưởng bởi người khác"
       },
       {
         "definition": "likely to succeed or happen",
@@ -60404,7 +60758,9 @@
             "cf": "",
             "x": "There's a strong possibility that we'll lose the game."
           }
-        ]
+        ],
+        "short_meaning_vi": "khả thi",
+        "definition_vi": "có khả năng thành công hoặc xảy ra"
       },
       {
         "definition": "having existed for a long time and functioning well; difficult to destroy",
@@ -60421,7 +60777,9 @@
             "cf": "",
             "x": "I know that their relationship is growing stronger every day."
           }
-        ]
+        ],
+        "short_meaning_vi": "lâu đời",
+        "definition_vi": "tồn tại trong một thời gian dài và hoạt động tốt; khó bị phá hủy"
       },
       {
         "definition": "having a value that is high or increasing",
@@ -60442,7 +60800,9 @@
             "cf": "",
             "x": "This news helped keep the dollar relatively strong today."
           }
-        ]
+        ],
+        "short_meaning_vi": "tăng giá",
+        "definition_vi": "có giá trị cao hoặc đang tăng"
       },
       {
         "definition": "in a safe financial position",
@@ -60451,7 +60811,9 @@
             "cf": "",
             "x": "Their catering business remained strong despite the recession."
           }
-        ]
+        ],
+        "short_meaning_vi": "vững mạnh",
+        "definition_vi": "ở một vị thế tài chính an toàn"
       },
       {
         "definition": "good at something; done well",
@@ -60468,7 +60830,9 @@
             "cf": "",
             "x": "Mathematics was never my strong point (= I was never very good at it)."
           }
-        ]
+        ],
+        "short_meaning_vi": "giỏi giang",
+        "definition_vi": "giỏi về một cái gì đó; được thực hiện tốt"
       },
       {
         "definition": "great in number",
@@ -60481,7 +60845,9 @@
             "cf": "",
             "x": "Sales were surprisingly strong in the second half of the year."
           }
-        ]
+        ],
+        "short_meaning_vi": "số lượng lớn",
+        "definition_vi": "lớn về số lượng"
       },
       {
         "definition": "used after numbers to show the size of a group",
@@ -60494,7 +60860,9 @@
             "cf": "",
             "x": "The crowd was 5 000 strong."
           }
-        ]
+        ],
+        "short_meaning_vi": "quy mô lớn",
+        "definition_vi": "được sử dụng sau các số để chỉ quy mô của một nhóm"
       },
       {
         "definition": "not easily affected by disease; healthy",
@@ -60503,7 +60871,9 @@
             "cf": "",
             "x": "These vitamins are meant to keep you healthy and strong."
           }
-        ]
+        ],
+        "short_meaning_vi": "khỏe mạnh",
+        "definition_vi": "không dễ bị bệnh; khỏe mạnh"
       },
       {
         "definition": "having a lot of force, often causing offence to people",
@@ -60512,23 +60882,33 @@
             "cf": "",
             "x": "The movie has been criticized for strong language (= swearing)."
           }
-        ]
+        ],
+        "short_meaning_vi": "thô tục",
+        "definition_vi": "có nhiều lực, thường gây xúc phạm cho mọi người"
       },
       {
         "definition": "forming the past tense and past participle by changing a vowel, not by adding a regular ending, for example sing, sang, sung",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bất quy tắc",
+        "definition_vi": "hình thành thì quá khứ và quá khứ phân từ bằng cách thay đổi nguyên âm, không phải bằng cách thêm một hậu tố thông thường, ví dụ: sing, sang, sung"
       },
       {
         "definition": "used to describe the way some words are pronounced when they have stress. For example, the strong form of and is /ænd/.",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "nhấn mạnh",
+        "definition_vi": "được sử dụng để mô tả cách phát âm một số từ khi chúng được nhấn mạnh. Ví dụ, dạng nhấn mạnh của 'and' là /ænd/."
       },
       {
         "definition": "used to say that you think what somebody has said is unfair or too critical",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "quá đáng",
+        "definition_vi": "được sử dụng để nói rằng bạn nghĩ những gì ai đó đã nói là không công bằng hoặc quá phê bình"
       },
       {
         "definition": "something that gives somebody an advantage over other people in a particular situation",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "lợi thế",
+        "definition_vi": "một cái gì đó mang lại cho ai đó một lợi thế so với người khác trong một tình huống cụ thể"
       },
       {
         "definition": "to be good at something",
@@ -60537,7 +60917,9 @@
             "cf": "",
             "x": "I'm not very strong on dates (= I can't remember the dates of important events)."
           }
-        ]
+        ],
+        "short_meaning_vi": "giỏi về",
+        "definition_vi": "giỏi về một cái gì đó"
       },
       {
         "definition": "to have a lot of something",
@@ -60546,7 +60928,9 @@
             "cf": "",
             "x": "The report was strong on criticism, but short on practical suggestions."
           }
-        ]
+        ],
+        "short_meaning_vi": "có nhiều",
+        "definition_vi": "có nhiều thứ"
       },
       {
         "definition": "to be a subject that somebody knows a lot about",
@@ -60555,11 +60939,15 @@
             "cf": "",
             "x": "I'm afraid geography is not my strong suit."
           }
-        ]
+        ],
+        "short_meaning_vi": "am hiểu",
+        "definition_vi": "là một chủ đề mà ai đó biết nhiều về"
       },
       {
         "definition": "to make your feelings clear in an aggressive way, especially your sexual feelings towards somebody",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "khiêu khích",
+        "definition_vi": "làm rõ cảm xúc của bạn một cách hung hăng, đặc biệt là cảm xúc tình dục của bạn đối với ai đó"
       },
       {
         "definition": "to continue to be healthy, active or successful",
@@ -60572,7 +60960,9 @@
             "cf": "",
             "x": "The business is still going strong."
           }
-        ]
+        ],
+        "short_meaning_vi": "duy trì",
+        "definition_vi": "tiếp tục khỏe mạnh, hoạt động hoặc thành công"
       },
       {
         "definition": "to be able to see or do unpleasant things without feeling sick or upset",
@@ -60581,7 +60971,9 @@
             "cf": "",
             "x": "You need a strong stomach to go on the giant roller coaster."
           }
-        ]
+        ],
+        "short_meaning_vi": "chịu đựng được",
+        "definition_vi": "có thể nhìn hoặc làm những điều khó chịu mà không cảm thấy buồn nôn hoặc khó chịu"
       }
     ]
   },
@@ -60636,7 +61028,9 @@
             "cf": "",
             "x": "The company says it strongly believes in the importance of organic agriculture. "
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "theo một cách thể hiện ý kiến hoặc niềm tin rõ ràng và nghiêm túc"
       },
       {
         "definition": "to a great degree or extent",
@@ -60661,7 +61055,9 @@
             "cf": "",
             "x": "The evidence strongly suggests that he did not commit the crime."
           }
-        ]
+        ],
+        "short_meaning_vi": "rất nhiều",
+        "definition_vi": "ở mức độ hoặc phạm vi lớn"
       },
       {
         "definition": "in a way that is easy to notice",
@@ -60674,7 +61070,9 @@
             "cf": "",
             "x": "These works are strongly reminiscent of earlier paintings."
           }
-        ]
+        ],
+        "short_meaning_vi": "rõ ràng",
+        "definition_vi": "theo một cách dễ nhận thấy"
       },
       {
         "definition": "with a lot of power or force",
@@ -60691,7 +61089,9 @@
             "cf": "",
             "x": "The market rebounded strongly in the second half of the year."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "với nhiều sức mạnh hoặc lực"
       },
       {
         "definition": "in a way that means something cannot be easily broken or damaged",
@@ -60700,7 +61100,9 @@
             "cf": "",
             "x": "a strongly built boat"
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "theo cách mà thứ gì đó không thể dễ dàng bị phá vỡ hoặc hư hỏng"
       }
     ]
   },
@@ -60731,7 +61133,9 @@
             "cf": "",
             "x": "There is an urgent need to address structural racism within the organization."
           }
-        ]
+        ],
+        "short_meaning_vi": "kết cấu",
+        "definition_vi": "liên quan đến cách thức xây dựng hoặc tổ chức của một cái gì đó"
       }
     ]
   },
@@ -60766,7 +61170,9 @@
             "cf": "",
             "x": "the structure of proteins/DNA"
           }
-        ]
+        ],
+        "short_meaning_vi": "cấu trúc",
+        "definition_vi": "cách các bộ phận của một cái gì đó được kết nối với nhau, sắp xếp hoặc tổ chức; một sự sắp xếp các bộ phận cụ thể"
       },
       {
         "definition": "a thing that is made of several parts, especially a building",
@@ -60779,7 +61185,9 @@
             "cf": "",
             "x": "She used sand and rocks to build elaborate structures on the beach."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấu trúc",
+        "definition_vi": "một thứ được tạo ra từ nhiều bộ phận, đặc biệt là một tòa nhà"
       },
       {
         "definition": "the state of being well organized or planned with all the parts linked together; a careful plan",
@@ -60788,7 +61196,9 @@
             "cf": "",
             "x": "Your essay needs (a) structure."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấu trúc",
+        "definition_vi": "trạng thái được tổ chức hoặc lên kế hoạch tốt với tất cả các bộ phận được liên kết với nhau; một kế hoạch cẩn thận"
       }
     ]
   },
@@ -60815,7 +61225,9 @@
             "cf": "structure something around something",
             "x": "The exhibition is structured around the themes of work and leisure."
           }
-        ]
+        ],
+        "short_meaning_vi": "cấu trúc",
+        "definition_vi": "sắp xếp hoặc tổ chức một cái gì đó thành một hệ thống hoặc một khuôn mẫu"
       }
     ]
   },
@@ -60870,7 +61282,9 @@
             "cf": "",
             "x": "She will not give up her children without a struggle."
           }
-        ]
+        ],
+        "short_meaning_vi": "đấu tranh",
+        "definition_vi": "một cuộc chiến đấu khó khăn mà mọi người cố gắng giành được hoặc đạt được điều gì đó, đặc biệt là điều gì đó mà người khác không muốn họ có"
       },
       {
         "definition": "a physical fight between two people or groups of people, especially when one of them is trying to escape, or to get something from the other",
@@ -60891,7 +61305,9 @@
             "cf": "struggle against somebody",
             "x": "The group supported the armed struggle against the dictator."
           }
-        ]
+        ],
+        "short_meaning_vi": "đấu tranh",
+        "definition_vi": "một cuộc chiến đấu thể chất giữa hai người hoặc hai nhóm người, đặc biệt là khi một trong số họ đang cố gắng trốn thoát, hoặc để lấy thứ gì đó từ người kia"
       },
       {
         "definition": "something that is difficult for you to do or achieve",
@@ -60904,7 +61320,9 @@
             "cf": "",
             "x": "They face an uphill struggle to get to the finals of the competition."
           }
-        ]
+        ],
+        "short_meaning_vi": "đấu tranh",
+        "definition_vi": "một điều gì đó khó khăn cho bạn để làm hoặc đạt được"
       }
     ]
   },
@@ -60963,7 +61381,9 @@
             "cf": "",
             "x": "The housing market continues to struggle."
           }
-        ]
+        ],
+        "short_meaning_vi": "đấu tranh",
+        "definition_vi": "cố gắng rất nhiều để làm điều gì đó khi nó khó khăn hoặc khi có rất nhiều vấn đề"
       },
       {
         "definition": "to move somewhere or do something with difficulty",
@@ -60980,7 +61400,9 @@
             "cf": "",
             "x": "She had to struggle into the tight dress."
           }
-        ]
+        ],
+        "short_meaning_vi": "vật lộn",
+        "definition_vi": "di chuyển đến đâu đó hoặc làm điều gì đó một cách khó khăn"
       },
       {
         "definition": "to fight against somebody/something in order to prevent a bad situation or result",
@@ -61009,7 +61431,9 @@
             "cf": "",
             "x": "Lisa struggled with her conscience before talking to the police."
           }
-        ]
+        ],
+        "short_meaning_vi": "đấu tranh",
+        "definition_vi": "chiến đấu chống lại ai đó/điều gì đó để ngăn chặn một tình huống hoặc kết quả tồi tệ"
       },
       {
         "definition": "to fight somebody or try to get away from them",
@@ -61026,7 +61450,9 @@
             "cf": "+ adj.",
             "x": "How did she manage to struggle free?"
           }
-        ]
+        ],
+        "short_meaning_vi": "vật lộn",
+        "definition_vi": "chiến đấu với ai đó hoặc cố gắng thoát khỏi họ"
       },
       {
         "definition": "to compete or argue with somebody/something, especially in order to get something",
@@ -61039,7 +61465,9 @@
             "cf": "struggle with somebody/something (for something)",
             "x": "countries struggling with each other for economic and military advantage"
           }
-        ]
+        ],
+        "short_meaning_vi": "tranh giành",
+        "definition_vi": "cạnh tranh hoặc tranh cãi với ai đó/điều gì đó, đặc biệt là để giành được thứ gì đó"
       }
     ]
   },
@@ -61106,7 +61534,9 @@
             "cf": "",
             "x": "I did some acting in my student days."
           }
-        ]
+        ],
+        "short_meaning_vi": "sinh viên đại học",
+        "definition_vi": "một người đang học tại một trường đại học hoặc cao đẳng"
       },
       {
         "definition": "a person who is studying at a school, especially a secondary school",
@@ -61119,7 +61549,9 @@
             "cf": "",
             "x": "a teacher who engages her students"
           }
-        ]
+        ],
+        "short_meaning_vi": "học sinh",
+        "definition_vi": "một người đang học tại một trường học, đặc biệt là trường trung học"
       },
       {
         "definition": "a person who is very interested in a particular subject",
@@ -61132,7 +61564,9 @@
             "cf": "",
             "x": "He was a deeply observant man, a close student of the natural world."
           }
-        ]
+        ],
+        "short_meaning_vi": "người say mê",
+        "definition_vi": "một người rất quan tâm đến một chủ đề cụ thể"
       }
     ]
   },
@@ -61159,7 +61593,9 @@
             "cf": "",
             "x": "She has released eight studio albums."
           }
-        ]
+        ],
+        "short_meaning_vi": "phòng thu",
+        "definition_vi": "một căn phòng nơi các chương trình radio hoặc truyền hình được ghi âm và phát sóng, hoặc nơi âm nhạc được ghi âm"
       },
       {
         "definition": "a place where films are made or produced",
@@ -61172,7 +61608,9 @@
             "cf": "",
             "x": "a film studio"
           }
-        ]
+        ],
+        "short_meaning_vi": "hãng phim",
+        "definition_vi": "một nơi sản xuất phim"
       },
       {
         "definition": "a company that makes films",
@@ -61189,7 +61627,9 @@
             "cf": "",
             "x": "a studio executive"
           }
-        ]
+        ],
+        "short_meaning_vi": "hãng phim",
+        "definition_vi": "một công ty sản xuất phim"
       },
       {
         "definition": "a room where an artist works",
@@ -61206,7 +61646,9 @@
             "cf": "",
             "x": "He was hoping to convert the cellar into a photographic studio."
           }
-        ]
+        ],
+        "short_meaning_vi": "xưởng vẽ",
+        "definition_vi": "một căn phòng nơi một nghệ sĩ làm việc"
       },
       {
         "definition": "a place where dancing is taught or where dancers practise",
@@ -61215,11 +61657,15 @@
             "cf": "",
             "x": "a dance studio"
           }
-        ]
+        ],
+        "short_meaning_vi": "lớp học nhảy",
+        "definition_vi": "một nơi dạy nhảy hoặc nơi các vũ công luyện tập"
       },
       {
         "definition": "a small flat with one main room for living and sleeping in and usually a kitchen and bathroom",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "căn hộ studio",
+        "definition_vi": "một căn hộ nhỏ với một phòng chính để sinh hoạt và ngủ, và thường có nhà bếp và phòng tắm"
       }
     ]
   },
@@ -61250,7 +61696,9 @@
             "cf": "",
             "x": "Physiology is the study of how living things work."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiên cứu",
+        "definition_vi": "hoạt động học tập hoặc tiếp thu kiến thức, có thể từ sách vở hoặc bằng cách kiểm tra mọi thứ trong thế giới thực"
       },
       {
         "definition": "a particular person’s learning activities, for example at a college or university",
@@ -61263,7 +61711,9 @@
             "cf": "",
             "x": "Many undertake further studies after college."
           }
-        ]
+        ],
+        "short_meaning_vi": "việc học",
+        "definition_vi": "các hoạt động học tập của một người cụ thể, ví dụ như ở trường cao đẳng hoặc đại học"
       },
       {
         "definition": "used in the names of some academic subjects",
@@ -61272,7 +61722,9 @@
             "cf": "",
             "x": "business/media/American studies"
           }
-        ]
+        ],
+        "short_meaning_vi": "ngành học",
+        "definition_vi": "được sử dụng trong tên của một số môn học thuật"
       },
       {
         "definition": "a piece of research that examines a subject or question in detail",
@@ -61321,7 +61773,9 @@
             "cf": "according to a study",
             "x": "According to a recent study published in the Journal of Sleep Research… "
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiên cứu",
+        "definition_vi": "một công trình nghiên cứu xem xét chi tiết một chủ đề hoặc câu hỏi"
       },
       {
         "definition": "an academic book or article on a particular topic",
@@ -61334,7 +61788,9 @@
             "cf": "",
             "x": "Shakespeare is the subject of a new study by Anthony Bryan."
           }
-        ]
+        ],
+        "short_meaning_vi": "bài nghiên cứu",
+        "definition_vi": "một cuốn sách hoặc bài báo học thuật về một chủ đề cụ thể"
       },
       {
         "definition": "the act of considering or examining something in detail",
@@ -61347,7 +61803,9 @@
             "cf": "under study",
             "x": "the biochemical process under study"
           }
-        ]
+        ],
+        "short_meaning_vi": "suy ngẫm",
+        "definition_vi": "hành động xem xét hoặc kiểm tra một cái gì đó một cách chi tiết"
       },
       {
         "definition": "a room, especially in somebody’s home, used for reading and writing",
@@ -61356,7 +61814,9 @@
             "cf": "",
             "x": "She crossed the hallway and opened the door to her private study."
           }
-        ]
+        ],
+        "short_meaning_vi": "phòng làm việc",
+        "definition_vi": "một căn phòng, đặc biệt là trong nhà của ai đó, được sử dụng để đọc và viết"
       },
       {
         "definition": "a drawing or painting of something, especially one done for practice or before doing a larger picture",
@@ -61369,7 +61829,9 @@
             "cf": "",
             "x": "a nude study"
           }
-        ]
+        ],
+        "short_meaning_vi": "bản phác thảo",
+        "definition_vi": "một bức vẽ hoặc bức tranh về một cái gì đó, đặc biệt là một bức được thực hiện để luyện tập hoặc trước khi thực hiện một bức tranh lớn hơn"
       },
       {
         "definition": "the act of showing or describing somebody/something in literature or another art form, especially a character or an aspect of behaviour",
@@ -61378,11 +61840,15 @@
             "cf": "",
             "x": "The novel is a character study of a city and its people."
           }
-        ]
+        ],
+        "short_meaning_vi": "miêu tả",
+        "definition_vi": "hành động thể hiện hoặc mô tả ai đó/điều gì đó trong văn học hoặc hình thức nghệ thuật khác, đặc biệt là một nhân vật hoặc một khía cạnh của hành vi"
       },
       {
         "definition": "a piece of music designed to give a player practice in technical skills",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "bài tập",
+        "definition_vi": "một tác phẩm âm nhạc được thiết kế để người chơi luyện tập kỹ năng kỹ thuật"
       },
       {
         "definition": "a perfect example of something",
@@ -61391,11 +61857,15 @@
             "cf": "",
             "x": "His face was a study in concentration."
           }
-        ]
+        ],
+        "short_meaning_vi": "hình mẫu",
+        "definition_vi": "một ví dụ hoàn hảo về một cái gì đó"
       },
       {
         "definition": "thinking deeply so that you do not notice what is happening around you",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "mơ màng",
+        "definition_vi": "suy nghĩ sâu sắc đến mức bạn không nhận thấy những gì đang xảy ra xung quanh"
       }
     ]
   },
@@ -61446,7 +61916,9 @@
             "cf": "",
             "x": "He is studying to teach children with special needs."
           }
-        ]
+        ],
+        "short_meaning_vi": "học",
+        "definition_vi": "dành thời gian để tìm hiểu về một chủ đề bằng cách đọc, đi học, v.v."
       },
       {
         "definition": "to watch or to look at somebody/something carefully in order to find out something",
@@ -61467,7 +61939,9 @@
             "cf": "",
             "x": "She picked up the letter and studied it carefully."
           }
-        ]
+        ],
+        "short_meaning_vi": "quan sát",
+        "definition_vi": "quan sát hoặc nhìn ai đó/điều gì đó cẩn thận để tìm hiểu điều gì đó"
       },
       {
         "definition": "to examine something carefully in order to understand it",
@@ -61484,7 +61958,9 @@
             "cf": "",
             "x": "They are studying what happens to people who unexpectedly win a lot of money."
           }
-        ]
+        ],
+        "short_meaning_vi": "nghiên cứu",
+        "definition_vi": "kiểm tra một cái gì đó cẩn thận để hiểu nó"
       }
     ]
   },
@@ -61531,7 +62007,9 @@
             "cf": "",
             "x": "I want to buy some expensive tech stuff. "
           }
-        ]
+        ],
+        "short_meaning_vi": "vật liệu",
+        "definition_vi": "được sử dụng để chỉ một chất, vật liệu, nhóm đồ vật, v.v. khi bạn không biết tên, khi tên không quan trọng hoặc khi rõ ràng bạn đang nói về điều gì"
       },
       {
         "definition": "used to refer in a general way to things that people do, say, think, etc.",
@@ -61576,7 +62054,9 @@
             "cf": "",
             "x": "I've read a whole bunch of stuff by different people over the past few days. "
           }
-        ]
+        ],
+        "short_meaning_vi": "chuyện",
+        "definition_vi": "được sử dụng để chỉ một cách chung chung về những điều mọi người làm, nói, suy nghĩ, v.v."
       },
       {
         "definition": "the most important feature of something; something that something else is based on or is made from",
@@ -61601,7 +62081,9 @@
             "cf": "",
             "x": "Let’s see what stuff you’re made of (= what sort of person you are)."
           }
-        ]
+        ],
+        "short_meaning_vi": "cốt lõi",
+        "definition_vi": "yếu tố quan trọng nhất của một cái gì đó; thứ mà cái khác dựa vào hoặc được làm từ đó"
       },
       {
         "definition": "to have a stronger character and to be more determined in dealing with problems than other people",
@@ -61610,11 +62092,15 @@
             "cf": "",
             "x": "Many would have given up, but Tim was made of sterner stuff."
           }
-        ]
+        ],
+        "short_meaning_vi": "mạnh mẽ",
+        "definition_vi": "có tính cách mạnh mẽ hơn và quyết tâm hơn trong việc đối phó với các vấn đề so với người khác"
       },
       {
         "definition": "used to tell somebody not to worry about small details or things that are not important",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "đừng lo",
+        "definition_vi": "dùng để nói với ai đó đừng lo lắng về những chi tiết nhỏ hoặc những điều không quan trọng"
       },
       {
         "definition": "to do what you are good at or what you have been trained to do",
@@ -61627,7 +62113,9 @@
             "cf": "",
             "x": "The medicine has clearly done its stuff."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm tốt nhất",
+        "definition_vi": "làm những gì bạn giỏi hoặc những gì bạn đã được đào tạo để làm"
       },
       {
         "definition": "something that is so easy to do or understand that it is thought to be not very serious or only suitable for children",
@@ -61640,15 +62128,21 @@
             "cf": "",
             "x": "The movie is pure kids' stuff from beginning to end."
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ dàng",
+        "definition_vi": "thứ gì đó quá dễ dàng để làm hoặc hiểu đến mức bị coi là không nghiêm túc hoặc chỉ phù hợp với trẻ em"
       },
       {
         "definition": "to know a lot about a particular subject or job",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "biết nhiều",
+        "definition_vi": "biết nhiều về một chủ đề hoặc công việc cụ thể"
       },
       {
         "definition": "to not care at all about something",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "không quan tâm",
+        "definition_vi": "hoàn toàn không quan tâm đến một điều gì đó"
       },
       {
         "definition": "to proudly show your ability, especially at dancing or performing",
@@ -61657,11 +62151,15 @@
             "cf": "",
             "x": "strutting your stuff to the latest chart hits"
           }
-        ]
+        ],
+        "short_meaning_vi": "thể hiện tài năng",
+        "definition_vi": "tự hào thể hiện khả năng của bạn, đặc biệt là trong khiêu vũ hoặc biểu diễn"
       },
       {
         "definition": "used to say that something is stupid or not true",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "ngớ ngẩn",
+        "definition_vi": "dùng để nói rằng một điều gì đó là ngu ngốc hoặc không đúng sự thật"
       }
     ]
   },
@@ -61692,7 +62190,9 @@
             "cf": "stuff something + adj.",
             "x": "All the drawers were stuffed full of letters and papers."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhồi vào",
+        "definition_vi": "lấp đầy một không gian hoặc vật chứa chặt bằng một thứ gì đó"
       },
       {
         "definition": "to push something quickly and carelessly into a small space",
@@ -61713,7 +62213,9 @@
             "cf": "",
             "x": "The police found the money that she'd stuffed down her dress."
           }
-        ]
+        ],
+        "short_meaning_vi": "nhét vào",
+        "definition_vi": "nhét nhanh và bất cẩn một thứ gì đó vào một không gian nhỏ"
       },
       {
         "definition": "to fill a vegetable, chicken, etc. with another type of food",
@@ -61726,7 +62228,9 @@
             "cf": "",
             "x": "stuffed peppers"
           }
-        ]
+        ],
+        "short_meaning_vi": "nhồi nhân",
+        "definition_vi": "nhồi một loại thực phẩm khác vào rau, gà, v.v."
       },
       {
         "definition": "to eat a lot of food or too much food; to give somebody a lot or too much to eat",
@@ -61743,7 +62247,9 @@
             "cf": "stuff your face",
             "x": "We stuffed our faces at the party."
           }
-        ]
+        ],
+        "short_meaning_vi": "ăn nhiều",
+        "definition_vi": "ăn nhiều thức ăn hoặc quá nhiều thức ăn; cho ai đó ăn nhiều hoặc quá nhiều"
       },
       {
         "definition": "to fill the dead body of an animal with material and preserve it, so that it keeps its original shape and appearance",
@@ -61752,7 +62258,9 @@
             "cf": "have something/be stuffed",
             "x": "They had had their pet dog stuffed."
           }
-        ]
+        ],
+        "short_meaning_vi": "bảo quản xác",
+        "definition_vi": "làm đầy xác động vật chết bằng vật liệu và bảo quản nó, để nó giữ được hình dạng và vẻ ngoài ban đầu"
       },
       {
         "definition": "used to tell somebody in a rude and angry way to go away, or that you do not want something",
@@ -61761,7 +62269,9 @@
             "cf": "",
             "x": "If they don’t offer you more money, tell them to get stuffed."
           }
-        ]
+        ],
+        "short_meaning_vi": "cút đi",
+        "definition_vi": "dùng để nói với ai đó một cách thô lỗ và tức giận rằng hãy đi đi, hoặc rằng bạn không muốn một thứ gì đó"
       },
       {
         "definition": "used to show that you have changed your mind about something or do not care about something",
@@ -61774,7 +62284,9 @@
             "cf": "",
             "x": "Stuff it. At my age it doesn’t matter."
           }
-        ]
+        ],
+        "short_meaning_vi": "thay đổi ý",
+        "definition_vi": "dùng để cho thấy bạn đã thay đổi ý định về một điều gì đó hoặc không quan tâm đến một điều gì đó"
       },
       {
         "definition": "used to tell somebody in a rude and angry way that you do not want something",
@@ -61783,7 +62295,9 @@
             "cf": "",
             "x": "I told them they could stuff their job."
           }
-        ]
+        ],
+        "short_meaning_vi": "không muốn",
+        "definition_vi": "dùng để nói với ai đó một cách thô lỗ và tức giận rằng bạn không muốn một thứ gì đó"
       }
     ]
   },
@@ -61806,7 +62320,9 @@
             "cf": "stumble over/on something",
             "x": "I stumbled over a rock."
           }
-        ]
+        ],
+        "short_meaning_vi": "vấp ngã",
+        "definition_vi": "đụng chân vào vật gì đó khi đang đi bộ hoặc chạy và suýt ngã"
       },
       {
         "definition": "to walk or move in an unsteady way",
@@ -61819,7 +62335,9 @@
             "cf": "",
             "x": "We were stumbling around in the dark looking for a candle."
           }
-        ]
+        ],
+        "short_meaning_vi": "đi loạng choạng",
+        "definition_vi": "đi bộ hoặc di chuyển một cách không vững vàng"
       },
       {
         "definition": "to make a mistake or mistakes and stop while you are speaking, reading to somebody or playing music",
@@ -61832,7 +62350,9 @@
             "cf": "",
             "x": "I stumbled through the piano piece with difficulty."
           }
-        ]
+        ],
+        "short_meaning_vi": "mắc lỗi",
+        "definition_vi": "mắc lỗi và dừng lại khi đang nói, đọc cho ai đó nghe hoặc chơi nhạc"
       }
     ]
   },
@@ -61855,7 +62375,9 @@
             "cf": "",
             "x": "The animals are stunned before slaughter."
           }
-        ]
+        ],
+        "short_meaning_vi": "làm choáng",
+        "definition_vi": "làm cho một người hoặc động vật bất tỉnh trong một thời gian ngắn, đặc biệt là bằng cách đánh vào đầu họ"
       },
       {
         "definition": "to surprise or shock somebody so much that they cannot think clearly or speak",
@@ -61872,7 +62394,9 @@
             "cf": "",
             "x": "The company stunned investors with its third profits warning in five months."
           }
-        ]
+        ],
+        "short_meaning_vi": "sốc",
+        "definition_vi": "làm ai đó ngạc nhiên hoặc sốc đến mức họ không thể suy nghĩ rõ ràng hoặc nói"
       },
       {
         "definition": "to impress somebody very much",
@@ -61881,7 +62405,9 @@
             "cf": "",
             "x": "They were stunned by the view from the summit."
           }
-        ]
+        ],
+        "short_meaning_vi": "ấn tượng mạnh",
+        "definition_vi": "gây ấn tượng mạnh cho ai đó"
       }
     ]
   },
@@ -61908,7 +62434,9 @@
             "cf": "",
             "x": "His performance was simply stunning."
           }
-        ]
+        ],
+        "short_meaning_vi": "tuyệt đẹp",
+        "definition_vi": "cực kỳ hấp dẫn hoặc ấn tượng"
       },
       {
         "definition": "that surprises or shocks you very much",
@@ -61917,7 +62445,9 @@
             "cf": "",
             "x": "He suffered a stunning defeat in the election."
           }
-        ]
+        ],
+        "short_meaning_vi": "gây sốc",
+        "definition_vi": "gây ngạc nhiên hoặc sốc cho bạn rất nhiều"
       }
     ]
   },
@@ -61960,7 +62490,9 @@
             "cf": "",
             "x": "We made some incredibly stupid business mistakes."
           }
-        ]
+        ],
+        "short_meaning_vi": "thiếu suy nghĩ",
+        "definition_vi": "thể hiện sự thiếu suy nghĩ hoặc phán đoán tốt"
       },
       {
         "definition": "not clever or intelligent; slow to learn or understand",
@@ -61977,7 +62509,9 @@
             "cf": "",
             "x": "She always makes me feel really stupid."
           }
-        ]
+        ],
+        "short_meaning_vi": "kém thông minh",
+        "definition_vi": "không thông minh hoặc lanh lợi; chậm học hoặc chậm hiểu"
       },
       {
         "definition": "used to emphasize that you are annoyed with somebody/something",
@@ -61990,7 +62524,9 @@
             "cf": "",
             "x": "Get your stupid feet off the chair!"
           }
-        ]
+        ],
+        "short_meaning_vi": "bực mình",
+        "definition_vi": "dùng để nhấn mạnh rằng bạn đang bực mình với ai đó/điều gì đó"
       }
     ]
   },
@@ -62045,7 +62581,9 @@
             "cf": "",
             "x": "I'm surprised he rides a motorbike—I'd have thought big cars were more his style (= what suited him)."
           }
-        ]
+        ],
+        "short_meaning_vi": "phong cách",
+        "definition_vi": "cách thức cụ thể mà một điều gì đó được thực hiện"
       },
       {
         "definition": "a particular design of something, especially clothes",
@@ -62062,7 +62600,9 @@
             "cf": "",
             "x": "a style that was popular in the 1950s"
           }
-        ]
+        ],
+        "short_meaning_vi": "kiểu dáng",
+        "definition_vi": "thiết kế cụ thể của một thứ gì đó, đặc biệt là quần áo"
       },
       {
         "definition": "the quality of being fashionable in the clothes that you wear",
@@ -62083,7 +62623,9 @@
             "cf": "",
             "x": "They still refer to her as a style guru and a trend-setter."
           }
-        ]
+        ],
+        "short_meaning_vi": "sành điệu",
+        "definition_vi": "phẩm chất thời trang trong quần áo bạn mặc"
       },
       {
         "definition": "the quality of being attractive and made or done to a high standard",
@@ -62100,7 +62642,9 @@
             "cf": "",
             "x": "She does everything with style and grace."
           }
-        ]
+        ],
+        "short_meaning_vi": "chất lượng cao",
+        "definition_vi": "phẩm chất hấp dẫn và được làm hoặc thực hiện theo tiêu chuẩn cao"
       },
       {
         "definition": "the features of a book, painting, building, etc. that make it typical of a particular author, artist, historical period, etc.",
@@ -62129,7 +62673,9 @@
             "cf": "",
             "x": "The palace was rebuilt in the same style."
           }
-        ]
+        ],
+        "short_meaning_vi": "đặc trưng",
+        "definition_vi": "các đặc điểm của một cuốn sách, bức tranh, tòa nhà, v.v. làm cho nó điển hình của một tác giả, nghệ sĩ, thời kỳ lịch sử cụ thể, v.v."
       },
       {
         "definition": "the correct use of language",
@@ -62142,7 +62688,9 @@
             "cf": "",
             "x": "Please follow house style (= the rules of spelling, etc. used by a particular publishing company)."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngữ pháp",
+        "definition_vi": "cách sử dụng ngôn ngữ chính xác"
       },
       {
         "definition": "having the type of style mentioned",
@@ -62155,11 +62703,15 @@
             "cf": "",
             "x": "a buffet-style breakfast"
           }
-        ]
+        ],
+        "short_meaning_vi": "có phong cách",
+        "definition_vi": "có loại phong cách được đề cập"
       },
       {
         "definition": "the long, thin part of a flower that carries the stigma",
-        "examples": []
+        "examples": [],
+        "short_meaning_vi": "vòi nhụy",
+        "definition_vi": "phần dài, mỏng của hoa mang đầu nhụy"
       },
       {
         "definition": "to stop somebody from behaving in the way they want to",
@@ -62168,7 +62720,9 @@
             "cf": "",
             "x": "She didn’t want me to go with her to the party in case I cramped her style."
           }
-        ]
+        ],
+        "short_meaning_vi": "ngăn cản",
+        "definition_vi": "ngăn ai đó cư xử theo cách họ muốn"
       },
       {
         "definition": "in an impressive way",
@@ -62181,7 +62735,9 @@
             "cf": "",
             "x": "He won the championship in great style."
           }
-        ]
+        ],
+        "short_meaning_vi": "ấn tượng",
+        "definition_vi": "một cách ấn tượng"
       }
     ]
   },
@@ -62208,7 +62764,9 @@
             "cf": "",
             "x": "Flights are subject to delay because of the fog."
           }
-        ]
+        ],
+        "short_meaning_vi": "dễ bị",
+        "definition_vi": "có khả năng bị ảnh hưởng bởi một cái gì đó, đặc biệt là một cái gì đó xấu"
       },
       {
         "definition": "depending on something in order to be completed or agreed",
@@ -62229,7 +62787,9 @@
             "cf": "",
             "x": "All the holidays on offer are subject to availability."
           }
-        ]
+        ],
+        "short_meaning_vi": "phụ thuộc vào",
+        "definition_vi": "phụ thuộc vào một cái gì đó để hoàn thành hoặc được đồng ý"
       },
       {
         "definition": "under the authority of something/somebody",
