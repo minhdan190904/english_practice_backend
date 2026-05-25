@@ -44,10 +44,11 @@ public class AiService {
                 "Instructions:\n" +
                 "1. Based on the topic/content of this input, write a NEW engaging English reading passage (100-150 words) appropriate for a " + level + " level student.\n" +
                 "2. The passage should be thematically related to the input but written from scratch — do NOT copy the input verbatim.\n" +
-                "3. From your generated passage, select 5-7 vocabulary words that are challenging for " + level + " level. " +
+                "3. IMPORTANT: Write the passage in pure plain text only. Do NOT wrap any words with asterisks (**), do not use markdown formatting, bullet points, or any special characters. Only use regular letters, spaces, commas, periods, question marks, and exclamation marks.\n" +
+                "4. From your generated passage, select 5-7 vocabulary words that are challenging for " + level + " level. " +
                 "AVOID selecting extremely common words (a, the, is, are, have, go, do, say, make, know, get) and AVOID selecting any word from this list of already-learned words: [" + learnedWordsStr + "].\n" +
-                "4. For each selected word, extract it IN CONTEXT (use the exact meaning it carries in the passage).\n" +
-                "5. Provide a precise Vietnamese translation of the full passage.\n" +
+                "5. For each selected word, extract it IN CONTEXT (use the exact meaning it carries in the passage).\n" +
+                "6. Provide a precise Vietnamese translation of the full passage.\n" +
                 "Respond with a JSON object following the provided schema.";
 
         Map<String, Object> requestBody = Map.of(
@@ -112,29 +113,31 @@ public class AiService {
         String prompt;
         if (customText != null && !customText.trim().isEmpty()) {
             prompt = "Extract difficult vocabulary from the following English text for a " + level + " level student.\n" +
+                "IMPORTANT: Do NOT modify the passage text, do NOT add markdown (**), asterisks, or any special formatting.\n" +
                 "Provide:\n" +
                 "- title: a short title for the text\n" +
-                "- passage: the exact custom text provided\n" +
+                "- passage: the exact custom text provided (no markdown, no ** wrapping)\n" +
                 "- passageVi: a natural, precise Vietnamese translation of the passage\n" +
                 "- vocabulary: list of extracted words, each with:\n" +
                 "  * word: the vocabulary word\n" +
                 "  * meaning: short English definition (1 sentence)\n" +
                 "  * meaningVi: short Vietnamese translation/meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
                 "  * pronunciation: IPA pronunciation (e.g. /ˈkæbɪn/)\n" +
-                "  * example: an example sentence from the text\n\n" +
+                "  * example: an example sentence from the text (no ** or markdown)\n\n" +
                 "Text: " + customText;
         } else {
             prompt = "Generate a short English reading passage about '" + topic + "' for a " + level + " level student.\n" +
+                "IMPORTANT: Write the passage in pure plain text only. Do NOT wrap any words with asterisks (**), do not use markdown, bullet points, or special formatting.\n" +
                 "Extract difficult vocabulary from the passage. Provide:\n" +
                 "- title: a short title\n" +
-                "- passage: the reading passage\n" +
+                "- passage: the reading passage (pure plain text, no ** or markdown)\n" +
                 "- passageVi: a natural, precise Vietnamese translation of the passage\n" +
                 "- vocabulary: list of extracted words, each with:\n" +
                 "  * word: the vocabulary word\n" +
                 "  * meaning: short English definition (1 sentence)\n" +
                 "  * meaningVi: short Vietnamese translation/meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
                 "  * pronunciation: IPA pronunciation (e.g. /ˈkæbɪn/)\n" +
-                "  * example: an example sentence from the passage";
+                "  * example: an example sentence from the passage (no ** or markdown)";
         }
 
         Map<String, Object> requestBody = Map.of(

@@ -19,4 +19,6 @@ public class GenerateSamplePassageResponse {
     private String category;
     private String level;
     private int wordCount;
+    /** Base64-encoded PNG from Imagen. Null if image generation failed. */
+    private String imageBase64;
 }

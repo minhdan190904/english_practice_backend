@@ -14,6 +14,7 @@ import org.springframework.web.client.RestClient;
 import java.io.InputStream;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
 
 @Slf4j
@@ -22,11 +23,15 @@ public class VertexSamplePassageService {
 
     private final RestClient restClient;
     private final GoogleCredentials credentials;
+    private final VertexImageService vertexImageService;
     private final String projectId = "gen-lang-client-0619494454";
     private final String location = "us-central1";
 
-    public VertexSamplePassageService(@Value("classpath:gcp-service-account.json") Resource gcpResource) throws Exception {
+    public VertexSamplePassageService(
+            @Value("classpath:gcp-service-account.json") Resource gcpResource,
+            VertexImageService vertexImageService) throws Exception {
         this.restClient = RestClient.create();
+        this.vertexImageService = vertexImageService;
         try (InputStream is = gcpResource.getInputStream()) {
             this.credentials = GoogleCredentials.fromStream(is)
                     .createScoped(List.of("https://www.googleapis.com/auth/cloud-platform"));
@@ -99,17 +104,29 @@ public class VertexSamplePassageService {
             
             Map<String, String> passageMap = mapper.readValue(jsonOutput, Map.class);
             
+            String generatedTitle   = passageMap.get("title");
             String generatedPassage = passageMap.get("passage");
+
+            // ── Kick off image generation immediately (parallel with remaining processing) ──
+            CompletableFuture<String> imageFuture = CompletableFuture.supplyAsync(
+                    () -> vertexImageService.generateImage(generatedTitle, generatedPassage)
+            );
+
             int wordCount = generatedPassage.split("\\s+").length;
+            String passageVi = passageMap.get("passageVi");
+
+            // ── Join image future (may already be done by now) ──
+            String imageBase64 = imageFuture.join();
             
             return GenerateSamplePassageResponse.builder()
-                    .title(passageMap.get("title"))
+                    .title(generatedTitle)
                     .passage(generatedPassage)
-                    .passageVi(passageMap.get("passageVi"))
+                    .passageVi(passageVi)
                     .selectedWords(selectedWords)
                     .category(category)
                     .level(level)
                     .wordCount(wordCount)
+                    .imageBase64(imageBase64)
                     .build();
 
         } catch (Exception e) {
