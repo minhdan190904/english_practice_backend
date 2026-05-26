@@ -56,6 +56,7 @@ public class AiService {
                 "   and DO NOT select words already learned: [" + learnedWordsStr + "].\n" +
                 "5. For each word provide its meaning IN THE CONTEXT it appears in the passage.\n" +
                 "6. Provide a natural, fluent Vietnamese translation of the full passage.\n" +
+                "7. CRITICAL: Also provide a \"sentences\" array. Split the passage into individual sentences. For each sentence, provide BOTH the English original (\"en\") and its Vietnamese translation (\"vi\") as a pair. The English sentences concatenated must exactly reproduce the full passage text.\n" +
                 "Respond with a JSON object following the provided schema.";
 
         Map<String, Object> requestBody = Map.of(
@@ -86,9 +87,21 @@ public class AiService {
                                 ),
                                 "required", List.of("word", "meaning", "meaningVi", "pronunciation", "example")
                             )
+                        ),
+                        "sentences", Map.of(
+                            "type", "array",
+                            "description", "The passage split into individual sentences with Vietnamese translations",
+                            "items", Map.of(
+                                "type", "object",
+                                "properties", Map.of(
+                                    "en", Map.of("type", "string", "description", "One English sentence from the passage"),
+                                    "vi", Map.of("type", "string", "description", "Vietnamese translation of that sentence")
+                                ),
+                                "required", List.of("en", "vi")
+                            )
                         )
                     ),
-                    "required", List.of("title", "passage", "passageVi", "vocabulary")
+                    "required", List.of("title", "passage", "passageVi", "vocabulary", "sentences")
                 )
             )
         );
@@ -130,7 +143,8 @@ public class AiService {
                 "  * meaning: clear English definition in 1 sentence\n" +
                 "  * meaningVi: concise Vietnamese meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
                 "  * pronunciation: IPA phonetic notation (e.g. /ˈkæbɪn/)\n" +
-                "  * example: the sentence from the text where this word appears\n\n" +
+                "  * example: the sentence from the text where this word appears\n" +
+                "- sentences: Split the passage into individual sentences. For each sentence, provide BOTH the English original (\"en\") and its Vietnamese translation (\"vi\") as a pair. The English sentences concatenated must exactly reproduce the full passage text.\n\n" +
                 "Text to analyze:\n" + customText;
         } else {
             prompt = "You are an expert English teacher creating a reading lesson.\n" +
@@ -149,7 +163,8 @@ public class AiService {
                 "   * meaningVi: concise Vietnamese meaning (1-4 words)\n" +
                 "   * pronunciation: IPA phonetic notation (e.g. /ˈkæbɪn/)\n" +
                 "   * example: the exact sentence from the passage containing this word\n" +
-                "5. Provide a natural, fluent Vietnamese translation of the full passage.";
+                "5. Provide a natural, fluent Vietnamese translation of the full passage.\n" +
+                "6. CRITICAL: Also provide a \"sentences\" array. Split the passage into individual sentences. For each sentence, provide BOTH the English original (\"en\") and its Vietnamese translation (\"vi\") as a pair. The English sentences concatenated must exactly reproduce the full passage text.";
         }
 
         Map<String, Object> requestBody = Map.of(
@@ -180,9 +195,21 @@ public class AiService {
                                 ),
                                 "required", List.of("word", "meaning", "meaningVi", "pronunciation", "example")
                             )
+                        ),
+                        "sentences", Map.of(
+                            "type", "array",
+                            "description", "The passage split into individual sentences with Vietnamese translations",
+                            "items", Map.of(
+                                "type", "object",
+                                "properties", Map.of(
+                                    "en", Map.of("type", "string", "description", "One English sentence from the passage"),
+                                    "vi", Map.of("type", "string", "description", "Vietnamese translation of that sentence")
+                                ),
+                                "required", List.of("en", "vi")
+                            )
                         )
                     ),
-                    "required", List.of("title", "passage", "passageVi", "vocabulary")
+                    "required", List.of("title", "passage", "passageVi", "vocabulary", "sentences")
                 )
             )
         );

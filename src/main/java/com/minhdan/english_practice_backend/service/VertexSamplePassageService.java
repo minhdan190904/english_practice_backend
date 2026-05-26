@@ -60,6 +60,7 @@ public class VertexSamplePassageService {
                 - IMPORTANT: The passage must be pure plain text only. No markdown, no bullet points, no asterisks, no dashes, no special formatting characters of any kind. Only regular letters, spaces, commas, periods, question marks, and exclamation marks.
                 - Write in flowing prose paragraphs. Do not use numbered lists or bullet lists.
                 - Finally, provide a precise and natural Vietnamese translation of the passage you generated.
+                - CRITICAL: Also provide a "sentences" array. Split the passage into individual sentences. For each sentence, provide BOTH the English original ("en") and its Vietnamese translation ("vi") as a pair. The English sentences concatenated must exactly reproduce the full passage text.
                 """, level, category, wordsListStr, level, minWords, maxWords);
 
         Map<String, Object> requestBody = Map.of(
@@ -76,9 +77,21 @@ public class VertexSamplePassageService {
                     "properties", Map.of(
                         "title", Map.of("type", "string", "description", "A short attractive title"),
                         "passage", Map.of("type", "string", "description", "The generated English passage."),
-                        "passageVi", Map.of("type", "string", "description", "The Vietnamese translation of the passage.")
+                        "passageVi", Map.of("type", "string", "description", "The Vietnamese translation of the passage."),
+                        "sentences", Map.of(
+                            "type", "array",
+                            "description", "The passage split into individual sentences with Vietnamese translations",
+                            "items", Map.of(
+                                "type", "object",
+                                "properties", Map.of(
+                                    "en", Map.of("type", "string", "description", "One English sentence from the passage"),
+                                    "vi", Map.of("type", "string", "description", "Vietnamese translation of that sentence")
+                                ),
+                                "required", List.of("en", "vi")
+                            )
+                        )
                     ),
-                    "required", List.of("title", "passage", "passageVi")
+                    "required", List.of("title", "passage", "passageVi", "sentences")
                 )
             )
         );
@@ -102,10 +115,10 @@ public class VertexSamplePassageService {
             List<Map<String, Object>> parts = (List<Map<String, Object>>) content.get("parts");
             String jsonOutput = (String) parts.get(0).get("text");
             
-            Map<String, String> passageMap = mapper.readValue(jsonOutput, Map.class);
+            Map<String, Object> passageMap = mapper.readValue(jsonOutput, Map.class);
             
-            String generatedTitle   = passageMap.get("title");
-            String generatedPassage = passageMap.get("passage");
+            String generatedTitle   = (String) passageMap.get("title");
+            String generatedPassage = (String) passageMap.get("passage");
 
             // ── Kick off image generation immediately (parallel with remaining processing) ──
             CompletableFuture<String> imageFuture = CompletableFuture.supplyAsync(
@@ -113,7 +126,9 @@ public class VertexSamplePassageService {
             );
 
             int wordCount = generatedPassage.split("\\s+").length;
-            String passageVi = passageMap.get("passageVi");
+            String passageVi = (String) passageMap.get("passageVi");
+            @SuppressWarnings("unchecked")
+            List<Map<String, String>> sentences = (List<Map<String, String>>) passageMap.get("sentences");
 
             // ── Join image future (may already be done by now) ──
             String imageBase64 = imageFuture.join();
@@ -122,6 +137,7 @@ public class VertexSamplePassageService {
                     .title(generatedTitle)
                     .passage(generatedPassage)
                     .passageVi(passageVi)
+                    .sentences(sentences)
                     .selectedWords(selectedWords)
                     .category(category)
                     .level(level)

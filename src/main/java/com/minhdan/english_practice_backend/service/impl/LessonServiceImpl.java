@@ -47,6 +47,7 @@ public class LessonServiceImpl implements LessonService {
                 lesson.setPassageVi(req.getPassageVi());
                 lesson.setImageBase64(req.getImageBase64());
                 lesson.setWordsJson(toJson(req.getWords()));
+                lesson.setSentencesJson(sentencesToJson(req.getSentences()));
                 userLessonRepository.save(lesson);
                 updatedCount++;
             } else {
@@ -60,6 +61,7 @@ public class LessonServiceImpl implements LessonService {
                         .passageVi(req.getPassageVi())
                         .imageBase64(req.getImageBase64())
                         .wordsJson(toJson(req.getWords()))
+                        .sentencesJson(sentencesToJson(req.getSentences()))
                         .createdAt(createdAt != null ? createdAt : LocalDateTime.now())
                         .build();
                 userLessonRepository.save(lesson);
@@ -99,6 +101,7 @@ public class LessonServiceImpl implements LessonService {
                 .passageVi(entity.getPassageVi())
                 .imageBase64(entity.getImageBase64())
                 .words(fromJson(entity.getWordsJson()))
+                .sentences(sentencesFromJson(entity.getSentencesJson()))
                 .createdAt(entity.getCreatedAt() != null
                         ? entity.getCreatedAt().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME)
                         : null)
@@ -122,6 +125,26 @@ public class LessonServiceImpl implements LessonService {
         } catch (Exception e) {
             log.warn("Failed to deserialize words: {}", e.getMessage());
             return Collections.emptyList();
+        }
+    }
+
+    private String sentencesToJson(List<Map<String, String>> sentences) {
+        try {
+            if (sentences == null) return null;
+            return objectMapper.writeValueAsString(sentences);
+        } catch (Exception e) {
+            log.warn("Failed to serialize sentences: {}", e.getMessage());
+            return null;
+        }
+    }
+
+    private List<Map<String, String>> sentencesFromJson(String json) {
+        try {
+            if (json == null || json.isEmpty()) return null;
+            return objectMapper.readValue(json, new TypeReference<>() {});
+        } catch (Exception e) {
+            log.warn("Failed to deserialize sentences: {}", e.getMessage());
+            return null;
         }
     }
 

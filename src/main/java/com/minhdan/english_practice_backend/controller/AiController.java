@@ -143,6 +143,17 @@ public class AiController {
                 lesson.put("passageVi", stripMarkdown((String) lesson.get("passageVi")));
             }
 
+            // Strip markdown from sentences
+            if (lesson.containsKey("sentences")) {
+                List<Map<String, Object>> sentences = (List<Map<String, Object>>) lesson.get("sentences");
+                if (sentences != null) {
+                    for (Map<String, Object> s : sentences) {
+                        if (s.containsKey("en")) s.put("en", stripMarkdown((String) s.get("en")));
+                        if (s.containsKey("vi")) s.put("vi", stripMarkdown((String) s.get("vi")));
+                    }
+                }
+            }
+
             String passage = (String) lesson.get("passage");
             String title   = (String) lesson.get("title");
 

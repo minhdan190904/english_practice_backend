@@ -15,5 +15,6 @@ public class LessonDto {
     private String passageVi;
     private String imageBase64;
     private List<Map<String, Object>> words;
+    private List<Map<String, String>> sentences;
     private String createdAt;
 }

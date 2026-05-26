@@ -53,6 +53,10 @@ public class UserLesson {
     @Column(name = "words_json", columnDefinition = "json")
     private String wordsJson;
 
+    @JdbcTypeCode(SqlTypes.JSON)
+    @Column(name = "sentences_json", columnDefinition = "json")
+    private String sentencesJson;
+
     @Column(name = "created_at", nullable = false)
     private LocalDateTime createdAt;
 

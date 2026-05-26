@@ -6,6 +6,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import java.util.List;
+import java.util.Map;
 
 @Data
 @Builder
@@ -15,6 +16,7 @@ public class GenerateSamplePassageResponse {
     private String title;
     private String passage;
     private String passageVi;
+    private List<Map<String, String>> sentences;
     private List<SelectedWordDto> selectedWords;
     private String category;
     private String level;
