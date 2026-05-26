@@ -15,4 +15,8 @@ public class UserVocabularyDto {
     private String userDefinition;
     private String wordDataJson;
     private LocalDateTime nextReviewDate;
+    private Double easeFactor;
+    private Integer srsInterval;
+    private Integer repetitions;
+    private LocalDateTime lastReviewDate;
 }

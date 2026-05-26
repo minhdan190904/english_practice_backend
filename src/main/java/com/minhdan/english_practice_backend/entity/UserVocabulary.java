@@ -50,4 +50,20 @@ public class UserVocabulary {
 
     @Column(name = "next_review_date")
     private LocalDateTime nextReviewDate;
+
+    // === SRS (Spaced Repetition) Fields ===
+    @Column(name = "ease_factor")
+    @Builder.Default
+    private Double easeFactor = 2.5;
+
+    @Column(name = "srs_interval")
+    @Builder.Default
+    private Integer srsInterval = 0;
+
+    @Column(name = "repetitions")
+    @Builder.Default
+    private Integer repetitions = 0;
+
+    @Column(name = "last_review_date")
+    private LocalDateTime lastReviewDate;
 }

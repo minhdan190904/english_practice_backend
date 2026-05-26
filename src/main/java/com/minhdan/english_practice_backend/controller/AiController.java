@@ -7,6 +7,7 @@ import com.minhdan.english_practice_backend.model.Sense;
 import com.minhdan.english_practice_backend.model.VocabularyWord;
 import com.minhdan.english_practice_backend.service.AiService;
 import com.minhdan.english_practice_backend.service.OxfordLookupService;
+import com.minhdan.english_practice_backend.service.TelegramService;
 import com.minhdan.english_practice_backend.service.VertexImageService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -26,6 +27,7 @@ public class AiController {
     private final AiService aiService;
     private final OxfordLookupService oxfordLookup;
     private final VertexImageService vertexImageService;
+    private final TelegramService telegramService;
     private final ObjectMapper objectMapper = new ObjectMapper();
 
     // Common English stop words — never highlight these
@@ -47,15 +49,78 @@ public class AiController {
 
     @PostMapping("/generate-lesson")
     public ResponseEntity<String> generateLesson(@RequestBody GenerateLessonRequest request) {
+        long t0 = System.currentTimeMillis();
+        log.info("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+        log.info("📝 [LESSON] START  topic='{}' level='{}'", request.getTopic(), request.getLevel());
+
+        long t1 = System.currentTimeMillis();
         String raw = aiService.generateLesson(request.getTopic(), request.getLevel(), request.getCustomText());
-        return ResponseEntity.ok(enrichAndClean(raw, request.getLevel()));
+        long passageMs = System.currentTimeMillis() - t1;
+        log.info("🤖 [STEP 1] Passage generated  → {}ms", passageMs);
+
+        long[] timings = new long[3]; // [vocabMs, imageMs, waitMs]
+        String result = enrichAndClean(raw, request.getLevel(), timings);
+        long totalMs = System.currentTimeMillis() - t0;
+        log.info("✅ [LESSON] DONE   total        → {}ms", totalMs);
+        log.info("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+
+        // Send timing report to Telegram (async, non-blocking)
+        final String topic = request.getTopic();
+        final String level = request.getLevel();
+        CompletableFuture.runAsync(() -> telegramService.sendMessage(
+            "<b>📚 AI Lesson Generated</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "📌 Topic: <b>" + topic + "</b>\n" +
+            "🎯 Level: <b>" + level + "</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "🤖 Step 1 - Passage (Gemini 2.5 Flash): <b>" + passageMs + "ms</b>\n" +
+            "📖 Step 3A - Oxford Vocab Lookup:        <b>" + timings[0] + "ms</b>\n" +
+            "🖼 Step 3B - Image (Imagen 3 Fast):      <b>" + timings[1] + "ms</b>\n" +
+            "⏳ Step 4  - Wait for image future:      <b>+" + timings[2] + "ms</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "✅ Total: <b>" + totalMs + "ms</b> (~" + (totalMs / 1000) + "s)"
+        ));
+
+        return ResponseEntity.ok(result);
     }
 
     @PostMapping("/generate-lesson-from-input")
     public ResponseEntity<String> generateLessonFromInput(@RequestBody GenerateLessonFromInputRequest request) {
+        long t0 = System.currentTimeMillis();
+        log.info("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+        log.info("📝 [LESSON-INPUT] START  level='{}'", request.getLevel());
+
         String level = request.getLevel() != null ? request.getLevel() : "B1";
+        long t1 = System.currentTimeMillis();
         String raw = aiService.generateLessonFromInput(request.getInputText(), level, request.getLearnedWords());
-        return ResponseEntity.ok(enrichAndClean(raw, level));
+        long passageMs = System.currentTimeMillis() - t1;
+        log.info("🤖 [STEP 1] Passage generated  → {}ms", passageMs);
+
+        long[] timings = new long[3]; // [vocabMs, imageMs, waitMs]
+        String result = enrichAndClean(raw, level, timings);
+        long totalMs = System.currentTimeMillis() - t0;
+        log.info("✅ [LESSON-INPUT] DONE   total  → {}ms", totalMs);
+        log.info("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+
+        // Send timing report to Telegram (async, non-blocking)
+        final String inputPreview = request.getInputText() != null
+                ? request.getInputText().substring(0, Math.min(50, request.getInputText().length()))
+                : "(empty)";
+        CompletableFuture.runAsync(() -> telegramService.sendMessage(
+            "<b>📚 AI Lesson (From Input) Generated</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "✏️ Input: <i>" + inputPreview + "...</i>\n" +
+            "🎯 Level: <b>" + level + "</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "🤖 Step 1 - Passage (Gemini 2.5 Flash): <b>" + passageMs + "ms</b>\n" +
+            "📖 Step 3A - Oxford Vocab Lookup:        <b>" + timings[0] + "ms</b>\n" +
+            "🖼 Step 3B - Image (Imagen 3 Fast):      <b>" + timings[1] + "ms</b>\n" +
+            "⏳ Step 4  - Wait for image future:      <b>+" + timings[2] + "ms</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "✅ Total: <b>" + totalMs + "ms</b> (~" + (totalMs / 1000) + "s)"
+        ));
+
+        return ResponseEntity.ok(result);
     }
 
     /**
@@ -63,9 +128,10 @@ public class AiController {
      * 2. Replace AI-selected vocab with pure Oxford algorithm
      * 3. Generate illustration image via Imagen 3 Fast
      *    — kicked off BEFORE vocab selection so both run in parallel.
+     * timings: long[3] — [0]=vocabMs, [1]=imageMs, [2]=waitMs (written by this method)
      */
     @SuppressWarnings("unchecked")
-    private String enrichAndClean(String jsonStr, String level) {
+    private String enrichAndClean(String jsonStr, String level, long[] timings) {
         try {
             Map<String, Object> lesson = objectMapper.readValue(jsonStr, Map.class);
 
@@ -82,22 +148,46 @@ public class AiController {
 
             // --- 2. Kick off image generation NOW (parallel with vocab selection below) ---
             final String passageForImage = passage;
+            final long imageStart = System.currentTimeMillis();
             CompletableFuture<String> imageFuture = (passage != null && !passage.isBlank())
-                    ? CompletableFuture.supplyAsync(() -> vertexImageService.generateImage(title, passageForImage))
+                    ? CompletableFuture.supplyAsync(() -> {
+                          log.info("🖼️  [STEP 3B] Image generation  STARTED  (async thread)");
+                          String img = vertexImageService.generateImage(title, passageForImage);
+                          if (timings != null) timings[1] = System.currentTimeMillis() - imageStart;
+                          log.info("🖼️  [STEP 3B] Image generation  DONE     → {}ms", timings != null ? timings[1] : "?");
+                          return img;
+                      })
                     : CompletableFuture.completedFuture(null);
 
             // --- 3. Oxford-only vocab selection (runs concurrently with image generation) ---
             if (passage != null && !passage.isBlank()) {
+                long vocabStart = System.currentTimeMillis();
+                log.info("📖 [STEP 3A] Oxford vocab lookup STARTED");
                 List<Map<String, Object>> oxfordVocab = selectVocabFromOxford(passage, level);
+                if (timings != null) timings[0] = System.currentTimeMillis() - vocabStart;
+                log.info("📖 [STEP 3A] Oxford vocab lookup DONE    → {}ms  ({} words found)",
+                        timings != null ? timings[0] : "?", oxfordVocab.size());
                 if (!oxfordVocab.isEmpty()) {
                     lesson.put("vocabulary", oxfordVocab);
                 }
             }
 
             // --- 4. Join image future (may already be done by now) ---
+            long joinStart = System.currentTimeMillis();
             String imageBase64 = imageFuture.join();
+            long joinWait = System.currentTimeMillis() - joinStart;
+            if (timings != null) timings[2] = joinWait;
+            if (joinWait > 50) {
+                log.info("⏳ [STEP 4]  Waited for image future  → +{}ms  (image was the bottleneck)", joinWait);
+            } else {
+                log.info("⚡ [STEP 4]  Image was already ready   → +{}ms  (vocab was the bottleneck)", joinWait);
+            }
             if (imageBase64 != null) {
+                log.info("🖼️  [STEP 4]  imageBase64 size          → {} bytes (~{}KB)",
+                        imageBase64.length(), imageBase64.length() / 1024);
                 lesson.put("imageBase64", imageBase64);
+            } else {
+                log.warn("⚠️  [STEP 4]  imageBase64 is NULL — image generation may have failed");
             }
 
             return objectMapper.writeValueAsString(lesson);
@@ -205,8 +295,17 @@ public class AiController {
     }
 
     private List<String> getTargetLevels(String level) {
-        if (level == null) return List.of("A1","A2","B1","B2","C1","C2");
-        switch (level.toUpperCase()) {
+        if (level == null || level.isBlank()) return List.of("A1","A2","B1","B2","C1","C2");
+        
+        // Extract just the level code (e.g. "B1 - Intermediate" -> "B1")
+        String code = level.trim().toUpperCase();
+        if (code.contains("-")) {
+            code = code.split("-")[0].trim();
+        } else if (code.contains(" ")) {
+            code = code.split(" ")[0].trim();
+        }
+
+        switch (code) {
             case "A1": return List.of("A1","A2");
             case "A2": return List.of("A1","A2","B1");
             case "B1": return List.of("A2","B1","B2");

@@ -50,9 +50,7 @@ public class VertexImageService {
                 ),
                 "parameters", Map.of(
                     "sampleCount", 1,
-                    "aspectRatio", "16:9",
-                    "safetySetting", "block_few",
-                    "personGeneration", "allow_adult"
+                    "aspectRatio", "16:9"
                 )
             );
 
@@ -123,7 +121,11 @@ public class VertexImageService {
                 + "Topic: \"" + safeTitle + "\". "
                 + "Style: modern digital art, bright friendly colors, clean composition, "
                 + "cinematic wide shot, photorealistic or stylized painting. "
-                + "No text, no letters, no words, no numbers, no logos, no watermarks.";
+                + "The scene must be set in a real-world natural or everyday environment — "
+                + "people, places, nature, food, or objects related to the topic. "
+                + "No text, no letters, no words, no numbers, no logos, no watermarks, "
+                + "no smartphones, no mobile phones, no tablets, no computer screens, "
+                + "no devices, no UI elements, no frames, no borders.";
     }
 }
 

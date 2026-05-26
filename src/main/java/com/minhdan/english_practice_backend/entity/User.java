@@ -20,7 +20,10 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "firebase_uid", unique = true, nullable = false)
+    @Column(name = "device_id", unique = true)
+    private String deviceId;
+
+    @Column(name = "firebase_uid", unique = true)
     private String firebaseUid;
 
     @Column(name = "email")

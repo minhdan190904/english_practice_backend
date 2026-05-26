@@ -1,6 +1,7 @@
 package com.minhdan.english_practice_backend.config;
 
-import com.minhdan.english_practice_backend.security.FirebaseTokenFilter;
+import com.minhdan.english_practice_backend.security.ApiKeyFilter;
+import com.minhdan.english_practice_backend.security.JwtAuthFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -21,7 +22,8 @@ import java.util.List;
 @RequiredArgsConstructor
 public class SecurityConfig {
 
-    private final FirebaseTokenFilter firebaseTokenFilter;
+    private final ApiKeyFilter apiKeyFilter;
+    private final JwtAuthFilter jwtAuthFilter;
 
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
@@ -30,11 +32,15 @@ public class SecurityConfig {
             .cors(cors -> cors.configurationSource(corsConfigurationSource()))
             .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
             .authorizeHttpRequests(auth -> auth
+                // Public auth endpoints
+                .requestMatchers("/api/v1/user/register", "/api/v1/user/register-device", "/api/v1/user/refresh").permitAll()
                 .requestMatchers("/api/v1/public/**").permitAll()
+                // All other API endpoints require JWT
                 .requestMatchers("/api/v1/**").authenticated()
                 .anyRequest().permitAll()
             )
-            .addFilterBefore(firebaseTokenFilter, UsernamePasswordAuthenticationFilter.class);
+            .addFilterBefore(apiKeyFilter, UsernamePasswordAuthenticationFilter.class)
+            .addFilterBefore(jwtAuthFilter, UsernamePasswordAuthenticationFilter.class);
 
         return http.build();
     }

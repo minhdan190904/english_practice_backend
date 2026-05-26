@@ -39,16 +39,23 @@ public class AiService {
                 ? String.join(", ", learnedWords)
                 : "(none)";
 
-        String prompt = "You are an expert English teacher. A student at level " + level + " provided the following input:\n\n" +
-                "\"" + inputText + "\"\n\n" +
-                "Instructions:\n" +
-                "1. Based on the topic/content of this input, write a NEW engaging English reading passage (100-150 words) appropriate for a " + level + " level student.\n" +
-                "2. The passage should be thematically related to the input but written from scratch — do NOT copy the input verbatim.\n" +
-                "3. IMPORTANT: Write the passage in pure plain text only. Do NOT wrap any words with asterisks (**), do not use markdown formatting, bullet points, or any special characters. Only use regular letters, spaces, commas, periods, question marks, and exclamation marks.\n" +
-                "4. From your generated passage, select 5-7 vocabulary words that are challenging for " + level + " level. " +
-                "AVOID selecting extremely common words (a, the, is, are, have, go, do, say, make, know, get) and AVOID selecting any word from this list of already-learned words: [" + learnedWordsStr + "].\n" +
-                "5. For each selected word, extract it IN CONTEXT (use the exact meaning it carries in the passage).\n" +
-                "6. Provide a precise Vietnamese translation of the full passage.\n" +
+        String prompt = "You are an expert English teacher creating a personalized lesson.\n" +
+                "A student at level " + level + " entered the following words/topic as their focus:\n\n" +
+                "USER INPUT: \"" + inputText + "\"\n\n" +
+                "STRICT INSTRUCTIONS:\n" +
+                "1. The words or phrases in the USER INPUT are the CORE FOCUS of this lesson. " +
+                "   You MUST naturally weave ALL the key words/phrases from the input into the passage. " +
+                "   The passage must feel like it was written specifically around those words.\n" +
+                "2. Write a NEW engaging English reading passage of 120-160 words at " + level + " level. " +
+                "   The passage must flow naturally and tell a coherent short story or explain a concept.\n" +
+                "3. Write in PURE PLAIN TEXT only — no asterisks (**), no markdown, no bullet points, no special characters. " +
+                "   Use only letters, spaces, commas, periods, question marks, and exclamation marks.\n" +
+                "4. Select 5-7 vocabulary words FROM THE PASSAGE that match " + level + " difficulty. " +
+                "   PRIORITIZE words that came from the user's input. " +
+                "   DO NOT select: stop words (a, the, is, are, have, go, do, say, make, know, get) " +
+                "   and DO NOT select words already learned: [" + learnedWordsStr + "].\n" +
+                "5. For each word provide its meaning IN THE CONTEXT it appears in the passage.\n" +
+                "6. Provide a natural, fluent Vietnamese translation of the full passage.\n" +
                 "Respond with a JSON object following the provided schema.";
 
         Map<String, Object> requestBody = Map.of(
@@ -91,7 +98,7 @@ public class AiService {
             String accessToken = credentials.getAccessToken().getTokenValue();
 
             String response = restClient.post()
-                    .uri("https://" + location + "-aiplatform.googleapis.com/v1/projects/" + projectId + "/locations/" + location + "/publishers/google/models/gemini-2.5-flash-lite:generateContent")
+                    .uri("https://" + location + "-aiplatform.googleapis.com/v1/projects/" + projectId + "/locations/" + location + "/publishers/google/models/gemini-2.5-flash:generateContent")
                     .header("Authorization", "Bearer " + accessToken)
                     .contentType(MediaType.APPLICATION_JSON)
                     .body(requestBody)
@@ -112,32 +119,37 @@ public class AiService {
     public String generateLesson(String topic, String level, String customText) {
         String prompt;
         if (customText != null && !customText.trim().isEmpty()) {
-            prompt = "Extract difficult vocabulary from the following English text for a " + level + " level student.\n" +
-                "IMPORTANT: Do NOT modify the passage text, do NOT add markdown (**), asterisks, or any special formatting.\n" +
+            prompt = "You are an expert English teacher. Extract vocabulary from this text for a " + level + " level student.\n" +
+                "STRICT RULES: Do NOT modify the passage text at all. No markdown (**), no asterisks, no special formatting.\n" +
                 "Provide:\n" +
-                "- title: a short title for the text\n" +
-                "- passage: the exact custom text provided (no markdown, no ** wrapping)\n" +
-                "- passageVi: a natural, precise Vietnamese translation of the passage\n" +
-                "- vocabulary: list of extracted words, each with:\n" +
-                "  * word: the vocabulary word\n" +
-                "  * meaning: short English definition (1 sentence)\n" +
-                "  * meaningVi: short Vietnamese translation/meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
-                "  * pronunciation: IPA pronunciation (e.g. /ˈkæbɪn/)\n" +
-                "  * example: an example sentence from the text (no ** or markdown)\n\n" +
-                "Text: " + customText;
+                "- title: a concise, descriptive title that reflects the text's main theme\n" +
+                "- passage: the EXACT custom text provided, word-for-word (no edits, no markdown)\n" +
+                "- passageVi: a natural, fluent Vietnamese translation of the passage\n" +
+                "- vocabulary: 5-8 challenging words for " + level + " level, each with:\n" +
+                "  * word: the vocabulary word (as it appears in the text)\n" +
+                "  * meaning: clear English definition in 1 sentence\n" +
+                "  * meaningVi: concise Vietnamese meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
+                "  * pronunciation: IPA phonetic notation (e.g. /ˈkæbɪn/)\n" +
+                "  * example: the sentence from the text where this word appears\n\n" +
+                "Text to analyze:\n" + customText;
         } else {
-            prompt = "Generate a short English reading passage about '" + topic + "' for a " + level + " level student.\n" +
-                "IMPORTANT: Write the passage in pure plain text only. Do NOT wrap any words with asterisks (**), do not use markdown, bullet points, or special formatting.\n" +
-                "Extract difficult vocabulary from the passage. Provide:\n" +
-                "- title: a short title\n" +
-                "- passage: the reading passage (pure plain text, no ** or markdown)\n" +
-                "- passageVi: a natural, precise Vietnamese translation of the passage\n" +
-                "- vocabulary: list of extracted words, each with:\n" +
-                "  * word: the vocabulary word\n" +
-                "  * meaning: short English definition (1 sentence)\n" +
-                "  * meaningVi: short Vietnamese translation/meaning (1-4 words, e.g. 'buồng tàu', 'thói quen')\n" +
-                "  * pronunciation: IPA pronunciation (e.g. /ˈkæbɪn/)\n" +
-                "  * example: an example sentence from the passage (no ** or markdown)";
+            prompt = "You are an expert English teacher creating a reading lesson.\n" +
+                "TOPIC/CATEGORY: '" + topic + "'\n" +
+                "STUDENT LEVEL: " + level + "\n\n" +
+                "STRICT INSTRUCTIONS:\n" +
+                "1. Write an engaging English reading passage of 120-160 words STRICTLY about '" + topic + "'. " +
+                "   The passage must be deeply focused on this topic — every sentence should relate to '" + topic + "'. " +
+                "   Include realistic details, specific vocabulary, and vivid descriptions relevant to '" + topic + "'.\n" +
+                "2. Write in PURE PLAIN TEXT only — absolutely no asterisks (**), no markdown, no bullet points. " +
+                "   Use only letters, spaces, commas, periods, question marks, and exclamation marks.\n" +
+                "3. The passage should read like a natural, interesting mini-article or story about '" + topic + "'.\n" +
+                "4. Extract 5-7 vocabulary words from the passage appropriate for " + level + " difficulty, each with:\n" +
+                "   * word: the vocabulary word as it appears in the passage\n" +
+                "   * meaning: clear English definition in 1 sentence\n" +
+                "   * meaningVi: concise Vietnamese meaning (1-4 words)\n" +
+                "   * pronunciation: IPA phonetic notation (e.g. /ˈkæbɪn/)\n" +
+                "   * example: the exact sentence from the passage containing this word\n" +
+                "5. Provide a natural, fluent Vietnamese translation of the full passage.";
         }
 
         Map<String, Object> requestBody = Map.of(
@@ -180,7 +192,7 @@ public class AiService {
             String accessToken = credentials.getAccessToken().getTokenValue();
 
             String response = restClient.post()
-                    .uri("https://" + location + "-aiplatform.googleapis.com/v1/projects/" + projectId + "/locations/" + location + "/publishers/google/models/gemini-2.5-flash-lite:generateContent")
+                    .uri("https://" + location + "-aiplatform.googleapis.com/v1/projects/" + projectId + "/locations/" + location + "/publishers/google/models/gemini-2.5-flash:generateContent")
                     .header("Authorization", "Bearer " + accessToken)
                     .contentType(MediaType.APPLICATION_JSON)
                     .body(requestBody)
