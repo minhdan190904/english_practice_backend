@@ -40,6 +40,12 @@ public class VocabularyServiceImpl implements VocabularyService {
             vocab.setWordDataJson(request.getWordDataJson());
             vocab.setNextReviewDate(request.getNextReviewDate());
 
+            // SRS fields (null-safe)
+            if (request.getEaseFactor() != null) vocab.setEaseFactor(request.getEaseFactor());
+            if (request.getSrsInterval() != null) vocab.setSrsInterval(request.getSrsInterval());
+            if (request.getRepetitions() != null) vocab.setRepetitions(request.getRepetitions());
+            if (request.getLastReviewDate() != null) vocab.setLastReviewDate(request.getLastReviewDate());
+
             return userVocabularyRepository.save(vocab);
         }).collect(Collectors.toList());
 
