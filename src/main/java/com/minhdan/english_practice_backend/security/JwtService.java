@@ -22,7 +22,7 @@ public class JwtService {
 
     private final JwtKeyProvider keyProvider;
 
-    @Value("${jwt.access-token-expiration-ms:900000}")  // 15 minutes
+    @Value("${jwt.access-token-expiration-ms:3600000}")  // 1 hour
     private long accessTokenExpirationMs;
 
     @Value("${jwt.refresh-token-expiration-ms:2592000000}")  // 30 days
@@ -95,9 +95,9 @@ public class JwtService {
     /**
      * Extract user ID from token (even if expired, for refresh flow).
      */
-    public Long extractUserId(String token) {
+    public String extractUserId(String token) {
         Claims claims = parseToken(token);
-        return Long.valueOf(claims.getSubject());
+        return claims.getSubject();
     }
 
     /**

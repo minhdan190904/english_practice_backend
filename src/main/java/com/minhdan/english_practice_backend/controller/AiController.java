@@ -6,6 +6,7 @@ import com.minhdan.english_practice_backend.dto.request.GenerateLessonFromInputR
 import com.minhdan.english_practice_backend.model.Sense;
 import com.minhdan.english_practice_backend.model.VocabularyWord;
 import com.minhdan.english_practice_backend.service.AiService;
+import com.minhdan.english_practice_backend.service.CloudflareR2Service;
 import com.minhdan.english_practice_backend.service.OxfordLookupService;
 import com.minhdan.english_practice_backend.service.TelegramService;
 import com.minhdan.english_practice_backend.service.VertexImageService;
@@ -28,6 +29,7 @@ public class AiController {
     private final OxfordLookupService oxfordLookup;
     private final VertexImageService vertexImageService;
     private final TelegramService telegramService;
+    private final CloudflareR2Service cloudflareR2Service;
     private final ObjectMapper objectMapper = new ObjectMapper();
 
     // Common English stop words — never highlight these
@@ -194,9 +196,19 @@ public class AiController {
                 log.info("⚡ [STEP 4]  Image was already ready   → +{}ms  (vocab was the bottleneck)", joinWait);
             }
             if (imageBase64 != null) {
-                log.info("🖼️  [STEP 4]  imageBase64 size          → {} bytes (~{}KB)",
+                log.info("🎨  [STEP 4]  imageBase64 size          → {} bytes (~{}KB)",
                         imageBase64.length(), imageBase64.length() / 1024);
-                lesson.put("imageBase64", imageBase64);
+                // Upload to Cloudflare R2 and return URL instead of base64
+                String title2 = (String) lesson.getOrDefault("title", "lesson");
+                String imageUrl = cloudflareR2Service.uploadImage(imageBase64, title2);
+                if (imageUrl != null) {
+                    lesson.put("imageUrl", imageUrl);
+                    log.info("☁️  [STEP 5]  Image uploaded to R2      → {}", imageUrl);
+                } else {
+                    // Fallback: still send base64 if R2 upload fails
+                    lesson.put("imageBase64", imageBase64);
+                    log.warn("☁️  [STEP 5]  R2 upload failed, falling back to base64");
+                }
             } else {
                 log.warn("⚠️  [STEP 4]  imageBase64 is NULL — image generation may have failed");
             }

@@ -14,7 +14,7 @@ import java.time.LocalDate;
 public class UserStreak {
 
     @Id
-    private Long userId;
+    private String userId;
 
     @OneToOne(fetch = FetchType.LAZY)
     @MapsId

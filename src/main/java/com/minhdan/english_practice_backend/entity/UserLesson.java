@@ -49,6 +49,9 @@ public class UserLesson {
     @Column(name = "image_base64", columnDefinition = "LONGTEXT")
     private String imageBase64;
 
+    @Column(name = "image_url")
+    private String imageUrl;
+
     @JdbcTypeCode(SqlTypes.JSON)
     @Column(name = "words_json", columnDefinition = "json")
     private String wordsJson;

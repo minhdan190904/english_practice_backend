@@ -12,7 +12,7 @@ import lombok.*;
 public class UserSetting {
 
     @Id
-    private Long userId;
+    private String userId;
 
     @OneToOne(fetch = FetchType.LAZY)
     @MapsId

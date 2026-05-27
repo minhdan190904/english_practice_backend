@@ -46,7 +46,7 @@ public class JwtAuthFilter extends OncePerRequestFilter {
                     // Only process ACCESS tokens (not REFRESH)
                     String tokenType = claims.get("type", String.class);
                     if ("ACCESS".equals(tokenType)) {
-                        Long userId = Long.valueOf(claims.getSubject());
+                        String userId = claims.getSubject();
                         String role = claims.get("role", String.class);
 
                         User user = userRepository.findById(userId).orElse(null);

@@ -46,6 +46,7 @@ public class LessonServiceImpl implements LessonService {
                 lesson.setPassage(req.getPassage());
                 lesson.setPassageVi(req.getPassageVi());
                 lesson.setImageBase64(req.getImageBase64());
+                lesson.setImageUrl(req.getImageUrl());
                 lesson.setWordsJson(toJson(req.getWords()));
                 lesson.setSentencesJson(sentencesToJson(req.getSentences()));
                 userLessonRepository.save(lesson);
@@ -60,6 +61,7 @@ public class LessonServiceImpl implements LessonService {
                         .passage(req.getPassage())
                         .passageVi(req.getPassageVi())
                         .imageBase64(req.getImageBase64())
+                        .imageUrl(req.getImageUrl())
                         .wordsJson(toJson(req.getWords()))
                         .sentencesJson(sentencesToJson(req.getSentences()))
                         .createdAt(createdAt != null ? createdAt : LocalDateTime.now())
@@ -100,6 +102,7 @@ public class LessonServiceImpl implements LessonService {
                 .passage(entity.getPassage())
                 .passageVi(entity.getPassageVi())
                 .imageBase64(entity.getImageBase64())
+                .imageUrl(entity.getImageUrl())
                 .words(fromJson(entity.getWordsJson()))
                 .sentences(sentencesFromJson(entity.getSentencesJson()))
                 .createdAt(entity.getCreatedAt() != null

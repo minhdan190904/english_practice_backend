@@ -7,7 +7,7 @@ import lombok.Data;
 @Builder
 public class CheckGoogleResponse {
     private boolean exists;
-    private Long existingUserId;
+    private String existingUserId;
     private String existingEmail;
     private String existingDisplayName;
     private String existingAvatarUrl;

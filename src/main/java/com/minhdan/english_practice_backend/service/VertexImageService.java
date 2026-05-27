@@ -21,8 +21,8 @@ public class VertexImageService {
     private final GoogleCredentials credentials;
     private final String projectId = "gen-lang-client-0619494454";
     private final String location = "us-central1";
-    // Imagen 3 Fast — "banana 1" (imagegeneration@006 is EOL, migrated to imagen-3.0-fast-generate-001)
-    private static final String MODEL = "imagen-3.0-fast-generate-001";
+    // Imagen 3 High Quality
+    private static final String MODEL = "imagen-3.0-generate-002";
 
     public VertexImageService(@Value("classpath:gcp-service-account.json") Resource gcpResource) throws Exception {
         this.restClient = RestClient.create();

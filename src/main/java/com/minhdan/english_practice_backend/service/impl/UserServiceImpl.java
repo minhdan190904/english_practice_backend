@@ -371,7 +371,7 @@ public class UserServiceImpl implements UserService {
             refreshTokenRepository.save(storedToken);
 
             // 5. Get user
-            Long userId = jwtService.extractUserId(rawRefreshToken);
+            String userId = jwtService.extractUserId(rawRefreshToken);
             User user = userRepository.findById(userId)
                     .orElseThrow(() -> new RuntimeException("User not found"));
 

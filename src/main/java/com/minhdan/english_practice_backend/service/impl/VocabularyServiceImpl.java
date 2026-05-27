@@ -34,8 +34,8 @@ public class VocabularyServiceImpl implements VocabularyService {
                     .word(request.getWord())
                     .build());
 
-            // Upsert fields
-            vocab.setStatus(request.getStatus());
+            // Upsert fields — normalize legacy statuses (STARRED/LEARNING → STUDYING)
+            vocab.setStatus(request.getStatus() != null ? request.getStatus().normalize() : null);
             vocab.setUserDefinition(request.getUserDefinition());
             vocab.setWordDataJson(request.getWordDataJson());
             vocab.setNextReviewDate(request.getNextReviewDate());
@@ -116,7 +116,7 @@ public class VocabularyServiceImpl implements VocabularyService {
         return UserVocabularyDto.builder()
                 .id(entity.getId())
                 .word(entity.getWord())
-                .status(entity.getStatus())
+                .status(entity.getStatus() != null ? entity.getStatus().normalize() : null)
                 .userDefinition(entity.getUserDefinition())
                 .wordDataJson(entity.getWordDataJson())
                 .nextReviewDate(entity.getNextReviewDate())
