@@ -44,6 +44,9 @@ public class User {
     @Column(name = "is_anonymous", nullable = false)
     private Boolean isAnonymous = true;
 
+    @Column(name = "password")
+    private String password;
+
     @Enumerated(EnumType.STRING)
     @Column(name = "role", nullable = false)
     private Role role;

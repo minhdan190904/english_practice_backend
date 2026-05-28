@@ -16,4 +16,5 @@ public interface UserVocabularyRepository extends JpaRepository<UserVocabulary, 
     Optional<UserVocabulary> findByUserAndWord(User user, String word);
     List<UserVocabulary> findByUserAndNextReviewDateBeforeOrderByNextReviewDateAsc(User user, LocalDateTime now);
     List<UserVocabulary> findByUser(User user);
+    void deleteByUser(User user);
 }

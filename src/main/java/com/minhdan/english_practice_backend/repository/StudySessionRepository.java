@@ -23,4 +23,6 @@ public interface StudySessionRepository extends JpaRepository<StudySession, Long
 
     @Query("SELECT SUM(s.lessonsCompleted) FROM StudySession s WHERE s.user = :user")
     Integer sumLessonsCompletedByUser(@Param("user") User user);
+
+    void deleteByUser(User user);
 }

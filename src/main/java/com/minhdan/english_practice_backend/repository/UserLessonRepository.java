@@ -18,4 +18,6 @@ public interface UserLessonRepository extends JpaRepository<UserLesson, Long> {
     void deleteByUserAndLessonId(User user, String lessonId);
 
     long countByUser(User user);
+
+    void deleteByUser(User user);
 }

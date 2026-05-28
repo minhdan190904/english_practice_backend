@@ -34,6 +34,7 @@ public class SecurityConfig {
             .authorizeHttpRequests(auth -> auth
                 // Public auth endpoints
                 .requestMatchers("/api/v1/user/register", "/api/v1/user/register-device", "/api/v1/user/refresh").permitAll()
+                .requestMatchers("/api/v1/admin/login").permitAll()
                 .requestMatchers("/api/v1/public/**").permitAll()
                 // All other API endpoints require JWT
                 .requestMatchers("/api/v1/**").authenticated()
@@ -50,7 +51,7 @@ public class SecurityConfig {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowedOrigins(List.of("*"));
         configuration.setAllowedMethods(List.of("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"));
-        configuration.setAllowedHeaders(List.of("Authorization", "Content-Type", "ngrok-skip-browser-warning"));
+        configuration.setAllowedHeaders(List.of("Authorization", "Content-Type", "X-Api-Key", "ngrok-skip-browser-warning"));
         
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", configuration);
