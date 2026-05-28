@@ -343,4 +343,41 @@ public class AiController {
         if (text == null) return null;
         return text.replaceAll("\\*\\*", "").replaceAll("\\*", "");
     }
+
+    /**
+     * Generate grammar examples + quiz questions themed around user's interest.
+     * POST /api/v1/ai/grammar-examples
+     * Body: { "grammarTopic": "Simple Present", "userInterest": "Iron Man" }
+     */
+    @PostMapping("/grammar-examples")
+    public ResponseEntity<String> generateGrammarExamples(@RequestBody Map<String, String> request) {
+        String grammarTopic = request.get("grammarTopic");
+        String userInterest = request.get("userInterest");
+
+        if (grammarTopic == null || grammarTopic.isBlank()) {
+            return ResponseEntity.badRequest().body("{\"error\":\"grammarTopic is required\"}");
+        }
+        if (userInterest == null || userInterest.isBlank()) {
+            return ResponseEntity.badRequest().body("{\"error\":\"userInterest is required\"}");
+        }
+
+        long t0 = System.currentTimeMillis();
+        log.info("🧠 [GRAMMAR-AI] START  grammar='{}' interest='{}'", grammarTopic, userInterest);
+
+        String result = aiService.generateGrammarExamples(grammarTopic, userInterest);
+
+        long totalMs = System.currentTimeMillis() - t0;
+        log.info("✅ [GRAMMAR-AI] DONE  → {}ms", totalMs);
+
+        // Telegram report (async)
+        CompletableFuture.runAsync(() -> telegramService.sendMessage(
+            "<b>🧠 Grammar AI Examples</b>\n" +
+            "━━━━━━━━━━━━━━━━━━━━━━\n" +
+            "📚 Grammar: <b>" + grammarTopic + "</b>\n" +
+            "🎯 Interest: <b>" + userInterest + "</b>\n" +
+            "⏱ Time: <b>" + totalMs + "ms</b>"
+        ));
+
+        return ResponseEntity.ok(result);
+    }
 }
